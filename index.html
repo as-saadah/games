@@ -13,6 +13,11 @@
 .blur {
  opacity: 0.5;
 }
+.flex-scroll-x {
+  overflow-x: auto;
+  white-space: nowrap;
+  flex-wrap: nowrap;
+}
 </style>
   </head>
   <body>
@@ -30,7 +35,7 @@
 
 <div class="container text-center"> <!--container--> 
  
-<ul class="nav nav-pills nav-justified mb-3" id="pills-tab" role="tablist">
+<ul class="nav nav-pills nav-justified mb-3 flex-scroll-x" id="pills-tab" role="tablist">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Pragmatic Play</button>
   </li>
@@ -38,7 +43,13 @@
     <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Slot Mania Pragmatic</button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Megaways Pragmatic</button>
+    <button class="nav-link" id="pills-megaways-tab" data-bs-toggle="pill" data-bs-target="#pills-megaways" type="button" role="tab" aria-controls="pills-megaways" aria-selected="false">Megaways Pragmatic</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="pills-reel-tab" data-bs-toggle="pill" data-bs-target="#pills-reel" type="button" role="tab" aria-controls="pills-reel" aria-selected="false">Reel Kingdom Pragmatic</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="pills-wild-tab" data-bs-toggle="pill" data-bs-target="#pills-wild" type="button" role="tab" aria-controls="pills-wild" aria-selected="false">Wild Streak Gaming Pragmatic</button>
   </li>
 </ul>
 
@@ -115,13 +126,25 @@
      <p>Aztec Gems Deluxe</p>
     </div>
     <div class="col">
+     <a href="#!">
+     <img src="./assets/img/aztecgems.png" class="img-thumbnail border-0 blur">
+     </a>
+     <p>Aztec Gems</p>
+    </div>
+  </div> <!--/grid 5--> 
+
+  <div class="row align-items-start"> <!--grid 6--> 
+    <div class="col">
      <a href="games/drill-that-gold/">
      <img src="./assets/img/Drill_That_Gold.png" class="img-thumbnail border-0">
      </a>
      <p>Drill That Gold</p>
     </div>
-  </div> <!--/grid 5--> 
-
+    <div class="col">
+     
+    </div>
+  </div> <!--/grid 6--> 
+  
   </div>
 <!--/Tab Pragmatic Play Games--> 
 
@@ -177,7 +200,7 @@
 <!--/Tab Slot Mania Games--> 
 
 <!--Tab Megaways Games--> 
-  <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab" tabindex="0">
+  <div class="tab-pane fade" id="pills-megaways" role="tabpanel" aria-labelledby="pills-megaways-tab" tabindex="0">
 
   <div class="row align-items-start"> <!--grid 1--> 
     <div class="col">
@@ -194,6 +217,42 @@
 
   </div>
 <!--/Tab Megaways Games--> 
+
+<!--Tab Reel Kingdom Games--> 
+  <div class="tab-pane fade" id="pills-reel" role="tabpanel" aria-labelledby="pills-reel-tab" tabindex="0">
+
+  <div class="row align-items-start"> <!--grid 1--> 
+    <div class="col">
+     <a href="#!">
+     <img src="./assets/img/spirit-of-adventure.png" class="img-thumbnail border-0 blur">
+     </a>
+     <p>Spirit of Adventure</p>
+    </div>
+    <div class="col">
+     
+    </div>
+  </div> <!--/grid 1--> 
+
+  </div>
+<!--/Tab Reel Kingdom Games--> 
+
+<!--Tab Wild Streak Gaming--> 
+  <div class="tab-pane fade" id="pills-wild" role="tabpanel" aria-labelledby="pills-wild-tab" tabindex="0">
+
+  <div class="row align-items-start"> <!--grid 1--> 
+    <div class="col">
+     <a href="#!">
+     <img src="./assets/img/amazing-money-machine.png" class="img-thumbnail border-0 blur">
+     </a>
+     <p>Amazing Money Machine</p>
+    </div>
+    <div class="col">
+     
+    </div>
+  </div> <!--/grid 1--> 
+  
+  </div>
+<!--/Tab Wild Streak Gaming--> 
 
 </div> <!--/Tabs--> 
 
