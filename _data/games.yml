@@ -1,13 +1,13 @@
 game:
 - title: Gates of Olympus
   img: gates-of-olympus.png
-  id: vs20olympgate
+  symbol: vs20olympgate
   provider: Pragmatic Play
 - title: Starlight Princess
   img: starlight-princess.png
-  id: vs20starlight
+  symbol: vs20starlight
   provider: Pragmatic Play
 - title: Gates of Gatot Kaca
   img: Gates-of-Gatotkaca.png
-  id: vs20gatotgates
+  symbol: vs20gatotgates
   provider: Pragmatic Play
