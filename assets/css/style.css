@@ -1,0 +1,18 @@
+.container {
+ margin: 70px 0;
+}
+.container-lg {
+ margin: 65px 0;
+}
+.blur {
+ opacity: 0.5;
+}
+.flex-scroll-x {
+  overflow-x: auto;
+  white-space: nowrap;
+  flex-wrap: nowrap;
+}
+.col p {
+ font-size: 12.5px;
+ font-weight: 600;
+}
