@@ -4,3 +4,7 @@ baseurl:        "/games/"
 url:            "https://as-saadah.github.io/games/"
 markdown: kramdown
 permalink: pretty
+collections:
+  pages:
+    output: true
+    permalink: /:name
