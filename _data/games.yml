@@ -4,76 +4,67 @@ olympus-gates:
   img: gates-of-olympus.png
   url: /olympus-gates/
   provider: Pragmatic Play
-  
 starlight-princess:
   title: Starlight Princess
   symbol: vs20starlight
   img: starlight-princess.png
   url: /starlight-princess/
   provider: Pragmatic Play
-  
-starlight-christmas
+starlight-christmas:
   title: Starlight Christmas
   symbol: vs20schristmas
   img: Starlight-Christmas.png
   url: /starlight-christmas/
   provider: Pragmatic Play
-
-gatot-kaca
+gatot-kaca:
   title: Gates of Gatot Kaca
   symbol: vs20gatotgates
   img: Gates-of-Gatotkaca.png
   url: /gatot-kaca/
   provider: Pragmatic Play
-
-sweet-bonanza
+sweet-bonanza:
   title: Sweet Bonanza
   symbol: vs20fruitsw
   img: Sweet-Bonanza-3.png
   url: /sweet-bonanza/
   provider: Pragmatic Play
-
-bonanza-xmas
+bonanza-xmas:
   title: Bonanza XMAS
   symbol: vs20sbxmas
   img: Sweet-Bonanza-Xmas.png
   url: /bonanza-xmas/
   provider: Pragmatic Play
-wwg
+wwg:
   title: Wild West Gold
   symbol: vs40wildwest
   img: wild-west-gold.jpg
   url: /wild-west-gold/
   provider: Pragmatic Play
-
-diamond-strike
+diamond-strike:
   title: Diamond Strike
   symbol: vs15diamond
   img: Diamond-Strike.png
   url: /diamond-strike/
   provider: Pragmatic Play
-aztec-gems
+aztec-gems:
   title: Aztec Gems
   symbol: vs5aztecgems
   img: aztecgems.png
   url: /aztec-gems/
   provider: Pragmatic Play
-
-aztec-gems-deluxe
+aztec-gems-deluxe:
   title: Aztec Gema Deluxe
   symbol: vs9aztecgemsdx
   img: Aztec-Gems-Deluxe.png
   url: /aztec-gems-deluxe/
   provider: Pragmatic Play
-
-drill-that-gold
+drill-that-gold:
   title: Drill That Gold
   symbol: vs20drtgold
   img: Drill_That_Gold.png
   url: /drill-that-gold/
   provider: Pragmatic Play
-
-bonanza-gold
+bonanza-gold:
   title: Bonanza Gold
   symbol: vs20bonzgold
   img: bonanza-gold.png
