@@ -1,0 +1,6 @@
+title:          Game Slot Demo Pragmatic Play
+description:    "Mainkan games slot demo secara gratis tanpa deposit."
+baseurl:        "/games/"
+url:            "https://as-saadah.github.io/games/"
+markdown: kramdown
+permalink: pretty
