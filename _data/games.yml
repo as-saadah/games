@@ -70,3 +70,9 @@ bonanza-gold:
   img: bonanza-gold.png
   url: /bonanza-gold/
   provider: Pragmatic Play 
+pyramid-bonanza:
+  title: Pyramid Bonanza
+  symbol: vs20pbonanza
+  img: pyramidbonanza.jpeg
+  url: /pyramid-bonanza/
+  provider: Pragmatic Play 
