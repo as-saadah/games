@@ -82,3 +82,51 @@ gems-bonanza:
   img: Slot-Demo-Gems-Bonanza.png
   url: /gems-bonanza/
   provider: Pragmatic Play 
+tweety-house:
+  title: The Tweety House
+  symbol: vs20tweethouse
+  img: tweetyhouse.png
+  url: /tweety-house/
+  provider: Pragmatic Play
+midas-hand:
+  title: The Hand of Midas
+  symbol: vs20midas
+  img: Slot-Demo-The-Hand-Of-Midas-640x360.png
+  url: /the-hand-of-midas/
+  provider: Pragmatic Play
+lucky-lightning:
+  title: Lucky Lightning
+  symbol: vswayslight
+  img: lucky.pnglucky.png
+  url: /lucky-lightning/
+  provider: Pragmatic Play
+pirate-golden-age:
+  title: Pirate Golden Age
+  symbol: vs20mtreasure
+  img: pirate-golden-age.jpeg
+  url: /pirate-golden-age/
+  provider: Pragmatic Play
+clover-gold:
+  title: Clover Gold
+  symbol: vs20mustanggld2
+  img: clovergold.jpeg
+  url: /clover-gold/
+  provider: Pragmatic Play
+sugar-rush:
+  title: Sugar Rush
+  symbol: vs20sugarrush
+  img: sugarrush.jpeg
+  url: /sugar-rush/
+  provider: Pragmatic Play
+spirit-adventure:
+  title: Spirit of Adventure
+  symbol: vs10spiritadv
+  img: spirit-of-adventure.png
+  url: /spirit-adventure/
+  provider: Pragmatic Play
+amazing-money-machine:
+  title: The Amazing Money Machine
+  symbol: vs10amm
+  img: amazing-money-machine.png
+  url: /amazing-money-machine/
+  provider: Pragmatic Play
