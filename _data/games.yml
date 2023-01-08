@@ -196,3 +196,39 @@ greek-gods:
   img: greek-gods.jpeg
   url: /greek-gods/
   provider: Pragmatic Play
+slotmania-olympus:
+  title: Slot Mania Olympus
+  symbol: vs20olympmania
+  img: slotmania-olympus.png
+  url: /slotmania-olympus/
+  provider: Slot Mania Pragmatic
+slotmania-princess:
+  title: Slot Mania Princess
+  symbol: vs20smprincess
+  img: slotmania-princess.png
+  url: /slotmania-princess/
+  provider: Slot Mania Pragmatic
+slotmania-wwg:
+  title: Wild West Slot Mania
+  symbol: vs40smwildwest
+  img: slotmania-wwg.png
+  url: /slotmania-wwg/
+  provider: Slot Mania Pragmatic
+slotmania-sweet:
+  title: Sweet Slot Mania
+  symbol: vs20fruitmania
+  img: slotmania-sweet.png
+  url: /slotmania-sweet/
+  provider: Slot Mania Pragmatic
+slotmania-bonanza-gold:
+  title: Slot Mania Bonanza Gold
+  symbol: vs20goldmania
+  img: slotmania-bonanzagold.png
+  url: /slotmania-bonanza-gold/
+  provider: Slot Mania Pragmatic
+slotmania-sugar:
+  title: Sugar Slot Mania
+  symbol: vs20slotsugar
+  img: slotmania-sugar.png
+  url: /slotmania-sugar/
+  provider: Slot Mania Pragmatic
