@@ -7,4 +7,4 @@ permalink: pretty
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:title/
