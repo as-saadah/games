@@ -154,6 +154,18 @@ sparta-shield:
   img: shield-of-sparta.jpeg
   url: sparta-shield
   provider: Pragmatic Play
+thor-power:
+  title: Power of Thor
+  symbol: vswayshammthor
+  img: megaways-thor.jpeg
+  url: thor-power
+  provider: Megaways
+astard-kingdom:
+  title: Kingdom of Astard
+  symbol: vs20asgard
+  img: kingdomofastard.jpeg
+  url: astard-kingdom
+  provider: Pragmatic Play
 rise-samurai:
   title: Rise Samurai 3
   symbol: vs40samurai3
