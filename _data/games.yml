@@ -250,3 +250,9 @@ aztec-gates:
   img: aztecgates.png
   url: aztec-gates
   provider: Slot Mania Pragmatic
+wild-man:
+  title: Wild Man Super Bonanza
+  symbol: vs20wildman
+  img: wildman-super-bonanza.png
+  url: wildman-super-bonanza
+  provider: Slot Mania Pragmatic
