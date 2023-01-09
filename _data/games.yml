@@ -268,3 +268,9 @@ rainbow-gold:
   img: rainbow-gold.png
   url: rainbow-gold
   provider: Pragmatic Play
+valhalla-gates:
+  title: Gates of Valhalla
+  symbol: vs10runes
+  img: valhalla-gates.png
+  url: valhalla-gates
+  provider: Pragmatic Play
