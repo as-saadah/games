@@ -73,7 +73,7 @@ bonanza-gold:
 pyramid-bonanza:
   title: Pyramid Bonanza
   symbol: vs20pbonanza
-  img: pyramidbonanza.jpeg
+  img: pyramid-bonanza.png
   url: pyramid-bonanza
   provider: Pragmatic Play 
 gems-bonanza:
@@ -183,6 +183,12 @@ fruit-party:
   symbol: vs20fruitparty
   img: fruitparty.png
   url: fruit-party
+  provider: Pragmatic Play
+fruit-party-2:
+  title: Fruit Party 2
+  symbol: vs20fparty2
+  img: fruit-party2.png
+  url: fruit-party-2
   provider: Pragmatic Play
 jokers-jewel:
   title: Joker's Jewel
