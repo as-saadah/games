@@ -256,3 +256,15 @@ wild-man:
   img: wildman-super-bonanza.png
   url: wildman-super-bonanza
   provider: Pragmatic Play
+gold-party:
+  title: Gold Party
+  symbol: vs25goldparty
+  img: gold-party.png
+  url: gold-party
+  provider: Pragmatic Play
+rainbow-gold:
+  title: Rainbow Gold
+  symbol: vs20rainbowg
+  img: rainbow-gold.png
+  url: rainbow-gold
+  provider: Pragmatic Play
