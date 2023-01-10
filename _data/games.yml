@@ -286,3 +286,9 @@ spartan-king:
   img: spartan-king.jpeg
   url: spartan-king
   provider: Pragmatic Play
+chicken-drop:
+  title: Chicken Drop
+  symbol: vs20chickdrop
+  img: chicken-drop.png
+  url: chicken-drop
+  provider: Pragmatic Play
