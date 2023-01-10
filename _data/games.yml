@@ -292,3 +292,15 @@ chicken-drop:
   img: chicken-drop.png
   url: chicken-drop
   provider: Pragmatic Play
+fire-strike:
+  title: Fire Strike
+  symbol: vs10firestrike
+  img: fire-strike.jpeg
+  url: fire-strike
+  provider: Pragmatic Play
+fire-strike-2:
+  title: Fire Strike 2
+  symbol: vs10firestrike2
+  img: fire-strike-2.jpeg
+  url: fire-strike2
+  provider: Pragmatic Play
