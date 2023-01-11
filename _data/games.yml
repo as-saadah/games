@@ -316,3 +316,15 @@ cash-bonanza:
   img: cash-bonanza.png
   url: cash-bonanza
   provider: Pragmatic Play
+cowboys-gold: 
+  title: Cowboys Gold
+  symbol: vs10cowgold
+  img: cowboys-gold.jpeg
+  url: cowboys-gold
+  provider: Pragmatic Play
+dragon-kingdom: 
+  title: Dragon Kingdom
+  symbol: vs25dragonkingdom
+  img: dragon-kingdom.png
+  url: dragon-kingdom
+  provider: Pragmatic Play
