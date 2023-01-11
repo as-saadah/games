@@ -304,3 +304,15 @@ fire-strike-2:
   img: fire-strike-2.jpeg
   url: fire-strike2
   provider: Pragmatic Play
+bomb-bonanza: 
+  title: Bomb Bonanza
+  symbol: vs25bomb
+  img: bomb-bonanza.jpeg
+  url: bomb-bonanza
+  provider: Pragmatic Play
+cash-bonanza: 
+  title: Cash Bonanza
+  symbol: vswaysbankbonz
+  img: cash-bonanza.png
+  url: cash-bonanza
+  provider: Pragmatic Play
