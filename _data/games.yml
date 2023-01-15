@@ -376,15 +376,15 @@ dragon-hero:
   img: dragon-hero.jpeg
   url: dragon-hero
   provider: Pragmatic Play
-rabbit-megaways: 
+megaways-rabbits: 
   title: 5 Rabbits Megaways
   symbol: vswaysrabbits
   img: megaways-rabbit.jpeg
   url: megaways-5-rabbits
-  provider: Pragmatic Play
-lions-megaways: 
+  provider: Megaways
+megaways-lions: 
   title: 5 Lions Megaways
   symbol: vswayslions
   img: megaways-5-lions.jpeg
   url: megaways-5-lions
-  provider: Pragmatic Play
+  provider: Megaways
