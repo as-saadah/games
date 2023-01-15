@@ -328,11 +328,11 @@ dragon-kingdom:
   img: dragon-kingdom.png
   url: dragon-kingdom
   provider: Pragmatic Play
-santas-gift: 
+santas-gifts: 
   title: Santa's Great Gifts
   symbol: vs20porbs
   img: santas-great-gifts.jpeg
-  url: santas-gift
+  url: santas-gifts
   provider: Pragmatic Play
 phoenix-forge: 
   title: Phoenix Forge
