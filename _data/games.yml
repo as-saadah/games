@@ -379,12 +379,12 @@ dragon-hero:
 megaways-rabbits: 
   title: 5 Rabbits Megaways
   symbol: vswaysrabbits
-  img: megaways-rabbit.jpeg
+  img: megaways-rabbits.jpeg
   url: megaways-5-rabbits
   provider: Megaways
 megaways-lions: 
   title: 5 Lions Megaways
   symbol: vswayslions
-  img: megaways-5-lions.jpeg
+  img: megaways-lions.jpeg
   url: megaways-5-lions
   provider: Megaways
