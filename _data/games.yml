@@ -352,3 +352,15 @@ fishin-reels:
   img: fishin-reels.png
   url: fishin-reels
   provider: Pragmatic Play
+joker-king: 
+  title: Joker King
+  symbol: vs25jokerking
+  img: joker-king.jpeg
+  url: joker-king
+  provider: Pragmatic Play
+juicy-fruits: 
+  title: Juicy Fruits
+  symbol: vs50juicyfr
+  img: juicy-fruits.png
+  url: juicy-fruits
+  provider: Pragmatic Play
