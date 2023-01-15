@@ -1,1 +1,0 @@
-Webp images.
