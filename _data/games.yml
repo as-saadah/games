@@ -364,3 +364,15 @@ juicy-fruits:
   img: juicy-fruits.png
   url: juicy-fruits
   provider: Pragmatic Play
+dragon-tiger: 
+  title: Dragon Tiger
+  symbol: vs1024dtiger
+  img: dragon-tiger.jpeg
+  url: dragon-tiger
+  provider: Pragmatic Play
+dragon-hero: 
+  title: Dragon Hero
+  symbol: vs20drgbless
+  img: dragon-hero.jpeg
+  url: dragon-hero
+  provider: Pragmatic Play
