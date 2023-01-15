@@ -388,3 +388,15 @@ megaways-lions:
   img: megaways-lions.jpeg
   url: megaways-5-lions
   provider: Megaways
+eye-storm: 
+  title: Eye Storm
+  symbol: vs10eyestorm
+  img: eye-storm.webp
+  url: eye-storm
+  provider: Pragmatic play
+cleopatra-eye: 
+  title: Eye of Cleopatra
+  symbol: vs40cleoeye
+  img: eye-cleopatra.webp
+  url: cleopatra-eye
+  provider: Pragmatic play
