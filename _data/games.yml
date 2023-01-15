@@ -340,3 +340,15 @@ phoenix-forge:
   img: phoenix-forge.jpeg
   url: phoenix-forge
   provider: Pragmatic Play
+bounty-gold: 
+  title: Bounty Gold
+  symbol: vs10goldfish
+  img: bounty-gold.png
+  url: bounty-gold
+  provider: Pragmatic Play
+fishin-reels: 
+  title: Fishin Reels
+  symbol: vs25btygold
+  img: fishin-reels.png
+  url: fishin-reels
+  provider: Pragmatic Play
