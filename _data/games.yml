@@ -400,3 +400,15 @@ megaways-lions:
   img: megaways-lions.webp
   url: megaways-5-lions
   provider: Megaways
+megaways-extra-juicy: 
+  title: Extra Juicy Megaways
+  symbol: vswaysxjuicy
+  img: megaways-extra-juicy.webp
+  url: megaways-extra-juicy
+  provider: Megaways
+extra-juicy: 
+  title: Extra Juicy
+  symbol: vs10fruity2
+  img: extra-juicy.webp
+  url: extra-juicy
+  provider: Pragmatic Play
