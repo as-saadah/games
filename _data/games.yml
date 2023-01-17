@@ -412,3 +412,45 @@ extra-juicy:
   img: extra-juicy.webp
   url: extra-juicy
   provider: Pragmatic Play
+lucky-dragons: 
+  title: Lucky Dragons
+  symbol: vs50chinesecharms
+  img: lucky-dragons.webp
+  url: lucky-dragons
+  provider: Pragmatic Play
+8-dragons: 
+  title: 8 Dragons
+  symbol: vs20eightdragons
+  img: 8-dragons.webp
+  url: 8-dragons
+  provider: Pragmatic Play
+888-dragons: 
+  title: 888 Dragons
+  symbol: vs1dragon8
+  img: 888-dragons.webp
+  url: 888-dragons
+  provider: Pragmatic Play
+mighty-kong: 
+  title: Mighty Kong
+  symbol: vs50kingkong
+  img: mighty-kong.webp
+  url: mighty-kong
+  provider: Pragmatic Play
+gorilla-mayhem: 
+  title: Gorilla Mayhem
+  symbol: vs1024gmayhem
+  img: gorilla-mayhem.webp
+  url: gorilla-mayhem
+  provider: Pragmatic Play
+rock-vegas: 
+  title: Rock Vegas
+  symbol: vs20rockvegas
+  img: rock-vegas.webp
+  url: rock-vegas
+  provider: Pragmatic Play
+megaways-heroes-legend: 
+  title: Legend of Heroes Megaways
+  symbol: vswayslofhero
+  img: megaways-legend-of-heroes.webp
+  url: megaways-heroes-legend
+  provider: Pragmatic Play
