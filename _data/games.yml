@@ -448,6 +448,18 @@ rock-vegas:
   img: rock-vegas.webp
   url: rock-vegas
   provider: Pragmatic Play
+aztec-bonanza:
+  title: Aztec Bonanza
+  symbol: vs7776aztec
+  img: aztec-bonanza.webp
+  url: aztec-bonanza
+  provider: Pragmatic Play
+wild-hop-drop:
+  title: Wild Hop & Drop
+  symbol: vs20mparty
+  img: wild-hop-drop.webp
+  url: wild-hop-drop
+  provider: Pragmatic Play
 megaways-heroes-legend: 
   title: Legend of Heroes Megaways
   symbol: vswayslofhero
