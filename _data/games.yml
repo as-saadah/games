@@ -532,3 +532,15 @@ tropical-tiki:
   img: tropical-tiki.webp
   url: tropical-tiki
   provider: Pragmatic Play
+7monkeys:
+  title: 7 Monkeys
+  symbol: vs7monkeys
+  img: 7monkeys.webp
+  url: 7monkeys
+  provider: Pragmatic Play
+7piggies:
+  title: 7 Piggies
+  symbol: vs7pigs
+  img: 7piggies.webp
+  url: 7piggies
+  provider: Pragmatic Play
