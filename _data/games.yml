@@ -465,7 +465,7 @@ megaways-heroes-legend:
   symbol: vswayslofhero
   img: megaways-legend-of-heroes.webp
   url: megaways-heroes-legend
-  provider: Pragmatic Play
+  provider: Megaways
 lady-godiva:
   title: Lady Godiva
   symbol: vs20godiva
@@ -501,4 +501,34 @@ egyptian-fortunes:
   symbol: vs20egypttrs
   img: egyptian-fortunes.webp
   url: egyptian-fortunes
+  provider: Pragmatic Play
+spaceman:
+  title: Spaceman
+  symbol: 1302
+  img: spaceman.webp
+  url: spaceman
+  provider: Pragmatic Play
+5lions:
+  title: 5 Lions
+  symbol: vs243lions
+  img: 5lions.webp
+  url: 5lions
+  provider: Pragmatic Play
+5lions-gold:
+  title: 5 Lions Gold
+  symbol: vs243lionsgold
+  img: 5lions-gold.webp
+  url: 5lions-gold
+  provider: Pragmatic Play
+5lions-dance:
+  title: 5 Lions Dance
+  symbol: vs1024lionsd
+  img: 5lions-dance.webp
+  url: 5lions-dance
+  provider: Pragmatic Play
+tropical-tiki:
+  title: Tropical Tiki
+  symbol: vswaysjkrdrop
+  img: tropical-tiki.webp
+  url: tropical-tiki
   provider: Pragmatic Play
