@@ -238,3 +238,87 @@ sugar-rush:
   img: sugar-rush.webp
   url: sugar-rush
   provider: Pragmatic Play
+wwg-megaways:
+  title: Wild West Gold Megaways
+  symbol: vswayswildwest
+  img: megaways-wwg.webp
+  url: wild-west-gold-megaways
+  provider: Megaways
+aztec-king-megaways:
+  title: Aztec King
+  symbol: vswaysaztecking
+  img: aztec-king-megaways.webp
+  url: aztec-king-megaways
+  provider: Megaways
+ares-sword:
+  title: Sword of Ares
+  symbol: vs20swordofares
+  img: sword-of-ares.webp
+  url: ares-sword
+  provider: Pragmatic Play
+sparta-shield:
+  title: Shield of Sparta
+  symbol: vs20sparta
+  img: shield-of-sparta.webp
+  url: sparta-shield
+  provider: Pragmatic Play
+thor-power:
+  title: Power of Thor
+  symbol: vswayshammthor
+  img: megaways-thor.webp
+  url: thor-power
+  provider: Megaways
+astard-kingdom:
+  title: Kingdom of Astard
+  symbol: vs20asgard
+  img: kingdom-of-astard.webp
+  url: astard-kingdom
+  provider: Pragmatic Play
+rise-samurai:
+  title: Rise Samurai 3
+  symbol: vs40samurai3
+  img: risesamurai3.webp
+  url: rise-samurai
+  provider: Pragmatic Play
+aztec-blaze:
+  title: Aztec Blaze
+  symbol: vs25kfruit
+  img: aztec-blaze.webp
+  url: aztec-blaze
+  provider: Pragmatic Play
+north-guardians:
+  title: North Guardians
+  symbol: vs50northgard
+  img: north-guardians.webp
+  url: north-guardians
+  provider: Pragmatic Play
+greek-gods:
+  title: Greek Gods
+  symbol: vs243fortseren
+  img: greek-gods.webp
+  url: greek-gods
+  provider: Pragmatic Play
+valhalla-gates:
+  title: Gates of Valhalla
+  symbol: vs10runes
+  img: valhalla-gates.webp
+  url: valhalla-gates
+  provider: Pragmatic Play
+spartan-king:
+  title: Spartan King
+  symbol: vs40spartaking
+  img: spartan-king.webp
+  url: spartan-king
+  provider: Pragmatic Play
+fire-strike:
+  title: Fire Strike
+  symbol: vs10firestrike
+  img: fire-strike.webp
+  url: fire-strike
+  provider: Pragmatic Play
+fire-strike-2:
+  title: Fire Strike 2
+  symbol: vs10firestrike2
+  img: fire-strike-2.webp
+  url: fire-strike2
+  provider: Pragmatic Play
