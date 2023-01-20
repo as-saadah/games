@@ -322,3 +322,136 @@ fire-strike-2:
   img: fire-strike-2.webp
   url: fire-strike2
   provider: Pragmatic Play
+bomb-bonanza: 
+  title: Bomb Bonanza
+  symbol: vs25bomb
+  img: bomb-bonanza.webp
+  url: bomb-bonanza
+  provider: Pragmatic Play
+cowboys-gold: 
+  title: Cowboys Gold
+  symbol: vs10cowgold
+  img: cowboys-gold.webp
+  url: cowboys-gold
+  provider: Pragmatic Play
+dragon-kingdom: 
+  title: Dragon Kingdom
+  symbol: vs25dragonkingdom
+  img: dragon-kingdom.webp
+  url: dragon-kingdom
+  provider: Pragmatic Play
+santas-gifts: 
+  title: Santa's Great Gifts
+  symbol: vs20porbs
+  img: santas-great-gifts.webp
+  url: santas-gifts
+  provider: Pragmatic Play
+phoenix-forge: 
+  title: Phoenix Forge
+  symbol: vs20phoenixf
+  img: phoenix-forge.webp
+  url: phoenix-forge
+  provider: Pragmatic Play
+joker-king: 
+  title: Joker King
+  symbol: vs25jokerking
+  img: joker-king.webp
+  url: joker-king
+  provider: Pragmatic Play
+juicy-fruits: 
+  title: Juicy Fruits
+  symbol: vs50juicyfr
+  img: juicy-fruits.webp
+  url: juicy-fruits
+  provider: Pragmatic Play
+dragon-tiger: 
+  title: Dragon Tiger
+  symbol: vs1024dtiger
+  img: dragon-tiger.webp
+  url: dragon-tiger
+  provider: Pragmatic Play
+dragon-hero: 
+  title: Dragon Hero
+  symbol: vs20drgbless
+  img: dragon-hero.webp
+  url: dragon-hero
+  provider: Pragmatic Play
+megaways-rabbits: 
+  title: 5 Rabbits Megaways
+  symbol: vswaysrabbits
+  img: megaways-rabbits.webp
+  url: megaways-5-rabbits
+  provider: Megaways
+megaways-lions: 
+  title: 5 Lions Megaways
+  symbol: vswayslions
+  img: megaways-lions.webp
+  url: megaways-5-lions
+  provider: Megaways
+megaways-extra-juicy: 
+  title: Extra Juicy Megaways
+  symbol: vswaysxjuicy
+  img: megaways-extra-juicy.webp
+  url: megaways-extra-juicy
+  provider: Megaways
+extra-juicy: 
+  title: Extra Juicy
+  symbol: vs10fruity2
+  img: extra-juicy.webp
+  url: extra-juicy
+  provider: Pragmatic Play
+lucky-dragons: 
+  title: Lucky Dragons
+  symbol: vs50chinesecharms
+  img: lucky-dragons.webp
+  url: lucky-dragons
+  provider: Pragmatic Play
+8-dragons: 
+  title: 8 Dragons
+  symbol: vs20eightdragons
+  img: 8-dragons.webp
+  url: 8-dragons
+  provider: Pragmatic Play
+888-dragons: 
+  title: 888 Dragons
+  symbol: vs1dragon8
+  img: 888dragons.webp
+  url: 888-dragons
+  provider: Pragmatic Play
+mighty-kong: 
+  title: Mighty Kong
+  symbol: vs50kingkong
+  img: mighty-kong.webp
+  url: mighty-kong
+  provider: Pragmatic Play
+gorilla-mayhem: 
+  title: Gorilla Mayhem
+  provider: Pragmatic Play 
+  symbol: vs1024gmayhem
+  img: gorilla-mayhem.webp
+  url: gorilla-mayhem
+  provider: Pragmatic Play
+rock-vegas: 
+  title: Rock Vegas
+  symbol: vs20rockvegas
+  img: rock-vegas.webp
+  url: rock-vegas
+  provider: Pragmatic Play
+aztec-bonanza:
+  title: Aztec Bonanza
+  symbol: vs7776aztec
+  img: aztec-bonanza.webp
+  url: aztec-bonanza
+  provider: Pragmatic Play
+wild-hop-drop:
+  title: Wild Hop & Drop
+  symbol: vs20mparty
+  img: wild-hop-drop.webp
+  url: wild-hop-drop
+  provider: Pragmatic Play
+megaways-heroes-legend: 
+  title: Legend of Heroes Megaways
+  symbol: vswayslofhero
+  img: megaways-legend-of-heroes.webp
+  url: megaways-heroes-legend
+  provider: Megaways
