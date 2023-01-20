@@ -18,4 +18,18 @@ permalink: /test/
 {% endfor %}
 
   </div> <!--/grid 1--> 
+
+<hr/>
+
+  <div class="row row-cols-2">
+{% for slot in site.data.slot %}
+    <div class="col">
+    <a href="../{{ slot.url }}">
+     <img src="../assets/images/{{ slot.img }}" alt="{{site.data.games.olympus-gates.title}}" class="img-thumbnail border-0">
+    </a>
+     <p>{{ slot.title }}</p>
+    </div>
+{% endfor %}
+  </div>
+
 </div>
