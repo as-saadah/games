@@ -20,12 +20,12 @@
 <!--Tab Slot Mania Games--> 
   <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
   <div class="row row-cols-2">
-{% for slotmania in site.data.slotmania %}
+{% for game in site.data.slotmania %}
     <div class="col">
-    <a href="./{{ slotmania.url }}">
-     <img src="./assets/images/{{ slotmania.img }}" alt="{{ slotmania.title }}" class="img-fluid border-0">
+    <a href="./{{ game.url }}">
+     <img src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
     </a>
-     <p>{{ slotmania.title }}</p>
+     <p>{{ game.title }}</p>
     </div>
 {% endfor %}
   </div>
