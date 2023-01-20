@@ -4,12 +4,18 @@ title: Test Page
 permalink: /test/
 ---
 
-<ul>
+<!--Tab Pragmatic Play Games--> 
+ <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
+ <div class="row align-items-start"> <!--grid 1--> 
+
 {% for slot in site.data.slot %}
-  <li>
-    <a href="./{{ slot.url }}">
-      {{ slot.title }}
+    <div class="col">
+    <a href="../{{ slot.url }}">
+     <img src="../assets/images/{{ slot.img }}" alt="{{site.data.games.olympus-gates.title}}" class="img-thumbnail border-0">
     </a>
-  </li>
+     <p>{{ slot.title }}</p>
+    </div>
 {% endfor %}
-</ul>
+
+  </div> <!--/grid 1--> 
+</div>
