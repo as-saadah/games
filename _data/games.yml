@@ -604,3 +604,15 @@ floating-dragon-megaways:
   img: floating-dragon.webp
   url: floating-dragon-megaways
   provider: Megaways
+santas-wonderland:
+  title: Santa's Wonderland
+  symbol: vs20santawonder
+  img: santas-wonderland.webp
+  url: santas-wonderland
+  provider: Pragmatic Play
+santa:
+  title: Santa
+  symbol: vs20santa
+  img: santa.webp
+  url: santa
+  provider: Pragmatic Play 
