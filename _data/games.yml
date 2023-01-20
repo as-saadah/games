@@ -571,13 +571,13 @@ dog-house-megaways:
 release-kraken:
   title: Release The Kraken
   symbol: vs20kraken
-  img: release-kraken.webp
+  img: release-the-kraken.webp
   url: release-kraken
   provider: Pragmatic Play
 release-kraken2:
   title: Release The Kraken 2
   symbol: vs20kraken2
-  img: release-kraken2.webp
+  img: release-the-kraken2.webp
   url: release-kraken2
   provider: Pragmatic Play
 wild-machine:
