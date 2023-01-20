@@ -583,6 +583,6 @@ release-kraken2:
 wild-machine:
   title: The Wild Machine
   symbol: vs40madwheel
-  img: wild-machine.webp
+  img: the-wild-machine.webp
   url: wild-machine
   provider: Pragmatic Play
