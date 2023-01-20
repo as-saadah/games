@@ -468,3 +468,18 @@
   img: santa.webp
   url: santa
   provider: Pragmatic Play 
+- title: Wild Wild Riches
+  symbol: vs576treasures
+  img: wild-wild-riches.webp
+  url: wild-wild-riches
+  provider: Pragmatic Play 
+- title: Coffee Wild
+  symbol: vs10coffee
+  img: coffee-wild.webp
+  url: coffee-wild
+  provider: Pragmatic Play 
+- title: October Fortune
+  symbol: vs20octobeer
+  img: octobeer-fortunes.webp
+  url: octobeer-fortunes
+  provider: Pragmatic Play 
