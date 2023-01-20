@@ -592,3 +592,15 @@ sweet-power-nudge:
   img: sweet-power-nudge.webp
   url: sweet-power-nudge
   provider: Pragmatic Play
+hot-pepper:
+  title: Hot Pepper
+  symbol: vs20dugems
+  img: hot-pepper.webp
+  url: hot-pepper
+  provider: Pragmatic Play
+floating-dragon-megaways:
+  title: Floating Dragon Megaways
+  symbol: vswaysfltdrg
+  img: floating-dragon.webp
+  url: floating-dragon-megaways
+  provider: Megaways
