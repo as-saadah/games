@@ -112,3 +112,129 @@ amazing-money-machine:
   img: amazing-money-machine.webp
   url: amazing-money-machine
   provider: Wild Streak Gaming
+fruit-party:
+  title: Fruit Party
+  symbol: vs20fruitparty
+  img: fruit-party.webp
+  url: fruit-party
+  provider: Pragmatic Play
+fruit-party-2:
+  title: Fruit Party 2
+  symbol: vs20fparty2
+  img: fruit-party2.webp
+  url: fruit-party-2
+  provider: Pragmatic Play
+jokers-jewel:
+  title: Joker's Jewel
+  symbol: vs5joker
+  img: jokers-jewels.webp
+  url: jokers-jewel
+  provider: Pragmatic Play
+candy-village:
+  title: Candy Village
+  symbol: vs20candvil
+  img: candy-village.webp
+  url: candy-village
+  provider: Pragmatic Play
+slotmania-olympus:
+  title: Slot Mania Olympus
+  symbol: vs20olympmania
+  img: slotmania-olympus.webp
+  url: slotmania-olympus
+  provider: Slot Mania Pragmatic
+slotmania-princess:
+  title: Slot Mania Princess
+  symbol: vs20smprincess
+  img: slotmania-princess.webp
+  url: slotmania-princess
+  provider: Slot Mania Pragmatic
+slotmania-wwg:
+  title: Wild West Slot Mania
+  symbol: vs40smwildwest
+  img: slotmania-wwg.webp
+  url: slotmania-wwg
+  provider: Slot Mania Pragmatic
+slotmania-sweet:
+  title: Sweet Slot Mania
+  symbol: vs20fruitmania
+  img: slotmania-sweet.webp
+  url: slotmania-sweet
+  provider: Slot Mania Pragmatic
+slotmania-bonanza-gold:
+  title: Slot Mania Bonanza Gold
+  symbol: vs20goldmania
+  img: slotmania-bonanzagold.webp
+  url: slotmania-bonanza-gold
+  provider: Slot Mania Pragmatic
+slotmania-sugar:
+  title: Sugar Slot Mania
+  symbol: vs20slotsugar
+  img: slotmania-sugar.webp
+  url: slotmania-sugar
+  provider: Slot Mania Pragmatic
+aztec-gates:
+  title: Gates of Aztec
+  symbol: vs20aztecgates
+  img: aztec-gates.webp
+  url: aztec-gates
+  provider: Pragmatic Play
+chicken-drop:
+  title: Chicken Drop
+  symbol: vs20chickdrop
+  img: chicken-drop.webp
+  url: chicken-drop
+  provider: Pragmatic Play
+gold-party:
+  title: Gold Party
+  symbol: vs25goldparty
+  img: gold-party.webp
+  url: gold-party
+  provider: Pragmatic Play
+rainbow-gold:
+  title: Rainbow Gold
+  symbol: vs20rainbowg
+  img: rainbow-gold.webp
+  url: rainbow-gold
+  provider: Pragmatic Play
+cash-bonanza: 
+  title: Cash Bonanza
+  symbol: vswaysbankbonz
+  img: cash-bonanza.webp
+  url: cash-bonanza
+  provider: Pragmatic Play
+bounty-gold: 
+  title: Bounty Gold
+  symbol: vs10goldfish
+  img: bounty-gold.webp
+  url: bounty-gold
+  provider: Pragmatic Play
+fishin-reels: 
+  title: Fishin Reels
+  symbol: vs25btygold
+  img: fishin-reels.webp
+  url: fishin-reels
+  provider: Pragmatic Play
+wild-man:
+  title: WildMan Super Bonanza
+  symbol: vs20wildman
+  img: wildman-super-bonanza.webp
+  url: wildman-super-bonanza
+  provider: Pragmatic Play
+wwg:
+  title: Wild West Gold
+  symbol: vs40wildwest
+  img: wild-west-gold.webp
+  url: wild-west-gold
+  provider: Pragmatic Play
+pirate-golden-age:
+  title: Pirate Golden Age
+  symbol: vs20mtreasure
+  img: pirate-golden-age.webp
+  url: pirate-golden-age
+  provider: Pragmatic Play
+sugar-rush:
+  title: Sugar Rush
+  symbol: vs20sugarrush
+  img: sugar-rush.webp
+  url: sugar-rush
+  provider: Pragmatic Play
