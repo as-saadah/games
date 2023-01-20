@@ -544,3 +544,15 @@ tropical-tiki:
   img: 7piggies.webp
   url: 7piggies
   provider: Pragmatic Play
+emerald-king:
+  title: Emerald King
+  symbol: vs20eking
+  img: emerald-king.webp
+  url: emerald-king
+  provider: Pragmatic Play
+emerald-king-rainbow-road:
+  title: Emerald King Rainbow Road
+  symbol: vs20ekingrr
+  img: emerald-king-rainbow-road.webp
+  url: emerald-king-rainbow-road
+  provider: Pragmatic Play
