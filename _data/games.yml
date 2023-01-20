@@ -455,3 +455,153 @@ megaways-heroes-legend:
   img: megaways-legend-of-heroes.webp
   url: megaways-heroes-legend
   provider: Megaways
+lady-godiva:
+  title: Lady Godiva
+  symbol: vs20godiva
+  img: lady-godiva.webp
+  url: lady-godiva
+  provider: Pragmatic Play
+pixie-wings:
+  title: Pixie Wings
+  symbol: vs50pixie
+  img: pixie-wings.webp
+  url: pixie-wings
+  provider: Pragmatic Play
+queen-of-gold:
+  title: Queen of Gold
+  symbol: vs25queenofgold
+  img: queen-of-gold.webp
+  url: queen-of-gold
+  provider: Pragmatic Play
+ancient-egypt:
+  title: Ancient Egypt
+  symbol: vs10egypt
+  img: ancient-egypt.webp
+  url: ancient-egypt
+  provider: Pragmatic Play
+ancient-egypt-classic:
+  title: Ancient Egypt Classic
+  symbol: vs10egyptcls
+  img: ancient-egypt-classic.webp
+  url: ancient-egypt-classic
+  provider: Pragmatic Play
+egyptian-fortunes:
+  title: Egyptian Fortunes
+  symbol: vs20egypttrs
+  img: egyptian-fortunes.webp
+  url: egyptian-fortunes
+  provider: Pragmatic Play
+spaceman:
+  title: Spaceman
+  symbol: 1302
+  img: spaceman.webp
+  url: spaceman
+  provider: Pragmatic Play
+5lions:
+  title: 5 Lions
+  symbol: vs243lions
+  img: 5lions.webp
+  url: 5lions
+  provider: Pragmatic Play
+5lions-gold:
+  title: 5 Lions Gold
+  symbol: vs243lionsgold
+  img: 5lions-gold.webp
+  url: 5lions-gold
+  provider: Pragmatic Play
+5lions-dance:
+  title: 5 Lions Dance
+  symbol: vs1024lionsd
+  img: 5lions-dance.webp
+  url: 5lions-dance
+  provider: Pragmatic Play
+tropical-tiki:
+  title: Tropical Tiki
+  symbol: vswaysjkrdrop
+  img: tropical-tiki.webp
+  url: tropical-tiki
+  provider: Pragmatic Play
+7monkeys:
+  title: 7 Monkeys
+  symbol: vs7monkeys
+  img: 7monkeys.webp
+  url: 7monkeys
+  provider: Pragmatic Play
+7piggies:
+  title: 7 Piggies
+  symbol: vs7pigs
+  img: 7piggies.webp
+  url: 7piggies
+  provider: Pragmatic Play
+emerald-king:
+  title: Emerald King
+  symbol: vs20eking
+  img: emerald-king.webp
+  url: emerald-king
+  provider: Reel Kingdom
+emerald-king-rainbow-road:
+  title: Emerald King Rainbow Road
+  symbol: vs20ekingrr
+  img: emerald-king-rainbow-road.webp
+  url: emerald-king-rainbow-road
+  provider: Reel Kingdom
+dog-house:
+  title: The Dog House
+  symbol: vs20doghouse
+  img: dog-house.webp
+  url: dog-house
+  provider: Pragmatic Play
+dog-house-megaways:
+  title: The Dog House Megaways
+  symbol: vswaysdogs
+  img: megaways-dog-house.webp
+  url: dog-house-megaways
+  provider: Megaways
+release-kraken:
+  title: Release The Kraken
+  symbol: vs20kraken
+  img: release-the-kraken.webp
+  url: release-kraken
+  provider: Pragmatic Play
+release-kraken2:
+  title: Release The Kraken 2
+  symbol: vs20kraken2
+  img: release-the-kraken2.webp
+  url: release-kraken2
+  provider: Pragmatic Play
+wild-machine:
+  title: The Wild Machine
+  symbol: vs40madwheel
+  img: the-wild-machine.webp
+  url: wild-machine
+  provider: Pragmatic Play
+sweet-power-nudge:
+  title: Sweet Power Nudge 
+  symbol: vs20clspwrndg
+  img: sweet-power-nudge.webp
+  url: sweet-power-nudge
+  provider: Pragmatic Play
+hot-pepper:
+  title: Hot Pepper
+  symbol: vs20dugems
+  img: hot-pepper.webp
+  url: hot-pepper
+  provider: Pragmatic Play
+floating-dragon-megaways:
+  title: Floating Dragon Megaways
+  symbol: vswaysfltdrg
+  img: floating-dragon.webp
+  url: floating-dragon-megaways
+  provider: Megaways
+santas-wonderland:
+  title: Santa's Wonderland
+  symbol: vs20santawonder
+  img: santas-wonderland.webp
+  url: santas-wonderland
+  provider: Pragmatic Play
+santa:
+  title: Sant
+  symbol: vs20santa
+  img: santa.webp
+  url: santa
+  provider: Pragmatic Play
