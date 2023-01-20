@@ -70,3 +70,45 @@ pyramid-bonanza:
   img: pyramid-bonanza.webp
   url: pyramid-bonanza
   provider: Pragmatic Play 
+gems-bonanza:
+  title: Gems Bonanza
+  symbol: vs20goldfever
+  img: gems-bonanza.webp
+  url: gems-bonanza
+  provider: Pragmatic Play 
+tweety-house:
+  title: The Tweety House
+  symbol: vs20tweethouse
+  img: tweety-house.webp
+  url: tweety-house
+  provider: Pragmatic Play
+midas-hand:
+  title: The Hand of Midas
+  symbol: vs20midas
+  img: midas-hand.webp
+  url: midas-hand
+  provider: Pragmatic Play
+lucky-lightning:
+  title: Lucky Lightning
+  symbol: vswayslight
+  img: lucky.webp
+  url: lucky-lightning
+  provider: Wild Streak Gaming
+clover-gold:
+  title: Clover Gold
+  symbol: vs20mustanggld2
+  img: clover-gold.webp
+  url: clover-gold
+  provider: Pragmatic Play
+spirit-adventure:
+  title: Spirit of Adventure
+  symbol: vs10spiritadv
+  img: spirit-of-adventure.webp
+  url: spirit-adventure
+  provider: Reel Kingdom
+amazing-money-machine:
+  title: The Amazing Money Machine
+  symbol: vs10amm
+  img: amazing-money-machine.webp
+  url: amazing-money-machine
+  provider: Wild Streak Gaming
