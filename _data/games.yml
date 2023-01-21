@@ -629,3 +629,9 @@ chicken-chase:
   img: chicken-chase.webp
   url: chicken-chase
   provider: Pragmatic Play
+crystal-caverns:
+  title: Crystal Caverns Megaways
+  symbol: vswayscryscav
+  img: crystal-chavern.webp
+  url: crystal-caverns
+  provider: Megaways
