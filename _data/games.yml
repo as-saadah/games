@@ -623,3 +623,9 @@ octobeer-fortunes:
   img: octobeer-fortunes.webp
   url: octobeer-fortunes
   provider: Pragmatic Play
+chicken-chase:
+  title: Chicken Chase
+  symbol: vs10chkchase
+  img: chicken-chase.webp
+  url: chicken-chase
+  provider: Pragmatic Play
