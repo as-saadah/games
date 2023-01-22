@@ -635,3 +635,27 @@ crystal-caverns:
   img: crystal-chavern.webp
   url: crystal-caverns
   provider: Megaways
+rio-heart:
+  title: Heart of Rio
+  symbol: vs25rio
+  img: rio-heart.webp
+  url: rio-heart
+  provider: Pragmatic Play
+firebird-spirit:
+  title: Firebird Spirit 
+  symbol: vswaysconcoll
+  img: firebird-spirit.webp
+  url: firebird-spirit
+  provider: Pragmatic Play
+lucky-grace-charm:
+  title: Lucky, Grace and Charm
+  symbol: vs10luckcharm
+  img: lucky-grace-charm.webp
+  url: lucky-grace-charm
+  provider: Pragmatic Play
+gems-serengeti:
+  title: Gems of Serengeti
+  symbol: vs20lcount
+  img: gems-of-serengeti.webp
+  url: gems-serengeti
+  provider: Pragmatic Play
