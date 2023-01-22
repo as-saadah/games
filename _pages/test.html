@@ -7,8 +7,6 @@ permalink: /test/
 {% for slot in site.data.slots.slot %}
   <img src="../assets/images/{{ slot.img }}">
   <p>{{ slot.title }}</p>
-{% if slot[1].status == 'symbol' %}
- {{ slot.symbol }}
-{% endif %}
 {% endfor %}
 
+{{ (site.data.game | where:"title","Gates of Olympus")["symbol"] }}
