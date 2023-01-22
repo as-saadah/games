@@ -9,8 +9,8 @@ permalink: /test/
   <p>{{ slot.title }}</p>
 {% endfor %}
 
-<ul>
+<ol>
 {% for slot in site.data.game %}
-<li>{{ site.data.game.symbol }}</li>
+<li>{{ site.data.game[0].symbol }}</li>
 {% endfor %}
-</ul>
+</ol>
