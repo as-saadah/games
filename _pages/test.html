@@ -11,13 +11,7 @@ permalink: /test/
 
 <ol>
 <li>{{ site.data.game[0].symbol }}</li>
+<li>{{ site.data.game[100].symbol }}</li>
 </ol>
 
-{% for slot in site.data.games %}
- {% for game in slot %}
-   {% if game[0] == "olympus-gates" %}
-    {{ game[1].symbol }}
-   {% endif%}
- {% endfor %}
-{% endfor %}
 
