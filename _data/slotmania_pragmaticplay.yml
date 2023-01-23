@@ -3,40 +3,54 @@ slotmania-olympus:
   symbol: vs20olympmania
   img: slotmania-olympus.webp
   url: slotmania-olympus
+  currency: idr
+  lang: id
   provider: Slot Mania Pragmatic
 slotmania-princess:
   title: Slot Mania Princess
   symbol: vs20smprincess
   img: slotmania-princess.webp
   url: slotmania-princess
+  currency: idr
+  lang: id
   provider: Slot Mania Pragmatic
 slotmania-wwg:
   title: Wild West Slot Mania
   symbol: vs40smwildwest
   img: slotmania-wwg.webp
   url: slotmania-wwg
+  currency: idr
+  lang: id
   provider: Slot Mania Pragmatic
 slotmania-sweet:
   title: Sweet Slot Mania
   symbol: vs20fruitmania
   img: slotmania-sweet.webp
   url: slotmania-sweet
+  currency: idr
+  lang: id
   provider: Slot Mania Pragmatic
 slotmania-bonanza-gold:
   title: Slot Mania Bonanza Gold
   symbol: vs20goldmania
   img: slotmania-bonanzagold.webp
   url: slotmania-bonanza-gold
+  currency: idr
+  lang: id
   provider: Slot Mania Pragmatic
 slotmania-sugar:
   title: Sugar Slot Mania
   symbol: vs20slotsugar
   img: slotmania-sugar.webp
   url: slotmania-sugar
+  currency: idr
+  lang: id
   provider: Slot Mania Pragmatic
 aztec-gates:
   title: Gates of Aztec
   symbol: vs20aztecgates
   img: aztec-gates.webp
   url: aztec-gates
+  currency: idr
+  lang: id
   provider: Pragmatic Play
