@@ -16,13 +16,13 @@ permalink: /test/
 
   <div class="row row-cols-2">
 {% for game in site.data.games %}
+ <div class="col">
  {% for game in game %}
-    <div class="col">
     <a href="../{{ game.url }}">
-     <img src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <img width="80px" src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
     </a>
      <p>{{ game.title }}</p>
-    </div>
  {% endfor %}
+ </div>
 {% endfor %}
   </div>
