@@ -24,3 +24,16 @@ permalink: /test/
  {% endfor %}
 {% endfor %}
 </ol>
+
+  <div class="row row-cols-2">
+{% for game in site.data.games %}
+ {% for game in slot %}
+    <div class="col">
+    <a href="../{{ game.url }}">
+     <img src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+    </a>
+     <p>{{ game.title }}</p>
+    </div>
+ {% endfor %}
+{% endfor %}
+  </div>
