@@ -635,3 +635,15 @@ giza-fortune:
   img: giza-fortune.webp
   url: giza-fortune
   provider: Pragmatic Play
+eye-storm:
+  title: Eye Storm
+  symbol: vs10eyestorm
+  img: eye-storm.webp
+  url: eye-storm
+  provider: Pragmatic Play
+pyramid-king:
+  title: Pyramid King
+  symbol: vs25pyramid
+  img: pyramid-king.webp
+  url: pyramid-king
+  provider: Pragmatic Play
