@@ -4,25 +4,15 @@ title: Test
 permalink: /test/
 ---
 
-{% for slot in site.data.slots.slot %}
-  <img width="100px" src="../assets/images/{{ slot.img }}">
-  <p>{{ slot.title }}</p>
-{% endfor %}
-
-<ol>
-<li>{{ site.data.game[0].symbol }}</li>
-<li>{{ site.data.game[100].symbol }}</li>
-</ol>
-
-  <div class="row row-cols-2">
-{% for game in site.data.games %}
- <div class="col">
- {% for game in game %}
+<div class="row row-cols-2">
+ {% for game in site.data.games %}
+  <div class="col">
+   {% for game in game %}
     <a href="../{{ game.url }}">
-     <img width="80px" src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <img src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
     </a>
      <p>{{ game.title }}</p>
+   {% endfor %}
+  </div>
  {% endfor %}
  </div>
-{% endfor %}
-  </div>
