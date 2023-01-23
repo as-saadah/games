@@ -659,3 +659,15 @@ aladdin-sorcerer:
   img: aladdin-sorcerer.webp
   url: aladdin-sorcerer
   provider: Pragmatic Play
+hercules-pegasus:
+  title: Hercules & Pegasus
+  symbol: vs20hercpeg
+  img: hercules-pegasus.webp
+  url: hercules-pegasus
+  provider: Pragmatic Play
+hercules-zeus-son:
+  title: Hercules Son of Zeus
+  symbol: vs50hercules
+  img: hercules-zeus-son.webp
+  url: hercules-zeus-son
+  provider: Pragmatic Play 
