@@ -14,8 +14,13 @@ permalink: /test/
 <li>{{ site.data.game[100].symbol }}</li>
 </ol>
 
+<ol>
 {% for slot in site.data.games %}
-  <img width="100px" src="../assets/images/{{ slot.img }}">
-  <p>{{ slot.title }}</p>
+ {% for game in slot %}
+  <li>
+  <img width="100px" src="../assets/images/{{ game.img }}">
+  <p>{{ game.title }}</p>
+  </li>
+ {% endfor %}
 {% endfor %}
-
+</ol>
