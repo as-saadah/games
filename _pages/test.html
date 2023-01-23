@@ -14,20 +14,9 @@ permalink: /test/
 <li>{{ site.data.game[100].symbol }}</li>
 </ol>
 
-<ol>
-{% for slot in site.data.games %}
- {% for game in slot %}
-  <li>
-  <img width="100px" src="../assets/images/{{ game.img }}">
-  <p>{{ game.title }}</p>
-  </li>
- {% endfor %}
-{% endfor %}
-</ol>
-
   <div class="row row-cols-2">
 {% for game in site.data.games %}
- {% for game in slot %}
+ {% for game in game %}
     <div class="col">
     <a href="../{{ game.url }}">
      <img src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
