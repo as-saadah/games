@@ -623,3 +623,15 @@ cleopatra-eye:
   img: eye-of-cleopatra.webp
   url: cleopatra-eye
   provider: Pragmatic Play
+ra-might:
+  title: Might of RA
+  symbol: vs50mightra
+  img: ra-might.webp
+  url: ra-might
+  provider: Pragmatic Play
+giza-fortune:
+  title: Fortune of Giza
+  symbol: vs20amuleteg
+  img: giza-fortune.webp
+  url: giza-fortune
+  provider: Pragmatic Play
