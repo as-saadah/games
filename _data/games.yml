@@ -617,3 +617,9 @@ gems-serengeti:
   img: gems-of-serengeti.webp
   url: gems-serengeti
   provider: Pragmatic Play
+cleopatra-eye:
+  title: Eye of Cleopatra
+  symbol: vs40cleoeye
+  img: cleopatra-eye.webp
+  url: cleopatra-eye
+  provider: Pragmatic Play
