@@ -647,3 +647,15 @@ pyramid-king:
   img: pyramid-king.webp
   url: pyramid-king
   provider: Pragmatic Play
+mysterious-egypt:
+  title: Mysterious Egypt
+  symbol: vs10wildtut
+  img: mysterious-egypt.webp
+  url: mysterious-egypt
+  provider: Pragmatic Play
+aladdin-sorcerer:
+  title: Aladdin and The Sorcerer
+  symbol: vs20aladdinsorc
+  img: aladdin-sorcerer.webp
+  url: aladdin-sorcerer
+  provider: Pragmatic Play
