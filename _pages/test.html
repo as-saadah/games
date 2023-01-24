@@ -6,13 +6,13 @@ permalink: /test/
 
 <div class="row row-cols-2">
  {% for game in site.data.games %}
- {% for game in game %}
  <div class="card col border-0">
+ {% for game in game %}
   <img src="../assets/images/{{ game.img }}" class="card-img-top img-fluid" alt="{{ game.title }}">
   <div class="card-body">
     <h5 class="card-title">{{ game.title }}</h5>
   </div>
- </div>
  {% endfor %}
+ </div>
  {% endfor %}
 </div>
