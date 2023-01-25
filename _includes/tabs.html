@@ -48,7 +48,7 @@
   <div class="col">
    {% for game in game %}
     <a href="./{{ game.url }}">
-     <img loading="lazy" src="./assets/images/pg-soft/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <img loading="lazy" src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
     </a>
      <p>{{ game.title }}</p>
    {% endfor %}
