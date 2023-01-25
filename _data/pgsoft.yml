@@ -10,3 +10,9 @@ mahjong-ways2:
   url: mahjong-ways2
   lang: id-ID
   provider: PG Soft Games
+lucky-neko:
+  title: Lucky Neko
+  img: lucky-neko.webp
+  url: lucky-neko
+  lang: id-ID
+  provider: PG Soft Games
