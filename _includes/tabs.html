@@ -3,7 +3,7 @@
 <div class="tab-content" id="pills-tabContent"> <!--Tabs--> 
 
 <!--Tab Pragmatic Play Games--> 
-<div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
+<div class="tab-pane fade show active" id="pills-pragmaticplay" role="tabpanel" aria-labelledby="pills-pragmaticplay-tab" tabindex="0">
 
 <div class="row row-cols-2">
  {% for game in site.data.games %}
@@ -22,7 +22,7 @@
 <!--/Tab Pragmatic Play Games--> 
 
 <!--Tab Slot Mania Games--> 
-<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
+<div class="tab-pane fade" id="pills-slotmania" role="tabpanel" aria-labelledby="pills-slotmania-tab" tabindex="0">
 
 <div class="row row-cols-2">
  {% for game in site.data.slotmania_pragmaticplay %}
@@ -39,5 +39,24 @@
 
 </div>
 <!--/Tab Slot Mania Games--> 
+
+<!--Tab PG Soft Games--> 
+<div class="tab-pane fade" id="pills-pgsoft" role="tabpanel" aria-labelledby="pills-pgsoft-tab" tabindex="0">
+
+<div class="row row-cols-2">
+ {% for game in site.data.pg-soft %}
+  <div class="col">
+   {% for game in game %}
+    <a href="./{{ game.url }}">
+     <img loading="lazy" src="./assets/images/pg-soft/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+    </a>
+     <p>{{ game.title }}</p>
+   {% endfor %}
+  </div>
+ {% endfor %}
+ </div>
+
+</div>
+<!--/Tab PG Soft Games--> 
 
 </div> <!--/Tabs--> 
