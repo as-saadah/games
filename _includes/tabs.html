@@ -44,14 +44,12 @@
 <div class="tab-pane fade" id="pills-pgsoft" role="tabpanel" aria-labelledby="pills-pgsoft-tab" tabindex="0">
 
 <div class="row row-cols-2">
- {% for slots in site.data.pg_soft %}
+ {% for slot in site.data.pg_soft %}
   <div class="col">
-   {% for slot in slots %}
     <a href="./{{ slot.url }}">
      <img loading="lazy" src="./assets/images/{{ slot.img }}" alt="{{ slot.title }}" class="img-fluid border-0">
      <p>{{ slot.title }}</p>
     </a>
-   {% endfor %}
   </div>
  {% endfor %}
  </div>
