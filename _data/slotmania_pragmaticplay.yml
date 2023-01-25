@@ -54,3 +54,10 @@ aztec-gates:
   currency: idr
   lang: id
   provider: Pragmatic Play
+mahjong-ways2:
+  title: Mahjong Ways 2
+  img: mahjong-ways2.webp
+  url: mahjong-ways2
+  currency: idr
+  lang: id
+  provider: PG Soft Games
