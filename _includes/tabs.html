@@ -29,12 +29,10 @@
 <div class="row row-cols-2">
  {% for game in site.data.pg_soft %}
   <div class="col">
-   {% for game in game %}
     <a href="./{{ game.url }}">
      <img loading="lazy" src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
      <p>{{ game.title }}</p>
     </a>
-   {% endfor %}
   </div>
  {% else %}
   <p>Tidak ada data.</p>
