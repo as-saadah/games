@@ -56,7 +56,7 @@ aztec-gates:
   provider: Pragmatic Play
 mahjong-ways:
   title: Mahjong Ways
-  symbol: 
+  symbol: 1
   img: mahjong-ways.webp
   url: mahjong-ways
   currency: idr
@@ -64,13 +64,13 @@ mahjong-ways:
   provider: PG Soft Games
 mahjong-ways2:
   title: Mahjong Ways 2
-  symbol: 
+  symbol: 2
   img: mahjong-ways2.webp
   url: mahjong-ways2
   provider: PG Soft Games
 lucky-neko:
   title: Lucky Neko
-  symbol: 
+  symbol: 3
   img: lucky-neko.webp
   url: lucky-neko
   currency: idr
