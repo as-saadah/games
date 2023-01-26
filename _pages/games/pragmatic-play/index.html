@@ -1,0 +1,22 @@
+---
+layout: main
+title: Pragmatic Play
+permalink: /pragmatic-play/
+---
+
+<!--Pragmatic Play Games--> 
+<div class="row row-cols-2">
+ {% for game in site.data.games %}
+  <div class="col">
+   {% for game in game %}
+    <a href="./{{ game.url }}">
+     <img loading="lazy" src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <p>{{ game.title }}</p>
+    </a>
+   {% endfor %}
+  </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
+<!--/Pragmatic Play Games--> 
