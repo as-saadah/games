@@ -9,8 +9,8 @@ permalink: /pragmatic-play/
  {% for game in site.data.games %}
   <div class="col">
    {% for game in game %}
-    <a href="./{{ game.url }}">
-     <img loading="lazy" src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+    <a href="../{{ game.url }}">
+     <img loading="lazy" src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
      <p>{{ game.title }}</p>
     </a>
    {% endfor %}
