@@ -6,14 +6,12 @@
 <div class="tab-pane fade show active" id="pills-pragmaticplay" role="tabpanel" aria-labelledby="pills-pragmaticplay-tab" tabindex="0">
 
 <div class="row row-cols-2">
- {% for game in site.data.games %}
+ {% for game in site.data.pragmatic_play %}
   <div class="col">
-   {% for game in game %}
     <a href="./{{ game.url }}">
-     <img src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <img src="./assets/loader.gif" data-src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
      <p>{{ game.title }}</p>
     </a>
-   {% endfor %}
   </div>
  {% else %}
   <p>Tidak ada data.</p>
