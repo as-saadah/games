@@ -10,7 +10,7 @@
   <div class="col">
    {% for game in game %}
     <a href="./{{ game.url }}">
-     <img src="./assets/loader.gif" data-src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
+     <img src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
      <p>{{ game.title }}</p>
     </a>
    {% endfor %}
