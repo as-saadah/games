@@ -9,12 +9,10 @@
  {% for game in site.data.games %}
   <div class="col">
    {% for game in game %}
-   {% for game in game %}
     <a href="./{{ game.url }}">
      <img src="./assets/loader.gif" data-src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
      <p>{{ game.title }}</p>
     </a>
-   {% endfor %}
    {% endfor %}
   </div>
  {% else %}
