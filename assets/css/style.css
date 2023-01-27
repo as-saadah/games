@@ -3,10 +3,10 @@ a {
  color: black;
 }
 .container {
- margin: 70px 0;
+ margin: 70px auto;
 }
 .container-lg {
- margin: 65px 0;
+ margin: 65px auto;
 }
 .blur {
  opacity: 0.5;
