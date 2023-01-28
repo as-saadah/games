@@ -9,7 +9,7 @@
  {% for game in site.data.pragmatic_play %}
   <div class="col">
     <a href="./{{ game.url }}">
-     <img src="./assets/loader.gif" data-src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
+     <img src="./assets/loader.gif" data-src="./assets/images/pp/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
      <p>{{ game.title }}</p>
     </a>
   </div>
@@ -28,7 +28,7 @@
  {% for game in site.data.pg_soft %}
   <div class="col">
     <a href="./{{ game.url }}">
-     <img src="./assets/loader.gif" data-src="./assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
+     <img src="./assets/loader.gif" data-src="./assets/images/pg/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
      <p>{{ game.title }}</p>
     </a>
   </div>
