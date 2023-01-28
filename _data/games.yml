@@ -999,3 +999,19 @@ aztec-gates:
   currency: idr
   lang: id
   provider: Pragmatic Play
+hokkaido-wolf:
+  title: Hokkaido Wolf
+  symbol: vs576hokkwolf
+  img: hokkaido-wolf.webp
+  url: hokkaido-wolf
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+super7s:
+  title: Super 7s™
+  symbol: vs5super7
+  img: super7s.webp
+  url: super7s
+  currency: idr
+  lang: id
+  provider: Pragmatic Play  
