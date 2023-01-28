@@ -4,4 +4,17 @@ title: Slot Mania
 permalink: /slotmania/
 ---
 
-<p>Sedang dalam perbaikan.</p>
+<!--Slot Mania Games--> 
+<div class="row row-cols-2">
+ {% for game in site.data.slotmania %}
+  <div class="col">
+    <a href="../{{ game.url }}">
+     <img loading="lazy" src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <p>{{ game.title }}</p>
+    </a>
+  </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+ </div>
+<!--/Slot Mania Games--> 
