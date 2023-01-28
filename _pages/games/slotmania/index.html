@@ -9,7 +9,7 @@ permalink: /slotmania/
  {% for game in site.data.slotmania %}
   <div class="col">
     <a href="../{{ game.url }}">
-     <img loading="lazy" src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0">
+     <img src="../assets/loader.gif" data-src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
      <p>{{ game.title }}</p>
     </a>
   </div>
