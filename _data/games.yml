@@ -1015,3 +1015,10 @@ super7s:
   currency: idr
   lang: id
   provider: Pragmatic Play  
+monster-superlanche:
+  title: Monster Superlanche
+  symbol: vs20superlanche
+  img: monster-superlanche.webp
+  url: monster-superlanche
+  currency: idr
+  lang: id
