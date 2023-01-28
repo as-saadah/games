@@ -1,4 +1,4 @@
-{% include nav-tabs.html %}
+
 
 <div class="tab-content" id="pills-tabContent"> <!--Tabs--> 
 
@@ -20,24 +20,5 @@
 
 </div>
 <!--/Tab Pragmatic Play Games--> 
-
-<!--Tab PG Soft Games--> 
-<div class="tab-pane fade" id="pills-pgsoft" role="tabpanel" aria-labelledby="pills-pgsoft-tab" tabindex="0">
-
-<div class="row row-cols-2">
- {% for game in site.data.pg_soft %}
-  <div class="col">
-    <a href="./{{ game.url }}">
-     <img src="./assets/loader.gif" data-src="./assets/images/pg/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
-     <p>{{ game.title }}</p>
-    </a>
-  </div>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
- </div>
-
-</div>
-<!--/Tab PG Soft Games--> 
 
 </div> <!--/Tabs--> 
