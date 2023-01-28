@@ -825,6 +825,20 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: Hokkaido Wolf
+  symbol: vs576hokkwolf
+  img: hokkaido-wolf.webp
+  url: hokkaido-wolf
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Super 7s™
+  symbol: vs5super7
+  img: super7s.webp
+  url: super7s
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: Slot Mania Olympus
   symbol: vs20olympmania
   img: slotmania-olympus.webp
