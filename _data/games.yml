@@ -1054,3 +1054,19 @@ pizza:
   currency: idr
   lang: id
   provider: Reel Kingdom
+street-racer:
+  title: Street Racer
+  symbol: vs40streetracer
+  img: street-racer.webp
+  url: street-racer
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+star-bounty:
+  title: Star Bounty
+  symbol: vswayshive
+  img: star-bounty.webp
+  url: star-bounty
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
