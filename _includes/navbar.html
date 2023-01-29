@@ -17,20 +17,20 @@
       </ul>
     </div>
     <div class="nav-content grey darken-4">
-      <ul class="tabs1 tabs-transparent1">    
+      <ul class="tabs1 tabs-transparent1">   
+        {% if page.active == "pragmatic-play" %} 
         <li class="tab2">
-        {% if page.active == "pragmatic-play" %}
-         <a class="active waves-effect waves-light" href="https://as-saadah.github.io/games/">
+         <a class="active waves-effect waves-light" href="#!">
          Pragmatic Play
          </a>
         {% else %}
          <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/">
          Pragmatic Play
          </a>
-        {% endif %}
         </li>
-        <li class="tab2">
+        {% endif %}
         {% if page.active == "slotmania" %}
+        <li class="tab2">
          <a class="active waves-effect waves-light" href="https://as-saadah.github.io/games/slotmania/">
          Slot Mania
          </a>
@@ -38,10 +38,10 @@
          <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/slotmania/">
          Slot Mania
          </a>
-        {% endif %}
         </li>
-        <li class="tab2">
+        {% endif %}
         {% if page.active == "pgsoft" %}
+        <li class="tab2">
          <a class="active waves-effect waves-light" href="https://as-saadah.github.io/games/pgsoft/">
          PG Soft Games
          </a>
@@ -49,8 +49,8 @@
          <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pgsoft/">
          PG Soft Games
          </a>
-        {% endif %}
         </li>
+        {% endif %}
       </ul>
     </div>
   </nav>
