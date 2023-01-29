@@ -9,16 +9,22 @@ active: slotmania
 <br/>
 
 <!--Slot Mania Games--> 
-<div class="row row-cols-2">
+<div class="row">
  {% for game in site.data.slotmania %}
-  <div class="col">
-    <a href="../{{ game.url }}">
-     <img src="../assets/loader.gif" data-src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
-     <p>{{ game.title }}</p>
-    </a>
-  </div>
+    <div class="col s6 m4 center-align">
+      <div class="card">
+        <div class="card-image white waves-effect waves-light">
+         <a href="../{{ game.url }}">
+          <img class="lazy" src="../assets/loader.gif" data-src="../assets/images/pp/{{ game.img }}" alt="{{ game.title }}">
+         </a>
+        </div>
+        <div class="center-align slot-title grey darken-4">
+         <h5 class="card-title">{{ game.title }}</h5>
+        </div>
+      </div>
+    </div>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
- </div>
+</div>
 <!--/Slot Mania Games--> 
