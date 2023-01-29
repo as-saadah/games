@@ -1,71 +1,62 @@
 <!--nav--> 
-<nav class="navbar fixed-top bg-body-tertiary" data-bs-theme="dark">
- <div class="container-fluid"> 
-  <a class="navbar-toggler white-text" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample"> 
-   <i data-feather="info"></i>
-  </a>
-  <a class="navbar-brand white-text" href="#!">
-   {{ site.title }}
-  </a> 
-  <a href="{{ absolute_url }}" class="navbar-toggler white-text"> 
-   <i data-feather="refresh-ccw"></i>
-  </a>
- </div> 
-</nav> 
+  <nav class="nav-extended fixed-nav">
+    <div class="nav-wrapper black">
+        <a href="#" class="sidenav-trigger show-on-med-and-down left waves-effect waves-light" data-target="mobile-demo">
+       <i class="material-icons">info</i>
+      </a>
+      <a href="#" class="brand-logo center">
+       {{ site.title }}
+      </a>
+      <a href="{{ absolute_url }}" class="icon-right show-on-med-and-down right waves-effect waves-light">
+       <i class="material-icons">cached</i>
+      </a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#!">Beranda</a></li>
+        <li><a href="#!">Hubungi</a></li>
+        <li><a href="#!">Download APK</a></li>
+      </ul>
+    </div>
+    <div class="nav-content grey darken-4">
+      <ul class="tabs tabs-transparent">    
+        <li class="tab">
+        {% if page.active == "pragmatic-play" %}
+         <a class="active waves-effect waves-light" href="#!">
+         Pragmatic Play
+         </a>
+        {% else %}
+         <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/">
+         Pragmatic Play
+         </a>
+        {% endif %}
+        </li>
+        <li class="tab">
+        {% if page.active == "pragmatic-play" %}
+         <a class="active waves-effect waves-light" href="#!">
+         Slot Mania
+         </a>
+        {% else %}
+         <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/slotmania/">
+         Slot Mania
+         </a>
+        {% endif %}
+        </li>
+        <li class="tab">
+        {% if page.active == "pragmatic-play" %}
+         <a class="active waves-effect waves-light" href="#!">
+         PG Soft Games
+         </a>
+        {% else %}
+         <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pgsoft/">
+         PG Soft Games
+         </a>
+        {% endif %}
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <ul class="sidenav" id="mobile-demo">
+    <li><a href="#!">Beranda</a></li>
+    <li><a href="#!">Hubungi</a></li>
+    <li><a href="#!">Download APK</a></li>
+  </ul>
 <!--/nav--> 
-
-<nav class="navbar fixed-top bg-body-tertiary" style="margin-top: 46px; height:60px; background: black !important;">
- <div class="container-fluid">     
- <ul class="nav nav-pills nav-justified mb-3 flex-scroll-x" id="pills-tab" role="tablist">
-
-  {% if page.active == "pragmatic-play" %}
-   <li class="nav-item" role="presentation">
-    <a href="#!" class="nav-link active" type="button" role="tab" aria-selected="true">
-     <img src="https://as-saadah.github.io/games/assets/pp.webp" width="30"/>
-     Pragmatic Play
-    </a>
-   </li>
-  {% else %}
-   <li class="nav-item" role="presentation">
-    <a href="https://as-saadah.github.io/games/" class="nav-link white-text" type="button" role="tab" aria-selected="false">
-     <img src="https://as-saadah.github.io/games/assets/pp.webp" width="30"/>
-     Pragmatic Play
-    </a>
-   </li>
-  {% endif %}
-
-  {% if page.active == "slotmania" %}
-   <li class="nav-item" role="presentation">
-    <a href="#!" class="nav-link active" type="button" role="tab" aria-selected="true">
-     <img src="https://as-saadah.github.io/games/assets/maniaslot.webp" width="30"/>
-     Slot Mania
-    </a>
-   </li>
-  {% else %}
-   <li class="nav-item" role="presentation">
-    <a href="https://as-saadah.github.io/games/slotmania/" class="nav-link white-text" type="button" role="tab" aria-selected="false">
-     <img src="https://as-saadah.github.io/games/assets/maniaslot.webp" width="30"/>
-     Slot Mania
-    </a>
-   </li>
-  {% endif %}
-
-  {% if page.active == "pgsoft" %}
-   <li class="nav-item" role="presentation">
-    <a href="#!" class="nav-link active" type="button" role="tab" aria-selected="true">
-     <img src="https://as-saadah.github.io/games/assets/pg.webp" width="30"/>
-      PG Soft
-    </a>
-   </li>
-  {% else %}
-   <li class="nav-item" role="presentation">
-    <a href="https://as-saadah.github.io/games/pgsoft/" class="nav-link white-text" type="button" role="tab" aria-selected="false">
-     <img src="https://as-saadah.github.io/games/assets/pg.webp" width="30"/>
-      PG Soft
-    </a>
-   </li>
-  {% endif %}
-
-</ul>
- </div> 
-</nav>
