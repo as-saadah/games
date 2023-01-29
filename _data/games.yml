@@ -1022,3 +1022,19 @@ monster-superlanche:
   url: monster-superlanche
   currency: idr
   lang: id
+tiger-warrior:
+  title: Tiger Warrior
+  symbol: vs25tigerwar
+  img: tiger-warrior.webp
+  url: tiger-warrior
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+ultra-hold-spin:
+  title: Ultra Hold & Spin
+  symbol: vs5ultra
+  img: 777ultra.webp
+  url: ultra-hold-spin
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
