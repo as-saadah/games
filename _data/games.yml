@@ -1038,3 +1038,19 @@ ultra-hold-spin:
   currency: idr
   lang: id
   provider: Pragmatic Play
+dragon-hot-hold-spin:
+  title: Dragon Hot Hold & Spin
+  symbol: vs5drhs
+  img: dragon-hot.webp
+  url: dragon-hot-hold-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+pizza:
+  title: Pizza! Pizza? Pizza!
+  symbol: vswayspizza
+  img: pizza.webp
+  url: pizza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
