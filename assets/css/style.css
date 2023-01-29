@@ -1,25 +1,34 @@
+.navbar-brand, .brand-logo, .card-title { 
+ font-size: 100% !important; 
+ }   
+.nav-wrapper {
+ height: 30px !important;
+}
 a {
- text-decoration: none !important;
  color: black;
 }
-.container {
- margin: 70px auto;
+.card-image {
+ padding: 5px;
 }
-.container-lg {
- margin: 65px auto;
+.slot-title {
+ display: block;
+ padding: 1px;
 }
-.blur {
- opacity: 0.5;
+.card-title {
+ color: white;
+ font-size: 12px !important;
 }
-.flex-scroll-x {
-  overflow-x: auto;
-  white-space: nowrap;
-  flex-wrap: nowrap;
+a.icon-left {
+ padding-left: 15px;
 }
-.col p {
- font-size: 12.5px;
- font-weight: 600;
+a.icon-right {
+ padding-right: 15px;
 }
-.navbar-brand { 
- font-size: 100% !important; 
+.custom-container {
+ margin-top: 120px !important;
+}
+.fixed-nav{
+ position: fixed;
+ top:0;
+ z-index: 999;
 }
