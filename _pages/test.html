@@ -4,28 +4,26 @@ title: Test
 permalink: /test/
 ---
 
-<div class="container" style="margin-top: 150px;">
+<div class="container" style="margin-top: 70px;">
 
-<ul class="nav nav-pills">
-  <li class="nav-item">
-   <a class="nav-link active" aria-current="page" href="#">
-     <img src="../assets/icons/pragmaticplay.svg" alt="Logo" width="34" height="34" class="d-inline-block align-text-top">
-     Pragmatic Play
-    </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">
-     <img src="../assets/icons/slotmania.svg" alt="Logo" width="34" height="34" class="d-inline-block align-text-top">
-     Slot Mania
-    </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">
-     <img src="../assets/icons/pgsoft.svg" alt="Logo" width="34" height="34" class="d-inline-block align-text-top">
-     PG Soft
-    </a>
-  </li>
-</ul>
+<div class="row">
+ {% for game in site.data.pragmatic_play %}
+    <div class="col s6 m4 center-align">
+      <div class="card">
+        <div class="card-image white waves-effect waves-light">
+         <a href="../{{ game.url }}">
+          <img class="lazy" src="../assets/loader.gif" data-src="../assets/img/pp/{{ game.img }}" alt="{{ game.title }}">
+         </a>
+        </div>
+        <div class="center-align slot-title grey darken-4">
+         <h5 class="card-title">{{ game.title }}</h5>
+        </div>
+      </div>
+    </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
   
 
 </div>
