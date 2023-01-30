@@ -61,8 +61,8 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
-- title: Floating Dragon
-  symbol: vsfltdrg
+- title: Floating Dragon Hold & Spin
+  symbol: vs10floatdrg
   img: floating-dragon-reel-kingdom.webp
   url: floating-dragon
   currency: idr
