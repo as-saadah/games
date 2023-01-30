@@ -47,3 +47,24 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
+- title: Rock Vegas
+  symbol: vs20rockvegas
+  img: rock-vegas.webp
+  url: rock-vegas
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Lucky, Grace and Charm
+  symbol: vs10luckcharm
+  img: lucky-grace-charm.webp
+  url: lucky-grace-charm
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Floating Dragon
+  symbol: vsfltdrg
+  img: floating-dragon-reel-kingdom.webp
+  url: floating-dragon
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
