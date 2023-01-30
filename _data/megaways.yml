@@ -19,13 +19,6 @@
   currency: idr
   lang: id
   provider: Megaways
-- title: Kingdom of Astard
-  symbol: vs20asgard
-  img: kingdom-of-astard.webp
-  url: astard-kingdom
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
 - title: 5 Rabbits Megaways
   symbol: vswaysrabbits
   img: megaways-rabbits.webp
