@@ -818,3 +818,80 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: Wild West Gold Megaways
+  symbol: vswayswildwest
+  img: megaways-wwg.webp
+  url: wild-west-gold-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Aztec King
+  symbol: vswaysaztecking
+  img: aztec-king-megaways.webp
+  url: aztec-king-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Power of Thor Megaways
+  symbol: vswayshammthor
+  img: megaways-thor.webp
+  url: thor-power
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: 5 Rabbits Megaways
+  symbol: vswaysrabbits
+  img: megaways-rabbits.webp
+  url: megaways-5-rabbits
+  currency: idr
+  lang: id
+  provider: Megaways 
+- title: 5 Lions Megaways
+  symbol: vswayslions
+  img: megaways-lions.webp
+  url: megaways-5-lions
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Extra Juicy Megaways
+  symbol: vswaysxjuicy
+  img: megaways-extra-juicy.webp
+  url: megaways-extra-juicy
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Great Rhino Megaways
+  symbol: vswaysrhino
+  img: great-rhino-megaways.webp
+  url: great-rhino-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Crystal Caverns Megaways
+  symbol: vswayscryscav
+  img: crystal-chavern.webp
+  url: crystal-caverns
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Floating Dragon Megaways
+  symbol: vswaysfltdrg
+  img: floating-dragon.webp
+  url: floating-dragon-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: The Dog House Megaways
+  symbol: vswaysdogs
+  img: megaways-dog-house.webp
+  url: dog-house-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Legend of Heroes Megaways
+  symbol: vswayslofhero
+  img: megaways-legend-of-heroes.webp
+  url: megaways-heroes-legend
+  currency: idr
+  lang: id
+  provider: Megaways
