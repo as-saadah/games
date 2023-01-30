@@ -229,20 +229,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Wild West Gold Megaways
-  symbol: vswayswildwest
-  img: megaways-wwg.webp
-  url: wild-west-gold-megaways
-  currency: idr
-  lang: id
-  provider: Megaways
-- title: Aztec King
-  symbol: vswaysaztecking
-  img: aztec-king-megaways.webp
-  url: aztec-king-megaways
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Sword of Ares
   symbol: vs20swordofares
   img: sword-of-ares.webp
@@ -257,13 +243,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Power of Thor
-  symbol: vswayshammthor
-  img: megaways-thor.webp
-  url: thor-power
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Kingdom of Astard
   symbol: vs20asgard
   img: kingdom-of-astard.webp
@@ -390,27 +369,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-- title: 5 Rabbits Megaways
-  symbol: vswaysrabbits
-  img: megaways-rabbits.webp
-  url: megaways-5-rabbits
-  currency: idr
-  lang: id
-  provider: Megaways 
-- title: 5 Lions Megaways
-  symbol: vswayslions
-  img: megaways-lions.webp
-  url: megaways-5-lions
-  currency: idr
-  lang: id
-  provider: Megaways
-- title: Extra Juicy Megaways
-  symbol: vswaysxjuicy
-  img: megaways-extra-juicy.webp
-  url: megaways-extra-juicy
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Extra Juicy
   symbol: vs10fruity2
   img: extra-juicy.webp
@@ -475,13 +433,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Legend of Heroes Megaways
-  symbol: vswayslofhero
-  img: megaways-legend-of-heroes.webp
-  url: megaways-heroes-legend
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Lady Godiva
   symbol: vs20godiva
   img: lady-godiva.webp
@@ -594,13 +545,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: The Dog House Megaways
-  symbol: vswaysdogs
-  img: megaways-dog-house.webp
-  url: dog-house-megaways
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Release The Kraken
   symbol: vs20kraken
   img: release-the-kraken.webp
@@ -636,13 +580,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Floating Dragon Megaways
-  symbol: vswaysfltdrg
-  img: floating-dragon.webp
-  url: floating-dragon-megaways
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Santa's Wonderland
   symbol: vs20santawonder
   img: santas-wonderland.webp
@@ -685,13 +622,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Crystal Caverns Megaways
-  symbol: vswayscryscav
-  img: crystal-chavern.webp
-  url: crystal-caverns
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Heart of Rio
   symbol: vs25rio
   img: rio-heart.webp
@@ -811,13 +741,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Great Rhino Megaways
-  symbol: vswaysrhino
-  img: great-rhino-megaways.webp
-  url: great-rhino-megaways
-  currency: idr
-  lang: id
-  provider: Megaways
 - title: Gold Rush
   symbol: vs25goldrush
   img: gold-rush.webp
