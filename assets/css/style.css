@@ -8,7 +8,8 @@ a {
  color: black;
 }
 .card-image {
- padding: 5px;
+ padding: 1px;
+ height: 100px! important;
 }
 .slot-title {
  display: block;
