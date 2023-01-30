@@ -1,0 +1,14 @@
+- title: Wild West Gold Megaways
+  symbol: vswayswildwest
+  img: megaways-wwg.webp
+  url: wild-west-gold-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Aztec King
+  symbol: vswaysaztecking
+  img: aztec-king-megaways.webp
+  url: aztec-king-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
