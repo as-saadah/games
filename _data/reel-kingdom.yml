@@ -1,0 +1,49 @@
+- title: Spirit of Adventure
+  symbol: vs10spiritadv
+  img: spirit-of-adventure.webp
+  url: spirit-adventure
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Emerald King
+  symbol: vs20eking
+  img: emerald-king.webp
+  url: emerald-king
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Emerald King Rainbow Road
+  symbol: vs20ekingrr
+  img: emerald-king-rainbow-road.webp
+  url: emerald-king-rainbow-road
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Reel Banks
+  symbol: vs25rlbank
+  img: reel-banks.webp
+  url: reel-banks
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Ultra Hold & Spin
+  symbol: vs5ultra
+  img: 777ultra.webp
+  url: ultra-hold-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Dragon Hot Hold & Spin
+  symbol: vs5drhs
+  img: dragon-hot.webp
+  url: dragon-hot-hold-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Pizza! Pizza? Pizza!
+  symbol: vswayspizza
+  img: pizza.webp
+  url: pizza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
