@@ -47,3 +47,10 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
+- title: Eye Storm
+  symbol: vs10eyestorm
+  img: eye-storm.webp
+  url: eye-storm
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
