@@ -75,3 +75,10 @@
   currency: idr
   lang: id
   provider: Megaways
+- title: Legend of Heroes Megaways
+  symbol: vswayslofhero
+  img: megaways-legend-of-heroes.webp
+  url: megaways-heroes-legend
+  currency: idr
+  lang: id
+  provider: Megaways
