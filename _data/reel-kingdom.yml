@@ -21,14 +21,14 @@
   provider: Reel Kingdom
 - title: Ultra Hold & Spin
   symbol: vs5ultra
-  img: 777ultra.webp
+  img: ultra-hold-spin.webp
   url: ultra-hold-spin
   currency: idr
   lang: id
   provider: Reel Kingdom
 - title: Dragon Hot Hold & Spin
   symbol: vs5drhs
-  img: dragon-hot.webp
+  img: dragon-hot-hold-spin.webp
   url: dragon-hot-hold-spin
   currency: idr
   lang: id
