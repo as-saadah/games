@@ -18,7 +18,36 @@
       </ul>
     </div>
     <div class="nav-content grey darken-4">
-     {% include navbar_tabs.html %}
+<ul class="tabs tabs-transparent tabs-fixed-width z-depth-1"> 
+
+{% if page.active == "pragmatic-play" %}
+ <li class="tab">
+  <a class="active" href="#!" target="_self">
+   Pragmatic Play
+  </a>
+ </li>
+{% else %}
+ <li class="tab">
+  <a href="https://as-saadah.github.io/games/" target="_self">
+   Pragmatic Play
+  </a>
+ </li>
+{% endif %}
+{% if page.active == "pgsoft" %}
+ <li class="tab">
+  <a class="active" href="#!" target="_self">
+   PG Soft Games
+  </a>
+ </li>
+{% else %}
+ <li class="tab">
+  <a href="https://as-saadah.github.io/games/pgsoft/" target="_self">
+   PG Soft Games
+  </a>
+ </li>
+{% endif %}
+
+</ul>
     </div>
 
     <div class="nav-content grey darken-3 nav-content-custom">
