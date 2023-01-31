@@ -24,4 +24,6 @@ a.icon-left {
 a.icon-right {
  padding-right: 15px;
 }
-
+.custom-container {
+ margin-top: 80px !important;
+}
