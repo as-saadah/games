@@ -12,3 +12,17 @@
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+- title: Firebird Spirit 
+  symbol: vswaysconcoll
+  img: firebird-spirit.webp
+  url: firebird-spirit
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Gold Party
+  symbol: vs25goldparty
+  img: gold-party.webp
+  url: gold-party
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
