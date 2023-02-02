@@ -67,4 +67,53 @@
   url: floating-dragon
   currency: idr
   lang: id
+  provider: Reel Kingdom 
+- title: Snakes & Ladders
+  symbol: vs10snakeeyes
+  img: snakes-ladders.webp
+  url: snakes-ladders
+  currency: idr
+  lang: id
+  provider: Reel Kingdom   
+- title: Big Bass Bonanza Megaways
+  symbol: vswaysbbb
+  img: big-bass-bonanza-megaways.webp
+  url: big-bass-bonanza-megaways
+  currency: idr
+  lang: id
+  provider: Reel Kingdom   
+- title: Bigger Bass Bonanza
+  symbol: vs12bbb
+  img: bigger-bass-bonanza.webp
+  url: bigger-bass-bonanza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Bigger Bass Blizzard Christmas Catch
+  symbol: vs12bbbxmas
+  img: bigger-bass-blizzard.webp
+  url: bigger-bass-blizzard
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Splash
+  symbol: vs10txbigbass
+  img: big-bass-splash.webp
+  url: big-bass-splash
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Bonanza Keeping It Reel
+  symbol: vs10bbkir
+  img: big-bass-keeping-it-reel.webp
+  url: big-bass-keeping-it-reel
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Christmas Big Bass Bonanza
+  symbol: vs10bxmasbnza
+  img: christmas-big-bass-bonanza.webp
+  url: christmas-big-bass-bonanza
+  currency: idr
+  lang: id
   provider: Reel Kingdom
