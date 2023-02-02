@@ -14,7 +14,7 @@
   img: dragon-hatch.webp
   url: dragon-hatch
   provider: PG Soft Games
-- title: Ways Of The Qilin
+- title: Ways of The Qilin
   img: qilin-ways.webp
   url: qilin-ways
   provider: PG Soft Games
@@ -29,4 +29,20 @@
 - title: Candy Bonanza
   img: candy-bonanza.webp
   url: candy-bonanza
+  provider: PG Soft Games
+- title: Candy Burst
+  img: candy-burst.webp
+  url: candy-burst
+  provider: PG Soft Games
+- title: Mermaid Riches
+  img: mermaid-riches.webp
+  url: mermaid-riches
+  provider: PG Soft Games
+- title: Treasures of Aztec
+  img: aztec-treasures.webp
+  url: aztec-treasures
+  provider: PG Soft Games
+- title: Garuda Gems
+  img: garuda-gems.webp
+  url: garuda-gems
   provider: PG Soft Games
