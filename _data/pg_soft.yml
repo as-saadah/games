@@ -1,6 +1,7 @@
 - title: Mahjong Ways
   img: mahjong-ways.webp
   url: mahjong-ways
+  id: 65
   provider: PG Soft Games
 - title: Mahjong Ways 2
   img: mahjong-ways2.webp
@@ -78,3 +79,14 @@
   img: supermarket-spree.webp
   url: supermarket-spree
   provider: PG Soft Games
+- title: Cocktail Nights
+  img: cocktail-nights.webp
+  url: cocktail-nights
+  id: 117
+  provider: PG Soft Games
+- title: Leprechaun Riches
+  img: leprechaun-riches.webp
+  url: leprechaun-riches
+  id: 60
+  provider: PG Soft Games
+
