@@ -89,4 +89,23 @@
   url: leprechaun-riches
   id: 60
   provider: PG Soft Games
-
+- title: Secrets of Cleopatra
+  img: secrets-cleopatra.webp
+  url: secrets-cleopatra
+  id: 90
+  provider: PG Soft Games
+- title: Circus Delight
+  img: circus-delight.webp
+  url: circus-delight
+  id: 0
+  provider: PG Soft Games
+- title: Vampire's Charm
+  img: vampires-charm.webp
+  url: vampires-charm
+  id: 0
+  provider: PG Soft Games
+- title: Crypto Gold
+  img: crypto-gold.webp
+  url: crypto-gold
+  id: 0
+  provider: PG Soft Games
