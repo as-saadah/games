@@ -16,7 +16,8 @@ a {
 }
 .card-title {
  color: white;
- font-size: 10px !important;
+ font-size: 10.5px !important;
+ font-weight: 500;
 }
 a.icon-left {
  padding-left: 15px;
