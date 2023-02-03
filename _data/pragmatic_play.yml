@@ -590,20 +590,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Eye of Cleopatra
-  symbol: vs40cleoeye
-  img: eye-of-cleopatra.webp
-  url: cleopatra-eye
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Might of RA
-  symbol: vs50mightra
-  img: ra-might.webp
-  url: ra-might
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
+
 - title: Fortune of Giza
   symbol: vs20amuleteg
   img: giza-fortune.webp
@@ -625,34 +612,8 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Aladdin and The Sorcerer
-  symbol: vs20aladdinsorc
-  img: aladdin-sorcerer.webp
-  url: aladdin-sorcerer
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Hercules & Pegasus
-  symbol: vs20hercpeg
-  img: hercules-pegasus.webp
-  url: hercules-pegasus
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Hercules Son of Zeus
-  symbol: vs50hercules
-  img: hercules-zeus-son.webp
-  url: hercules-zeus-son
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Reel Banks
-  symbol: vs25rlbank
-  img: reel-banks.webp
-  url: reel-banks
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
+
+
 - title: Towering Fortunes
   symbol: vs20theights
   img: towering-fortunes.webp
@@ -755,6 +716,49 @@
   symbol: vs20mtreasure
   img: pirate-golden-age.webp
   url: pirate-golden-age
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+
+- title: Eye of Cleopatra
+  symbol: vs40cleoeye
+  img: eye-of-cleopatra.webp
+  url: cleopatra-eye
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Might of RA
+  symbol: vs50mightra
+  img: ra-might.webp
+  url: ra-might
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Aladdin and The Sorcerer
+  symbol: vs20aladdinsorc
+  img: aladdin-sorcerer.webp
+  url: aladdin-sorcerer
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Hercules & Pegasus
+  symbol: vs20hercpeg
+  img: hercules-pegasus.webp
+  url: hercules-pegasus
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Hercules Son of Zeus
+  symbol: vs50hercules
+  img: hercules-zeus-son.webp
+  url: hercules-zeus-son
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Reel Banks
+  symbol: vs25rlbank
+  img: reel-banks.webp
+  url: reel-banks
   currency: idr
   lang: id
   provider: Pragmatic Play
