@@ -12,6 +12,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Starlight Christmas
   symbol: vs20schristmas
   img: starlight-xmas.webp
@@ -26,6 +27,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Sweet Bonanza
   symbol: vs20fruitsw
   img: sweet-bonanza.webp
@@ -40,6 +42,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Diamond Strike
   symbol: vs15diamond
   img: diamond-strike.webp
@@ -54,6 +57,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Aztec Gema Deluxe
   symbol: vs9aztecgemsdx
   img: aztec-gems-deluxe.webp
@@ -68,6 +72,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Bonanza Gold
   symbol: vs20bonzgold
   img: bonanza-gold.webp
@@ -82,6 +87,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
+
 - title: Gems Bonanza
   symbol: vs20goldfever
   img: gems-bonanza.webp
@@ -187,6 +193,14 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: Gates of Valhalla
+  symbol: vs10runes
+  img: valhalla-gates.webp
+  url: valhalla-gates
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+
 - title: WildMan Super Bonanza
   symbol: vs20wildman
   img: wildman-super-bonanza.webp
@@ -247,13 +261,6 @@
   symbol: vs243fortseren
   img: greek-gods.webp
   url: greek-gods
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Gates of Valhalla
-  symbol: vs10runes
-  img: valhalla-gates.webp
-  url: valhalla-gates
   currency: idr
   lang: id
   provider: Pragmatic Play
