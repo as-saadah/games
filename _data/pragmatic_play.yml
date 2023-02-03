@@ -245,13 +245,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Spartan King
-  symbol: vs40spartaking
-  img: spartan-king.webp
-  url: spartan-king
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
 
 - title: Fire Strike
   symbol: vs10firestrike
@@ -441,6 +434,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: 7 Monkeys
   symbol: vs7monkeys
   img: 7monkeys.webp
@@ -448,7 +442,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: 5 Lions
   symbol: vs243lions
   img: 5lions.webp
@@ -456,6 +449,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: 5 Lions Gold
   symbol: vs243lionsgold
   img: 5lions-gold.webp
@@ -463,7 +457,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: 5 Lions Dance
   symbol: vs1024lionsd
   img: 5lions-dance.webp
@@ -471,6 +464,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
 - title: Tropical Tiki
   symbol: vswaysjkrdrop
   img: tropical-tiki.webp
@@ -478,11 +472,18 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Spaceman
   symbol: 1302
   img: spaceman.webp
   url: spaceman
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+
+- title: Spartan King
+  symbol: vs40spartaking
+  img: spartan-king.webp
+  url: spartan-king
   currency: idr
   lang: id
   provider: Pragmatic Play
