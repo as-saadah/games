@@ -201,20 +201,6 @@
   lang: id
   provider: Pragmatic Play
 
-- title: WildMan Super Bonanza
-  symbol: vs20wildman
-  img: wildman-super-bonanza.webp
-  url: wildman-super-bonanza
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Pirate Golden Age
-  symbol: vs20mtreasure
-  img: pirate-golden-age.webp
-  url: pirate-golden-age
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
 - title: Sugar Rush
   symbol: vs20sugarrush
   img: sugar-rush.webp
@@ -748,3 +734,17 @@
   currency: idr
   lang: id
   provider: Pragmatic Play   
+- title: WildMan Super Bonanza
+  symbol: vs20wildman
+  img: wildman-super-bonanza.webp
+  url: wildman-super-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Pirate Golden Age
+  symbol: vs20mtreasure
+  img: pirate-golden-age.webp
+  url: pirate-golden-age
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
