@@ -441,10 +441,10 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Spaceman
-  symbol: 1302
-  img: spaceman.webp
-  url: spaceman
+- title: 7 Monkeys
+  symbol: vs7monkeys
+  img: 7monkeys.webp
+  url: 7monkeys
   currency: idr
   lang: id
   provider: Pragmatic Play
@@ -479,10 +479,10 @@
   lang: id
   provider: Pragmatic Play
 
-- title: 7 Monkeys
-  symbol: vs7monkeys
-  img: 7monkeys.webp
-  url: 7monkeys
+- title: Spaceman
+  symbol: 1302
+  img: spaceman.webp
+  url: spaceman
   currency: idr
   lang: id
   provider: Pragmatic Play
