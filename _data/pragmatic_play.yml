@@ -180,6 +180,13 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: North Guardians
+  symbol: vs50northgard
+  img: north-guardians.webp
+  url: north-guardians
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: WildMan Super Bonanza
   symbol: vs20wildman
   img: wildman-super-bonanza.webp
@@ -233,13 +240,6 @@
   symbol: vs25kfruit
   img: aztec-blaze.webp
   url: aztec-blaze
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: North Guardians
-  symbol: vs50northgard
-  img: north-guardians.webp
-  url: north-guardians
   currency: idr
   lang: id
   provider: Pragmatic Play
