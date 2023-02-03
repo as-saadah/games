@@ -313,21 +313,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Dragon Tiger
-  symbol: vs1024dtiger
-  img: dragon-tiger.webp
-  url: dragon-tiger
-  currency: idr
-  lang: id
-  provider: Pragmatic Play 
 
-- title: Dragon Hero
-  symbol: vs20drgbless
-  img: dragon-hero.webp
-  url: dragon-hero
-  currency: idr
-  lang: id
-  provider: Pragmatic Play 
 - title: Extra Juicy
   symbol: vs10fruity2
   img: extra-juicy.webp
@@ -336,13 +322,6 @@
   lang: id
   provider: Pragmatic Play
 
-- title: Lucky Dragons
-  symbol: vs50chinesecharms
-  img: lucky-dragons.webp
-  url: lucky-dragons
-  currency: idr
-  lang: id
-  provider: Pragmatic Play 
 - title: 8 Dragons
   symbol: vs20eightdragons
   img: 8-dragons.webp
@@ -779,3 +758,25 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+
+- title: Dragon Tiger
+  symbol: vs1024dtiger
+  img: dragon-tiger.webp
+  url: dragon-tiger
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+- title: Dragon Hero
+  symbol: vs20drgbless
+  img: dragon-hero.webp
+  url: dragon-hero
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+- title: Lucky Dragons
+  symbol: vs50chinesecharms
+  img: lucky-dragons.webp
+  url: lucky-dragons
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
