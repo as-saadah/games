@@ -1198,3 +1198,19 @@ madame-destiny-megaways:
   currency: idr
   lang: id
   provider: Megaways
+mahjong-panda:
+  title: Mahjong Panda
+  symbol: vs1024mahjpanda
+  img: mahjong-panda.webp
+  url: mahjong-panda
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-beach-party:
+  title: Wild Beach Party
+  symbol: vs20bchprty
+  img: wild-beach-party.webp
+  url: wild-beach-party
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
