@@ -109,4 +109,11 @@
   url: big-bass-bonanza-megaways
   currency: idr
   lang: id
-  provider: Megaways Reel Kingdom
+  provider: Megaways
+- title: Wild Wild Riches Megaways
+  symbol: vswayswwriches
+  img: wild-wild-riches-megaways.webp
+  url: wild-wild-riches-megaways
+  currency: idr
+  lang: id
+  provider: Megaways 
