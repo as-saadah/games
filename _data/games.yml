@@ -1214,3 +1214,11 @@ wild-beach-party:
   currency: idr
   lang: id
   provider: Pragmatic Play
+wild-wild-riches-megaways:
+  title: Wild Wild Riches Megaways
+  symbol: vswayswwriches
+  img: wild-wild-riches-megaways.webp
+  url: wild-wild-riches-megaways
+  currency: idr
+  lang: id
+  provider: Megaways 
