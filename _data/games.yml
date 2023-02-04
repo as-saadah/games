@@ -1166,3 +1166,11 @@ christmas-big-bass-bonanza:
   currency: idr
   lang: id
   provider: Pragmatic Play
+megaways-risesamurai:
+  title: Rise of Samurai Megaways
+  symbol: vswayssamurai
+  img: megaways-risesamurai.webp
+  url: megaways-risesamurai
+  currency: idr
+  lang: id
+  provider: Megaways
