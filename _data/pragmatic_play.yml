@@ -223,10 +223,17 @@
   lang: id
   provider: Pragmatic Play
 
+- title: Rise Samurai
+  symbol: vs25samurai
+  img: rise-samurai.webp
+  url: rise-samurai
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: Rise Samurai 3
   symbol: vs40samurai3
   img: risesamurai3.webp
-  url: rise-samurai
+  url: rise-samurai3
   currency: idr
   lang: id
   provider: Pragmatic Play
@@ -781,6 +788,13 @@
   symbol: vs50chinesecharms
   img: lucky-dragons.webp
   url: lucky-dragons
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+- title: Barn Festival
+  symbol: vs20farmfest
+  img: barn-festival.webp
+  url: barn-festival
   currency: idr
   lang: id
   provider: Pragmatic Play 
