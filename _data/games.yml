@@ -1174,3 +1174,27 @@ megaways-risesamurai:
   currency: idr
   lang: id
   provider: Megaways
+elemental-gems-megaways:
+  title: Elemental Gems Megaways
+  symbol: vswayselements
+  img: elemental-gems-megaways.webp
+  url: elemental-gems-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+lucky-fishing-megaways:
+  title: Lucky Fishing Megaways
+  symbol: vswaysluckyfish
+  img: lucky-fishing-megaways.webp
+  url: lucky-fishing-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+madame-destiny-megaways:
+  title: Madame Destiny Megaways
+  symbol: vswaysmadame
+  img: madame-destiny-megaways.webp
+  url: madame-destiny-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
