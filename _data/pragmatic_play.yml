@@ -656,13 +656,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Gates of Aztec
-  symbol: vs20aztecgates
-  img: aztec-gates.webp
-  url: aztec-gates
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
+
 - title: Monster Superlanche
   symbol: vs20superlanche
   img: monster-superlanche.webp
@@ -719,7 +713,13 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
+- title: Gates of Aztec
+  symbol: vs20aztecgates
+  img: aztec-gates.webp
+  url: aztec-gates
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: Eye of Cleopatra
   symbol: vs40cleoeye
   img: eye-of-cleopatra.webp
