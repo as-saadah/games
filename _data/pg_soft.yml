@@ -6,78 +6,97 @@
 - title: Mahjong Ways 2
   img: mahjong-ways2.webp
   url: mahjong-ways2
+  id: 74
   provider: PG Soft Games
 - title: Lucky Neko
   img: lucky-neko.webp
   url: lucky-neko
+  id: 89
   provider: PG Soft Games
 - title: Dragon Hatch
   img: dragon-hatch.webp
   url: dragon-hatch
+  id: 57
   provider: PG Soft Games
 - title: Ways of The Qilin
   img: qilin-ways.webp
   url: qilin-ways
+  id: 106
   provider: PG Soft Games
 - title: Phoenix Rises
   img: phoenix-rises.webp
   url: phoenix-rises
+  id: 82
   provider: PG Soft Games
 - title: Jurassic Kingdom
   img: jurassic-kingdom.webp
   url: jurassic-kingdom
+  id: 110
   provider: PG Soft Games
 - title: Candy Bonanza
   img: candy-bonanza.webp
   url: candy-bonanza
+  id: 100
   provider: PG Soft Games
 - title: Candy Burst
   img: candy-burst.webp
   url: candy-burst
+  id: 70
   provider: PG Soft Games
 - title: Mermaid Riches
   img: mermaid-riches.webp
   url: mermaid-riches
+  id: 102
   provider: PG Soft Games
 - title: Treasures of Aztec
   img: aztec-treasures.webp
   url: aztec-treasures
+  id: 87
   provider: PG Soft Games
 - title: Garuda Gems
   img: garuda-gems.webp
   url: garuda-gems
+  id: 122
   provider: PG Soft Games
 - title: Bali Vacation
   img: bali-vacation.webp
   url: bali-vacation
+  id: 94
   provider: PG Soft Games
 - title: Opera Dynasty
   img: opera-dynasty.webp
   url: opera-dynasty
+  id: 93
   provider: PG Soft Games
 - title: The Queen's Banquet
   img: queens-banquet.webp
   url: queens-banquet
+  id: 120
   provider: PG Soft Games
 - title: Honey Trap of Diao Chan
   img: honey-trap.webp
   url: honey-trap
+  id: 1
   provider: PG Soft Games
 - title: Dreams of Macau
   img: dreams-macau.webp
   url: dreams-macau
+  id: 79
   provider: PG Soft Games
 - title: Queen Bounty
   img: queen-bounty.webp
   url: queen-bounty
+  id: 84
   provider: PG Soft Games
 - title: Rise of Apollo
   img: apollo-rise.webp
   url: apollo-rise
+  id: 101
   provider: PG Soft Games
 - title: Supermarket Spree
   img: supermarket-spree.webp
   url: supermarket-spree
+  id: 115
   provider: PG Soft Games
 - title: Cocktail Nights
   img: cocktail-nights.webp
@@ -97,15 +116,15 @@
 - title: Circus Delight
   img: circus-delight.webp
   url: circus-delight
-  id: 0
+  id: 80
   provider: PG Soft Games
 - title: Vampire's Charm
   img: vampires-charm.webp
   url: vampires-charm
-  id: 0
+  id: 58
   provider: PG Soft Games
 - title: Crypto Gold
   img: crypto-gold.webp
   url: crypto-gold
-  id: 0
+  id: 103
   provider: PG Soft Games
