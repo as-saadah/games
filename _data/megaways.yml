@@ -82,3 +82,31 @@
   currency: idr
   lang: id
   provider: Megaways
+- title: Elemental Gems Megaways
+  symbol: vswayselements
+  img: elemental-gems-megaways.webp
+  url: elemental-gems-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Lucky Fishing Megaways
+  symbol: vswaysluckyfish
+  img: lucky-fishing-megaways.webp
+  url: lucky-fishing-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Madame Destiny Megaways
+  symbol: vswaysmadame
+  img: madame-destiny-megaways.webp
+  url: madame-destiny-megaways
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Big Bass Bonanza Megaways
+  symbol: vswaysbbb
+  img: big-bass-bonanza-megaways.webp
+  url: big-bass-bonanza-megaways
+  currency: idr
+  lang: id
+  provider: Megaways Reel Kingdom
