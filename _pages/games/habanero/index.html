@@ -1,0 +1,25 @@
+---
+layout: pages
+title: Habanero Games
+permalink: /habanero/
+active: habanero
+---
+
+<div class="row">
+ {% for game in site.data.habanero2 %}
+    <div class="col s6 m4 center-align" id="{{ game.id }}">
+      <div class="card">
+        <div class="card-image white waves-effect waves-light">
+         <a href="../{{ game.url }}">
+          <img class="lazy" src="../assets/loader.gif" data-src="../assets/images/hb/{{ game.img }}" alt="{{ game.title }}">
+         </a>
+        </div>
+        <div class="center-align slot-title blue-grey darken-4">
+         <h5 class="card-title">{{ game.title }}</h5>
+        </div>
+      </div>
+    </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
