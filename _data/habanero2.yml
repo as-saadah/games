@@ -22,3 +22,15 @@ candy-tower:
   img: candy-tower.webp
   url: candy-tower
   provider: Habanero 
+mystic-fortune-deluxe:
+  title: Mystic Fortune Deluxe
+  id: b23828b7-fb27-4802-a483-08e315a8700b
+  img: mystic-fortune-deluxe.webp
+  url: mystic-fortune-deluxe
+  provider: Habanero 
+egyptian-dreams-deluxe:
+  title: Egyptian Dreams Deluxe
+  id: 8bc1773e-a78b-420a-8063-2aad63d7ef3f
+  img: egyptian-dreams-deluxe.webp
+  url: egyptian-dreams-deluxe
+  provider: Habanero
