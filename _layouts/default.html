@@ -44,14 +44,20 @@
 
 <div id="modal1" class="modal">
   <span>&times;</span>
-  <iframe id="iframe1" height="600px" width="100%" src="" ></iframe>
+  <iframe id="iframe1" height="300px" width="100%" src="" ></iframe>
 </div>
 
  {% include scripts.html %}
+
 <script>
-  $(document).ready(function(){
-    $("a").click(function(){  
-        $("#modal1").show();
+$("#iframe1").attr("src", $(this).attr("href"));
+        return false;
+    });
+    $("span").click(function(){
+        $("#modal1").hide();
+        $("#iframe1").attr("src", "");
+    });    
+});
 </script>
  </body>
 </html>
