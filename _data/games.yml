@@ -1396,3 +1396,16 @@ crypto-gold:
   url: crypto-gold
   id: 103
   provider: PG Soft Games
+
+koi-gates:
+  title: Koi Gates
+  id: a103867f-7f21-467c-9208-5ee7149820cb
+  img: koi-gates.webp
+  url: koi-gates
+  provider: Habanero
+hot-hot-fruit:
+  title: Hot Hot Fruit
+  id: e5a04f51-6d20-4504-91bc-d17656d2e542
+  img: hot-hot-fruit.webp
+  url: hot-hot-fruit
+  provider: Habanero
