@@ -10,11 +10,11 @@ hot-hot-fruit:
   img: hot-hot-fruit.webp
   url: hot-hot-fruit
   provider: Habanero
-orbs-antlantis:
+orbs-atlantis:
   title: Orbs of Atlantis
   id: 4ca3dc7b-bac6-450c-ac0e-c6371e9175a8
-  img: orbs-of-antlantis.webp
-  url: orbs-antlantis
+  img: orbs-atlantis.webp
+  url: orbs-atlantis
   provider: Habanero
 candy-tower:
   title: Candy Tower
