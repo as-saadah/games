@@ -34,3 +34,27 @@ egyptian-dreams-deluxe:
   img: egyptian-dreams-deluxe.webp
   url: egyptian-dreams-deluxe
   provider: Habanero
+london-hunter:
+  title: London Hunter
+  id: 20b52291-d316-4521-817b-f28863042bf1
+  img: london-hunter.webp
+  url: london-hunter
+  provider: Habanero
+gold-rush:
+  title: Gold Rush
+  id: fb9ccb90-bb6e-485e-9791-0d3d58ca8ce0
+  img: gold-rush.webp
+  url: gold-rush
+  provider: Habanero
+fire-rooster:
+  title: Fire Rooster
+  id: 271e3ca3-d219-41d3-a868-bef50d00c5df
+  img: fire-rooster.webp
+  url: fire-rooster
+  provider: Habanero
+fortune-ways:
+  title: Ways of Fortune
+  id: 476fa6fb-63b0-4bfb-a42a-53899023c081
+  img: ways-of-fortune.webp
+  url: fortune-ways
+  provider: Habanero
