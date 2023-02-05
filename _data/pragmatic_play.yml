@@ -819,3 +819,10 @@
   currency: idr
   lang: id
   provider: Pragmatic Play  
+- title: Cowboy Coins
+  symbol: vswaysultrcoin
+  img: cowboy-coins.webp
+  url: cowboy-coins
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
