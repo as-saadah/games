@@ -8,3 +8,13 @@
   img: hot-hot-fruit.webp
   url: hot-hot-fruit
   provider: Habanero
+- title: Orbs of Atlantis
+  id: 4ca3dc7b-bac6-450c-ac0e-c6371e9175a8
+  img: orbs-of-antlantis.webp
+  url: orbs-antlantis
+  provider: Habanero
+- title: Candy Tower
+  id: d1a5dd9a-2b2f-4762-8ea8-dba24f8d3b39
+  img: candy-tower.webp
+  url: candy-tower
+  provider: Habanero 
