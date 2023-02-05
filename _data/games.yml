@@ -1231,6 +1231,14 @@ jasmine-dreams:
   currency: idr
   lang: id
   provider: Pragmatic Play  
+cowboy-coins:
+  title: Cowboy Coins
+  symbol: vswaysultrcoin
+  img: cowboy-coins.webp
+  url: cowboy-coins
+  currency: idr
+  lang: id
+  provider: Pragmatic Play   
 
 mahjong-ways:
   title: Mahjong Ways
