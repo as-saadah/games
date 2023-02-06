@@ -5,17 +5,21 @@ permalink: /pragmatic-play/
 active: pragmatic-play
 ---
 
-<!--Pragmatic Play Games--> 
-<div class="row row-cols-2" style="margin-top: 150px;">
+<div class="row flex">
  {% for game in site.data.pragmatic_play %}
-  <div class="col">
-    <a href="../{{ game.url }}">
-     <img src="../assets/loader.gif" data-src="../assets/images/{{ game.img }}" alt="{{ game.title }}" class="img-fluid border-0 lazy">
-     <p>{{ game.title }}</p>
-    </a>
-  </div>
+    <div class="col s6 m4 center-align">
+      <div class="card">
+        <div class="card-image white waves-effect waves-light">
+         <a href="../{{ game.url }}">
+          <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/images/pp/{{ game.img }}" alt="{{ game.title }}">
+         </a>
+        </div>
+        <div class="center-align slot-title blue-grey darken-4">
+         <h5 class="card-title">{{ game.title }}</h5>
+        </div>
+      </div>
+    </div>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-<!--/Pragmatic Play Games--> 
