@@ -129,8 +129,8 @@
   id: 103
   provider: PG Soft Games
 - title: Wild Bounty Showdown
-  img: wild-bounty-showdon.webp
-  url: wild-bounty-showdon
+  img: wild-bounty-showdown.webp
+  url: wild-bounty-showdown
   id: 135
   provider: PG Soft Games
 - title: Bikini Paradise
@@ -139,8 +139,8 @@
   id: 0
   provider: PG Soft Games
 - title: Butterfly Bossom
-  img: butterfly-bossom.webp
-  url: butterfly-bossom
+  img: butterfly-blossom.webp
+  url: butterfly-blbossom
   id: 0
   provider: PG Soft Games
 - title: Medusa
@@ -148,9 +148,9 @@
   url: medusa-pgsoft
   id: 0
   provider: PG Soft Games
-- title: Gem Savior Sword
-  img: gem-savior-sword.webp
-  url: gem-savior-sword
+- title: Gem Saviour Sword
+  img: gem-saviour-sword.webp
+  url: gem-saviour-sword
   id: 0
   provider: PG Soft Games
 - title: Emperors Favour
