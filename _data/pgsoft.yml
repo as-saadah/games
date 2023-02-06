@@ -154,10 +154,10 @@ crypto-gold:
   url: crypto-gold
   id: 103
   provider: PG Soft Games
-wild-bounty-showdon:
+wild-bounty-showdown:
   title: Wild Bounty Showdown
-  img: wild-bounty-showdon.webp
-  url: wild-bounty-showdon
+  img: wild-bounty-showdown.webp
+  url: wild-bounty-showdown
   id: 135
   provider: PG Soft Games
 bikini-paradise:
@@ -166,10 +166,10 @@ bikini-paradise:
   url: bikini-paradise
   id: 0
   provider: PG Soft Games
-butterfly-bossom:
-  title: Butterfly Bossom
-  img: butterfly-bossom.webp
-  url: butterfly-bossom
+butterfly-blossom:
+  title: Butterfly Blossom
+  img: butterfly-blossom.webp
+  url: butterfly-blossom
   id: 0
   provider: PG Soft Games
 medusa:
@@ -178,10 +178,10 @@ medusa:
   url: medusa-pgsoft
   id: 0
   provider: PG Soft Games
-gem-savior-sword:
-  title: Gem Savior Sword
-  img: gem-savior-sword.webp
-  url: gem-savior-sword
+gem-saviour-sword:
+  title: Gem Saviour Sword
+  img: gem-saviour-sword.webp
+  url: gem-saviour-sword
   id: 0
   provider: PG Soft Games
 emperors-favour:
@@ -191,7 +191,7 @@ emperors-favour:
   id: 0
   provider: PG Soft Games
 egypt-book-mystery:
-  title: Egypt Book Mystery
+  title: Egypt's Book of Mystery
   img: egypt-book-mystery.webp
   url: egypt-book-mystery
   id: 0
