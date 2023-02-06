@@ -3,3 +3,27 @@ layout: page
 title: Test
 permalink: /test/
 ---
+
+<div class="row">
+ {% for game in site.data.pg_soft %}
+ <div class="col s6 m4 center-align">
+  <div class="card">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="images/office.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4">{{ game.title }}</span>
+    </div>
+    <div class="card-action">
+    <a href="../{{ game.url }}" class="waves-effect waves-light btn-small">Mainkan</a>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">{{ game.title }}<i class="material-icons right">close</i></span>
+      <p>{{ game.provider }}</p>
+    </div>
+  </div>
+ </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
