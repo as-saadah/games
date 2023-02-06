@@ -64,12 +64,8 @@ a.icon-right {
   color: #fff;
 }
 
-.carousel {
-  height: 180px !important;
-  margin-top: 85px;
-}
-.carousel.carousel-slider .carousel-item {
-  width: 100%;
-  height: 100%;
-  min-height: 180px !important;
+.desc, .desc li {
+    font-size: 100%;
+    line-height: normal;
+    padding: 15px;
 }
