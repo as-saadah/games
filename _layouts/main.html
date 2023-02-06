@@ -4,8 +4,11 @@
   {% include head.html %}
  </head>
 <body class="grey darken-6">
- {% include navbar-pragmatic-play.html %}
+
+ {% include main-navbar.html %}
+
 <div class="container" style="width:98% !important; margin-top: 85px;"> <!--container--> 
+
 <div class="row flex">
  {% for game in site.data.pragmatic_play %}
     <div class="col s6 m4 center-align">
@@ -24,6 +27,7 @@
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
+
 </div> <!--/container--> 
 
  {% include scripts.html %}
