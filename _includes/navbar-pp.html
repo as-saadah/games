@@ -1,6 +1,7 @@
 <!--nav--> 
 <div class="navbar-fixed">
   <nav class="nav-extended">
+
     <div class="nav-wrapper black">
       <a href="https://as-saadah.github.io/games/about/" class="icon-left show-on-med-and-down left waves-effect waves-light">
        <i class="material-icons">info</i>
@@ -19,53 +20,10 @@
         <li><a href="https://as-saadah.github.io/games/about/">Hubungi</a></li>
       </ul>
     </div>
-    <div class="nav-content blue-grey darken-4">
-<ul class="tabs tabs-transparent tabs-fixed-width z-depth-1"> 
-
-{% if page.active == "pragmatic-play" %}
- <li class="tab active" style="background-color: #546e7a;">
-  <a class="active" href="#!">
-   Pragmatic Play
-  </a>
- </li>
-{% else %}
- <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pragmatic-play/" target="_self">
-   Pragmatic Play
-  </a>
- </li>
-{% endif %}
-{% if page.active == "pgsoft" %}
- <li class="tab active" style="background-color: #546e7a;">
-  <a class="active" href="#!">
-   PG Soft
-  </a>
- </li>
-{% else %}
- <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pgsoft/" target="_self">
-   PG Soft
-  </a>
- </li>
-{% endif %}
-
-{% if page.active == "habanero" %}
- <li class="tab active" style="background-color: #546e7a;">
-  <a class="active" href="#!" target="_self">
-   Habanero
-  </a>
- </li>
-{% else %}
- <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/habanero/" target="_self">
-   Habanero
-  </a>
- </li>
-{% endif %}
-
-</ul>
-    </div>
-
+ 
+ <div class="nav-content blue-grey darken-4">
+  {% include navbar-provider.html %}
+ </div>
  <div class="nav-content blue-grey darken-1 nav-content-custom">
   {% include sub-nav-pragmatic-play.html %}
  </div>
