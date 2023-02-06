@@ -1,0 +1,31 @@
+<!--nav--> 
+<div class="navbar-fixed">
+  <nav class="nav-extended">
+    <div class="nav-wrapper black">
+      <a href="https://as-saadah.github.io/games/about/" class="icon-left show-on-med-and-down left waves-effect waves-light">
+       <i class="material-icons">info</i>
+      </a>
+      <a href="https://as-saadah.github.io/games/app/android/demo-games.apk" class="icon-left show-on-med-and-down left waves-effect waves-light">
+       <i class="material-icons">cloud_download</i>
+      </a>
+      <a href="https://as-saadah.github.io/games/" class="brand-logo center">
+       {{ page.title }}
+      </a>
+      <a href="{{ absolute_url }}" class="icon-right show-on-med-and-down right waves-effect waves-light">
+       <i class="material-icons">cached</i>
+      </a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="https://as-saadah.github.io/games/">Beranda</a></li>
+        <li><a href="https://as-saadah.github.io/games/about/">Hubungi</a></li>
+      </ul>
+    </div>
+    <div class="nav-content blue-grey darken-4">
+     {% include navbar_tabs.html %}
+    </div>
+  </nav>
+  <ul class="sidenav" id="mobile-demo">
+        <li><a href="https://as-saadah.github.io/games/">Beranda</a></li>
+        <li><a href="https://as-saadah.github.io/games/about/">Hubungi</a></li>
+  </ul>
+</div>
+<!--/nav--> 
