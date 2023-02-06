@@ -202,3 +202,98 @@ legend-of-perseus:
   url: legend-of-perseus
   id: 128
   provider: PG Soft Games
+totem-wonders:
+  title: Totem Wonders
+  img: totem-wonders.webp
+  url: totem-wonders
+  id: 57
+  provider: PG Soft Games
+plushie-frenzy:
+  title: Plushie Frenzy
+  img: plushie-frenzy.webp
+  url: plushie-frenzy
+  id: 25
+  provider: PG Soft Games
+groundhog-harvest:
+  title: Groundhog Harvest
+  img: groundhog-harvest.webp
+  url: groundhog-harvest
+  id: 111
+  provider: PG Soft Games
+farm-invaders:
+  title: Farm Invaders
+  img: farm-invaders.webp
+  url: farm-invaders
+  id: 116
+  provider: PG Soft Games
+symbols-of-egypt:
+  title: Symbols of Egypt 
+  img: symbols-of-egypt.webp
+  url: symbols-of-egypt
+  id: 41
+  provider: PG Soft Games
+dragon-legend:
+  title: Dragon Legend 
+  img: dragon-legend.webp
+  url: dragon-legend
+  id: 29
+medusa2:
+  title: Medusa 2 The Quest of Perseus
+  img: medusa2.webp
+  url: medusa2
+  id: medusa2
+  provider: PG Soft Games
+raider-jane:
+  title: Raider Jane's Crypt Of Fortune
+  img: raider-janes-crypt-of-fortune.webp
+  url: raider-jane
+  id: 113
+  provider: PG Soft Games
+jack-frosts-winter:
+  title: Jack Frost's Winter
+  img: jack-frosts-winter.webp
+  url: jack-frosts-winter
+  id: 97
+  provider: PG Soft Games
+gem-saviour:
+  title: Gem Saviour
+  img: gem-saviour.webp
+  url: gem-saviour
+  id: 2
+  provider: PG Soft Games
+genies-3-wishes:
+  title: Genie's 3 Wishes
+  img: genies-3-wishes.webp
+  url: genies-3-wishes
+  id: 85
+  provider: PG Soft Games
+great-icescape:
+  title: The Great Icescape
+  img: the-great-icescap.webp
+  url: great-icescap
+  id: 53
+  provider: PG Soft Games
+rooster-rumble:
+  title: Rooster Rumble
+  img: rooster-rumble.webp
+  url: rooster-rumble
+  id: 123
+  provider: PG Soft Games
+win-win-won:
+  title: Win Win Won
+  img: win-win-won.webp
+  url: win-win-won
+  id: 24
+  provider: PG Soft Games
+fortune-rabbit:
+  title: Fortune Rabbit 
+  img: fortune-rabbit.webp
+  url: fortune-rabbit
+  id: 1543462
+  provider: PG Soft Games
+reel-love:
+  title: Reel Love 
+  img: reel-love.webp
+  url: reel-love
+  id: 20
+  provider: PG Soft Games
