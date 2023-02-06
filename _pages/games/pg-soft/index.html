@@ -10,7 +10,9 @@ active: pgsoft
  <div class="col s6 m4 center-align">
   <div class="card sticky-action">
     <div class="card-image waves-effect waves-block waves-light">
-      <a href="./{{ game.url }}"><img alt="{{ game.title }}" class="activator" src="../assets/images/pg/{{ game.img }}"></a>
+      <a href="{{ game.url }}">
+       <img class="activator lazy" src="../assets/loader.gif" data-src="../assets/images/pp/{{ game.img }}" alt="{{ game.title }}">
+      </a>
     </div>
     <div class="card-action">
      <small class="truncate">{{ game.title }}</small>
