@@ -5,24 +5,22 @@ permalink: /wild-streak-gaming/
 active: wsg
 ---
 
- 
 <div class="row">
  {% for game in site.data.wild-streak-gaming %}
-    <div class="col s6 m4 center-align">
-
-      <div class="card">
-        <div class="card-image white waves-effect waves-light">
-         <a href="../{{ game.url }}">
-          <img class="lazy" src="../assets/loader.gif" data-src="../assets/images/wsg/{{ game.img }}" alt="{{ game.title }}">
-         </a>
-        </div>
-        <div class="center-align slot-title blue-grey darken-4">
-         <h5 class="card-title">{{ game.title }}</h5>
-        </div>
-      </div>
-
+ <div class="col s6 m4 center-align">
+  <div class="card sticky-action">
+    <div class="card-image waves-effect waves-block waves-light">
+      <a href="../{{ game.url }}">
+       <img class="lazy" src="../assets/loader.gif" data-src="../assets/images/wsg/img//{{ game.img }}" alt="{{ game.title }}">
+      </a>
     </div>
+    <div class="card-action">
+     <small class="truncate">{{ game.title }}</small>
+    </div>
+  </div>
+ </div>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
-</div> 
+</div>
+
