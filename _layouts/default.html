@@ -1,142 +1,15 @@
 <!doctype html>
 <html lang="id">
  <head>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   {% include head.html %}
-<style>
-.modal {
-  z-index:3;
-  display:none;
-  padding-top:50px;
-  position:fixed;
-  left:0;
-  top:0;
-  width:100%;
-  height:100%;
-  overflow:auto;
-  background-color:rgb(0,0,0);
-  background-color:rgba(0,0,0,0.4)
-}
-div#speedbump {
-  display: none;
-  z-index: 9999;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  background: #eeeeee;
-}
-#speedbump h4.modal-title {
-  text-align: center;
-  text-transform: uppercase;
-  color: #004795;
-  font-size:2.5em;	
-}
-.modal-body p {
-  text-align:center;
-  font-size: 1em;
-}
-button.btn-modal:hover {
-  cursor: pointer;
-}
-button.btn-modal.btn-continue {
-  background-color: #8bc63e;
-  border: 0px;
-  margin: 1% 0;
-}
-button.btn-modal.btn-close {
-  background-color: inherit;
-  border: 1px solid #030000;
-  color: #030000;
-  font-weight: 400;
-}
-.modal-header .close {
-  font-size: 3.5em;
-}
-</style>
  </head>
 <body class="grey darken-6">
- {% include navbar-pragmatic-play.html %}
-<div class="container" style="width:98% !important; margin-top: 85px;"> <!--container--> 
-<div class="row flex">
- {% for game in site.data.pragmatic_play %}
-    <div class="col s6 m4 center-align">
-      <div class="card">
-        <div class="card-image white waves-effect waves-light">
-         <a href="../{{ game.url }}" class="cta-open">
-          <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/images/pp/{{ game.img }}" alt="{{ game.title }}">
-         </a>
-        </div>
-        <div class="center-align slot-title blue-grey darken-4">
-         <h5 class="card-title">{{ game.title }}</h5>
-        </div>
-      </div>
-    </div>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
-</div>
-</div> <!--/container--> 
+ {% include global-navbar.html %}
 
-<!-- start modal-->
-<div class="modal fade" id="speedbump" role="dialog">
-	<div class="modal-dialog">
-	  <!-- Modal content-->
-	  <div class="modal-content">
-		<div class="modal-header">
-		  <button type="button" class="close" data-dismiss="modal">×</button>
-		  <h4 class="modal-title">Notice</h4>
-		</div>
-		<div class="modal-body">
-		  <p>You are now leaving the our website website.</p>
-		</div>
-		<div class="modal-footer text-center">
-		  <button type="button" title="continue" class="btn btn-modal btn-continue" data-dismiss="modal">Continue</button>
-		  <button type="button" title="go back" class="btn btn-modal btn-close" data-dismiss="modal">Go Back</button>
-		</div>
-	  </div>
-
-	</div>
+<div class="container" style="width: 97% !important; margin-top: 60px;">
+ {{ content }}
 </div>
-<!--end modal-->
 
  {% include scripts.html %}
-
-<script>
-// Open external links in a popup modal notice
-$(window).on('load', function(){
-	
-	$.expr[":"].external = function(a) {		
-		var linkhn = a.hostname.split('.').reverse();
-		var linkHref = linkhn[1] + "." + linkhn[0];
-		
-		var domainhn = window.location.hostname.split('.').reverse();
-		var domainHref = domainhn[1] + "." + domainhn[0];
-	
-		return !a.href.match(/^mailto\:/) && !a.href.match(/^tel\:/) && linkHref !== domainHref;
-	};
-	
-	$("a:external").addClass("ext_link");
-	
-	$(function() {
-		
-		$('a.ext_link').click(function() {
-			 // open a modal 
-			$('a:external').attr('data-toggle', 'modal');
-			$('a:external').attr('data-target', '#speedbump');
-			//go to link on modal close
-			var url = $(this).attr('href');
-			$('.btn-modal.btn-continue').click(function() {
-				window.open(url);
-				$('.btn-modal.btn-continue').off();
-			});
-			$('.btn-modal.btn-close').click(function() {
-				$('#speedbump').modal('hide');
-				$('.btn-modal.btn-close').off();
-			}); 
-		});
-		
-	});  
-});
-</script>
  </body>
 </html>
