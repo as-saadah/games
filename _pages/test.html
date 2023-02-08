@@ -7,7 +7,7 @@ permalink: /test/
 <div class="row section">
   <div class="col">
     <!-- Modal Trigger -->
-    <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+    <a class="waves-effect waves-light btn modal-trigger" data-target="modal1">Modal</a>
     <p>You have to include jQuery and Materialize JS + CSS for the modal to work. You can include it from <a href="http://materializecss.com/getting-started.html">CDN (getting started)</a>.
   </div>
 </div>
@@ -41,11 +41,3 @@ permalink: /test/
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-
-<script>
- $(document).ready(function(){
-    // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
-    $('.modal-trigger').leanModal();
-  });
-
-</script>
