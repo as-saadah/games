@@ -488,6 +488,13 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: The Dog House Multihold
+  symbol: vs20doghousemh
+  img: dog-house-multihold.webp
+  url: dog-house-multihold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: Release The Kraken
   symbol: vs20kraken
   img: release-the-kraken.webp
@@ -823,6 +830,27 @@
   symbol: vswaysultrcoin
   img: cowboy-coins.webp
   url: cowboy-coins
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Queen of Atlantis
+  symbol: vs20doghousemh
+  img: queen-of-atlantis.webp
+  url: queen-of-atlantis
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Aladdin's Treasure
+  symbol: vs50amt
+  img: aladdins-treasure.webp
+  url: aladdins-treasure
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Pirate Gold Deluxe
+  symbol: vs40pirgold
+  img: pirate-gold-deluxe.webp
+  url: pirate-gold-deluxe
   currency: idr
   lang: id
   provider: Pragmatic Play
