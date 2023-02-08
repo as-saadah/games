@@ -695,6 +695,14 @@ dog-house:
   currency: idr
   lang: id
   provider: Pragmatic Play
+dog-house-multihold:
+  title: The Dog House Multihold
+  symbol: vs20doghousemh
+  img: dog-house-multihold.webp
+  url: dog-house-multihold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 dog-house-megaways:
   title: The Dog House Megaways
   symbol: vswaysdogs
@@ -1102,6 +1110,30 @@ fire-archer:
   currency: idr
   lang: id
   provider: Pragmatic Play  
+atlantis-queen:
+  title: Queen of Atlantis
+  symbol: vs20doghousemh
+  img: queen-of-atlantis.webp
+  url: queen-of-atlantis
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aladdins-treasure:
+  title: Aladdin's Treasure
+  symbol: vs50amt
+  img: aladdins-treasure.webp
+  url: aladdins-treasure
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+pirate-gold-deluxe:
+  title: Pirate Gold Deluxe
+  symbol: vs40pirgold
+  img: pirate-gold-deluxe.webp
+  url: pirate-gold-deluxe
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 fruit-rainbow:
   title: Fruit Rainbow
   symbol: vs40frrainbow
