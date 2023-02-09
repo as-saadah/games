@@ -4,7 +4,7 @@ title: Test
 permalink: /test/
 ---
 
-      <table>
+      <table class="striped">
         <thead>
           <tr>
               <th>Nama Permainan</th>
@@ -13,23 +13,19 @@ permalink: /test/
           </tr>
         </thead>
         <tbody>
-            {% for game in site.data.pragmatic_play %}
           <tr>
+           {% for game in site.data.pragmatic_play %}
             <td>
             {{ game.title }}
             </td>
-          </tr>
-          <tr>
             <td>
             {{ game.symbol }}
             </td>
-          </tr>
-          <tr>
             <td>
             {{ game.provider }}
             </td>
-          </tr>
-            {% endfor %}
+           {% endfor %}
+        </tr>
         </tbody>
       </table>
 
