@@ -22,3 +22,45 @@
   url: alexandria-queen-wowpot
   lang: id
   provider: Microgaming
+- title: Amazing Link Zeus 
+  id: amazingLinkZeusDesktop
+  img: amazing-link-zeus.webp
+  url: alexandria-queen-wowpot
+  lang: id
+  provider: Microgaming
+- title: Zeus Ancient Fortunes 
+  id: ancientFortunesZeusDesktop
+  img: zeus-ancient-fortunes.webp
+  url: zeus-ancient-fortunes
+  lang: id
+  provider: Microgaming
+- title: Neptune's Riches Ocean of Wilds 
+  id: neptunesRichesOceanOfWildsDesktop
+  img: neptunes-riches.webp
+  url: neptunes-riches
+  lang: id
+  provider: Microgaming
+- title: Goldaur Guardians 
+  id: goldaurGuardiansDesktop
+  img: goldaur-guardiands.webp
+  url: goldaur-guardiands
+  lang: id
+  provider: Microgaming
+- title: Divine Diamonds 
+  id: divineDiamondsDesktop
+  img: divine-diamonds.webp
+  url: divine-diamonds
+  lang: id
+  provider: Microgaming
+- title: Blazing Diamonds 
+  id: 9BlazingDiamondsDesktop
+  img: blazing-diamonds.webp
+  url: blazing-diamonds
+  lang: id
+  provider: Microgaming
+- title: Emerald Gold  
+  id: emeraldGoldDesktop
+  img: emerald-gold.webp
+  url: emerald-gold
+  lang: id
+  provider: Microgaming
