@@ -13,27 +13,23 @@ permalink: /test/
           </tr>
         </thead>
         <tbody>
-          <tr>
             {% for game in site.data.pragmatic_play %}
+          <tr>
             <td>
             {{ game.title }}
-            <li>
-            {% endfor %}
+            </td>
           </tr>
           <tr>
-            {% for game in site.data.pragmatic_play %}
             <td>
             {{ game.symbol }}
-            <li>
-            {% endfor %}
+            </td>
           </tr>
           <tr>
-            {% for game in site.data.pragmatic_play %}
             <td>
             {{ game.provider }}
-            <li>
-            {% endfor %}
+            </td>
           </tr>
+            {% endfor %}
         </tbody>
       </table>
 
