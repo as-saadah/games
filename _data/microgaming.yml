@@ -1,0 +1,24 @@
+- title: Book of King Arthur
+  id: bookOfKingArthurDesktop
+  img: king-arthur-book.webp
+  url: king-arthur-book
+  lang: id
+  provider: Microgaming
+- title: Atlantis Rising
+  id: atlantisRisingDesktop
+  img: atlantis-rising.webp
+  url: atlantis-rising
+  lang: id
+  provider: Microgaming
+- title: Queen of Alexandria
+  id: queenOfAlexandriaDesktop
+  img: alexandria-queen.webp
+  url: alexandria-queen
+  lang: id
+  provider: Microgaming
+- title: Queen of Alexandria Wowpot
+  id: queenOfAlexandriaWowpotDesktop
+  img: alexandria-queen-wowpot.webp
+  url: alexandria-queen-wowpot
+  lang: id
+  provider: Microgaming
