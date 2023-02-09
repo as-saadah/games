@@ -16,7 +16,7 @@ permalink: /test/
            {% for game in site.data.pragmatic_play %}
           <tr>
             <td>
-            {{ game.title }}
+            <b>{{ game.title }}</b>
             </td>
             <td>
             {{ game.symbol }}
@@ -28,13 +28,3 @@ permalink: /test/
            {% endfor %}
         </tbody>
       </table>
-
-<ol>
- {% for game in site.data.pragmatic_play %}
- <li> 
- {{ game.title }} <br/> {{ game.symbol }}
- </li>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
-</ol>
