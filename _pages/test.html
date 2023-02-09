@@ -4,40 +4,12 @@ title: Test
 permalink: /test/
 ---
 
-<div class="row section">
-  <div class="col">
-    <!-- Modal Trigger -->
-    <a class="waves-effect waves-light btn modal-trigger" data-target="modal1">Modal</a>
-    <p>You have to include jQuery and Materialize JS + CSS for the modal to work. You can include it from <a href="http://materializecss.com/getting-started.html">CDN (getting started)</a>.
-  </div>
-</div>
-<!-- Modal Structure -->
-<div id="modal1" class="modal">
-  <div class="modal-content">
-    <h4>Modal Header</h4>
-    <p>
-      <div class="video-container">
-      <iframe width="560" height="315" src="https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=legendoftheicedragon&lang=id_ID&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%600&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True" frameborder="0" allowfullscreen></iframe></div>
-    </p>
-  </div>
-  <div class="modal-footer">
-    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
-  </div>
-</div>
-
-<div class="row">
+<ol>
  {% for game in site.data.pragmatic_play %}
- <div class="col s6 m4 center-align">
-  <div class="card sticky-action">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img alt="{{ game.title }}" class="activator" src="../assets/images/pp/img/{{ game.img }}">
-    </div>
-    <div class="card-action">
-     <small class="truncate">{{ game.title }}</small>
-    </div>
-  </div>
- </div>
+ <li> 
+ {{ game.title }} <br/> {{ game.symbol }}
+ </li>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
-</div>
+</ol>
