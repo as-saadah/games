@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: white-page
 title: Test
 permalink: /test/
 ---
@@ -13,8 +13,8 @@ permalink: /test/
           </tr>
         </thead>
         <tbody>
-          <tr>
            {% for game in site.data.pragmatic_play %}
+          <tr>
             <td>
             {{ game.title }}
             </td>
@@ -24,8 +24,8 @@ permalink: /test/
             <td>
             {{ game.provider }}
             </td>
-           {% endfor %}
         </tr>
+           {% endfor %}
         </tbody>
       </table>
 
