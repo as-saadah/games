@@ -1,0 +1,30 @@
+---
+layout: white-page
+title: Pragmatic Play Games
+permalink: /pragmaticplay-games-data/
+---
+
+      <table class="striped table-data">
+        <thead>
+          <tr>
+              <th>Nama Permainan</th>
+              <th>Game ID</th>
+              <th>Provider</th>
+          </tr>
+        </thead>
+        <tbody>
+           {% for game in site.data.pragmatic_play %}
+          <tr>
+            <td>
+            <b>{{ game.title }}</b>
+            </td>
+            <td>
+            {{ game.symbol }}
+            </td>
+            <td>
+            {{ game.provider }}
+            </td>
+        </tr>
+           {% endfor %}
+        </tbody>
+      </table>
