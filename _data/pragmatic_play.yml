@@ -12,7 +12,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Starlight Christmas
   symbol: vs20schristmas
   img: starlight-xmas.webp
@@ -27,7 +26,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Sweet Bonanza
   symbol: vs20fruitsw
   img: sweet-bonanza.webp
@@ -42,7 +40,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Diamond Strike
   symbol: vs15diamond
   img: diamond-strike.webp
@@ -57,7 +54,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Aztec Gema Deluxe
   symbol: vs9aztecgemsdx
   img: aztec-gems-deluxe.webp
@@ -72,7 +68,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Bonanza Gold
   symbol: vs20bonzgold
   img: bonanza-gold.webp
@@ -87,7 +82,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-
 - title: Gems Bonanza
   symbol: vs20goldfever
   img: gems-bonanza.webp
@@ -102,7 +96,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: The Hand of Midas
   symbol: vs20midas
   img: midas-hand.webp
@@ -117,7 +110,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Fruit Party
   symbol: vs20fruitparty
   img: fruit-party.webp
@@ -132,7 +124,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Joker's Jewel
   symbol: vs5joker
   img: jokers-jewels.webp
@@ -147,7 +138,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Chicken Drop
   symbol: vs20chickdrop
   img: chicken-drop.webp
@@ -162,7 +152,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-
 - title: Cash Bonanza
   symbol: vswaysbankbonz
   img: cash-bonanza.webp
@@ -177,7 +166,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Fishin Reels
   symbol: vs25btygold
   img: fishin-reels.webp
@@ -192,7 +180,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Sugar Rush
   symbol: vs20sugarrush
   img: sugar-rush.webp
@@ -207,7 +194,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Shield of Sparta
   symbol: vs20sparta
   img: shield-of-sparta.webp
@@ -222,7 +208,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Rise Samurai
   symbol: vs25samurai
   img: risesamurai.webp
@@ -244,7 +229,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Greek Gods
   symbol: vs243fortseren
   img: greek-gods.webp
@@ -252,7 +236,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Fire Strike
   symbol: vs10firestrike
   img: fire-strike.webp
@@ -267,7 +250,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-
 - title: Bomb Bonanza
   symbol: vs25bomb
   img: Bomb-Bonanza.webp
@@ -282,7 +264,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Dragon Kingdom
   symbol: vs25dragonkingdom
   img: dragon-kingdom.webp
@@ -297,7 +278,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-
 - title: Phoenix Forge
   symbol: vs20phoenixf
   img: phoenix-forge.webp
@@ -312,7 +292,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-
 - title: Juicy Fruits
   symbol: vs50juicyfr
   img: juicy-fruits.webp
@@ -320,7 +299,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Extra Juicy
   symbol: vs10fruity2
   img: extra-juicy.webp
@@ -328,7 +306,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: 8 Dragons
   symbol: vs20eightdragons
   img: 8-dragons.webp
@@ -336,7 +313,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play 
-
 - title: 888 Dragons
   symbol: vs1dragon8
   img: 888dragons.webp
@@ -351,7 +327,6 @@
   lang: id
   url: mighty-kong
   provider: Pragmatic Play
-
 - title: Gorilla Mayhem
   provider: Pragmatic Play 
   symbol: vs1024gmayhem
@@ -367,7 +342,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Wild Hop & Drop
   symbol: vs20mparty
   img: wild-hop-drop.webp
@@ -382,7 +356,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Pixie Wings
   symbol: vs50pixie
   img: pixie-wings.webp
@@ -397,7 +370,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Ancient Egypt
   symbol: vs10egypt
   img: ancient-egypt.webp
@@ -412,7 +384,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Egyptian Fortunes
   symbol: vs20egypttrs
   img: egyptian-fortunes.webp
@@ -420,7 +391,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: 7 Monkeys
   symbol: vs7monkeys
   img: 7monkeys.webp
@@ -435,7 +405,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: 5 Lions Gold
   symbol: vs243lionsgold
   img: 5lions-gold.webp
@@ -450,7 +419,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Tropical Tiki
   symbol: vswaysjkrdrop
   img: tropical-tiki.webp
@@ -465,7 +433,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Spartan King
   symbol: vs40spartaking
   img: spartan-king.webp
@@ -480,7 +447,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: The Dog House
   symbol: vs20doghouse
   img: dog-house.webp
@@ -502,7 +468,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Release The Kraken 2
   symbol: vs20kraken2
   img: release-the-kraken2.webp
@@ -517,7 +482,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Sweet Power Nudge 
   symbol: vs20clspwrndg
   img: sweet-power-nudge.webp
@@ -532,7 +496,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: North Guardians
   symbol: vs50northgard
   img: north-guardians.webp
@@ -547,7 +510,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Santa's Wonderland
   symbol: vs20santawonder
   img: santas-wonderland.webp
@@ -626,8 +588,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
-
 - title: Towering Fortunes
   symbol: vs20theights
   img: towering-fortunes.webp
@@ -670,7 +630,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Monster Superlanche
   symbol: vs20superlanche
   img: monster-superlanche.webp
@@ -678,7 +637,7 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Tiger Warrior
+- title: The Tiger Warrior
   symbol: vs25tigerwar
   img: tiger-warrior.webp
   url: tiger-warrior
@@ -776,7 +735,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-
 - title: Dragon Tiger
   symbol: vs1024dtiger
   img: dragon-tiger.webp
