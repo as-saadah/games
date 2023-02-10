@@ -260,3 +260,13 @@
   url: spirited-wonders
   id: 119
   provider: PG Soft Games
+- title: 3 Monkeys
+  img: 3monkeys.webp
+  url: 3monkeys
+  id: 43
+  provider: PG Soft Games
+- title: Midas Fortune
+  img: midas-fortune.webp
+  url: midas-fortune
+  id: 1402846
+  provider: PG Soft Games
