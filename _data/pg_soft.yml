@@ -168,3 +168,33 @@
   url: legend-of-perseus
   id: 128
   provider: PG Soft Games
+- title: Lucky Piggy 
+  img: lucky-piggy.webp
+  url: lucky-piggy
+  id: 130
+  provider: PG Soft Games
+- title: Jungle Delight 
+  img: jungle-delight.webp
+  url: jungle-delight
+  id: 40
+  provider: PG Soft Games
+- title: Captain's Bounty 
+  img: captains-bounty.webp
+  url: captains-bounty
+  id: 54
+  provider: PG Soft Games
+- title: Battleground Royale 
+  img: battleground-royale.webp
+  url: battleground-royale
+  id: 124
+  provider: PG Soft Games
+- title: Wild Fireworks 
+  img: wild-fireworks.webp
+  url: wild-fireworks
+  id: 83
+  provider: PG Soft Games
+- title: Spirited Wonders 
+  img: spirited-wonders.webp
+  url: spirited-wonders
+  id: 119
+  provider: PG Soft Games
