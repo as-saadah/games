@@ -297,3 +297,39 @@ reel-love:
   url: reel-love
   id: 20
   provider: PG Soft Games
+lucky-piggy:
+  title: Lucky Piggy 
+  img: lucky-piggy.webp
+  url: lucky-piggy
+  id: 130
+  provider: PG Soft Games
+jungle-delight:
+  title: Jungle Delight 
+  img: jungle-delight.webp
+  url: jungle-delight
+  id: 40
+  provider: PG Soft Games
+captains-bounty:
+  title: Captain's Bounty 
+  img: captains-bounty.webp
+  url: captains-bounty
+  id: 54
+  provider: PG Soft Games
+battleground-royale:
+  title: Battleground Royale 
+  img: battleground-royale.webp
+  url: battleground-royale
+  id: 124
+  provider: PG Soft Games
+wild-fireworks:
+  title: Wild Fireworks 
+  img: wild-fireworks.webp
+  url: wild-fireworks
+  id: 83
+  provider: PG Soft Games
+spirited-wonders:
+  title: Spirited Wonders 
+  img: spirited-wonders.webp
+  url: spirited-wonders
+  id: 119
+  provider: PG Soft Games
