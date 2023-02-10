@@ -275,3 +275,8 @@
   url: wild-bandito
   id: 104
   provider: PG Soft Games
+- title: Dragon Tiger Luck
+  img: dragon-tiger-luck.webp
+  url: pgsoft/dragon-tiger-luck
+  id: 63
+  provider: PG Soft Games
