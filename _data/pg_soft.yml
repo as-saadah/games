@@ -219,6 +219,16 @@
   url: win-win-won
   id: 24
   provider: PG Soft Games
+- title: Fortune Rabbit 
+  img: fortune-rabbit.webp
+  url: fortune-rabbit
+  id: 1543462
+  provider: PG Soft Games
+- title: Medusa II
+  img: medusa2.webp
+  url: medusa2
+  id: 6
+  provider: PG Soft Games
 
 - title: Lucky Piggy 
   img: lucky-piggy.webp
