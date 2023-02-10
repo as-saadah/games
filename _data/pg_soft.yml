@@ -178,6 +178,13 @@
   url: dragon-legend
   id: 29
   provider: PG Soft Games
+
+- title: Jack Frost's Winter
+  img: jack-frosts-winter.webp
+  url: jack-frosts-winter
+  id: 97
+  provider: PG Soft Games
+
 - title: Lucky Piggy 
   img: lucky-piggy.webp
   url: lucky-piggy
