@@ -168,6 +168,16 @@
   url: legend-of-perseus
   id: 128
   provider: PG Soft Games
+- title: Groundhog Harvest
+  img: groundhog-harvest.webp
+  url: groundhog-harvest
+  id: 111
+  provider: PG Soft Games
+- title: Dragon Legend
+  img: dragon-legend.webp
+  url: dragon-legend
+  id: 29
+  provider: PG Soft Games
 - title: Lucky Piggy 
   img: lucky-piggy.webp
   url: lucky-piggy
