@@ -184,6 +184,11 @@
   url: jack-frosts-winter
   id: 97
   provider: PG Soft Games
+- title: Raider Jane's Crypt Of Fortune
+  img: raider-janes-crypt-of-fortune.webp
+  url: raider-jane
+  id: 113
+  provider: PG Soft Games
 
 - title: Lucky Piggy 
   img: lucky-piggy.webp
