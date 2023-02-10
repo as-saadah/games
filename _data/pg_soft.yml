@@ -189,6 +189,16 @@
   url: raider-jane
   id: 113
   provider: PG Soft Games
+- title: Rooster Rumble
+  img: rooster-rumble.webp
+  url: rooster-rumble
+  id: 123
+  provider: PG Soft Games
+- title: Reel Love 
+  img: reel-love.webp
+  url: reel-love
+  id: 20
+  provider: PG Soft Games
 
 - title: Lucky Piggy 
   img: lucky-piggy.webp
