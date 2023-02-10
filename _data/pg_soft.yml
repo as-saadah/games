@@ -209,6 +209,16 @@
   url: plushie-frenzy
   id: 25
   provider: PG Soft Games
+- title: Symbols of Egypt 
+  img: symbols-of-egypt.webp
+  url: symbols-of-egypt
+  id: 41
+  provider: PG Soft Games
+- title: Win Win Won
+  img: win-win-won.webp
+  url: win-win-won
+  id: 24
+  provider: PG Soft Games
 
 - title: Lucky Piggy 
   img: lucky-piggy.webp
