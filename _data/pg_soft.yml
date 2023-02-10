@@ -199,6 +199,16 @@
   url: reel-love
   id: 20
   provider: PG Soft Games
+- title: Totem Wonders
+  img: totem-wonders.webp
+  url: totem-wonders
+  id: 57
+  provider: PG Soft Games
+- title: Plushie Frenzy
+  img: plushie-frenzy.webp
+  url: plushie-frenzy
+  id: 25
+  provider: PG Soft Games
 
 - title: Lucky Piggy 
   img: lucky-piggy.webp
