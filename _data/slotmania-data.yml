@@ -1,0 +1,48 @@
+slotmania-olympus:
+  title: Slot Mania Olympus
+  symbol: vs20olympmania
+  img: slotmania-olympus.webp
+  url: slotmania/slotmania-olympus
+  currency: idr
+  lang: id
+  provider: Slot Mania Pragmatic
+slotmania-princess:
+  title: Slot Mania Princess
+  symbol: vs20smprincess
+  img: slotmania-princess.webp
+  url: slotmania/slotmania-princess
+  currency: idr
+  lang: id
+  provider: Slot Mania Pragmatic
+slotmania-wwg:
+  title: Wild West Slot Mania
+  symbol: vs40smwildwest
+  img: slotmania-wwg.webp
+  url: slotmania/slotmania-wwg
+  currency: idr
+  lang: id
+  provider: Slot Mania Pragmatic
+slotmania-sweet:
+  title: Sweet Slot Mania
+  symbol: vs20fruitmania
+  img: slotmania-sweet.webp
+  url: slotmania/slotmania-sweet
+  currency: idr
+  lang: id
+  provider: Slot Mania Pragmatic
+slotmania-bonanza-gold:
+  title: Slot Mania Bonanza Gold
+  symbol: vs20goldmania
+  img: slotmania-bonanzagold.webp
+  url: slotmania/slotmania-bonanza-gold
+  currency: idr
+  lang: id
+  provider: Slot Mania Pragmatic
+slotmania-sugar:
+  title: Sugar Slot Mania
+  symbol: vs20slotsugar
+  img: slotmania-sugar.webp
+  url: slotmania/slotmania-sugar
+  currency: idr
+  lang: id
+  provider: Slot Mania Pragmatic
