@@ -6,12 +6,12 @@ active: slotmania
 ---
 
 <div class="row">
- {% for game in site.data.slotmania %}
+ {% for game in site.data.slotmania-lists %}
  <div class="col s6 m4 center-align">
   <div class="card sticky-action">
     <div class="card-image waves-effect waves-block waves-light">
      <a href="../{{ game.url }}">
-      <img class="lazy activator" src="../assets/loader.gif" data-src="../assets/images/pp/{{ game.img }}" alt="{{ game.title }}">
+      <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/images/pp/{{ game.img }}" alt="{{ game.title }}">
      </a>
     </div>
     <div class="card-action">
