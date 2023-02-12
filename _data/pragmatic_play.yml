@@ -40,13 +40,6 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Diamond Strike
-  symbol: vs15diamond
-  img: diamond-strike.webp
-  url: diamond-strike
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
 - title: Aztec Gems
   symbol: vs5aztecgems
   img: aztec-gems.webp
@@ -61,6 +54,13 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: Wild West Gold
+  symbol: vs40wildwest
+  img: wild-west-gold.webp
+  url: wild-west-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: Wild West Duels
   symbol: vs20pistols
   img: wild-west-duels.webp
@@ -68,10 +68,10 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
-- title: Wild West Gold
-  symbol: vs40wildwest
-  img: wild-west-gold.webp
-  url: wild-west-gold
+- title: Diamond Strike
+  symbol: vs15diamond
+  img: diamond-strike.webp
+  url: diamond-strike
   currency: idr
   lang: id
   provider: Pragmatic Play
