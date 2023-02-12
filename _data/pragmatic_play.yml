@@ -61,6 +61,20 @@
   currency: idr
   lang: id
   provider: Pragmatic Play
+- title: Wild West Duels
+  symbol: vs20pistols
+  img: wild-west-duels.webp
+  url: pragmatic-play/wild-west-duels
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+- title: Wild West Gold
+  symbol: vs40wildwest
+  img: wild-west-gold.webp
+  url: wild-west-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 - title: Drill That Gold
   symbol: vs20drtgold
   img: drill-that-gold.webp
@@ -170,13 +184,6 @@
   symbol: vs25btygold
   img: fishin-reels.webp
   url: fishin-reels
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Wild West Gold
-  symbol: vs40wildwest
-  img: wild-west-gold.webp
-  url: wild-west-gold
   currency: idr
   lang: id
   provider: Pragmatic Play
@@ -865,13 +872,6 @@
   symbol: vs1600drago
   img: drago-jewels-fortune.webp
   url: pragmatic-play/drago-jewels
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
-- title: Wild West Duels
-  symbol: vs20pistols
-  img: wild-west-duels.webp
-  url: pragmatic-play/wild-west-duels
   currency: idr
   lang: id
   provider: Pragmatic Play
