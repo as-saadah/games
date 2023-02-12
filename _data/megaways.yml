@@ -124,3 +124,17 @@
   currency: idr
   lang: id
   provider: Megaways 
+- title: Spin & Score Megaways
+  symbol: vswaysfrywld
+  img: spin-score-megaways.webp
+  url: megaways/spin-score
+  currency: idr
+  lang: id
+  provider: Megaways
+- title: Buffalo King Megaways
+  symbol: vswaysbufking
+  img: buffalo-king-megaways.webp
+  url: megaways/buffalo-king
+  currency: idr
+  lang: id
+  provider: Megaways
