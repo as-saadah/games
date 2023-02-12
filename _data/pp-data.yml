@@ -1,3 +1,1011 @@
+olympus-gates:
+  title: Gates of Olympus
+  symbol: vs20olympgate
+  img: olympus-gates.webp
+  url: pragmatic-play/olympus-gates
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+starlight-princess:
+  title: Starlight Princess
+  symbol: vs20starlight
+  img: starlight-princess.webp
+  url: pragmatic-play/starlight-princess
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+starlight-christmas:
+  title: Starlight Christmas
+  symbol: vs20schristmas
+  img: starlight-xmas.webp
+  url: pragmatic-play/starlight-christmas
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+gatot-kaca:
+  title: Gates of Gatot Kaca
+  symbol: vs20gatotgates
+  img: gatotkaca.webp
+  url: pragmatic-play/gatot-kaca
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+sweet-bonanza:
+  title: Sweet Bonanza
+  symbol: vs20fruitsw
+  img: sweet-bonanza.webp
+  url: pragmatic-play/sweet-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+bonanza-xmas:
+  title: Sweet Bonanza XMAS
+  symbol: vs20sbxmas
+  img: sweet-bonanza-xmas.webp
+  url: pragmatic-play/bonanza-xmas
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+diamond-strike:
+  title: Diamond Strike
+  symbol: vs15diamond
+  img: diamond-strike.webp
+  url: pragmatic-play/diamond-strike
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aztec-gems:
+  title: Aztec Gems
+  symbol: vs5aztecgems
+  img: aztec-gems.webp
+  url: pragmatic-play/aztec-gems
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aztec-gems-deluxe:
+  title: Aztec Gema Deluxe
+  symbol: vs9aztecgemsdx
+  img: aztec-gems-deluxe.webp
+  url: pragmatic-play/aztec-gems-deluxe
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+drill-that-gold:
+  title: Drill That Gold
+  symbol: vs20drtgold
+  img: drill-that-gold.webp
+  url: pragmatic-play/drill-that-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+bonanza-gold:
+  title: Bonanza Gold
+  symbol: vs20bonzgold
+  img: bonanza-gold.webp
+  url: pragmatic-play/bonanza-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+pyramid-bonanza:
+  title: Pyramid Bonanza
+  symbol: vs20pbonanza
+  img: pyramid-bonanza.webp
+  url: pragmatic-play/pyramid-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+gems-bonanza:
+  title: Gems Bonanza
+  symbol: vs20goldfever
+  img: gems-bonanza.webp
+  url: pragmatic-play/gems-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+tweety-house:
+  title: The Tweety House
+  symbol: vs20tweethouse
+  img: tweety-house.webp
+  url: pragmatic-play/tweety-house
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+midas-hand:
+  title: The Hand of Midas
+  symbol: vs20midas
+  img: midas-hand.webp
+  url: pragmatic-play/midas-hand
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+lucky-lightning:
+  title: Lucky Lightning
+  symbol: vswayslight
+  img: lucky.webp
+  url: pragmatic-play/lucky-lightning
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+clover-gold:
+  title: Clover Gold
+  symbol: vs20mustanggld2
+  img: clover-gold.webp
+  url: pragmatic-play/clover-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+spirit-adventure:
+  title: Spirit of Adventure
+  symbol: vs10spiritadv
+  img: spirit-of-adventure.webp
+  url: pragmatic-play/spirit-adventure
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+amazing-money-machine:
+  title: The Amazing Money Machine
+  symbol: vs10amm
+  img: amazing-money-machine.webp
+  url: pragmatic-play/amazing-money-machine
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+fruit-party:
+  title: Fruit Party
+  symbol: vs20fruitparty
+  img: fruit-party.webp
+  url: pragmatic-play/fruit-party
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+fruit-party-2:
+  title: Fruit Party 2
+  symbol: vs20fparty2
+  img: fruit-party2.webp
+  url: pragmatic-play/fruit-party2
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+jokers-jewel:
+  title: Joker's Jewel
+  symbol: vs5joker
+  img: jokers-jewels.webp
+  url: pragmatic-play/jokers-jewel
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+candy-village:
+  title: Candy Village
+  symbol: vs20candvil
+  img: candy-village.webp
+  url: pragmatic-play/candy-village
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+chicken-drop:
+  title: Chicken Drop
+  symbol: vs20chickdrop
+  img: chicken-drop.webp
+  url: pragmatic-play/chicken-drop
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+rainbow-gold:
+  title: Rainbow Gold
+  symbol: vs20rainbowg
+  img: rainbow-gold.webp
+  url: pragmatic-play/rainbow-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+cash-bonanza: 
+  title: Cash Bonanza
+  symbol: vswaysbankbonz
+  img: cash-bonanza.webp
+  url: pragmatic-play/cash-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+bounty-gold: 
+  title: Bounty Gold
+  symbol: vs10goldfish
+  img: bounty-gold.webp
+  url: pragmatic-play/bounty-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+fishin-reels: 
+  title: Fishin Reels
+  symbol: vs25btygold
+  img: fishin-reels.webp
+  url: pragmatic-play/fishin-reels
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-man:
+  title: WildMan Super Bonanza
+  symbol: vs20wildman
+  img: wildman-super-bonanza.webp
+  url: pragmatic-play/wildman-super-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wwg:
+  title: Wild West Gold
+  symbol: vs40wildwest
+  img: wild-west-gold.webp
+  url: pragmatic-play/wild-west-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+pirate-golden-age:
+  title: Pirate Golden Age
+  symbol: vs20mtreasure
+  img: pirate-golden-age.webp
+  url: pragmatic-play/pirate-golden-age
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+sugar-rush:
+  title: Sugar Rush
+  symbol: vs20sugarrush
+  img: sugar-rush.webp
+  url: pragmatic-play/sugar-rush
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+ares-sword:
+  title: Sword of Ares
+  symbol: vs20swordofares
+  img: sword-of-ares.webp
+  url: pragmatic-play/ares-sword
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+sparta-shield:
+  title: Shield of Sparta
+  symbol: vs20sparta
+  img: shield-of-sparta.webp
+  url: pragmatic-play/sparta-shield
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+astard-kingdom:
+  title: Kingdom of Astard
+  symbol: vs20asgard
+  img: kingdom-of-astard.webp
+  url: pragmatic-play/astard-kingdom
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+rise-samurai3:
+  title: Rise Samurai 3
+  symbol: vs40samurai3
+  img: risesamurai3.webp
+  url: pragmatic-play/rise-samurai3
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+barn-festival:
+  title: Barn Festival
+  symbol: vs20farmfest
+  img: barn-festival.webp
+  url: pragmatic-play/barn-festival
+  currency: idr
+  lang: id
+  provider: Pragmatic Play 
+rise-samurai:
+  title: Rise Samurai
+  symbol: vs25samurai
+  img: rise-samurai.webp
+  url: pragmatic-play/rise-samurai
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aztec-blaze:
+  title: Aztec Blaze
+  symbol: vs25kfruit
+  img: aztec-blaze.webp
+  url: pragmatic-play/aztec-blaze
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+north-guardians:
+  title: North Guardians
+  symbol: vs50northgard
+  img: north-guardians.webp
+  url: pragmatic-play/north-guardians
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+greek-gods:
+  title: Greek Gods
+  symbol: vs243fortseren
+  img: greek-gods.webp
+  url: pragmatic-play/greek-gods
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+valhalla-gates:
+  title: Gates of Valhalla
+  symbol: vs10runes
+  img: valhalla-gates.webp
+  url: pragmatic-play/valhalla-gates
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+spartan-king:
+  title: Spartan King
+  symbol: vs40spartaking
+  img: spartan-king.webp
+  url: pragmatic-play/spartan-king
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+fire-strike:
+  title: Fire Strike
+  symbol: vs10firestrike
+  img: fire-strike.webp
+  url: pragmatic-play/fire-strike
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+fire-strike-2:
+  title: Fire Strike 2
+  symbol: vs10firestrike2
+  img: fire-strike-2.webp
+  url: pragmatic-play/fire-strike2
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+bomb-bonanza: 
+  title: Bomb Bonanza
+  symbol: vs25bomb
+  img: bomb-bonanza.webp
+  url: pragmatic-play/bomb-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+cowboys-gold: 
+  title: Cowboys Gold
+  symbol: vs10cowgold
+  img: cowboys-gold.webp
+  url: pragmatic-play/cowboys-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+dragon-kingdom: 
+  title: Dragon Kingdom
+  symbol: vs25dragonkingdom
+  img: dragon-kingdom.webp
+  url: pragmatic-play/dragon-kingdom
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+santas-gifts: 
+  title: Santa's Great Gifts
+  symbol: vs20porbs
+  img: santas-great-gifts.webp
+  url: pragmatic-play/santas-gifts
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+phoenix-forge: 
+  title: Phoenix Forge
+  symbol: vs20phoenixf
+  img: phoenix-forge.webp
+  url: pragmatic-play/phoenix-forge
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+joker-king: 
+  title: Joker King
+  symbol: vs25jokerking
+  img: joker-king.webp
+  url: pragmatic-play/joker-king
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+juicy-fruits: 
+  title: Juicy Fruits
+  symbol: vs50juicyfr
+  img: juicy-fruits.webp
+  url: pragmatic-play/juicy-fruits
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+dragon-tiger: 
+  title: Dragon Tiger
+  symbol: vs1024dtiger
+  img: dragon-tiger.webp
+  url: pragmatic-play/dragon-tiger
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+dragon-hero: 
+  title: Dragon Hero
+  symbol: vs20drgbless
+  img: dragon-hero.webp
+  url: pragmatic-play/dragon-hero
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+extra-juicy: 
+  title: Extra Juicy
+  symbol: vs10fruity2
+  img: extra-juicy.webp
+  url: pragmatic-play/extra-juicy
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+lucky-dragons: 
+  title: Lucky Dragons
+  symbol: vs50chinesecharms
+  img: lucky-dragons.webp
+  url: pragmatic-play/lucky-dragons
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+8-dragons: 
+  title: 8 Dragons
+  symbol: vs20eightdragons
+  img: 8-dragons.webp
+  url: pragmatic-play/8dragons
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+888-dragons: 
+  title: 888 Dragons
+  symbol: vs1dragon8
+  img: 888dragons.webp
+  url: pragmatic-play/888dragons
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+mighty-kong: 
+  title: Mighty Kong
+  symbol: vs50kingkong
+  img: mighty-kong.webp
+  currency: idr
+  lang: id
+  url: pragmatic-play/mighty-kong
+  provider: Pragmatic Play
+gorilla-mayhem: 
+  title: Gorilla Mayhem
+  provider: Pragmatic Play 
+  symbol: vs1024gmayhem
+  img: gorilla-mayhem.webp
+  url: pragmatic-play/gorilla-mayhem
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aztec-bonanza:
+  title: Aztec Bonanza
+  symbol: vs7776aztec
+  img: aztec-bonanza.webp
+  url: pragmatic-play/aztec-bonanza
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-hop-drop:
+  title: Wild Hop & Drop
+  symbol: vs20mparty
+  img: wild-hop-drop.webp
+  url: pragmatic-play/wild-hop-drop
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+lady-godiva:
+  title: Lady Godiva
+  symbol: vs20godiva
+  img: lady-godiva.webp
+  url: pragmatic-play/lady-godiva
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+pixie-wings:
+  title: Pixie Wings
+  symbol: vs50pixie
+  img: pixie-wings.webp
+  url: pragmatic-play/pixie-wings
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+queen-of-gold:
+  title: Queen of Gold
+  symbol: vs25queenofgold
+  img: queen-of-gold.webp
+  url: pragmatic-play/queen-of-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+ancient-egypt:
+  title: Ancient Egypt
+  symbol: vs10egypt
+  img: ancient-egypt.webp
+  url: pragmatic-play/ancient-egypt
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+ancient-egypt-classic:
+  title: Ancient Egypt Classic
+  symbol: vs10egyptcls
+  img: ancient-egypt-classic.webp
+  url: pragmatic-play/ancient-egypt-classic
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+egyptian-fortunes:
+  title: Egyptian Fortunes
+  symbol: vs20egypttrs
+  img: egyptian-fortunes.webp
+  url: pragmatic-play/egyptian-fortunes
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+spaceman:
+  title: Spaceman
+  symbol: 1302
+  img: spaceman.webp
+  url: pragmatic-play/spaceman
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+5lions:
+  title: 5 Lions
+  symbol: vs243lions
+  img: 5lions.webp
+  url: pragmatic-play/5lions
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+5lions-gold:
+  title: 5 Lions Gold
+  symbol: vs243lionsgold
+  img: 5lions-gold.webp
+  url: pragmatic-play/5lions-gold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+5lions-dance:
+  title: 5 Lions Dance
+  symbol: vs1024lionsd
+  img: 5lions-dance.webp
+  url: pragmatic-play/5lions-dance
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+tropical-tiki:
+  title: Tropical Tiki
+  symbol: vswaysjkrdrop
+  img: tropical-tiki.webp
+  url: pragmatic-play/tropical-tiki
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+7monkeys:
+  title: 7 Monkeys
+  symbol: vs7monkeys
+  img: 7monkeys.webp
+  url: pragmatic-play/7monkeys
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+7piggies:
+  title: 7 Piggies
+  symbol: vs7pigs
+  img: 7piggies.webp
+  url: pragmatic-play/7piggies
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+dog-house:
+  title: The Dog House
+  symbol: vs20doghouse
+  img: dog-house.webp
+  url: pragmatic-play/dog-house
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+dog-house-multihold:
+  title: The Dog House Multihold
+  symbol: vs20doghousemh
+  img: dog-house-multihold.webp
+  url: pragmatic-play/dog-house-multihold
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+release-kraken:
+  title: Release The Kraken
+  symbol: vs20kraken
+  img: release-the-kraken.webp
+  url: pragmatic-play/release-kraken
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+release-kraken2:
+  title: Release The Kraken 2
+  symbol: vs20kraken2
+  img: release-the-kraken2.webp
+  url: pragmatic-play/release-kraken2
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-machine:
+  title: The Wild Machine
+  symbol: vs40madwheel
+  img: the-wild-machine.webp
+  url: pragmatic-play/wild-machine
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+sweet-power-nudge:
+  title: Sweet Power Nudge 
+  symbol: vs20clspwrndg
+  img: sweet-power-nudge.webp
+  url: pragmatic-play/sweet-power-nudge
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+hot-pepper:
+  title: Hot Pepper
+  symbol: vs20dugems
+  img: hot-pepper.webp
+  url: pragmatic-play/hot-pepper
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+santas-wonderland:
+  title: Santa's Wonderland
+  symbol: vs20santawonder
+  img: santas-wonderland.webp
+  url: pragmatic-play/santas-wonderland
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+santa:
+  title: Santa
+  symbol: vs20santa
+  img: santa.webp
+  url: pragmatic-play/santa
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-wild-riches:
+  title: Wild Wild Riches
+  symbol: vs576treasures
+  img: wild-wild-riches.webp
+  url: pragmatic-play/wild-wild-riches
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+coffee-wild:
+  title: Coffee Wild
+  symbol: vs10coffee
+  img: coffee-wild.webp
+  url: pragmatic-play/coffee-wild
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+octobeer-fortunes:
+  title: October Fortunes
+  symbol: vs20octobeer
+  img: octobeer-fortunes.webp
+  url: pragmatic-play/octobeer-fortunes
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+chicken-chase:
+  title: Chicken Chase
+  symbol: vs10chkchase
+  img: chicken-chase.webp
+  url: pragmatic-play/chicken-chase
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+rio-heart:
+  title: Heart of Rio
+  symbol: vs25rio
+  img: rio-heart.webp
+  url: pragmatic-play/rio-heart
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+firebird-spirit:
+  title: Firebird Spirit 
+  symbol: vswaysconcoll
+  img: firebird-spirit.webp
+  url: pragmatic-play/firebird-spirit
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+gems-serengeti:
+  title: Gems of Serengeti
+  symbol: vs20lcount
+  img: gems-of-serengeti.webp
+  url: pragmatic-play/gems-serengeti
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+cleopatra-eye:
+  title: Eye of Cleopatra
+  symbol: vs40cleoeye
+  img: eye-of-cleopatra.webp
+  url: pragmatic-play/cleopatra-eye
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+ra-might:
+  title: Might of RA
+  symbol: vs50mightra
+  img: ra-might.webp
+  url: pragmatic-play/ra-might
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+giza-fortune:
+  title: Fortune of Giza
+  symbol: vs20amuleteg
+  img: giza-fortune.webp
+  url: pragmatic-play/giza-fortune
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+pyramid-king:
+  title: Pyramid King
+  symbol: vs25pyramid
+  img: pyramid-king.webp
+  url: pragmatic-play/pyramid-king
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+mysterious-egypt:
+  title: Mysterious Egypt
+  symbol: vs10wildtut
+  img: mysterious-egypt.webp
+  url: pragmatic-play/mysterious-egypt
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aladdin-sorcerer:
+  title: Aladdin and The Sorcerer
+  symbol: vs20aladdinsorc
+  img: aladdin-sorcerer.webp
+  url: pragmatic-play/aladdin-sorcerer
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+hercules-pegasus:
+  title: Hercules & Pegasus
+  symbol: vs20hercpeg
+  img: hercules-pegasus.webp
+  url: pragmatic-play/hercules-pegasus
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+hercules-zeus-son:
+  title: Hercules Son of Zeus
+  symbol: vs50hercules
+  img: hercules-zeus-son.webp
+  url: pragmatic-play/hercules-zeus-son
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+reel-banks:
+  title: Reel Banks
+  symbol: vs25rlbank
+  img: reel-banks.webp
+  url: pragmatic-play/reel-banks
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+towering-fortunes:
+  title: Towering Fortunes
+  symbol: vs20theights
+  img: towering-fortunes.webp
+  url: pragmatic-play/towering-fortunes
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+great-rhino:
+  title: Great Rhino
+  symbol: vs20rhino
+  img: great-rhino.webp
+  url: pragmatic-play/great-rhino
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+great-rhino-deluxe:
+  title: Great Rhino Deluxe
+  symbol: vs20rhinoluxe
+  img: great-rhino-deluxe.webp
+  url: pragmatic-play/great-rhino-deluxe
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+gold-rush:
+  title: Gold Rush
+  symbol: vs25goldrush
+  img: gold-rush.webp
+  url: pragmatic-play/gold-rush
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aztec-gates:
+  title: Gates of Aztec
+  symbol: vs20aztecgates
+  img: aztec-gates.webp
+  url: pragmatic-play/aztec-gates
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+hokkaido-wolf:
+  title: Hokkaido Wolf
+  symbol: vs576hokkwolf
+  img: hokkaido-wolf.webp
+  url: pragmatic-play/hokkaido-wolf
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+super7s:
+  title: Super 7s™
+  symbol: vs5super7
+  img: super7s.webp
+  url: pragmatic-play/super7s
+  currency: idr
+  lang: id
+  provider: Pragmatic Play  
+monster-superlanche:
+  title: Monster Superlanche
+  symbol: vs20superlanche
+  img: monster-superlanche.webp
+  url: pragmatic-play/monster-superlanche
+  currency: idr
+  lang: id
+tiger-warrior:
+  title: Tiger Warrior
+  symbol: vs25tigerwar
+  img: tiger-warrior.webp
+  url: pragmatic-play/tiger-warrior
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+street-racer:
+  title: Street Racer
+  symbol: vs40streetracer
+  img: street-racer.webp
+  url: pragmatic-play/street-racer
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+star-bounty:
+  title: Star Bounty
+  symbol: vswayshive
+  img: star-bounty.webp
+  url: pragmatic-play/star-bounty
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+fire-archer:
+  title: Fire Archer
+  symbol: vs25archer
+  img: fire-archer.webp
+  url: pragmatic-play/fire-archer
+  currency: idr
+  lang: id
+  provider: Pragmatic Play  
+atlantis-queen:
+  title: Queen of Atlantis
+  symbol: vs1024atlantis
+  img: queen-of-atlantis.webp
+  url: pragmatic-play/queen-of-atlantis
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+aladdins-treasure:
+  title: Aladdin's Treasure
+  symbol: vs50amt
+  img: aladdins-treasure.webp
+  url: pragmatic-play/aladdins-treasure
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+pirate-gold-deluxe:
+  title: Pirate Gold Deluxe
+  symbol: vs40pirgold
+  img: pirate-gold-deluxe.webp
+  url: pragmatic-play/pirate-gold-deluxe
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+fruit-rainbow:
+  title: Fruit Rainbow
+  symbol: vs40frrainbow
+  img: fruit-rainbow.webp
+  url: pragmatic-play/fruit-rainbow
+  currency: idr
+  lang: id
+  provider: Pragmatic Play   
+mahjong-panda:
+  title: Mahjong Panda
+  symbol: vs1024mahjpanda
+  img: mahjong-panda.webp
+  url: pragmatic-play/mahjong-panda
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-beach-party:
+  title: Wild Beach Party
+  symbol: vs20bchprty
+  img: wild-beach-party.webp
+  url: pragmatic-play/wild-beach-party
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+jasmine-dreams:
+  title: Jasmine Dreams
+  symbol: vs20mvwild
+  img: jasmine-dreams.webp
+  url: pragmatic-play/jasmine-dreams
+  currency: idr
+  lang: id
+  provider: Pragmatic Play  
+cowboy-coins:
+  title: Cowboy Coins
+  symbol: vswaysultrcoin
+  img: cowboy-coins.webp
+  url: pragmatic-play/cowboy-coins
+  currency: idr
+  lang: id
+  provider: Pragmatic Play   
+vegas-nights:
+  title: Vegas Nights
+  symbol: vs25vegas
+  img: vegas-nights.webp
+  url: pragmatic-play/vegas-nights
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+pinup-girls:
+  title: Pinup Girls
+  symbol: vs20ltng
+  img: pinup-girls.webp
+  url: pragmatic-play/pinup-girls
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+flying-hippo:
+  title: Flying Hippo
+  symbol: vs20hippos
+  img: flying-hippo.webp
+  url: pragmatic-play/flying-hippo
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+flying-hippo:
+  title: Flying Hippo
+  symbol: vs20hippos
+  img: flying-hippo.webp
+  url: pragmatic-play/flying-hippo
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+wild-wild-bananas:
+  title: Wild wild Bananas
+  symbol: vswayswwhex
+  img: wild-wild-bananas.webp
+  url: pragmatic-play/wild-wild-bananas
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+cash-patrol:
+  title: Cash Patrol
+  symbol: vs25copsrobbers
+  img: cash-patrol.webp
+  url: pragmatic-play/cash-patrol
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
 greedy-wolf:
   title: Greedy Wolf
   symbol: vs20wolfie
@@ -27,6 +1035,22 @@ yum-yum-powerways:
   symbol: vswaysyumyum
   img: yum-yum-powerways.webp
   url: pragmatic-play/yum-yum-powerways
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+knight-king:
+  title: The Knight King
+  symbol: vs20sknights
+  img: knight-king.webp
+  url: pragmatic-play/knight-king
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
+magic-crystals:
+  title: Magic Crystals
+  symbol: vs243crystalcave
+  img: magic-crystals.webp
+  url: pragmatic-play/magic-crystals
   currency: idr
   lang: id
   provider: Pragmatic Play
