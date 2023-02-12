@@ -1,0 +1,48 @@
+- title: Brothers Kingdom
+  id: S-GK01
+  img: brothers-kingdom.webp
+  url: spadegaming/brothers-kingdom
+  lang: id_ID
+  provider: Spadegaming
+- title: Zeus
+  id: S-ZE01
+  img: zeus.webp
+  url: spadegaming/zeus
+  lang: id_ID
+  provider: Spadegaming
+- title: Sugar Bonanza
+  id: S-CB02
+  img: sugar-bonanza.webp
+  url: spadegaming/sugar-bonanza
+  lang: id_ID
+  provider: Spadegaming
+- title: Sugar Party
+  id: S-SP04
+  img: sugar-party.webp
+  url: spadegaming/sugar-party
+  lang: id_ID
+  provider: Spadegaming 
+- title: Candy Candy
+  id: S-CP02
+  img: candy-candy.webp
+  url: spadegaming/candy-candy
+  lang: id_ID
+  provider: Spadegaming 
+- title: King Pharaoh
+  id: S-PH02
+  img: king-pharaoh.webp
+  url: spadegaming/king-pharaoh
+  lang: id_ID
+  provider: Spadegaming 
+- title: Princess Wang
+  id: S-PW02
+  img: princess-wang.webp
+  url: spadegaming/princess-wang
+  lang: id_ID
+  provider: Spadegaming 
+- title: Mayan Gems
+  id: S-MG02
+  img: mayan-gems.webp
+  url: spadegaming/mayan-gems
+  lang: id_ID
+  provider: Spadegaming 
