@@ -13,6 +13,11 @@
   url: lucky-neko
   id: 89
   provider: PG Soft Games
+- title: Wild Bandito
+  img: wild-bandito.webp
+  url: pgsoft/wild-bandito
+  id: 104
+  provider: PG Soft Games
 - title: Dragon Hatch
   img: dragon-hatch.webp
   url: dragon-hatch
@@ -178,7 +183,6 @@
   url: dragon-legend
   id: 29
   provider: PG Soft Games
-
 - title: Jack Frost's Winter
   img: jack-frosts-winter.webp
   url: jack-frosts-winter
@@ -229,7 +233,6 @@
   url: medusa2
   id: 6
   provider: PG Soft Games
-
 - title: Lucky Piggy 
   img: lucky-piggy.webp
   url: lucky-piggy
@@ -269,11 +272,6 @@
   img: midas-fortune.webp
   url: midas-fortune
   id: 1402846
-  provider: PG Soft Games
-- title: Wild Bandito
-  img: wild-bandito.webp
-  url: pgsoft/wild-bandito
-  id: 104
   provider: PG Soft Games
 - title: Dragon Tiger Luck
   img: dragon-tiger-luck.webp
