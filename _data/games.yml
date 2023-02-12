@@ -270,6 +270,14 @@ wwg-megaways:
   currency: idr
   lang: id
   provider: Megaways
+mammoth-gold:
+  title: Mammoth Gold Megaways
+  symbol: vs20mammoth
+  img: mammoth-gold.webp
+  url: /megaways/mammoth-gold
+  currency: idr
+  lang: id
+  provider: Megaways
 aztec-king-megaways:
   title: Aztec King
   symbol: vswaysaztecking
