@@ -278,3 +278,13 @@
   url: pgsoft/dragon-tiger-luck
   id: 63
   provider: PG Soft Games
+- title: The Great Icescape
+  id: 53
+  img: great-icescape.webp
+  url: pgsoft/great-icescape
+  provider: PG Soft Games
+- title: Heist Stakes
+  id: 105
+  img: heist-stakes.webp
+  url: pgsoft/heist-stakes
+  provider: PG Soft Games
