@@ -298,3 +298,23 @@
   img: piggy-gold.webp
   url: pgsoft/piggy-gold
   provider: PG Soft Games
+- title: Sushi Oishi
+  id: 10
+  img: sushi-oishi.webp
+  url: pgsoft/sushi-oishi
+  provider: PG Soft Games
+- title: Galactic Gems
+  id: 86
+  img: galactic-gema.webp
+  url: pgsoft/galactic-gems
+  provider: PG Soft Games
+- title: Thai River Wonders
+  id: 92
+  img: thai-river-wonders.webp
+  url: pgsoft/thai-river-wonders
+  provider: PG Soft Games
+- title: Muay Thai Champion
+  id: 64
+  img: muay-thai-champion.webp
+  url: pgsoft/muay-thai-champion
+  provider: PG Soft Games
