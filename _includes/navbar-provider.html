@@ -1,18 +1,19 @@
 <ul class="tabs tabs-transparent tabs-fixed-width z-depth-1"> 
 
-{% if page.active == "pragmatic-play" %}
+{% if page.active == "beranda" %}
  <li class="tab active" style="background-color: #546e7a;">
-  <a class="active" href="#!">
-   Pragmatic Play
+  <a class="active" href="https://as-saadah.github.io/games/">
+   <i class="material-icons">home</i>
   </a>
  </li>
 {% else %}
  <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pragmatic-play/" target="_self">
-   Pragmatic Play
+  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/" target="_self">
+   <i class="material-icons">home</i>
   </a>
  </li>
 {% endif %}
+
 {% if page.active == "pgsoft" %}
  <li class="tab active" style="background-color: #546e7a;">
   <a class="active" href="#!">
@@ -23,6 +24,20 @@
  <li class="tab">
   <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pgsoft/" target="_self">
    PG Soft
+  </a>
+ </li>
+{% endif %}
+
+{% if page.active == "pragmatic-play" %}
+ <li class="tab active" style="background-color: #546e7a;">
+  <a class="active" href="#!">
+   Pragmatic Play
+  </a>
+ </li>
+{% else %}
+ <li class="tab">
+  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pragmatic-play/" target="_self">
+   Pragmatic Play
   </a>
  </li>
 {% endif %}
