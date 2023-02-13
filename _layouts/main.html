@@ -8,26 +8,7 @@
  {% include main-navbar.html %}
 
 <div class="container" style="width:98% !important; margin-top: 60px;"> <!--container--> 
-
-<div class="row">
- {% for game in site.data.pg_soft %}
- <div class="col s6 m4 center-align">
-  <div class="card sticky-action">
-    <div class="card-image waves-effect waves-block waves-light">
-      <a href="{{ game.url }}">
-       <img class="lazy responsive-img" src="./assets/loader.gif" data-src="./assets/images/pg/{{ game.img }}" alt="{{ game.title }}">
-      </a>
-    </div>
-    <div class="card-action">
-     <small class="truncate">{{ game.title }}</small>
-    </div>
-  </div>
- </div>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
-</div>
-
+ {% include feature.html %}
 </div> <!--/container--> 
 
  {% include scripts.html %}
