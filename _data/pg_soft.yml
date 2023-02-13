@@ -1,11 +1,11 @@
 - title: Mahjong Ways
   img: mahjong-ways.webp
-  url: mahjong-ways
+  url: pgsoft/mahjong-ways
   id: 65
   provider: PG Soft Games
 - title: Mahjong Ways 2
   img: mahjong-ways2.webp
-  url: mahjong-ways2
+  url: pgsoft/mahjong-ways2
   id: 74
   provider: PG Soft Games
 - title: Lucky Neko
