@@ -40,57 +40,57 @@
   provider: PG Soft Games
 - title: Candy Bonanza
   img: candy-bonanza.webp
-  url: candy-bonanza
+  url: pgsoft/candy-bonanza
   id: 100
   provider: PG Soft Games
 - title: Candy Burst
   img: candy-burst.webp
-  url: candy-burst
+  url: pgsoft/candy-burst
   id: 70
   provider: PG Soft Games
 - title: Mermaid Riches
   img: mermaid-riches.webp
-  url: mermaid-riches
+  url: pgsoft/mermaid-riches
   id: 102
   provider: PG Soft Games
 - title: Treasures of Aztec
   img: aztec-treasures.webp
-  url: aztec-treasures
+  url: pgsoft/aztec-treasures
   id: 87
   provider: PG Soft Games
 - title: Garuda Gems
   img: garuda-gems.webp
-  url: garuda-gems
+  url: pgsoft/garuda-gems
   id: 122
   provider: PG Soft Games
 - title: Bali Vacation
   img: bali-vacation.webp
-  url: bali-vacation
+  url: pgsoft/bali-vacation
   id: 94
   provider: PG Soft Games
 - title: Opera Dynasty
   img: opera-dynasty.webp
-  url: opera-dynasty
+  url: pgsoft/opera-dynasty
   id: 93
   provider: PG Soft Games
 - title: The Queen's Banquet
   img: queens-banquet.webp
-  url: queens-banquet
+  url: pgsoft/queens-banquet
   id: 120
   provider: PG Soft Games
 - title: Honey Trap of Diao Chan
   img: honey-trap.webp
-  url: honey-trap
+  url: pgsoft/honey-trap
   id: 1
   provider: PG Soft Games
 - title: Dreams of Macau
   img: dreams-macau.webp
-  url: dreams-macau
+  url: pgsoft/dreams-macau
   id: 79
   provider: PG Soft Games
 - title: Queen Bounty
   img: queen-bounty.webp
-  url: queen-bounty
+  url: pgsoft/queen-bounty
   id: 84
   provider: PG Soft Games
 - title: Rise of Apollo
