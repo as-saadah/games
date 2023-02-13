@@ -95,37 +95,37 @@
   provider: PG Soft Games
 - title: Rise of Apollo
   img: apollo-rise.webp
-  url: apollo-rise
+  url: pgsoft/apollo-rise
   id: 101
   provider: PG Soft Games
 - title: Supermarket Spree
   img: supermarket-spree.webp
-  url: supermarket-spree
+  url: pgsoft/supermarket-spree
   id: 115
   provider: PG Soft Games
 - title: Cocktail Nights
   img: cocktail-nights.webp
-  url: cocktail-nights
+  url: pgsoft/cocktail-nights
   id: 117
   provider: PG Soft Games
 - title: Leprechaun Riches
   img: leprechaun-riches.webp
-  url: leprechaun-riches
+  url: pgsoft/leprechaun-riches
   id: 60
   provider: PG Soft Games
 - title: Secrets of Cleopatra
   img: secrets-cleopatra.webp
-  url: secrets-cleopatra
+  url: pgsoft/secrets-cleopatra
   id: 90
   provider: PG Soft Games
 - title: Circus Delight
   img: circus-delight.webp
-  url: circus-delight
+  url: pgsoft/circus-delight
   id: 80
   provider: PG Soft Games
 - title: Vampire's Charm
   img: vampires-charm.webp
-  url: vampires-charm
+  url: pgsoft/vampires-charm
   id: 58
   provider: PG Soft Games
 - title: Crypto Gold
