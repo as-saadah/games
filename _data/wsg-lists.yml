@@ -26,3 +26,10 @@
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+- title: Queenie
+  symbol: vs243queenie
+  img: queenie.webp
+  url: wild-streak-gaming/queenie
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
