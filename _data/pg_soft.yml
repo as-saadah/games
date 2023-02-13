@@ -288,3 +288,13 @@
   img: heist-stakes.webp
   url: pgsoft/heist-stakes
   provider: PG Soft Games
+- title: Genie's 3 Wishes
+  id: 85
+  img: genies-3-wishes.webp
+  url: pgsoft/genies-3-wishes
+  provider: PG Soft Games
+- title: Piggy Gold
+  id: 39
+  img: piggy-gold.webp
+  url: pgsoft/piggy-gold
+  provider: PG Soft Games
