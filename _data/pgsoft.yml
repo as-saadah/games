@@ -1,37 +1,25 @@
 mahjong-ways:
   title: Mahjong Ways
-  img: mahjong-ways.webp
-  url: mahjong-ways
   id: 65
   provider: PG Soft Games
 mahjong-ways2:
   title: Mahjong Ways 2
-  img: mahjong-ways2.webp
-  url: mahjong-ways2
   id: 74
   provider: PG Soft Games
 lucky-neko:
   title: Lucky Neko
-  img: lucky-neko.webp
-  url: lucky-neko
   id: 89
   provider: PG Soft Games
 dragon-hatch:
   title: Dragon Hatch
-  img: dragon-hatch.webp
-  url: dragon-hatch
   id: 57
   provider: PG Soft Games
 qilin-ways:
   title: Ways of The Qilin
-  img: qilin-ways.webp
-  url: qilin-ways
   id: 106
   provider: PG Soft Games
 phoenix-rises:
   title: Phoenix Rises
-  img: phoenix-rises.webp
-  url: phoenix-rises
   id: 82
   provider: PG Soft Games
 jurassic-kingdom:
@@ -353,7 +341,13 @@ wild-bandito:
   provider: PG Soft Games
 dragon-tiger-luck:
   title: Dragon Tiger Luck
-  img: dragon-tiger-luck.webp
-  url: dragon-tiger-luck
   id: 63
+  provider: PG Soft Games
+great-icescape:
+  title: The Great Icescape
+  id: 53
+  provider: PG Soft Games
+heist-stakes:
+  title: Heist Stakes
+  id: 105
   provider: PG Soft Games
