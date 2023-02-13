@@ -20,22 +20,22 @@
   provider: PG Soft Games
 - title: Dragon Hatch
   img: dragon-hatch.webp
-  url: dragon-hatch
+  url: pgsoft/dragon-hatch
   id: 57
   provider: PG Soft Games
 - title: Ways of The Qilin
   img: qilin-ways.webp
-  url: qilin-ways
+  url: pgsoft/qilin-ways
   id: 106
   provider: PG Soft Games
 - title: Phoenix Rises
   img: phoenix-rises.webp
-  url: phoenix-rises
+  url: pgsoft/phoenix-rises
   id: 82
   provider: PG Soft Games
 - title: Jurassic Kingdom
   img: jurassic-kingdom.webp
-  url: jurassic-kingdom
+  url: pgsoft/jurassic-kingdom
   id: 110
   provider: PG Soft Games
 - title: Candy Bonanza
