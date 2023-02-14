@@ -3,30 +3,26 @@
  <head>
   {% include head.html %}
 <style>
-body, html {
-     margin: 0;
-     padding: 0;
-     height: 100%;
-     overflow: hidden;
-   }
-
-   #content {
+body,html{
+  min-height:100%;
+ }
+.video {
+    display: block;
+    width: 100vh;
+    height: 600px;
+    border: none;
+    transform: translateY(100vh) rotate(-90deg);
+    transform-origin: top left;
+}
+    #content {
      position:absolute;
      bottom: 0;
-     top: 0
+     top: 0;
      margin-left: auto; 
      margin-right: auto; 
      width: 600px;
      Height: 400px;
    }
-body {
-    display: block;
-    width: 100vh;
-    height: 100vw;
-    border: none;
-    transform: translateY(100vh) rotate(-90deg);
-    transform-origin: top left;
-}
 </style>
  </head>
 <body class="grey darken-6">
