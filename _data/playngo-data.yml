@@ -10,3 +10,39 @@ troy-gates:
   url: playngo/gates-of-troy
   permalink_game: https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=gatesoftroy&lang=id_ID&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True
   provider: Play'n Go
+moon-princess:
+  title: Moon Princess
+  img: moon-princess.webp
+  url: playngo/moon-princess
+  permalink_game: 
+  provider: Play'n Go
+samba-carnival:
+  title: Samba Carnival
+  img: samba-carnival.webp
+  url: playngo/samba-carnival
+  permalink_game: 
+  provider: Play'n Go
+wild-trigger:
+  title: Wild Trigger
+  img: wild-trigger.webp
+  url: playngo/wild-trigger
+  permalink_game: 
+  provider: Play'n Go
+cabana-cash:
+  title: Cash a Cabana
+  img: cabana-cash.webp
+  url: playngo/cabana-cash
+  permalink_game: 
+  provider: Play'n Go
+dragon-maiden:
+  title: Dragon Maiden
+  img: dragon-maiden.webp
+  url: playngo/dragon-maiden
+  permalink_game: 
+  provider: Play'n Go
+atum-eye:
+  title: Eye of Atum
+  img: moon-princess.webp
+  url: playngo/atum-eye
+  permalink_game: 
+  provider: Play'n Go
