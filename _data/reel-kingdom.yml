@@ -75,13 +75,6 @@
   currency: idr
   lang: id
   provider: Reel Kingdom   
-- title: Big Bass Bonanza Megaways
-  symbol: vswaysbbb
-  img: big-bass-bonanza-megaways.webp
-  url: big-bass-bonanza-megaways
-  currency: idr
-  lang: id
-  provider: Reel Kingdom   
 - title: Bigger Bass Bonanza
   symbol: vs12bbb
   img: bigger-bass-bonanza.webp
