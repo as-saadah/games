@@ -2,42 +2,49 @@
 <html lang="id">
  <head>
   {% include head.html %}
+<style>
+body, html {
+     margin: 0;
+     padding: 0;
+     height: 100%;
+     overflow: hidden;
+   }
+
+   #content {
+     position:absolute;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     top: 0
+   }
+body {
+    display: block;
+    width: 100vh;
+    height: 100vw;
+    border: none;
+    transform: translateY(100vh) rotate(-90deg);
+    transform-origin: top left;
+}
+</style>
  </head>
 <body class="grey darken-6">
-<!--nav--> 
-<div class="navbar-fixed">
-  <nav class="nav-extended fixed-nav">
-    <div class="nav-wrapper black">
-        <a href="{{ "playngo" | relative_url }}" class="icon-left show-on-med-and-down left waves-effect waves-light">
-       <i class="material-icons">arrow_back</i>
-      </a>
-      <a href="#" class="brand-logo center">
-       <span class="truncate">{{ page.title }}</span>
-      </a>
-      <a id="fullscreenbtn" href="#" class="icon-right show-on-med-and-down right waves-effect waves-light">
-       <i class="material-icons">fullscreen</i>
-      </a>
-    </div>
-  </nav>
-</div>
-<!--/nav--> 
+
 <div class="container" style="margin-top: 8px; width: 98% !important;">
 
  <div class="card-panel transparent z-depth-0" style="padding: 0px !important;">
-   <div class="card-content video-container">
+   <div id="content" class="card-content video-container">
     {{ content }}
-   </div>
-   <div class="card-action center-align" style="margin-top: 8px;">
-   <a href="javascript:void(0)"
-   id="fullscreenbtn" 
-   class="waves-effect waves-light btn black">
-   <i class="material-icons right">fullscreen</i>
-   Fullscreen
-   </a>
    </div>
  </div>
 
 </div>
+
+<div class="fixed-action-btn">
+  <a href="../playngo/" class="btn-floating btn-large red">
+    <i class="large material-icons">home</i>
+  </a>
+</div>
+
  {% include scripts.html %}
 <script type='text/javascript'> 
 //<![CDATA[ 
