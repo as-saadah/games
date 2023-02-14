@@ -4,9 +4,33 @@
   currency: idr
   lang: id
   provider: iSoftBet Megaways
+- title: Gold digger Mine
+  img: gold-digger-mine.webp
+  url: isoftbet/gold-digger
+  currency: idr
+  lang: id
+  provider: iSoftBet
 - title: Gold digger Megaways
   img: gold-digger.webp
   url: isoftbet/gold-digger
   currency: idr
   lang: id
   provider: iSoftBet Megaways
+- title: Rising Samurai
+  img: rising-samurai.webp
+  url: isoftbet/rising-samurai
+  currency: idr
+  lang: id
+  provider: iSoftBet
+- title: Plunderin Pirates
+  img: plunderin-pirates.webp
+  url: isoftbet/plunderin-pirates
+  currency: idr
+  lang: id
+  provider: iSoftBet
+- title: Crabbin Crazy
+  img: crabbin-crazy.webp
+  url: isoftbet/crabbin-crazy
+  currency: idr
+  lang: id
+  provider: iSoftBet
