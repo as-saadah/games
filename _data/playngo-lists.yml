@@ -6,3 +6,27 @@
   img: gates-troy.webp
   url: playngo/gates-of-troy
   provider: Play'n Go
+- title: Moon Princess
+  img: moon-princess.webp
+  url: playngo/moon-princess
+  provider: Play'n Go
+- title: Samba Carnival
+  img: samba-carnival.webp
+  url: playngo/samba-carnival
+  provider: Play'n Go
+- title: Wild Trigger
+  img: wild-trigger.webp
+  url: playngo/wild-trigger
+  provider: Play'n Go
+- title: Cash a Cabana
+  img: cabana-cash.webp
+  url: playngo/cabana-cash
+  provider: Play'n Go
+- title: Dragon Maiden
+  img: dragon-maiden.webp
+  url: playngo/dragon-maiden
+  provider: Play'n Go
+- title: Eye of Atum
+  img: atum-eye.webp
+  url: playngo/atum-eye
+  provider: Play'n Go
