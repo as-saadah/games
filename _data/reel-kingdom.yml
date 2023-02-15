@@ -94,14 +94,6 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Bigger Bass Blizzard Christmas Catch
-  symbol: vs12bbbxmas
-  img: bigger-bass-blizzard.webp
-  url: reel-kingdom/bigger-bass-blizzard
-  currency: idr
-  lang: id
-  provider: Reel Kingdom
-
 - title: Big Bass Splash
   symbol: vs10txbigbass
   img: big-bass-splash.webp
@@ -122,6 +114,14 @@
   symbol: vs10bxmasbnza
   img: christmas-big-bass-bonanza.webp
   url: reel-kingdom/christmas-big-bass-bonanza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+
+- title: Bigger Bass Blizzard Christmas Catch
+  symbol: vs12bbbxmas
+  img: bigger-bass-blizzard.webp
+  url: reel-kingdom/bigger-bass-blizzard
   currency: idr
   lang: id
   provider: Reel Kingdom
