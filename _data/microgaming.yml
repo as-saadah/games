@@ -1,66 +1,76 @@
 - title: Book of King Arthur
   id: bookOfKingArthurDesktop
   img: king-arthur-book.webp
-  url: king-arthur-book
+  url: microgaming/king-arthur-book
   lang: id
   provider: Microgaming
+
 - title: Atlantis Rising
   id: atlantisRisingDesktop
   img: atlantis-rising.webp
-  url: atlantis-rising
+  url: microgaming/atlantis-rising
   lang: id
   provider: Microgaming
+
 - title: Queen of Alexandria
   id: queenOfAlexandriaDesktop
   img: alexandria-queen.webp
-  url: alexandria-queen
+  url: microgaming/alexandria-queen
   lang: id
   provider: Microgaming
+
 - title: Queen of Alexandria Wowpot
   id: queenOfAlexandriaWowpotDesktop
   img: alexandria-queen-wowpot.webp
-  url: alexandria-queen-wowpot
+  url: microgaming/alexandria-queen-wowpot
   lang: id
   provider: Microgaming
+
 - title: Amazing Link Zeus 
   id: amazingLinkZeusDesktop
   img: amazing-link-zeus.webp
-  url: amazing-link-zeus
+  url: microgaming/amazing-link-zeus
   lang: id
   provider: Microgaming
+
 - title: Zeus Ancient Fortunes 
   id: ancientFortunesZeusDesktop
   img: zeus-ancient-fortunes.webp
-  url: zeus-ancient-fortunes
+  url: microgaming/zeus-ancient-fortunes
   lang: id
   provider: Microgaming
+
 - title: Neptune's Riches Ocean of Wilds 
   id: neptunesRichesOceanOfWildsDesktop
   img: neptunes-riches.webp
-  url: neptunes-riches
+  url: microgaming/neptunes-riches
   lang: id
   provider: Microgaming
+
 - title: Goldaur Guardians 
   id: goldaurGuardiansDesktop
   img: goldaur-guardians.webp
-  url: goldaur-guardians
+  url: microgaming/goldaur-guardians
   lang: id
   provider: Microgaming
+
 - title: Divine Diamonds 
   id: divineDiamondsDesktop
   img: divine-diamonds.webp
-  url: divine-diamonds
+  url: microgaming/divine-diamonds
   lang: id
   provider: Microgaming
+
 - title: Blazing Diamonds 
   id: 9BlazingDiamondsDesktop
   img: blazing-diamonds.webp
-  url: blazing-diamonds
+  url: microgaming/blazing-diamonds
   lang: id
   provider: Microgaming
+
 - title: Emerald Gold  
   id: emeraldGoldDesktop
   img: emerald-gold.webp
-  url: emerald-gold
+  url: microgaming/emerald-gold
   lang: id
   provider: Microgaming
