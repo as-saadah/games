@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="id">
+ <head>
+  {% include head.html %}
+ </head>
+<body class="grey darken-6">
+<div class="navbar-fixed">
+  <nav class="nav-extended fixed-nav">
+    <div class="nav-wrapper black">
+        <a href="{{ "pragmatic-play" | relative_url }}" class="icon-left show-on-med-and-down left waves-effect waves-light">
+       <i class="material-icons">arrow_back</i>
+      </a>
+      <a href="#" class="brand-logo center">
+       <span class="truncate">{{ page.title }}</span>
+      </a>
+    </div>
+  </nav>
+</div>
+<div class="container" style="margin-top: 8px; width: 98% !important;">
+ {{ content }}
+</div>
+ {% include scripts.html %}
+ </body>
+</html>
