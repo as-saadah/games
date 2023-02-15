@@ -49,3 +49,28 @@
   url: isoftbet/happy-birds
   currency: IDR
   provider: iSoftBet
+- title: Night Queen
+  img: night-queen.webp
+  url: isoftbet/night-queen
+  currency: IDR
+  provider: iSoftBet
+- title: Tropical Bonanza
+  img: tropical-bonanza.webp
+  url: isoftbet/tropical-bonanza
+  currency: IDR
+  provider: iSoftBet
+- title: Wishing Wheel
+  img: wishing-wheel.webp
+  url: isoftbet/wishing-wheel
+  currency: IDR
+  provider: iSoftBet
+- title: Egyptian King
+  img: egyptian-king.webp
+  url: isoftbet/egyptian-king
+  currency: IDR
+  provider: iSoftBet
+- title: Tales of Silver
+  img: tales-of-silver.webp
+  url: isoftbet/tales-of-silver
+  currency: IDR
+  provider: iSoftBet
