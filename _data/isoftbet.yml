@@ -1,8 +1,7 @@
 - title: Olympus Zeus Megaways
   img: olympus-zeus.webp
   url: isoftbet/olympus-zeus
-  currency: idr
-  lang: id
+  currency: IDR
   provider: iSoftBet Megaways
 - title: Gold digger Mines
   img: gold-digger-mine.webp
@@ -13,24 +12,30 @@
 - title: Gold digger Megaways
   img: gold-digger.webp
   url: isoftbet/gold-digger
-  currency: idr
-  lang: id
+  currency: IDR
   provider: iSoftBet Megaways
 - title: Rising Samurai
   img: rising-samurai.webp
   url: isoftbet/rising-samurai
-  currency: idr
-  lang: id
+  currency: IDR
   provider: iSoftBet
 - title: Plunderin Pirates
   img: plunderin-pirates.webp
   url: isoftbet/plunderin-pirates
-  currency: idr
-  lang: id
+  currency: IDR
   provider: iSoftBet
 - title: Crabbin Crazy
   img: crabbin-crazy.webp
   url: isoftbet/crabbin-crazy
-  currency: idr
-  lang: id
+  currency: IDR
+  provider: iSoftBet
+- title: Bounty Belles
+  img: bounty-belles.webp
+  url: isoftbet/bounty-belles
+  currency: IDR
+  provider: iSoftBet
+- title: Brillian Diamonds
+  img: brillian-diamonds.webp
+  url: isoftbet/brillian-diamonds
+  currency: IDR
   provider: iSoftBet
