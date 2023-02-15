@@ -69,8 +69,13 @@
   url: isoftbet/egyptian-king
   currency: IDR
   provider: iSoftBet
-- title: Tales of Silver
+- title: Tales of Silver Megaways
   img: tales-of-silver.webp
   url: isoftbet/tales-of-silver
+  currency: IDR
+  provider: iSoftBet
+- title: Tyrant King Megaways
+  img: tyrant-king.webp
+  url: isoftbet/tyrant-king
   currency: IDR
   provider: iSoftBet
