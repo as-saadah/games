@@ -231,47 +231,47 @@
   provider: PG Soft Games
 - title: Medusa II
   img: medusa2.webp
-  url: medusa2
+  url: pgsoft/medusa2
   id: 6
   provider: PG Soft Games
 - title: Lucky Piggy 
   img: lucky-piggy.webp
-  url: lucky-piggy
+  url: pgsoft/lucky-piggy
   id: 130
   provider: PG Soft Games
 - title: Jungle Delight 
   img: jungle-delight.webp
-  url: jungle-delight
+  url: pgsoft/jungle-delight
   id: 40
   provider: PG Soft Games
 - title: Captain's Bounty 
   img: captains-bounty.webp
-  url: captains-bounty
+  url: pgsoft/captains-bounty
   id: 54
   provider: PG Soft Games
 - title: Battleground Royale 
   img: battleground-royale.webp
-  url: battleground-royale
+  url: pgsoft/battleground-royale
   id: 124
   provider: PG Soft Games
 - title: Wild Fireworks 
   img: wild-fireworks.webp
-  url: wild-fireworks
+  url: pgsoft/wild-fireworks
   id: 83
   provider: PG Soft Games
 - title: Spirited Wonders 
   img: spirited-wonders.webp
-  url: spirited-wonders
+  url: pgsoft/spirited-wonders
   id: 119
   provider: PG Soft Games
 - title: 3 Monkeys
   img: 3monkeys.webp
-  url: 3monkeys
+  url: pgsoft/3monkeys
   id: 43
   provider: PG Soft Games
 - title: Midas Fortune
   img: midas-fortune.webp
-  url: midas-fortune
+  url: pgsoft/midas-fortune
   id: 1402846
   provider: PG Soft Games
 - title: Dragon Tiger Luck
