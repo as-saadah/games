@@ -39,3 +39,13 @@
   url: isoftbet/brillian-diamonds
   currency: IDR
   provider: iSoftBet
+- title: Alice Adventure
+  img: alice-adventure.webp
+  url: isoftbet/alice-adventure
+  currency: IDR
+  provider: iSoftBet
+- title: Happy Birds
+  img: happy-birds.webp
+  url: isoftbet/happy-birds
+  currency: IDR
+  provider: iSoftBet
