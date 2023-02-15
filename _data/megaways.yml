@@ -160,3 +160,15 @@
   url: isoftbet/tyrant-king
   currency: IDR
   provider: iSoftBet
+- title: Sahara Riches Megaways
+  img: sahara-riches.webp
+  url: playtech/sahara-riches
+  currency: IDR
+  lang: id
+  provider: Playtech
+- title: Buffalo Blitz Megaways
+  img: buffalo-blitz.webp
+  url: playtech/buffalo-blitz
+  currency: IDR
+  lang: id
+  provider: Playtech
