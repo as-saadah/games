@@ -130,102 +130,103 @@
   provider: PG Soft Games
 - title: Crypto Gold
   img: crypto-gold.webp
-  url: crypto-gold
+  url: pgsoft/crypto-gold
   id: 103
   provider: PG Soft Games
 - title: Wild Bounty Showdown
   img: wild-bounty-showdown.webp
-  url: wild-bounty-showdown
+  url: pgsoft/wild-bounty-showdown
   id: 135
   provider: PG Soft Games
 - title: Bikini Paradise
   img: bikini-paradise.webp
-  url: bikini-paradise
+  url: pgsoft/bikini-paradise
   id: 69
   provider: PG Soft Games
 - title: Butterfly Blossom
   img: butterfly-blossom.webp
-  url: butterfly-blossom
+  url: pgsoft/butterfly-blossom
   id: 125
   provider: PG Soft Games
 - title: Medusa The Curse of Athena
   img: medusa.webp
-  url: medusa-pgsoft
+  url: pgsoft/medusa
   id: 7
   provider: PG Soft Games
 - title: Gem Saviour Sword
   img: gem-saviour-sword.webp
-  url: gem-saviour-sword
+  url: pgsoft/gem-saviour-sword
   id: 38
   provider: PG Soft Games
+
 - title: Emperor's Favour
   img: emperors-favour.webp
-  url: emperors-favour
+  url: pgsoft/emperors-favour
   id: 44
   provider: PG Soft Games
 - title: Egypt's Book of Mystery
   img: egypt-book-mystery.webp
-  url: egypt-book-mystery
+  url: pgsoft/egypt-book-mystery
   id: 73
   provider: PG Soft Games
 - title: Legend of Perseus
   img: legend-of-perseus.webp
-  url: legend-of-perseus
+  url: pgsoft/legend-of-perseus
   id: 128
   provider: PG Soft Games
 - title: Groundhog Harvest
   img: groundhog-harvest.webp
-  url: groundhog-harvest
+  url: pgsoft/groundhog-harvest
   id: 111
   provider: PG Soft Games
 - title: Dragon Legend
   img: dragon-legend.webp
-  url: dragon-legend
+  url: pgsoft/dragon-legend
   id: 29
   provider: PG Soft Games
 - title: Jack Frost's Winter
   img: jack-frosts-winter.webp
-  url: jack-frosts-winter
+  url: pgsoft/jack-frosts-winter
   id: 97
   provider: PG Soft Games
 - title: Raider Jane's Crypt Of Fortune
   img: raider-janes-crypt-of-fortune.webp
-  url: raider-jane
+  url: pgsoft/raider-jane
   id: 113
   provider: PG Soft Games
 - title: Rooster Rumble
   img: rooster-rumble.webp
-  url: rooster-rumble
+  url: pgsoft/rooster-rumble
   id: 123
   provider: PG Soft Games
 - title: Reel Love 
   img: reel-love.webp
-  url: reel-love
+  url: pgsoft/reel-love
   id: 20
   provider: PG Soft Games
 - title: Totem Wonders
   img: totem-wonders.webp
-  url: totem-wonders
+  url: pgsoft/totem-wonders
   id: 57
   provider: PG Soft Games
 - title: Plushie Frenzy
   img: plushie-frenzy.webp
-  url: plushie-frenzy
+  url: pgsoft/plushie-frenzy
   id: 25
   provider: PG Soft Games
 - title: Symbols of Egypt 
   img: symbols-of-egypt.webp
-  url: symbols-of-egypt
+  url: pgsoft/symbols-of-egypt
   id: 41
   provider: PG Soft Games
 - title: Win Win Won
   img: win-win-won.webp
-  url: win-win-won
+  url: pgsoft/win-win-won
   id: 24
   provider: PG Soft Games
 - title: Fortune Rabbit 
   img: fortune-rabbit.webp
-  url: fortune-rabbit
+  url: pgsoft/fortune-rabbit
   id: 1543462
   provider: PG Soft Games
 - title: Medusa II
