@@ -1,0 +1,25 @@
+---
+layout: default
+title: Playtech
+permalink: /playtech/
+active: playtech
+---
+
+<div class="row">
+ {% for game in site.data.playtech-lists %}
+ <div class="col s6 m4 center-align">
+  <div class="card sticky-action">
+    <div class="card-image waves-effect waves-block waves-light">
+      <a href="../{{ game.url }}">
+       <img class="lazy" src="../assets/loader.gif" data-src="../assets/images/playtech/{{ game.img }}" alt="{{ game.title }}">
+      </a>
+    </div>
+    <div class="card-action">
+     <small class="truncate">{{ game.title }}</small>
+    </div>
+  </div>
+ </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
