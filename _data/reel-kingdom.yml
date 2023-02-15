@@ -1,112 +1,127 @@
 - title: Spirit of Adventure
   symbol: vs10spiritadv
   img: spirit-of-adventure.webp
-  url: spirit-adventure
+  url: reel-kingdom/spirit-adventure
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Emerald King
   symbol: vs20eking
   img: emerald-king.webp
-  url: emerald-king
+  url: reel-kingdom/emerald-king
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Emerald King Rainbow Road
   symbol: vs20ekingrr
   img: emerald-king-rainbow-road.webp
-  url: emerald-king-rainbow-road
+  url: reel-kingdom/emerald-king-rainbow-road
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Ultra Hold & Spin
   symbol: vs5ultra
   img: ultra-hold-spin.webp
-  url: ultra-hold-spin
+  url: reel-kingdom/ultra-hold-spin
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Dragon Hot Hold & Spin
   symbol: vs5drhs
   img: dragon-hot-hold-spin.webp
-  url: dragon-hot-hold-spin
+  url: reel-kingdom/dragon-hot-hold-spin
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Pizza! Pizza? Pizza!
   symbol: vswayspizza
   img: pizza.webp
-  url: pizza
+  url: reel-kingdom/pizza
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Eye Storm
   symbol: vs10eyestorm
   img: eye-storm.webp
-  url: eye-storm
+  url: reel-kingdom/eye-storm
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Rock Vegas
   symbol: vs20rockvegas
   img: rock-vegas.webp
-  url: rock-vegas
+  url: reel-kingdom/rock-vegas
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Lucky, Grace and Charm
   symbol: vs10luckcharm
   img: lucky-grace-charm.webp
-  url: lucky-grace-charm
+  url: reel-kingdom/lucky-grace-charm
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Floating Dragon Hold & Spin
   symbol: vs10floatdrg
   img: floating-dragon-reel-kingdom.webp
-  url: floating-dragon
+  url: reel-kingdom/floating-dragon
   currency: idr
   lang: id
   provider: Reel Kingdom 
+
 - title: Snakes & Ladders
   symbol: vs10snakeeyes
   img: snakes-ladders.webp
-  url: snakes-ladders
+  url: reel-kingdom/snakes-ladders
   currency: idr
   lang: id
   provider: Reel Kingdom   
+
 - title: Bigger Bass Bonanza
   symbol: vs12bbb
   img: bigger-bass-bonanza.webp
-  url: bigger-bass-bonanza
+  url: reel-kingdom/bigger-bass-bonanza
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Bigger Bass Blizzard Christmas Catch
   symbol: vs12bbbxmas
   img: bigger-bass-blizzard.webp
-  url: bigger-bass-blizzard
+  url: reel-kingdom/bigger-bass-blizzard
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Big Bass Splash
   symbol: vs10txbigbass
   img: big-bass-splash.webp
-  url: big-bass-splash
+  url: reel-kingdom/big-bass-splash
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Big Bass Bonanza Keeping It Reel
   symbol: vs10bbkir
   img: big-bass-keeping-it-reel.webp
-  url: big-bass-keeping-it-reel
+  url: reel-kingdom/big-bass-keeping-it-reel
   currency: idr
   lang: id
   provider: Reel Kingdom
+
 - title: Christmas Big Bass Bonanza
   symbol: vs10bxmasbnza
   img: christmas-big-bass-bonanza.webp
-  url: christmas-big-bass-bonanza
+  url: reel-kingdom/christmas-big-bass-bonanza
   currency: idr
   lang: id
   provider: Reel Kingdom
