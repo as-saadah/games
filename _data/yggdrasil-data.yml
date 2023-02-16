@@ -107,3 +107,33 @@ jungle-books:
   url: yggdrasil/jungle-books
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7337&lang=id&currency=IDR
   provider: YGGDRASIL
+
+golden-monkey:
+  title: Legend of The Golden Monkey
+  id: 7325
+  lang: id
+  currency: IDR
+  img: golden-monkey.webp
+  url: yggdrasil/golden-monkey
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7325&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+white-snake-lady:
+  title: Legend of The White Snake Lady
+  id: 7327
+  lang: id
+  currency: IDR
+  img: white-snake-lady.webp
+  url: yggdrasil/white-snake-lady
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7327&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+seasons:
+  title: Seasons
+  id: 7323
+  lang: id
+  currency: IDR
+  img: seasons.webp
+  url: yggdrasil/seasons
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7323&lang=id&currency=IDR
+  provider: YGGDRASIL
