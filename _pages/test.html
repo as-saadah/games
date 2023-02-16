@@ -9,12 +9,6 @@ permalink: /test/
   min-height:100%;
   overflow: hidden !important;
  }
-.container {
- width: 100vh !important;
- height: 100vw !important;
- margin: 0 auto;
- overflow: hidden !important;
-}
 .video {
     display: block;
     width: 80vh;
@@ -33,6 +27,12 @@ permalink: /test/
      Height: 400px;
      overflow: hidden !important;
    }
+@media only screen and (orientation:portrait) {
+  body {
+    height: 100vw;
+    transform: rotate(90deg);
+  }
+}
 </style>
 
   <div id="content">
