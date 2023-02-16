@@ -123,3 +123,39 @@
   url: yggdrasil/seasons
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7323&lang=id&currency=IDR
   provider: YGGDRASIL
+
+- title: Super Heroes
+  id: 7330
+  lang: id
+  currency: IDR
+  img: super-heroes.webp
+  url: yggdrasil/super-heroes
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7330&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Sunny Shores
+  id: 7338
+  lang: id
+  currency: IDR
+  img: sunny-shores.webp
+  url: yggdrasil/sunny-shores
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7338&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Alchymedes
+  id: 7332
+  lang: id
+  currency: IDR
+  img: alchymedes.webp
+  url: yggdrasil/alchymedes
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7332&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Big Blox
+  id: 7328
+  lang: id
+  currency: IDR
+  img: big-blox.webp
+  url: yggdrasil/big-blox
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7328&lang=id&currency=IDR
+  provider: YGGDRASIL
