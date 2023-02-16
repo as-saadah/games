@@ -56,6 +56,20 @@
  </li>
 {% endif %}
 
+{% if page.active == "yggdrasil" %}
+ <li class="tab active" style="background-color: #546e7a;">
+  <a class="active" href="#!" target="_self">
+   YGGDRASIL
+  </a>
+ </li>
+{% else %}
+ <li class="tab">
+  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/yggdrasil/" target="_self">
+   YGGDRASIL
+  </a>
+ </li>
+{% endif %}
+
 {% if page.active == "spadegaming" %}
  <li class="tab active" style="background-color: #546e7a;">
   <a class="active" href="#!" target="_self">
@@ -141,7 +155,7 @@
 {% endif %}
 
       {% if page.active == "wsg" %}
-        <li class="tab active">
+        <li class="tab active" style="background-color: #546e7a;">
          <a class="active waves-effect waves-light" href="#!">
           Wild Streak Gaming
          </a>
@@ -154,7 +168,7 @@
       {% endif %}
 
       {% if page.active == "reel-kingdom" %}
-        <li class="tab active">
+        <li class="tab active" style="background-color: #546e7a;">
          <a class="active waves-effect waves-light" href="#!">
           Reel Kingdom
          </a>
@@ -168,7 +182,7 @@
       {% endif %}
 
       {% if page.active == "slotmania" %}
-        <li class="tab active">
+        <li class="tab active" style="background-color: #546e7a;">
          <a class="active waves-effect waves-light" href="#!">
          Slot Mania
          </a>
