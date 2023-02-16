@@ -2,7 +2,7 @@ beauty-beast:
   title: Beauty and The Beast
   id: 7333
   lang: id
-  Currency: IDR
+  currency: IDR
   img: beauty-the-beast.webp
   url: yggdrasil/beauty-and-the-beast
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7333&lang=id&currency=IDR&channel=pc
@@ -12,8 +12,48 @@ spina-colada:
   title: Spina Colada
   id: 7339
   lang: id
-  Currency: IDR
+  currency: IDR
   img: spina-colada.webp
   url: yggdrasil/spina-colada
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7339&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+ozwins-jackpot:
+  title: Ozwin's Jackpot
+  id: 7345
+  lang: id
+  currency: IDR
+  img: ozwins-jackpot.webp
+  url: yggdrasil/ozwins-jackpot
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7345&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+golden-fish-tank:
+  title: Ozwin's Jackpot
+  id: 7322
+  lang: id
+  currency: IDR
+  img: golden-fish-tank.webp
+  url: yggdrasil/golden-fish-tank
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7322&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+holmes-stolen-stones:
+  title: Holmes and The Stolen Stones
+  id: 7317
+  lang: id
+  currency: IDR
+  img: holmes-stolen-stones.webp
+  url: yggdrasil/holmes-stolen-stones
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7317&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+vikings-go-berzerk:
+  title: Vikings Go Berzerk
+  id: 7331
+  lang: id
+  currency: IDR
+  img: vikings-go-berzerk.webp
+  url: yggdrasil/vikings-go-berzerk
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7331&lang=id&currency=IDR
   provider: YGGDRASIL
