@@ -57,3 +57,53 @@ vikings-go-berzerk:
   url: yggdrasil/vikings-go-berzerk
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7331&lang=id&currency=IDR
   provider: YGGDRASIL
+
+rainbow-ryan:
+  title: Rainbow Ryan
+  id: 7336
+  lang: id
+  currency: IDR
+  img: rainbow-ryan.webp
+  url: yggdrasil/rainbow-ryan
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7336&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+winter-berries:
+  title: Winter Berries
+  id: 7302
+  lang: id
+  currency: IDR
+  img: winter-berries.webp
+  url: yggdrasil/winter-berries
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7302&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+nirvana:
+  title: Nirvana
+  id: 7319
+  lang: id
+  currency: IDR
+  img: nirvana.webp
+  url: yggdrasil/nirvana
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7319&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+double-dragons:
+  title: Double Dragons
+  id: 7329
+  lang: id
+  currency: IDR
+  img: double-dragons.webp
+  url: yggdrasil/double-dragons
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7329&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+jungle-books:
+  title: Jungle Books
+  id: 7337
+  lang: id
+  currency: IDR
+  img: jungle-books.webp
+  url: yggdrasil/jungle-books
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7337&lang=id&currency=IDR
+  provider: YGGDRASIL
