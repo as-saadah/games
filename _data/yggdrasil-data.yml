@@ -147,6 +147,7 @@ super-heroes:
   url: yggdrasil/super-heroes
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7330&lang=id&currency=IDR
   provider: YGGDRASIL
+
 sunny-shores:
   title: Sunny Shores
   id: 7338
@@ -156,6 +157,7 @@ sunny-shores:
   url: yggdrasil/sunny-shores
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7338&lang=id&currency=IDR
   provider: YGGDRASIL
+
 alchymedes:
   title: Alchymedes
   id: 7332
@@ -165,6 +167,7 @@ alchymedes:
   url: yggdrasil/alchymedes
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7332&lang=id&currency=IDR
   provider: YGGDRASIL
+
 big-blox:
   title: Big Blox
   id: 7328
@@ -174,6 +177,7 @@ big-blox:
   url: yggdrasil/big-blox
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7328&lang=id&currency=IDR
   provider: YGGDRASIL
+
 vikings-go-wild:
   title: Vikings Go Wild
   id: 7316
@@ -183,6 +187,7 @@ vikings-go-wild:
   url: yggdrasil/vikings-go-wild
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7316&lang=id&currency=IDR
   provider: YGGDRASIL
+
 cazino-zeppelin:
   title: Cazino Zeppelin
   id: 7308
@@ -192,6 +197,7 @@ cazino-zeppelin:
   url: yggdrasil/cazino-zeppelin
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7308&lang=id&currency=IDR
   provider: YGGDRASIL
+
 gem-rocks:
   title: Gem Rocks
   id: 7343
@@ -201,6 +207,7 @@ gem-rocks:
   url: yggdrasil/gem-rocks
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7343&lang=id&currency=IDR
   provider: YGGDRASIL
+
 cyrus-the-virus:
   title: Cyrus The Virus
   id: 7313
@@ -210,6 +217,7 @@ cyrus-the-virus:
   url: yggdrasil/cyrus-the-virus
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7313&lang=id&currency=IDR
   provider: YGGDRASIL
+
 fruitoids:
   title: Fruitoids
   id: 7304
@@ -219,6 +227,7 @@ fruitoids:
   url: yggdrasil/fruitoids
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7304&lang=id&currency=IDR
   provider: YGGDRASIL
+
 wicked-circus:
   title: Wicked Circus
   id: 7321
@@ -228,6 +237,7 @@ wicked-circus:
   url: yggdrasil/wicked-circus
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7321&lang=id&currency=IDR
   provider: YGGDRASIL
+
 sahara-nights:
   title: Sahara Nights
   id: 10157
@@ -237,6 +247,7 @@ sahara-nights:
   url: yggdrasil/sahara-nights
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10157&lang=id&currency=IDR
   provider: YGGDRASIL
+
 brazil-bomba:
   title: Brazil Bomba
   id: 7375
@@ -245,4 +256,24 @@ brazil-bomba:
   img: brazil-bomba.webp
   url: yggdrasil/brazil-bomba
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7375&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+royal-family:
+  title: The Royal Family
+  id: 8303
+  lang: id
+  currency: IDR
+  img: royal-family.webp
+  url: yggdrasil/royal-family
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=8303&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+one-armed-bandit:
+  title: The One Armed of Bandit
+  id: 10143
+  lang: id
+  currency: IDR
+  img: armed-bandit.webp
+  url: yggdrasil/one-armed-bandit
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10143&lang=id&currency=IDR
   provider: YGGDRASIL
