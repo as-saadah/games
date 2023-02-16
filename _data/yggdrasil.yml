@@ -4,15 +4,15 @@
   Currency: IDR
   img: beauty-the-beast.webp
   url: yggdrasil/beauty-and-the-beast
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7333&lang=id&currency=IDR&channel=pc
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7333&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Spina Colada
-  id: 0
+  id: 7339
   lang: id
   Currency: IDR
   img: spina-colada.webp
   url: yggdrasil/spina-colada
-  permalink: 0
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7339&lang=id&currency=IDR
   provider: YGGDRASIL
 
