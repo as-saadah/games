@@ -120,8 +120,16 @@
 
 - title: Bigger Bass Blizzard Christmas Catch
   symbol: vs12bbbxmas
-  img: bigger-basa-blizzard.webp
+  img: bigger-bass-blizzard.webp
   url: reel-kingdom/bigger-bass-blizzard
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+
+- title: Club Tropicana
+  symbol: vs12tropicana
+  img: club-tropicana.webp
+  url: reel-kingdom/club-tropicana
   currency: idr
   lang: id
   provider: Reel Kingdom
