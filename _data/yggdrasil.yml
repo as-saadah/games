@@ -213,3 +213,21 @@
   url: yggdrasil/wicked-circus
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7321&lang=id&currency=IDR
   provider: YGGDRASIL
+
+- title: Sahara Nights
+  id: 10157
+  lang: id
+  currency: IDR
+  img: sahara-nights.webp
+  url: yggdrasil/sahara-nights
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10157&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Brazil Bomba
+  id: 7375
+  lang: id
+  currency: IDR
+  img: brazil-bomba.webp
+  url: yggdrasil/brazil-bomba
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7375&lang=id&currency=IDR
+  provider: YGGDRASIL
