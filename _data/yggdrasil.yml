@@ -159,3 +159,57 @@
   url: yggdrasil/big-blox
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7328&lang=id&currency=IDR
   provider: YGGDRASIL
+
+- title: Vikings Go Wild
+  id: 7316
+  lang: id
+  currency: IDR
+  img: vikings-go-wild.webp
+  url: yggdrasil/vikings-go-wild
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7316&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Cazino Zeppelin
+  id: 7308
+  lang: id
+  currency: IDR
+  img: cazino-zeppelin.webp
+  url: yggdrasil/cazino-zeppelin
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7308&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Gem Rocks
+  id: 7343
+  lang: id
+  currency: IDR
+  img: gem-rocks.webp
+  url: yggdrasil/gem-rocks
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7343&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Cyrus The Virus
+  id: 7313
+  lang: id
+  currency: IDR
+  img: cyrus-the-virus.webp
+  url: yggdrasil/cyrus-the-virus
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7313&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Fruitoids
+  id: 7304
+  lang: id
+  currency: IDR
+  img: fruitoids.webp
+  url: yggdrasil/fruitoids
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7304&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: Wicked Circus
+  id: 7321
+  lang: id
+  currency: IDR
+  img: wicked-circus.webp
+  url: yggdrasil/wicked-circus
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7321&lang=id&currency=IDR
+  provider: YGGDRASIL
