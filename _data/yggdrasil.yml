@@ -1,0 +1,18 @@
+- title: Beauty and The Beast
+  id: 7333
+  lang: id
+  Currency: IDR
+  img: koi-gates.webp
+  url: yggdrasil/beauty-and-the-beast
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7333&lang=id&currency=IDR&channel=pc
+  provider: YGGDRASIL
+
+- title: Spina Colada
+  id: 0
+  lang: id
+  Currency: IDR
+  img: spina-colada.webp
+  url: yggdrasil/spina-colada
+  permalink: 0
+  provider: YGGDRASIL
+
