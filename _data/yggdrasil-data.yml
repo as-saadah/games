@@ -10,10 +10,10 @@ beauty-beast:
 
 spina-colada:
   title: Spina Colada
-  id: 0
+  id: 7339
   lang: id
   Currency: IDR
   img: spina-colada.webp
   url: yggdrasil/spina-colada
-  permalink: 0
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7339&lang=id&currency=IDR
   provider: YGGDRASIL
