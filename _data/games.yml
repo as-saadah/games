@@ -1376,3 +1376,11 @@ knight-king:
   currency: idr
   lang: id
   provider: Pragmatic Play
+gatotkaca-fury:
+  title: Gatot Kaca Fury
+  symbol: vs20gatotfury
+  img: gatotkaca-fury.webp
+  url: pragmatic-play/gatotkaca-fury
+  currency: idr
+  lang: id
+  provider: Pragmatic Play
