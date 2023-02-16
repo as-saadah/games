@@ -1,28 +1,28 @@
 - title: Gates of Olympus
   symbol: vs20olympgate
   img: olympus-gates.webp
-  url: olympus-gates
+  url: pragmatic-play/olympus-gates
   currency: idr
   lang: id
   provider: Pragmatic Play
 - title: Starlight Princess
   symbol: vs20starlight
   img: starlight-princess.webp
-  url: starlight-princess
+  url: pragmatic-play/starlight-princess
   currency: idr
   lang: id
   provider: Pragmatic Play
 - title: Starlight Christmas
   symbol: vs20schristmas
   img: starlight-xmas.webp
-  url: starlight-christmas
+  url: pragmatic-play/starlight-christmas
   currency: idr
   lang: id
   provider: Pragmatic Play
 - title: Gates of Gatot Kaca
   symbol: vs20gatotgates
   img: gatotkaca.webp
-  url: gatot-kaca
+  url: pragmatic-play/gatot-kaca
   currency: idr
   lang: id
   provider: Pragmatic Play
