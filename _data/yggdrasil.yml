@@ -231,3 +231,21 @@
   url: yggdrasil/brazil-bomba
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7375&lang=id&currency=IDR
   provider: YGGDRASIL
+
+- title: The Royal Family
+  id: 8303
+  lang: id
+  currency: IDR
+  img: royal-family.webp
+  url: yggdrasil/royal-family
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=8303&lang=id&currency=IDR
+  provider: YGGDRASIL
+
+- title: The One Armed of Bandit
+  id: 10143
+  lang: id
+  currency: IDR
+  img: armed-bandit.webp
+  url: yggdrasil/one-armed-bandit
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10143&lang=id&currency=IDR
+  provider: YGGDRASIL
