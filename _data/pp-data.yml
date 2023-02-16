@@ -5,6 +5,7 @@ olympus-gates:
   url: pragmatic-play/olympus-gates
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate
   provider: Pragmatic Play
 starlight-princess:
   title: Starlight Princess
@@ -13,6 +14,7 @@ starlight-princess:
   url: pragmatic-play/starlight-princess
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlight
   provider: Pragmatic Play
 starlight-christmas:
   title: Starlight Christmas
@@ -21,6 +23,7 @@ starlight-christmas:
   url: pragmatic-play/starlight-christmas
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20schristmas
   provider: Pragmatic Play
 gatot-kaca:
   title: Gates of Gatot Kaca
@@ -29,14 +32,16 @@ gatot-kaca:
   url: pragmatic-play/gatot-kaca
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotgates
   provider: Pragmatic Play
 gatotkaca-fury:
   title: Gatot Kaca Fury
   symbol: vs20gatotfury
   img: gatotkaca-fury.webp
   url: pragmatic-play/gatotkaca-fury
-  currency: idr
+  currency: IDR
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotfury
   provider: Pragmatic Play
 sweet-bonanza:
   title: Sweet Bonanza
@@ -45,6 +50,7 @@ sweet-bonanza:
   url: pragmatic-play/sweet-bonanza
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitsw
   provider: Pragmatic Play
 bonanza-xmas:
   title: Sweet Bonanza XMAS
@@ -53,6 +59,7 @@ bonanza-xmas:
   url: pragmatic-play/bonanza-xmas
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sbxmas
   provider: Pragmatic Play
 diamond-strike:
   title: Diamond Strike
