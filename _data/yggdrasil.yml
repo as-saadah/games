@@ -20,8 +20,8 @@
   id: 7345
   lang: id
   currency: IDR
-  img: ozwins-jackpot.webp
-  url: yggdrasil/ozwins-jackpot
+  img: ozwins-jackpots.webp
+  url: yggdrasil/ozwins-jackpots
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7345&lang=id&currency=IDR
   provider: YGGDRASIL
 
