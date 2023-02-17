@@ -46,3 +46,24 @@
   url: spadegaming/mayan-gems
   lang: id_ID
   provider: Spadegaming 
+- title: Mermaid
+  id: S-MR01
+  img: mermaid.webp
+  url: spadegaming/mermaid
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-MR01
+  provider: Spadegaming 
+- title: Sweet Bakery
+  id: S-SB01
+  img: sweet-bakery.webp
+  url: spadegaming/sweet-bakery
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-SB01
+  provider: Spadegaming 
+- title: Royal Katt
+  id: S-RK02
+  img: royal-katt.webp
+  url: spadegaming/royal-katt
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-RK02
+  provider: Spadegaming 
