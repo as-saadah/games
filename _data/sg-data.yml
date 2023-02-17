@@ -138,3 +138,35 @@ golden-lotus:
   lang: id_ID
   permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-GL02
   provider: Spadegaming 
+poker-ways:
+  title: Poker Ways
+  id: S-PW03
+  img: poker-ways.webp
+  url: spadegaming/poker-ways
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-PW03
+  provider: Spadegaming 
+ali-baba:
+  title: Ali Baba
+  id: S-AL01
+  img: ali-baba.webp
+  url: spadegaming/ali-baba
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-AL01
+  provider: Spadegaming 
+gold-rush-cowboys:
+  title: Gold Rush Cowboys
+  id: S-GR01
+  img: gold-rush-cowboys.webp
+  url: spadegaming/gold-rush-cowboys
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-GR01
+  provider: Spadegaming 
+heroes:
+  title: Heroes Rise of The Legend
+  id: S-HE01
+  img: heroes.webp
+  url: spadegaming/heroes
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-HE01
+  provider: Spadegaming 
