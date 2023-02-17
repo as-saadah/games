@@ -33,3 +33,17 @@
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+- title: Congo Cash
+  symbol: vs432congocash
+  img: congo-cash.webp
+  url: wild-streak-gaming/congo-cash
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Big Juan
+  symbol: vs40bigjuan
+  img: big-juan.webp
+  url: wild-streak-gaming/big-juan
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
