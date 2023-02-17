@@ -319,3 +319,8 @@
   img: muay-thai-champion.webp
   url: pgsoft/muay-thai-champion
   provider: PG Soft Games
+- title: Farm Invaders
+  img: farm-invaders.webp
+  url: pgsoft/farm-invaders
+  id: 0
+  provider: PG Soft Games
