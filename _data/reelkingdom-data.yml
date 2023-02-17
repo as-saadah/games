@@ -27,3 +27,33 @@ big-bass-bonanza-hold-spinner:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbhas
   provider: Reel Kingdom
+
+star-pirates-code:
+  title: Star Pirates Code
+  symbol: vs10starpirate
+  img: star-pirates-code.webp
+  url: reel-kingdom/star-pirates-code
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10starpirate
+  provider: Reel Kingdom
+
+fish-eye:
+  title: Fish Eye
+  symbol: vs10fisheye
+  img: fish-eye.webp
+  url: reel-kingdom/fish-eye
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10fisheye
+  provider: Reel Kingdom
+
+tic-tac-take:
+  title: Tic Tac Take
+  symbol: vs10tictac
+  img: tic-tac-take.webp
+  url: reel-kingdom/tic-tac-take
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10tictac
+  provider: Reel Kingdom
