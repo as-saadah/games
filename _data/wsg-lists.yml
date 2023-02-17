@@ -54,3 +54,10 @@
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+- title: Cosmic Cash
+  symbol: vs40cosmiccash
+  img: cosmic-cash.webp
+  url: wild-streak-gaming/cosmic-cash
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
