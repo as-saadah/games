@@ -61,3 +61,10 @@
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+- title: Mystery of The Orient
+  symbol: vswaysmorient
+  img: orient-mystery.webp
+  url: wild-streak-gaming/orient-mystery
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
