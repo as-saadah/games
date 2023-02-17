@@ -54,3 +54,11 @@ big-juan:
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+temujin-treasures:
+  title: Temujin Treasures
+  symbol: vs1024temuj
+  img: temujin-treasures.webp
+  url: wild-streak-gaming/temujin-treasures
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
