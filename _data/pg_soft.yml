@@ -326,3 +326,15 @@
   img: emoji-riches.webp
   url: pgsoft/emoji-riches
   provider: PG Soft Games
+- title: Hot Pot Chili Jackpot
+  id: 28
+  url: pgsoft/hot-pot
+  img: hot-pot.webp
+  permalink: https://m.pgsoft-games.com/28/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft Games
+- title: Mask Carnival
+  id: 118
+  url: pgsoft/mask-carnival
+  img: mask-carnival.webp
+  permalink: https://m.pgsoft-games.com/118/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft Games
