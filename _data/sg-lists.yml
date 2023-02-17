@@ -88,3 +88,31 @@
   lang: id_ID
   permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-CP01
   provider: Spadegaming 
+- title: Sexy Vegas
+  id: S-VB01
+  img: sexy-vegas.webp
+  url: spadegaming/sexy-vegas
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-VB01
+  provider: Spadegaming 
+- title: First Love
+  id: S-FL02
+  img: first-love.webp
+  url: spadegaming/first-love
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-FL02
+  provider: Spadegaming 
+- title: Love Idol
+  id: S-LI03
+  img: love-idol.webp
+  url: spadegaming/love-idol
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-LI03
+  provider: Spadegaming 
+- title: Golden Lotus
+  id: S-GL02
+  img: golden-lotus.webp
+  url: spadegaming/golden-lotus
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-GL02
+  provider: Spadegaming 
