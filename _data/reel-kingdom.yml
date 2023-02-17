@@ -151,7 +151,7 @@
   provider: Reel Kingdom
 
 - title: Star Pirates Code
-  symbol: 0
+  symbol: vs10starpirate
   img: star-pirates-code.webp
   url: reel-kingdom/star-pirates-code
   currency: idr
@@ -159,7 +159,7 @@
   provider: Reel Kingdom
 
 - title: Fish Eye
-  symbol: 0
+  symbol: vs10fisheye
   img: fish-eye.webp
   url: reel-kingdom/fish-eye
   currency: idr
@@ -167,7 +167,7 @@
   provider: Reel Kingdom
 
 - title: Tic Tac Take
-  symbol: 0
+  symbol: vs10tictac
   img: tic-tac-take.webp
   url: reel-kingdom/tic-tac-take
   currency: idr
