@@ -67,3 +67,24 @@
   lang: id_ID
   permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-RK02
   provider: Spadegaming 
+- title: Magic Kitty
+  id: S-MK01
+  img: magic-kitty.webp
+  url: spadegaming/magic-kitty
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-MK01
+  provider: Spadegaming 
+- title: Ruby Hood
+  id: S-RH01
+  img: ruby-hood.webp
+  url: spadegaming/ruby-hood
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-RH01
+  provider: Spadegaming 
+- title: Candy Pop
+  id: S-CP01
+  img: candy-pop.webp
+  url: spadegaming/candy-pop
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-CP01
+  provider: Spadegaming 
