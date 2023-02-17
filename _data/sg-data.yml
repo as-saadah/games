@@ -34,27 +34,51 @@ candy-candy:
   title: Candy Candy
   id: S-CP02
   img: candy-candy.webp
-  url: candy-candy-spadegaming
+  url: spadegaming/candy-candy
   lang: id_ID
   provider: Spadegaming 
 king-pharaoh:
   title: King Pharaoh
   id: S-PH02
   img: king-pharaoh.webp
-  url: king-pharaoh-spadegaming
+  url: spadegaming/king-pharaoh
   lang: id_ID
   provider: Spadegaming 
 princess-wang:
   title: Princess Wang
   id: S-PW02
   img: princess-wang.webp
-  url: princess-wang-spadegaming
+  url: spadegaming/princess-wang
   lang: id_ID
   provider: Spadegaming 
 mayan-gems:
   title: Mayan Gems
   id: S-MG02
   img: mayan-gems.webp
-  url: mayan-gems-spadegaming
+  url: spadegaming/mayan-gems
   lang: id_ID
+  provider: Spadegaming 
+mermaid:
+  title: Mermaid
+  id: S-MR01
+  img: mermaid.webp
+  url: spadegaming/mermaid
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-MR01
+  provider: Spadegaming 
+sweet-bakery:
+  title: Sweet Bakery
+  id: S-SB01
+  img: sweet-bakery.webp
+  url: spadegaming/sweet-bakery
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-SB01
+  provider: Spadegaming 
+royal-katt:
+  title: Royal Katt
+  id: S-RK02
+  img: royal-katt.webp
+  url: spadegaming/royal-katt
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-RK02
   provider: Spadegaming 
