@@ -144,3 +144,87 @@
   lang: id_ID
   permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-HE01
   provider: Spadegaming 
+- title: Wild Wet Win
+  id: S-WW02
+  img: wild-wet-win.webp
+  url: spadegaming/wild-wet-win
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-WW02
+  provider: Spadegaming 
+- title: Daddy Vacation
+  id: S-DV01
+  img: daddy-vacation.webp
+  url: spadegaming/daddy-vacation
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-DV01
+  provider: Spadegaming 
+- title: Gangster Axe
+  id: S-GA01
+  img: gangster-axe.webp
+  url: spadegaming/gangster-axe
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-GA01
+  provider: Spadegaming 
+- title: Pan Fairy
+  id: S-PP01
+  img: pan-fairy.webp
+  url: spadegaming/pan-fairy
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-PP01
+  provider: Spadegaming 
+- title: Pirate King
+  id: S-PK01
+  img: pirate-king.webp
+  url: spadegaming/pirate-king
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-PK01
+  provider: Spadegaming 
+- title: Highway Fortune
+  id: S-HF01
+  img: highway-fortune.webp
+  url: spadegaming/highway-fortune
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-HF01
+  provider: Spadegaming 
+- title: Gold Panther
+  id: S-GP01
+  img: gold-panther.webp
+  url: spadegaming/gold-panther
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-GP01
+  provider: Spadegaming 
+- title: Golden Whale
+  id: S-GW01
+  img: golden-whale.webp
+  url: spadegaming/golden-whale
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-GW01
+  provider: Spadegaming 
+- title: Master Chef
+  id: S-CC01
+  img: master-chef.webp
+  url: spadegaming/master-chef
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-CC01
+  provider: Spadegaming 
+- title: Spins Stone
+  id: S-SA02
+  img: spins-stone.webp
+  url: spadegaming/spins-stone
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-SA02
+  provider: Spadegaming 
+- title: Triple Panda
+  id: S-TP02
+  img: triple-panda.webp
+  url: spadegaming/triple-panda
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-TP02
+  provider: Spadegaming 
+- title: Fishing War
+  id: F-SF02
+  img: fishing-war.webp
+  url: spadegaming/fishing-war
+  lang: id_ID
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=F-SF02
+  provider: Spadegaming
