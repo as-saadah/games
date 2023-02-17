@@ -1,26 +1,35 @@
 mahjong-ways:
   title: Mahjong Ways
   id: 65
+  url: pgsoft/mahjong-ways
+  permalink: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
 mahjong-ways2:
   title: Mahjong Ways 2
   id: 74
+  url: pgsoft/mahjong-ways2
+  permalink: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
 lucky-neko:
   title: Lucky Neko
   id: 89
+  url: pgsoft/lucky-neko
+  permalink: https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
 dragon-hatch:
   title: Dragon Hatch
   id: 57
+  permalink: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
 qilin-ways:
   title: Ways of The Qilin
   id: 106
+  permalink: https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
 phoenix-rises:
   title: Phoenix Rises
   id: 82
+  permalink: https://m.pgsoft-games.com/82/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
 jurassic-kingdom:
   title: Jurassic Kingdom
@@ -374,4 +383,9 @@ thai-river-wonders:
 muay-thai-champion:
   title: Muay Thai Champion
   id: 64
+  provider: PG Soft Games
+emoji-riches:
+  title: Emoji Riches
+  id: 114
+  permalink: https://m.pgsoft-games.com/114/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft Games
