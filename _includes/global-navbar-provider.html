@@ -1,0 +1,19 @@
+<div class="navbar-fixed">
+ <nav class="nav-extended">
+
+    <div class="nav-wrapper black">
+      <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+      <a href="#!" class="brand-logo center">
+       {{ page.title }}
+      </a>
+      <a href="{{ absolute_url }}" class="icon-right show-on-med-and-down right waves-effect waves-light">
+       <i class="material-icons">cached</i>
+      </a>
+    </div>
+    <div class="nav-content nav-content-costum">
+     {% include navbar-provider.html %}
+    </div>
+
+ </nav>
+</div>
+{% include sidenav.html %}
