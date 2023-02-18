@@ -69,3 +69,62 @@ a.icon-right {
     line-height: normal;
     padding: 15px;
 }
+
+.tabs {
+  height: 40px !important;
+  width: 100%;
+}
+
+.tabs .tab {
+  line-height: 45px;
+  height: 40px !important;
+}
+
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+  background-color: #424242 !important;
+  outline: none;
+  color: #ffffff !important;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+  background-color: transparent;
+  color: #ee6e73;
+}
+
+.tabs .indicator {
+  position: absolute;
+  bottom: 0;
+  height: 2px;
+  background-color: transparent !important;
+  will-change: left, right;
+}
+.nav {
+  color: #fff;
+  background-color: transparent !important;
+  width: 100%;
+  height: 56px;
+  line-height: 56px;
+}
+.nav-content-costum {
+ padding: 0px; 
+ padding-left: 8px; 
+ padding-right: 8px; 
+ height: 50px; 
+ background: black !important;
+}
+.tabs-costum {
+ background: white !important; 
+ color: black !important; 
+ font-weight: 500 !important;
+ border-radius: 50px !important;
+}
+.tab a {
+ color: black !important; 
+}
+.tab:active {
+ background: #424242 !important; 
+ color: #ffffff !important;
+}
+.tab:active a {
+ color: #ffffff !important;
+}
