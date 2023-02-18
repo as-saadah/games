@@ -337,14 +337,6 @@ jack-frosts-winter:
   permalink: https://m.pgsoft-games.com/97/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: Pocket Soft Games
   
-gem-saviour:
-  title: Gem Saviour
-  img: gem-saviour.webp
-  url: pgsoft/gem-saviour
-  id: 2
-  permalink: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
 genies-3-wishes:
   title: Genie's 3 Wishes
   img: genies-3-wishes.webp
@@ -565,4 +557,33 @@ fortune-mouse:
   id: 68
   url: pgsoft/fortune-mouse
   permalink: https://m.pgsoft-games.com/68/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: Pocket Soft Games
+
+samurai-vs-ninja:
+  title: Samurai VS Ninja
+  id: 59
+  url: pgsoft/samurai-vs-ninja
+  permalink: https://m.pgsoft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: Pocket Soft Games
+
+hood-vs-wolf:
+  title: Hood VS Wolf
+  id: 18
+  url: pgsoft/hood-vs-wolf
+  permalink: https://m.pgsoft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: Pocket Soft Games
+
+gem-saviour:
+  title: Gem Saviour
+  img: gem-saviour.webp
+  url: pgsoft/gem-saviour
+  id: 2
+  permalink: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: Pocket Soft Games
+
+gem-saviour-conquest:
+  title: Gem Saviour Conquest
+  id: 62
+  url: pgsoft/gem-saviour-conquest
+  permalink: https://m.pgsoft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: Pocket Soft Games
