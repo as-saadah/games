@@ -137,7 +137,7 @@ nav i.material-icons {
   display: block;
   font-size: 24px;
   height: 45px !important;
-  line-height: 35px !important;
+  line-height: 32px !important;
 }
 @media only screen and (min-width: 993px) {
   nav a.sidenav-trigger {
@@ -186,11 +186,15 @@ nav .brand-logo {
  background: #000000 !important;
  color: #ffffff !important;
 }
-.card, .card-panel a, .card-title {
+.card, .card-panel a, .card-title, .sidenav a {
  color: #ffffff !important;
 }
 .card-title {
  color: #ffffff !important;
  font-size: 100% !important;
  font-weight: 500;
+}
+.sidenav {
+ background: #000000 !important;
+ color: #ffffff !important;
 }
