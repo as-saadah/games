@@ -178,3 +178,10 @@ nav .brand-logo {
 .container-mt48 {
  margin-top: 46px !important;
 }
+.card .card-action {
+  padding: 6px 4px !important;
+  font-weight: 500;
+}
+small {
+  font-size: 100% !important;
+}
