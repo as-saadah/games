@@ -3,6 +3,7 @@ description:    "Stop bermain game judi slot. Mainkan saja games slot demo grati
 baseurl:        "/games/"
 url:            "https://as-saadah.github.io/games/"
 markdown: kramdown
+future: true
 timezone: Asia/Jakarta
 permalink: pretty
 collections:
