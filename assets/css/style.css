@@ -19,12 +19,6 @@ a {
  font-size: 10.5px !important;
  font-weight: 500;
 }
-a.icon-left {
- padding-left: 15px;
-}
-a.icon-right {
- padding-right: 15px;
-}
 .custom-container {
  margin-top: 85px !important;
 }
