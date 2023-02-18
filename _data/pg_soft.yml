@@ -18,6 +18,16 @@
   url: pgsoft/wild-bandito
   id: 104
   provider: Pocket Games Soft
+- title: Medusa The Curse of Athena
+  img: medusa.webp
+  url: pgsoft/medusa
+  id: 7
+  provider: Pocket Games Soft
+- title: Medusa II
+  img: medusa2.webp
+  url: pgsoft/medusa2
+  id: 6
+  provider: Pocket Games Soft
 - title: Dragon Hatch
   img: dragon-hatch.webp
   url: pgsoft/dragon-hatch
@@ -148,16 +158,6 @@
   url: pgsoft/butterfly-blossom
   id: 125
   provider: Pocket Games Soft
-- title: Medusa The Curse of Athena
-  img: medusa.webp
-  url: pgsoft/medusa
-  id: 7
-  provider: Pocket Games Soft
-- title: Gem Saviour Sword
-  img: gem-saviour-sword.webp
-  url: pgsoft/gem-saviour-sword
-  id: 38
-  provider: Pocket Games Soft
 - title: Emperor's Favour
   img: emperors-favour.webp
   url: pgsoft/emperors-favour
@@ -227,11 +227,6 @@
   img: fortune-rabbit.webp
   url: pgsoft/fortune-rabbit
   id: 1543462
-  provider: Pocket Games Soft
-- title: Medusa II
-  img: medusa2.webp
-  url: pgsoft/medusa2
-  id: 6
   provider: Pocket Games Soft
 - title: Lucky Piggy 
   img: lucky-piggy.webp
@@ -359,7 +354,7 @@
   url: pgsoft/fortune-mouse
   permalink: https://m.pgsoft-games.com/68/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: Pocket Soft Games
-- title: Samurai VS Ninja
+- title: Ninja VS Samurai
   id: 59
   img: samurai-vs-ninja.webp
   url: pgsoft/samurai-vs-ninja
@@ -377,6 +372,11 @@
   id: 2
   permalink: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: Pocket Soft Games
+- title: Gem Saviour Sword
+  img: gem-saviour-sword.webp
+  url: pgsoft/gem-saviour-sword
+  id: 38
+  provider: Pocket Games Soft
 - title: Gem Saviour Conquest
   id: 62
   img: gem-saviour-conquest.webp
