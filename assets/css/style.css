@@ -166,6 +166,14 @@ nav .sidenav-right-icon {
   margin: 0 18px;
   font-weight: 500;
 }
+nav .icon-left {
+  float: left;
+  position: relative;
+  z-index: 1;
+  height: 45px !important;
+  margin: 0 18px;
+  font-weight: 500;
+}
 nav .sidenav-trigger i, nav .sidenav-right-icon i {
   height: 45px !important;
   line-height: 45px !important;
