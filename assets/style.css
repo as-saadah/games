@@ -182,3 +182,15 @@ nav .brand-logo {
   padding: 6px 4px !important;
   font-weight: 500;
 }
+.card, .card-panel {
+ background: #000000 !important;
+ color: #ffffff !important;
+}
+.card, .card-panel a, .card-title {
+ color: #ffffff !important;
+}
+.card-title {
+ color: #ffffff !important;
+ font-size: 100% !important;
+ font-weight: 500;
+}
