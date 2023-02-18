@@ -71,26 +71,23 @@ a.icon-right {
 }
 
 .tabs {
-  height: 40px !important;
-  width: 100%;
+  height: 30px !important;
 }
 
 .tabs .tab {
-  line-height: 45px;
+  line-height: 35px !important;
   height: 40px !important;
 }
-
 .tabs .tab a:focus, .tabs .tab a:focus.active {
   background-color: #424242 !important;
   outline: none;
   color: #ffffff !important;
 }
 
-.tabs .tab a:hover, .tabs .tab a.active {
+.tabs .tab a.active {
   background-color: transparent;
   color: #ee6e73;
 }
-
 .tabs .indicator {
   position: absolute;
   bottom: 0;
@@ -102,15 +99,15 @@ a.icon-right {
   color: #fff;
   background-color: transparent !important;
   width: 100%;
-  height: 56px;
-  line-height: 56px;
+  height: 45px !important;
+  line-height: 45px !important;
 }
 .nav-content-costum {
  padding: 0px; 
  padding-left: 8px; 
  padding-right: 8px; 
- height: 50px; 
- background: black !important;
+ height: 40px; 
+ background: #000000 !important;
 }
 .tabs-costum {
  background: white !important; 
@@ -122,9 +119,57 @@ a.icon-right {
  color: black !important; 
 }
 .tab:active {
- background: #424242 !important; 
+ background-color: #424242 !important; 
  color: #ffffff !important;
 }
 .tab:active a {
+ background: #424242 !important; 
  color: #ffffff !important;
+}
+nav {
+  color: #fff;
+  background-color: #ee6e73;
+  width: 100%;
+  height: 45px !important;
+  line-height: 45px !important;
+}
+nav.nav-extended .nav-wrapper {
+  min-height: 45px !important;
+  height: auto;
+}
+nav i,
+nav [class^="mdi-"], nav [class*="mdi-"],
+nav i.material-icons {
+  display: block;
+  font-size: 24px;
+  height: 45px !important;
+  line-height: 35px !important;
+}
+@media only screen and (min-width: 993px) {
+  nav a.sidenav-trigger {
+  display: block !important;
+  }
+}
+nav .sidenav-trigger {
+  float: left;
+  position: relative;
+  z-index: 1;
+  height: 45px !important;
+  margin: 0 18px;
+  font-weight: 500;
+}
+nav .sidenav-right-icon {
+  float: right;
+  position: relative;
+  z-index: 1;
+  height: 45px !important;
+  margin: 0 18px;
+  font-weight: 500;
+}
+nav .sidenav-trigger i, nav .sidenav-right-icon i {
+  height: 45px !important;
+  line-height: 45px !important;
+}
+nav .brand-logo {
+  text-transform: uppercase;
 }
