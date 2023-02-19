@@ -198,3 +198,30 @@
   lang: id
   provider: Megaways
   by: Playtech
+- title: Big Bucks Bandits Megaways
+  id: 1025
+  img: big-bucks-bandits.webp
+  url: megaways/big-bucks-bandits
+  currency: idr
+  lang: id
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: Megaways
+  by: YGGDRASIL
+- title: Atlantis Megaways
+  id: 1020
+  img: big-bucks-bandits.webp
+  url: megaways/atlantis
+  currency: idr
+  lang: id
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: Megaways
+  by: YGGDRASIL
+- title: Odin Infinity Reels Megaways
+  id: 1033
+  img: big-bucks-bandits.webp
+  url: megaways/odin-infinity-reels
+  currency: idr
+  lang: id
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: Megaways
+  by: YGGDRASIL
