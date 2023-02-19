@@ -287,6 +287,7 @@ easter-island:
   url: yggdrasil/easter-island
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10072&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 easter-island2:
   title: Easter Island 2
   id: 7396
@@ -296,6 +297,7 @@ easter-island2:
   url: yggdrasil/easter-island2
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 bicicleta:
   title: Bicicleta
   id: 7326
@@ -305,6 +307,7 @@ bicicleta:
   url: yggdrasil/bicicleta
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 orient-express:
   title: Orient Express
   id: 8301
@@ -314,6 +317,7 @@ orient-express:
   url: yggdrasil/orient-express
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 penguin-city:
   title: Penguin City
   id: 7350
@@ -323,6 +327,7 @@ penguin-city:
   url: yggdrasil/penguin-city
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 champions-rome:
   title: Champions of Rome
   id: 10158
@@ -332,6 +337,7 @@ champions-rome:
   url: yggdrasil/champions-of-rome
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10158&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 baron-samedi:
   title: Baron Samedi
   id: 7354
@@ -341,6 +347,7 @@ baron-samedi:
   url: yggdrasil/baron-samedi
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7354&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 calavera-crush:
   title: Calavera Crush
   id: 10292
@@ -350,6 +357,7 @@ calavera-crush:
   url: yggdrasil/calavera-crush
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10292&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 arthurs-fortune:
   title: Arthur's Fortune
   id: 10160
@@ -359,6 +367,7 @@ arthurs-fortune:
   url: yggdrasil/arthurs-fortune
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10160&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 blood-moon-wilds:
   title: Blood Moon Wilds
   id: 10161
@@ -367,4 +376,41 @@ blood-moon-wilds:
   img: blood-moon-wilds.webp
   url: yggdrasil/blood-moon-wilds
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+football-glory:
+  title: Football Glory
+  id: 7386
+  lang: id
+  currency: IDR
+  img: football-glory.webp
+  url: yggdrasil/football-glory
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7386&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+raptor-doublemax:
+  title: Raptor Doublemax
+  id: 7408
+  lang: id
+  currency: IDR
+  img: raptor-doublemax.webp
+  url: yggdrasil/raptor-doublemax
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7408&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+gator-gold:
+  title: Gator Gold Gigablox 
+  id: 7401
+  lang: id
+  currency: IDR
+  img: gator-gold.webp
+  url: yggdrasil/gator-gold
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7401&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+gator-gold-deluxe:
+  title: Gator Gold Gigablox Deluxe 
+  id: 10170
+  lang: id
+  currency: IDR
+  img: gator-gold-deluxe.webp
+  url: yggdrasil/gator-gold-deluxe
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10170&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
