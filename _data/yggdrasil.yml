@@ -321,3 +321,21 @@
   url: yggdrasil/blood-moon-wilds
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
+- title: Bicicleta
+  id: 7326
+  lang: id
+  currency: IDR
+  img: bicicleta.webp
+  url: yggdrasil/bicicleta
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Orient Express
+  id: 8301
+  lang: id
+  currency: IDR
+  img: orient-express.webp
+  url: yggdrasil/orient-express
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
