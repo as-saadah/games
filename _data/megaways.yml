@@ -5,6 +5,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Aztec King Megaways
   symbol: vswaysaztecking
   img: aztec-king-megaways.webp
@@ -12,6 +13,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Mammoth Gold Megaways
   symbol: vs20mammoth
   img: mammoth-gold.webp
@@ -19,6 +21,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Power of Thor Megaways
   symbol: vswayshammthor
   img: megaways-thor.webp
@@ -26,6 +29,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: 5 Rabbits Megaways
   symbol: vswaysrabbits
   img: megaways-rabbits.webp
@@ -33,6 +37,7 @@
   currency: idr
   lang: id
   provider: Megaways 
+  by: Pragmatic Play
 - title: 5 Lions Megaways
   symbol: vswayslions
   img: megaways-lions.webp
@@ -40,6 +45,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Extra Juicy Megaways
   symbol: vswaysxjuicy
   img: megaways-extra-juicy.webp
@@ -47,6 +53,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Great Rhino Megaways
   symbol: vswaysrhino
   img: great-rhino-megaways.webp
@@ -54,6 +61,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Crystal Caverns Megaways
   symbol: vswayscryscav
   img: crystal-caverns.webp
@@ -61,6 +69,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Floating Dragon Megaways
   symbol: vswaysfltdrg
   img: floating-dragon.webp
@@ -68,6 +77,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Reel Kingdom
 - title: The Dog House Megaways
   symbol: vswaysdogs
   img: megaways-dog-house.webp
@@ -75,6 +85,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Legend of Heroes Megaways
   symbol: vswayslofhero
   img: megaways-legend-of-heroes.webp
@@ -82,6 +93,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Rise of Samurai Megaways
   symbol: vswayssamurai
   img: megaways-risesamurai.webp
@@ -89,6 +101,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Elemental Gems Megaways
   symbol: vswayselements
   img: elemental-gems-megaways.webp
@@ -96,6 +109,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Lucky Fishing Megaways
   symbol: vswaysluckyfish
   img: lucky-fishing-megaways.webp
@@ -103,6 +117,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Madame Destiny Megaways
   symbol: vswaysmadame
   img: madame-destiny-megaways.webp
@@ -110,6 +125,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Big Bass Bonanza Megaways
   symbol: vswaysbbb
   img: big-bass-bonanza-megaways.webp
@@ -117,6 +133,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Reel Kingdom
 - title: Wild Wild Riches Megaways
   symbol: vswayswwriches
   img: wild-wild-riches-megaways.webp
@@ -124,6 +141,7 @@
   currency: idr
   lang: id
   provider: Megaways 
+  by: Pragmatic Play
 - title: Spin & Score Megaways
   symbol: vswaysfrywld
   img: spin-score-megaways.webp
@@ -131,6 +149,7 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Buffalo King Megaways
   symbol: vswaysbufking
   img: buffalo-king-megaways.webp
@@ -138,37 +157,44 @@
   currency: idr
   lang: id
   provider: Megaways
+  by: Pragmatic Play
 - title: Olympus Zeus Megaways
   img: olympus-zeus.webp
   url: isoftbet/olympus-zeus
   currency: idr
   lang: id
-  provider: iSoftBet Megaways
+  provider: Megaways
+  by: iSoftBet
 - title: Gold digger Megaways
   img: gold-digger.webp
   url: isoftbet/gold-digger
   currency: idr
   lang: id
-  provider: iSoftBet Megaways
+  provider: Megaways
+  by: iSoftBet
 - title: Tales of Silver Megaways
   img: tales-of-silver.webp
   url: isoftbet/tales-of-silver
   currency: IDR
-  provider: iSoftBet
+  provider: Megaways
+  by: iSoftBet
 - title: Tyrant King Megaways
   img: tyrant-king.webp
   url: isoftbet/tyrant-king
   currency: IDR
-  provider: iSoftBet
+  provider: Megaways
+  by: iSoftBet
 - title: Sahara Riches Megaways
   img: sahara-riches.webp
   url: playtech/sahara-riches
   currency: IDR
   lang: id
-  provider: Playtech
+  provider: Megaways
+  by: Playtech
 - title: Buffalo Blitz Megaways
   img: buffalo-blitz.webp
   url: playtech/buffalo-blitz
   currency: IDR
   lang: id
-  provider: Playtech
+  provider: Megaways
+  by: Playtech
