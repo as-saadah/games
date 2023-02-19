@@ -249,3 +249,40 @@
   url: yggdrasil/one-armed-bandit
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10143&lang=id&currency=IDR
   provider: YGGDRASIL
+
+- title: Champions of Rome
+  id: 10158
+  lang: id
+  currency: IDR
+  img: champions-rome.webp
+  url: yggdrasil/champions-of-rome
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10158&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Penguin City
+  id: 7350
+  lang: id
+  currency: IDR
+  img: penguin-city.webp
+  url: yggdrasil/penguin-city
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Easter Island 
+  id: 10072
+  lang: id
+  currency: IDR
+  img: easter-island.webp
+  url: yggdrasil/easter-island
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10072&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Easter Island 2
+  id: 7396
+  lang: id
+  currency: IDR
+  img: easter-island2.webp
+  url: yggdrasil/easter-island2
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
