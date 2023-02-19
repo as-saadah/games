@@ -387,6 +387,7 @@ football-glory:
   url: yggdrasil/football-glory
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7386&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 raptor-doublemax:
   title: Raptor Doublemax
   id: 7408
@@ -396,6 +397,7 @@ raptor-doublemax:
   url: yggdrasil/raptor-doublemax
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7408&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 gator-gold:
   title: Gator Gold Gigablox 
   id: 7401
@@ -405,6 +407,7 @@ gator-gold:
   url: yggdrasil/gator-gold
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7401&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
+
 gator-gold-deluxe:
   title: Gator Gold Gigablox Deluxe 
   id: 10170
@@ -413,4 +416,59 @@ gator-gold-deluxe:
   img: gator-gold-deluxe.webp
   url: yggdrasil/gator-gold-deluxe
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10170&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+trolls-bridge:
+  title: Trolls Bridge
+  id: 8302
+  lang: id
+  currency: IDR
+  img: trolls-bridge.webp
+  url: yggdrasil/trolls-bridge
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8302&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+time-travel-tigers:
+  title: Time Travel Tigers
+  id: 7356
+  lang: id
+  currency: IDR
+  img: time-travel-tigers.webp
+  url: yggdrasil/time-travel-tigers
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7356&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+asgard:
+  title: Age of Asgard
+  id: 7365
+  lang: id
+  currency: IDR
+  img: asgard.webp
+  url: yggdrasil/asgard
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7365&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+aldos-journey:
+  title: Aldo's Journey
+  id: 7372
+  lang: id
+  currency: IDR
+  img: aldos-journey.webp
+  url: yggdrasil/aldos-journey
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7372&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+pirates-paradise:
+  title: Pirates Smugglers Paradise
+  id: 8304
+  lang: id
+  currency: IDR
+  img: pirates-paradise.webp
+  url: yggdrasil/pirates-paradise
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+golden-fish-tank2:
+  title: Golden Fish Tank 2
+  id: 7409
+  lang: id
+  currency: IDR
+  img: golden-fish-tank2.webp
+  url: yggdrasil/golden-fish-tank2
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7409&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
