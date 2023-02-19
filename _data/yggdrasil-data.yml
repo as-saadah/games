@@ -277,3 +277,94 @@ one-armed-bandit:
   url: yggdrasil/one-armed-bandit
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10143&lang=id&currency=IDR
   provider: YGGDRASIL
+
+easter-island:
+  title: Easter Island 
+  id: 10072
+  lang: id
+  currency: IDR
+  img: easter-island.webp
+  url: yggdrasil/easter-island
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10072&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+easter-island2:
+  title: Easter Island 2
+  id: 7396
+  lang: id
+  currency: IDR
+  img: easter-island2.webp
+  url: yggdrasil/easter-island2
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+bicicleta:
+  title: Bicicleta
+  id: 7326
+  lang: id
+  currency: IDR
+  img: bicicleta.webp
+  url: yggdrasil/bicicleta
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+orient-express:
+  title: Orient Express
+  id: 8301
+  lang: id
+  currency: IDR
+  img: orient-express.webp
+  url: yggdrasil/orient-express
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+penguin-city:
+  title: Penguin City
+  id: 7350
+  lang: id
+  currency: IDR
+  img: penguin-city.webp
+  url: yggdrasil/penguin-city
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+champions-rome:
+  title: Champions of Rome
+  id: 10158
+  lang: id
+  currency: IDR
+  img: champions-rome.webp
+  url: yggdrasil/champions-of-rome
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10158&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+baron-samedi:
+  title: Baron Samedi
+  id: 7354
+  lang: id
+  currency: IDR
+  img: baron-samedi.webp
+  url: yggdrasil/baron-samedi
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7354&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+calavera-crush:
+  title: Calavera Crush
+  id: 10292
+  lang: id
+  currency: IDR
+  img: calavera-crush.webp
+  url: yggdrasil/calavera-crush
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10292&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+arthurs-fortune:
+  title: Arthur's Fortune
+  id: 10160
+  lang: id
+  currency: IDR
+  img: arthurs-fortune.webp
+  url: yggdrasil/arthurs-fortune
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10160&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+blood-moon-wilds:
+  title: Blood Moon Wilds
+  id: 10161
+  lang: id
+  currency: IDR
+  img: blood-moon-wilds.webp
+  url: yggdrasil/blood-moon-wilds
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
