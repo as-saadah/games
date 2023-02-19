@@ -331,15 +331,6 @@
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
-- title: Orient Express
-  id: 8301
-  lang: id
-  currency: IDR
-  img: orient-express.webp
-  url: yggdrasil/orient-express
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
-  provider: YGGDRASIL
-
 - title: Football Glory
   id: 7386
   lang: id
@@ -347,6 +338,15 @@
   img: football-glory.webp
   url: yggdrasil/football-glory
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7386&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Orient Express
+  id: 8301
+  lang: id
+  currency: IDR
+  img: orient-express.webp
+  url: yggdrasil/orient-express
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Raptor Doublemax
