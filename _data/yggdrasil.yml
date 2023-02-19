@@ -286,3 +286,38 @@
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
+- title: Baron Samedi
+  id: 7354
+  lang: id
+  currency: IDR
+  img: baron-samedi.webp
+  url: yggdrasil/baron-samedi
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7354&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Calavera Crush
+  id: 10292
+  lang: id
+  currency: IDR
+  img: calavera-crush.webp
+  url: yggdrasil/calavera-crush
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10292&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Arthur's Fortune
+  id: 10160
+  lang: id
+  currency: IDR
+  img: arthurs-fortune.webp
+  url: yggdrasil/arthurs-fortune
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10160&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
+
+- title: Blood Moon Wilds
+  id: 10161
+  lang: id
+  currency: IDR
+  img: blood-moon-wilds.webp
+  url: yggdrasil/blood-moon-wilds
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDRASIL
