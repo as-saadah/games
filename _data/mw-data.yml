@@ -159,21 +159,13 @@ buffalo-king:
   lang: id
   provider: Megaways
 big-bucks-bandits:
-  title: Buffalo King Megaways
-  id: 1025
-  img: big-bucks-bandits.webp
-  url: megaways/big-bucks-bandits
-  currency: idr
-  lang: id
-  provider: Megaways
-  by: YGGDRASIL
-big-bucks-bandits:
   title: Big Bucks Bandits Megaways
   id: 1025
   img: big-bucks-bandits.webp
   url: megaways/big-bucks-bandits
   currency: idr
   lang: id
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
 atlantis:
@@ -183,6 +175,7 @@ atlantis:
   url: megaways/atlantis
   currency: idr
   lang: id
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
 odin:
@@ -192,5 +185,6 @@ odin:
   url: megaways/atlantis
   currency: idr
   lang: id
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
