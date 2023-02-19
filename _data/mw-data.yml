@@ -158,3 +158,39 @@ buffalo-king:
   currency: idr
   lang: id
   provider: Megaways
+big-bucks-bandits:
+  title: Buffalo King Megaways
+  id: 1025
+  img: big-bucks-bandits.webp
+  url: megaways/big-bucks-bandits
+  currency: idr
+  lang: id
+  provider: Megaways
+  by: YGGDRASIL
+big-bucks-bandits:
+  title: Big Bucks Bandits Megaways
+  id: 1025
+  img: big-bucks-bandits.webp
+  url: megaways/big-bucks-bandits
+  currency: idr
+  lang: id
+  provider: Megaways
+  by: YGGDRASIL
+atlantis:
+  title: Atlantis Megaways
+  id: 1020
+  img: big-bucks-bandits.webp
+  url: megaways/atlantis
+  currency: idr
+  lang: id
+  provider: Megaways
+  by: YGGDRASIL
+odin:
+  title: Odin Infinity Reels Megaways
+  id: 1033
+  img: big-bucks-bandits.webp
+  url: megaways/atlantis
+  currency: idr
+  lang: id
+  provider: Megaways
+  by: YGGDRASIL
