@@ -452,7 +452,7 @@ aldos-journey:
   currency: IDR
   img: aldos-journey.webp
   url: yggdrasil/aldos-journey
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7372&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7372&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
   provider: YGGDRASIL
 pirates-paradise:
   title: Pirates Smugglers Paradise
@@ -461,7 +461,7 @@ pirates-paradise:
   currency: IDR
   img: pirates-paradise.webp
   url: yggdrasil/pirates-paradise
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
   provider: YGGDRASIL
 golden-fish-tank2:
   title: Golden Fish Tank 2
@@ -470,5 +470,23 @@ golden-fish-tank2:
   currency: IDR
   img: golden-fish-tank2.webp
   url: yggdrasil/golden-fish-tank2
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7409&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7409&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  provider: YGGDRASIL
+persia-eye2:
+  title: Eye of Persia 2
+  id: 10250
+  lang: id
+  currency: IDR
+  img: persia-eye2.webp
+  url: yggdrasil/eye-of-persia2
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10250&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  provider: YGGDRASIL
+tuts-twister:
+  title: Tuts Twister
+  id: 7349
+  lang: id
+  currency: IDR
+  img: tuts-twister.webp
+  url: yggdrasil/tuts-twister
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7349&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
   provider: YGGDRASIL
