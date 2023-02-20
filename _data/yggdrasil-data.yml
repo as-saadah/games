@@ -5,7 +5,7 @@ beauty-beast:
   currency: IDR
   img: beauty-the-beast.webp
   url: yggdrasil/beauty-and-the-beast
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7333&lang=id&currency=IDR&channel=pc
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7333&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 spina-colada:
@@ -15,7 +15,7 @@ spina-colada:
   currency: IDR
   img: spina-colada.webp
   url: yggdrasil/spina-colada
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7339&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7339&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 ozwins-jackpots:
@@ -25,7 +25,7 @@ ozwins-jackpots:
   currency: IDR
   img: ozwins-jackpots.webp
   url: yggdrasil/ozwins-jackpots
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7345&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7345&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 golden-fish-tank:
@@ -35,7 +35,7 @@ golden-fish-tank:
   currency: IDR
   img: golden-fish-tank.webp
   url: yggdrasil/golden-fish-tank
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7322&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7322&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 holmes-stolen-stones:
@@ -45,7 +45,7 @@ holmes-stolen-stones:
   currency: IDR
   img: holmes-stolen-stones.webp
   url: yggdrasil/holmes-stolen-stones
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7317&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7317&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 vikings-go-berzerk:
@@ -55,7 +55,7 @@ vikings-go-berzerk:
   currency: IDR
   img: vikings-go-berzerk.webp
   url: yggdrasil/vikings-go-berzerk
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7331&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7331&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 rainbow-ryan:
@@ -65,7 +65,7 @@ rainbow-ryan:
   currency: IDR
   img: rainbow-ryan.webp
   url: yggdrasil/rainbow-ryan
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7336&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7336&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 winter-berries:
@@ -75,7 +75,7 @@ winter-berries:
   currency: IDR
   img: winter-berries.webp
   url: yggdrasil/winter-berries
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7302&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7302&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 nirvana:
@@ -85,7 +85,7 @@ nirvana:
   currency: IDR
   img: nirvana.webp
   url: yggdrasil/nirvana
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7319&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7319&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 double-dragons:
@@ -95,7 +95,7 @@ double-dragons:
   currency: IDR
   img: double-dragons.webp
   url: yggdrasil/double-dragons
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7329&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7329&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 jungle-books:
@@ -105,7 +105,7 @@ jungle-books:
   currency: IDR
   img: jungle-books.webp
   url: yggdrasil/jungle-books
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7337&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7337&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 golden-monkey:
@@ -115,7 +115,7 @@ golden-monkey:
   currency: IDR
   img: golden-monkey.webp
   url: yggdrasil/golden-monkey
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7325&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7325&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 white-snake-lady:
@@ -125,7 +125,7 @@ white-snake-lady:
   currency: IDR
   img: white-snake-lady.webp
   url: yggdrasil/white-snake-lady
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7327&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7327&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 seasons:
@@ -135,7 +135,7 @@ seasons:
   currency: IDR
   img: seasons.webp
   url: yggdrasil/seasons
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7323&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7323&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 super-heroes:
@@ -145,7 +145,7 @@ super-heroes:
   currency: IDR
   img: super-heroes.webp
   url: yggdrasil/super-heroes
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7330&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7330&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 sunny-shores:
@@ -155,7 +155,7 @@ sunny-shores:
   currency: IDR
   img: sunny-shores.webp
   url: yggdrasil/sunny-shores
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7338&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7338&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 alchymedes:
@@ -165,7 +165,7 @@ alchymedes:
   currency: IDR
   img: alchymedes.webp
   url: yggdrasil/alchymedes
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7332&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7332&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 big-blox:
@@ -175,7 +175,7 @@ big-blox:
   currency: IDR
   img: big-blox.webp
   url: yggdrasil/big-blox
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7328&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7328&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 vikings-go-wild:
@@ -185,7 +185,7 @@ vikings-go-wild:
   currency: IDR
   img: vikings-go-wild.webp
   url: yggdrasil/vikings-go-wild
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7316&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7316&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 cazino-zeppelin:
@@ -195,7 +195,7 @@ cazino-zeppelin:
   currency: IDR
   img: cazino-zeppelin.webp
   url: yggdrasil/cazino-zeppelin
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7308&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7308&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 gem-rocks:
@@ -205,7 +205,7 @@ gem-rocks:
   currency: IDR
   img: gem-rocks.webp
   url: yggdrasil/gem-rocks
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7343&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7343&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 cyrus-the-virus:
@@ -215,7 +215,7 @@ cyrus-the-virus:
   currency: IDR
   img: cyrus-the-virus.webp
   url: yggdrasil/cyrus-the-virus
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7313&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7313&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 fruitoids:
@@ -225,7 +225,7 @@ fruitoids:
   currency: IDR
   img: fruitoids.webp
   url: yggdrasil/fruitoids
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7304&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 wicked-circus:
@@ -235,7 +235,7 @@ wicked-circus:
   currency: IDR
   img: wicked-circus.webp
   url: yggdrasil/wicked-circus
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7321&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7321&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 sahara-nights:
@@ -245,7 +245,7 @@ sahara-nights:
   currency: IDR
   img: sahara-nights.webp
   url: yggdrasil/sahara-nights
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10157&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10157&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 brazil-bomba:
@@ -255,7 +255,7 @@ brazil-bomba:
   currency: IDR
   img: brazil-bomba.webp
   url: yggdrasil/brazil-bomba
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7375&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7375&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 royal-family:
@@ -265,7 +265,7 @@ royal-family:
   currency: IDR
   img: royal-family.webp
   url: yggdrasil/royal-family
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=8303&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8303&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 one-armed-bandit:
@@ -275,7 +275,7 @@ one-armed-bandit:
   currency: IDR
   img: armed-bandit.webp
   url: yggdrasil/one-armed-bandit
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10143&lang=id&currency=IDR
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10143&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 easter-island:
@@ -285,7 +285,7 @@ easter-island:
   currency: IDR
   img: easter-island.webp
   url: yggdrasil/easter-island
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10072&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10072&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 easter-island2:
@@ -295,7 +295,7 @@ easter-island2:
   currency: IDR
   img: easter-island2.webp
   url: yggdrasil/easter-island2
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 bicicleta:
@@ -305,7 +305,7 @@ bicicleta:
   currency: IDR
   img: bicicleta.webp
   url: yggdrasil/bicicleta
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 orient-express:
@@ -315,7 +315,7 @@ orient-express:
   currency: IDR
   img: orient-express.webp
   url: yggdrasil/orient-express
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 penguin-city:
@@ -325,7 +325,7 @@ penguin-city:
   currency: IDR
   img: penguin-city.webp
   url: yggdrasil/penguin-city
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/homes
   provider: YGGDRASIL
 
 champions-rome:
@@ -335,7 +335,7 @@ champions-rome:
   currency: IDR
   img: champions-rome.webp
   url: yggdrasil/champions-of-rome
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10158&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10158&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 baron-samedi:
@@ -345,7 +345,7 @@ baron-samedi:
   currency: IDR
   img: baron-samedi.webp
   url: yggdrasil/baron-samedi
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7354&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7354&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 calavera-crush:
@@ -355,7 +355,7 @@ calavera-crush:
   currency: IDR
   img: calavera-crush.webp
   url: yggdrasil/calavera-crush
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10292&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10292&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 arthurs-fortune:
@@ -365,7 +365,7 @@ arthurs-fortune:
   currency: IDR
   img: arthurs-fortune.webp
   url: yggdrasil/arthurs-fortune
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10160&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10160&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 blood-moon-wilds:
@@ -375,7 +375,7 @@ blood-moon-wilds:
   currency: IDR
   img: blood-moon-wilds.webp
   url: yggdrasil/blood-moon-wilds
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 football-glory:
@@ -385,7 +385,7 @@ football-glory:
   currency: IDR
   img: football-glory.webp
   url: yggdrasil/football-glory
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7386&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7386&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 raptor-doublemax:
@@ -395,7 +395,7 @@ raptor-doublemax:
   currency: IDR
   img: raptor-doublemax.webp
   url: yggdrasil/raptor-doublemax
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7408&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7408&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 gator-gold:
@@ -405,7 +405,7 @@ gator-gold:
   currency: IDR
   img: gator-gold.webp
   url: yggdrasil/gator-gold
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7401&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7401&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 gator-gold-deluxe:
@@ -415,7 +415,7 @@ gator-gold-deluxe:
   currency: IDR
   img: gator-gold-deluxe.webp
   url: yggdrasil/gator-gold-deluxe
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10170&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10170&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 trolls-bridge:
@@ -425,7 +425,7 @@ trolls-bridge:
   currency: IDR
   img: trolls-bridge.webp
   url: yggdrasil/trolls-bridge
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8302&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8302&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 time-travel-tigers:
   title: Time Travel Tigers
@@ -434,7 +434,7 @@ time-travel-tigers:
   currency: IDR
   img: time-travel-tigers.webp
   url: yggdrasil/time-travel-tigers
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7356&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7356&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 asgard:
   title: Age of Asgard
@@ -443,7 +443,7 @@ asgard:
   currency: IDR
   img: asgard.webp
   url: yggdrasil/asgard
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7365&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7365&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 aldos-journey:
   title: Aldo's Journey
@@ -452,7 +452,7 @@ aldos-journey:
   currency: IDR
   img: aldos-journey.webp
   url: yggdrasil/aldos-journey
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7372&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7372&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 pirates-paradise:
   title: Pirates Smugglers Paradise
@@ -461,7 +461,7 @@ pirates-paradise:
   currency: IDR
   img: pirates-paradise.webp
   url: yggdrasil/pirates-paradise
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 golden-fish-tank2:
   title: Golden Fish Tank 2
@@ -470,7 +470,7 @@ golden-fish-tank2:
   currency: IDR
   img: golden-fish-tank2.webp
   url: yggdrasil/golden-fish-tank2
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7409&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7409&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 persia-eye2:
   title: Eye of Persia 2
@@ -479,7 +479,7 @@ persia-eye2:
   currency: IDR
   img: persia-eye2.webp
   url: yggdrasil/eye-of-persia2
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10250&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10250&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 tuts-twister:
   title: Tuts Twister
@@ -488,5 +488,5 @@ tuts-twister:
   currency: IDR
   img: tuts-twister.webp
   url: yggdrasil/tuts-twister
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7349&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7349&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
