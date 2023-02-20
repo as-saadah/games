@@ -325,7 +325,7 @@ penguin-city:
   currency: IDR
   img: penguin-city.webp
   url: yggdrasil/penguin-city
-  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/homes
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/home
   provider: YGGDRASIL
 
 champions-rome:
