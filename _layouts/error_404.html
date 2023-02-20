@@ -4,7 +4,18 @@
   {% include head.html %}
  </head>
 <body class="white">
- {% include navbar-error-404.html %}
+<div class="navbar-fixed">
+  <nav class="nav-extended fixed-nav">
+    <div class="nav-wrapper black">
+        <a href="{{ site.url | absolute_url }}" class="sidenav-trigger left">
+       <i class="material-icons">home</i>
+      </a>
+      <a href="#" class="brand-logo center">
+       <span class="truncate">{{ page.title }}</span>
+      </a>
+    </div>
+  </nav>
+</div>
 <div class="container" style="padding: 15px; margin-top: 8px; width: 98% !important;">
  {{ content }}
 </div>
