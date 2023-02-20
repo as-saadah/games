@@ -10,3 +10,9 @@ collections:
   pages:
     output: true
     permalink: /:title/
+  id:
+    output: true
+    permalink: /id/
+  en:
+    output: true
+    permalink: /en/
