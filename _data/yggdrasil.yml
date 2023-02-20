@@ -429,3 +429,21 @@
   url: yggdrasil/ozwins-jackpots
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7345&lang=id&currency=IDR
   provider: YGGDRASIL
+
+- title: Eye of Persia 2
+  id: 10250
+  lang: id
+  currency: IDR
+  img: persia-eye2.webp
+  url: yggdrasil/eye-of-persia2
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10250&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  provider: YGGDRASIL
+
+- title: Tuts Twister
+  id: 7349
+  lang: id
+  currency: IDR
+  img: tuts-twister.webp
+  url: yggdrasil/tuts-twister
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7349&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
+  provider: YGGDRASIL
