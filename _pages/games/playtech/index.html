@@ -7,11 +7,11 @@ active: playtech
 
 <div class="row">
  {% for game in site.data.playtech-lists %}
- <div class="col s6 m4 center-align">
+ <div class="col column-content s6 m6 center-align">
   <div class="card sticky-action">
     <div class="card-image waves-effect waves-block waves-light">
       <a href="../{{ game.url }}">
-       <img class="lazy" src="../assets/loader.gif" data-src="../assets/images/playtech/{{ game.img }}" alt="{{ game.title }}">
+       <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/images/playtech/{{ game.img }}" alt="{{ game.title }}">
       </a>
     </div>
     <div class="card-action">
