@@ -14,14 +14,14 @@
       <a href="#" class="brand-logo center">
        <span class="truncate">{{ page.title }}</span>
       </a>
+      <a data-target="modal" class="sidenav-trigger modal-trigger right">
+       <i class="material-icons">error_outline</i>
+      </a>
     </div>
-  <div class="nav-content nav-content-info">
-   <a data-target="modal" class="modal-trigger waves-effect">Permainan tidak bisa dibuka? Klik disini</a>
-  </div>
   </nav>
 </div>
 <!--/nav--> 
-<div class="container" style="width: 98% !important; margin-top:20px;">
+<div class="container" style="width: 98% !important; margin-top:0px;">
  {{ content }}
 </div>
 {% include modal.html %}
