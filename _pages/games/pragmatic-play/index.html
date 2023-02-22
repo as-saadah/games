@@ -5,9 +5,13 @@ permalink: /pragmatic-play/
 active: pragmatic-play
 ---
 
+<div class="nav-wrapper transparent">
+ <button class="waves-effect waves-yellow black white-text btn-flat" onclick="gridView()"><i class="material-icons">view_module</i> Grid</button>
+ <button class="waves-effect waves-yellow black white-text btn-flat" onclick="listView()"><i class="material-icons">view_list</i> List</button>
+</div>
 <div class="row">
  {% for game in site.data.pragmatic_play %}
- <div class="col s6 m4 center-align">
+ <div class="col column-content s6 m6 center-align">
   <div class="card sticky-action">
     <div class="card-image waves-effect waves-block waves-light">
       <a href="../{{ game.url }}">
