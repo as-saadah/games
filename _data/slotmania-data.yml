@@ -46,3 +46,19 @@ slotmania-sugar:
   currency: idr
   lang: id
   provider: Slot Mania Pragmatic
+nexus-olympus:
+  title: Nexus Gates of Olympus
+  symbol: vs20nexusgates
+  img: nexus-olympus.webp
+  url: pragmatic-play/others/nexus-olympus
+  currency: idr
+  lang: id
+  provider: Nexus Pragmatic Play
+nexus-sweet-bonanza:
+  title: Nexus Sweet Bonanza
+  symbol: vs20fruitsnexus
+  img: nexus-sweet-bonanza.webp
+  url: pragmatic-play/others/nexus-sweet-bonanza
+  currency: idr
+  lang: id
+  provider: Nexus Pragmatic Play
