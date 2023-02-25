@@ -6,6 +6,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Aztec King Megaways
   symbol: vswaysaztecking
   img: aztec-king-megaways.webp
@@ -14,6 +16,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Mammoth Gold Megaways
   symbol: vs20mammoth
   img: mammoth-gold.webp
@@ -22,6 +26,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Power of Thor Megaways
   symbol: vswayshammthor
   img: megaways-thor.webp
@@ -30,6 +36,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: 5 Rabbits Megaways
   symbol: vswaysrabbits
   img: megaways-rabbits.webp
@@ -38,6 +46,8 @@
   lang: id
   provider: Megaways 
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: 5 Lions Megaways
   symbol: vswayslions
   img: megaways-lions.webp
@@ -46,6 +56,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Extra Juicy Megaways
   symbol: vswaysxjuicy
   img: megaways-extra-juicy.webp
@@ -54,6 +66,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Great Rhino Megaways
   symbol: vswaysrhino
   img: great-rhino-megaways.webp
@@ -62,6 +76,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Crystal Caverns Megaways
   symbol: vswayscryscav
   img: crystal-caverns.webp
@@ -70,6 +86,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Floating Dragon Megaways
   symbol: vswaysfltdrg
   img: floating-dragon.webp
@@ -78,6 +96,8 @@
   lang: id
   provider: Megaways
   by: Reel Kingdom
+  url_provider: reel-kingdom
+
 - title: The Dog House Megaways
   symbol: vswaysdogs
   img: megaways-dog-house.webp
@@ -86,6 +106,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Legend of Heroes Megaways
   symbol: vswayslofhero
   img: megaways-legend-of-heroes.webp
@@ -94,6 +116,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Rise of Samurai Megaways
   symbol: vswayssamurai
   img: megaways-risesamurai.webp
@@ -102,6 +126,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Elemental Gems Megaways
   symbol: vswayselements
   img: elemental-gems-megaways.webp
@@ -110,6 +136,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Lucky Fishing Megaways
   symbol: vswaysluckyfish
   img: lucky-fishing-megaways.webp
@@ -118,6 +146,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Madame Destiny Megaways
   symbol: vswaysmadame
   img: madame-destiny-megaways.webp
@@ -126,6 +156,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Big Bass Bonanza Megaways
   symbol: vswaysbbb
   img: big-bass-bonanza-megaways.webp
@@ -134,6 +166,8 @@
   lang: id
   provider: Megaways
   by: Reel Kingdom
+  url_provider: reel-kingdom
+
 - title: Wild Wild Riches Megaways
   symbol: vswayswwriches
   img: wild-wild-riches-megaways.webp
@@ -142,6 +176,8 @@
   lang: id
   provider: Megaways 
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Spin & Score Megaways
   symbol: vswaysfrywld
   img: spin-score-megaways.webp
@@ -150,6 +186,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Buffalo King Megaways
   symbol: vswaysbufking
   img: buffalo-king-megaways.webp
@@ -158,6 +196,8 @@
   lang: id
   provider: Megaways
   by: Pragmatic Play
+  url_provider: pragmatic-play
+
 - title: Olympus Zeus Megaways
   img: olympus-zeus.webp
   url: isoftbet/olympus-zeus
@@ -165,6 +205,8 @@
   lang: id
   provider: Megaways
   by: iSoftBet
+  url_provider: isoftbet
+
 - title: Gold digger Megaways
   img: gold-digger.webp
   url: isoftbet/gold-digger
@@ -172,18 +214,24 @@
   lang: id
   provider: Megaways
   by: iSoftBet
+  url_provider: isoftbet
+
 - title: Tales of Silver Megaways
   img: tales-of-silver.webp
   url: isoftbet/tales-of-silver
   currency: IDR
   provider: Megaways
   by: iSoftBet
+  url_provider: isoftbet
+
 - title: Tyrant King Megaways
   img: tyrant-king.webp
   url: isoftbet/tyrant-king
   currency: IDR
   provider: Megaways
   by: iSoftBet
+  url_provider: isoftbet
+
 - title: Sahara Riches Megaways
   img: sahara-riches.webp
   url: playtech/sahara-riches
@@ -191,6 +239,8 @@
   lang: id
   provider: Megaways
   by: Playtech
+  url_provider: megaways
+
 - title: Buffalo Blitz Megaways
   img: buffalo-blitz.webp
   url: playtech/buffalo-blitz
@@ -198,6 +248,8 @@
   lang: id
   provider: Megaways
   by: Playtech
+  url_provider: megaways
+
 - title: Big Bucks Bandits Megaways
   id: 1025
   img: big-bucks-bandits.webp
@@ -207,6 +259,8 @@
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
+  url_provider: yggdrasil
+
 - title: Atlantis Megaways
   id: 1020
   img: atlantis-megaways.webp
@@ -216,6 +270,8 @@
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
+  url_provider: yggdrasil
+
 - title: Odin Infinity Reels Megaways
   id: 1033
   img: odin-megaways.webp
@@ -225,3 +281,4 @@
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
+  url_provider: yggdrasil
