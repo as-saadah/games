@@ -207,3 +207,8 @@ nav .brand-logo {
  background: #000000 !important;
  color: #ffffff !important;
 }
+
+.home {
+  display: inline !important;
+  line-height: 25px !important;
+}    
