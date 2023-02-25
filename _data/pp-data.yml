@@ -1078,3 +1078,121 @@ mochimon:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mochimon
   provider: Pragmatic Play
+
+fairytale-fortune:
+  title: Fairytale Fortune
+  symbol: vs15fairytale
+  img: fairytale-fortune.webp
+  url: pragmatic-play/fairytale-fortune
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15fairytale
+  provider: Pragmatic Play
+john-hunter-tut-book:
+  title: John Hunter and The Book of Tut
+  symbol: vs10bookoftut
+  img: john-hunter-tut-book.webp
+  url: pragmatic-play/john-hunter-and-the-book-of-tut
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bookoftut
+  provider: Pragmatic Play
+john-hunter-tut-book-respin:
+  title: John Hunter and The Book of Tut
+  symbol: vs10tut
+  img: john-hunter-tut-book-respin.webp
+  url: pragmatic-play/john-hunter-and-the-book-of-tut-respin
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10tut
+  provider: Pragmatic Play
+john-hunter-aztec-treasure:
+  title: John Hunter and the Aztec Treasure
+  symbol: vs7776secrets
+  img: john-hunter-aztec-treasure.webp
+  url: pragmatic-play/john-hunter-and-the-aztec-treasure
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs7776secrets
+  provider: Pragmatic Play
+john-hunter-bermuda:
+  title: John Hunter and The Quest for Bermuda Riches
+  symbol: vs20bermuda
+  img: john-hunter-bermuda.webp
+  url: pragmatic-play/john-hunter-and-the-quest-for-bermuda-riches
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20bermuda
+  provider: Pragmatic Play
+john-hunter-da-vinci:
+  title: John Hunter and The Secrets of Da Vinci's Treasure
+  symbol: vs25davinci
+  img: john-hunter-da-vinci.webp
+  url: pragmatic-play/john-hunter-and-the-secrets-of-davincis-treasure
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25davinci
+  provider: Pragmatic Play
+book-of-fallen:
+  title: Book of Fallen
+  symbol: vs10bookfallen
+  img: book-of-fallen.webp
+  url: pragmatic-play/book-of-fallen
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bookfallen
+  provider: Pragmatic Play
+wild-gladiators:
+  title: Wild Gladiator
+  symbol: vs25gladiator
+  img: wild-gladiators.webp
+  url: pragmatic-play/wild-gladiators
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25gladiator
+  provider: Pragmatic Play
+book-golden-sands:
+  title: Book of Golden Sands
+  symbol: vswaysbook
+  img: book-golden-sands.webp
+  url: pragmatic-play/book-of-golden-sands
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbook
+  provider: Pragmatic Play
+peking-luck:
+  title: Peking Luck 
+  symbol: vs25peking
+  img: peking-luck.webp
+  url: pragmatic-play/peking-luck
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25peking
+  provider: Pragmatic Play
+3kingdoms:
+  title: 3 Kingdoms - Battle of Red Cliffs
+  symbol: vs25kingdoms
+  img: 3kingdoms.webp
+  url: pragmatic-play/3kingdoms
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25kingdoms
+  provider: Pragmatic Play
+monkey-madness:
+  title: Monkey Madness
+  symbol: vs9madmonkey
+  img: monkey-madness.webp
+  url: pragmatic-play/monkey-madness
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9madmonkey
+  provider: Pragmatic Play
+empty-the-bank:
+  title: Empty The Bank
+  symbol: vs20emptyban
+  img: empty-the-bank.webp
+  url: pragmatic-play/empty-the-bank
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20emptyban
+  provider: Pragmatic Play
