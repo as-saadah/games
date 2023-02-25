@@ -1196,3 +1196,21 @@ empty-the-bank:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20emptyban
   provider: Pragmatic Play
+john-hunter-scarab-queen:
+  title: John Hunter and the Tomb of the Scarab Queen
+  symbol: vs25scarabqueen
+  img: john-hunter-scarab-queen.webp
+  url: pragmatic-play/john-hunter-scarab-queen
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25scarabqueen
+  provider: Pragmatic Play
+john-hunter-mayan-gods:
+  title: John Hunter and the Mayan Gods
+  symbol: vs10mayangods
+  img: john-hunter-mayan-gods.webp
+  url: pragmatic-play/john-hunter-mayan-gods
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10mayangods
+  provider: Pragmatic Play
