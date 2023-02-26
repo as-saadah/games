@@ -359,3 +359,9 @@ nav .brand-logo {
  background: #000000 !important;
  color: #ffffff !important;
 }
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis !important;
+  width: 180px;
+}
