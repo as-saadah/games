@@ -20,5 +20,17 @@
   lang: id
   img: steam-tower.webp
   url: netent/steam-tower
-  permalink: #!
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: NETENT
+- title: Excalibur
+  lang: id
+  img: excalibur.webp
+  url: netent/excalibur
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: NETENT
+- title: Blood Suckers
+  lang: id
+  img: blood-suckers.webp
+  url: netent/blood-suckers
+  permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
