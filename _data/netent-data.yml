@@ -76,3 +76,10 @@ wild-turkey:
   img: wild-turkey.webp 
   url: netent/wild-turkey
   permalink: https://netent-static.casinomodule.com/games/wildturkey_mobile_html/game/wildturkey_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildturkey_not_mobile&operatorId=default
+dragon-island:
+  title: Dragon Island
+  lang: id
+  img: dragon-island.webp
+  url: netent/dragon-island
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: NETENT
