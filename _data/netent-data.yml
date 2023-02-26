@@ -83,3 +83,17 @@ dragon-island:
   url: netent/dragon-island
   permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
+wild-water: 
+  title: Wild Water
+  lang: id 
+  img: wild-water.webp 
+  url: netent/wild-water 
+  permalink: https://netent-static.casinomodule.com/games/wildwater_mobile_html/game/wildwater_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildwater_mobile_html&operatorId=netent
+  provider: NETENT
+jack-beanstalk: 
+  title: Jack And The Beanstalk
+  lang: id 
+  img: jack-beanstalk.webp 
+  url: netent/jack-beanstalk
+  permalink: https://netent-static.casinomodule.com/games/jackandbeanstalk_mobile_html/game/jackandbeanstalk_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=jackandbeanstalk_mobile_html&operatorId=netent
+  provider: NETENT
