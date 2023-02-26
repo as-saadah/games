@@ -4,16 +4,6 @@
 .nav-wrapper {
  height: 30px !important;
 }
-a {
- color: black;
-}
-.card-image-custom {
- height: 108px !important;
-}
-.slot-title {
- display: block;
- padding: 1px;
-}
 .card-title {
  color: white;
  font-size: 10.5px !important;
@@ -359,9 +349,9 @@ nav .brand-logo {
  background: #000000 !important;
  color: #ffffff !important;
 }
-.truncate {
+.truncate-custom {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis !important;
-  width: 180px;
+  width: 200px;
 }
