@@ -102,6 +102,20 @@
  </li>
 {% endif %}
 
+{% if page.active == "netent" %}
+ <li class="tab active">
+  <a class="active" href="#!" target="_self">
+   {{ site.data.menu-provider.netent.title }}
+  </a>
+ </li>
+{% else %}
+ <li class="tab">
+  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/netent/" target="_self">
+   {{ site.data.menu-provider.netent.title }}
+  </a>
+ </li>
+{% endif %}
+
 {% if page.active == "megaways" %}
  <li class="tab active">
   <a class="active" href="#!" target="_self">
