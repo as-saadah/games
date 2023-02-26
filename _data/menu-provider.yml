@@ -19,6 +19,9 @@ microgaming:
 isoftbet:
   title: ISOFTBET
   url: isoftbet
+netent:
+  title: NETENT
+  url: netent
 megaways:
   title: MEGAWAYS
   url: megaways
