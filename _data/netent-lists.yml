@@ -82,3 +82,9 @@
   url: netent/jack-beanstalk
   permalink: https://netent-static.casinomodule.com/games/jackandbeanstalk_mobile_html/game/jackandbeanstalk_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=jackandbeanstalk_mobile_html&operatorId=netent
   provider: NETENT
+- title: Jumanji
+  lang: id 
+  img: jumanji.webp 
+  url: netent/jumanji 
+  permalink: https://netent-static.casinomodule.com/games/jumanji_mobile_html/game/jumanji_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=jumanji_mobile_html&operatorId=netent
+  provider: NETENT
