@@ -59,16 +59,26 @@
   img: mythic-maiden.webp 
   url: netent/mythic-maiden
   permalink:  https://netent-static.casinomodule.com/games/mythicmaiden_mobile_html/game/mythicmaiden_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=mythicmaiden_not_mobile&operatorId=default
-
 - title: Wild Turkey
   lang: id 
   img: wild-turkey.webp 
   url: netent/wild-turkey
   permalink: https://netent-static.casinomodule.com/games/wildturkey_mobile_html/game/wildturkey_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildturkey_not_mobile&operatorId=default
-
 - title: Dragon Island
   lang: id
   img: dragon-island.webp
   url: netent/dragon-island
   permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: NETENT
+- title: Wild Water
+  lang: id 
+  img: wild-water.webp 
+  url: netent/wild-water 
+  permalink: https://netent-static.casinomodule.com/games/wildwater_mobile_html/game/wildwater_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildwater_mobile_html&operatorId=netent
+  provider: NETENT
+- title: Jack and The Beanstalk
+  lang: id 
+  img: jack-beanstalk.webp 
+  url: netent/jack-beanstalk
+  permalink: https://netent-static.casinomodule.com/games/jackandbeanstalk_mobile_html/game/jackandbeanstalk_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=jackandbeanstalk_mobile_html&operatorId=netent
   provider: NETENT
