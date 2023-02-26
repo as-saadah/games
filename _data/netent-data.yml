@@ -31,7 +31,7 @@ excalibur:
   lang: id
   img: excalibur.webp
   url: netent/excalibur
-  permalink: https://as-saadah.github.io/games/coming-soon/
+  permalink: https://netent-static.casinomodule.com/games/excalibur_mobile_html/game/excalibur_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=excalibur_not_mobile&operatorId=default
   provider: NETENT
 blood-suckers:
   title: Blood Suckers
@@ -40,3 +40,39 @@ blood-suckers:
   url: netent/blood-suckers
   permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
+arabian-nights: 
+  title: Arabian Nights
+  lang: id 
+  img: arabian-nights.webp 
+  url: netent/arabian-nights 
+  permalink: https://netent-static.casinomodule.com/games/arabian_mobile_html/game/arabian_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=arabian_not_mobile&operatorId=default
+koi-princess: 
+  title: Koi Princess
+  lang: id 
+  img: koi-princess.webp 
+  url: netent/koi-princess
+  permalink:  
+drive-multiplier-mayhem: 
+  title: Drive Multiplier Mayhem
+  lang: id 
+  img: drive-multiplier-mayhem.webp 
+  url: netent/drive-multiplier-mayhem
+  permalink:  https://netent-static.casinomodule.com/games/multipliermayhem_mobile_html/game/multipliermayhem_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=multipliermayhem_not_mobile&operatorId=default
+spinata-grande: 
+  title: Spinata Grande
+  lang: id 
+  img: spinata-grande.webp 
+  url: netent/spinata-grande
+  permalink:  https://netent-static.casinomodule.com/games/colossalpinatas_mobile_html/game/colossalpinatas_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=colossalpinatas_not_mobile&operatorId=default
+mythic-maiden: 
+  title: Mythic Maiden
+  lang: id 
+  img: mythic-maiden.webp 
+  url: netent/mythic-maiden
+  permalink:  https://netent-static.casinomodule.com/games/mythicmaiden_mobile_html/game/mythicmaiden_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=mythicmaiden_not_mobile&operatorId=default
+wild-turkey: 
+  title: Wild Turkey
+  lang: id 
+  img: wild-turkey.webp 
+  url: netent/wild-turkey
+  permalink: https://netent-static.casinomodule.com/games/wildturkey_mobile_html/game/wildturkey_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildturkey_not_mobile&operatorId=default
