@@ -4,3 +4,21 @@
   url: netent/dead-or-alive
   permalink: https://netent-static.casinomodule.com/games/dead-or-alive-2-client/game/dead-or-alive-2-client.xhtml?flashParams.bgcolor=000000&gameId=deadoralive2_mobile_html&mobileParams.lobbyURL=https://games.netent.com/video-slots/dead-or-alive-2/&server=https://netent-game.casinomodule.com/&lang=id&currency=idr&sessId=DEMO-6508278099-USD&operatorId=netent
   provider: NETENT
+- title: Secrets of Atlantis
+  lang: id
+  img: secrets-of-atlantis.webp
+  url: netent/secrets-of-atlantis
+  permalink: https://netent-static.casinomodule.com/games/highlights_mobile_html/game/highlights_mobile_html.xhtml?staticServer=https://netent-static.casinomodule.com/&gameName=highlights.desktop&targetElement=game&flashParams.bgcolor=000000&mobileParams.lobbyURL=https://www.netent.com/en/section/entertain/&gameId=highlights_not_mobile&server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111-USD&operatorId=default
+  provider: NETENT
+- title: Lost Relics
+  lang: id
+  img: lost-relics.webp
+  url: netent/lost-relics
+  permalink: https://netent-static.casinomodule.com/games/lostrelics_mobile_html/game/lostrelics_mobile_html.xhtml?staticServer=https://Fnetent-static.casinomodule.com/&gameName=lostrelics.desktop&targetElement=game&flashParams.bgcolor=000000&mobileParams.lobbyURL=https://www.netent.com/en/section/entertain/&gameId=lostrelics_not_mobile&server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-1122538450639-USD&operatorId=default
+  provider: NETENT
+- title: Steam Tower
+  lang: id
+  img: steam-tower.webp
+  url: netent/steam-tower
+  permalink: #!
+  provider: NETENT
