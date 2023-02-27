@@ -1,0 +1,18 @@
+---
+layout: single-page-habanero
+title: So Sweet
+permalink: /cq9/so-sweet/
+---
+
+<div class="video-container"> 
+ <iframe 
+ width="853" 
+ height="480" 
+ src="https://h5c.cqgame.games/8/?language=id&token=guest123" 
+ frameborder="0" 
+ scrolling="no" 
+ allow="autoplay; encrypted-media" 
+ donotallowfullscreen>
+ <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
