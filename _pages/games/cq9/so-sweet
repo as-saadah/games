@@ -12,7 +12,7 @@ permalink: /cq9/so-sweet/
  frameborder="0" 
  scrolling="no" 
  allow="autoplay; encrypted-media" 
- donotallowfullscreen>
+ allowfullscreen>
  <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
