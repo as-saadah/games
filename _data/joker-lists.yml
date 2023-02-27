@@ -28,3 +28,22 @@
   url: joker-gaming/ancient-rome-deluxe
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
+- title: Buccaneer Deluxe
+  locale: id
+  img: buccaneer-deluxe.webp
+  url: joker-gaming/buccaneer-deluxe
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Columbus
+  locale: id
+  img: columbus.webp
+  url: joker-gaming/columbus
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Cursed Deluxe
+  locale: id
+  img: cursed-deluxe.webp
+  url: joker-gaming/cursed-deluxe
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+
