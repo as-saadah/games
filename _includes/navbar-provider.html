@@ -6,7 +6,7 @@
 
 {% if page.active == "pragmatic-play" %}
  <li class="tab active">
-  <a class="active" href="#!">
+  <a class="active" href="https://as-saadah.github.io/games/pragmatic-play/">
    {{ site.data.menu-provider.pragmatic-play.title }}
   </a>
  </li>
@@ -167,6 +167,20 @@
        <li class="tab">
          <a target="_self" class="waves-effect waves-light" href="https://as-saadah.github.io/games/joker-gaming/">
           {{ site.data.menu-provider.joker-gaming.title }}
+         </a>
+        </li>
+      {% endif %}
+
+      {% if page.active == "cq9" %}
+        <li class="tab active">
+         <a class="active waves-effect waves-light" href="#!">
+          {{ site.data.menu-provider.cq9.title }}
+         </a>
+        </li>
+      {% else %}
+       <li class="tab">
+         <a target="_self" class="waves-effect waves-light" href="https://as-saadah.github.io/games/cq9/">
+          {{ site.data.menu-provider.cq9.title }}
          </a>
         </li>
       {% endif %}
