@@ -46,4 +46,28 @@
   url: joker-gaming/cursed-deluxe
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
+- title: Enchanted Forest
+  locale: id
+  img: enchanted-forest.webp
+  url: joker-gaming/enchanted-forest
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Kraken Hunter
+  locale: id
+  img: kraken-hunter.webp
+  url: joker-gaming/kraken-hunter
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Lady Hawk
+  locale: id
+  img: lady-hawk.webp
+  url: joker-gaming/lady-hawk
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Majapahit
+  locale: id
+  img: majapahit.webp
+  url: joker-gaming/majapahit
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
 
