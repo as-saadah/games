@@ -1,6 +1,6 @@
 ---
 layout: single-page-cq9
-title: So Sweet
+title: So Sweet (Manis Sekali)
 permalink: /cq9/so-sweet/
 ---
 
@@ -8,7 +8,7 @@ permalink: /cq9/so-sweet/
  <iframe 
  width="853" 
  height="480" 
- src="https://h5c.cqgame.games/8/?language=id&token=guest123" 
+ src="{{ site.data.cq9-data.so-sweet.permalink }}" 
  frameborder="0" 
  scrolling="no" 
  allow="autoplay; encrypted-media" 
