@@ -34,7 +34,7 @@
   url: joker-gaming/buccaneer-deluxe
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
-- title: Columbus
+- title: Columbus Deluxe
   locale: id
   img: columbus.webp
   url: joker-gaming/columbus
@@ -70,4 +70,27 @@
   url: joker-gaming/majapahit
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
-
+- title: Rome Legacy
+  locale: id
+  img: roma-legacy.webp
+  url: joker-gaming/rome-legacy
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Rome
+  locale: id
+  img: roma.webp
+  url: joker-gaming/rome
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Three Kingdoms 2
+  locale: id
+  img: three-kingdoms2.webp
+  url: joker-gaming/three-kingdoms2
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Winter Sweets
+  locale: id
+  img: winter-sweets.webp
+  url: joker-gaming/winter-sweets
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
