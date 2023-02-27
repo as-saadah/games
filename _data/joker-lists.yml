@@ -70,13 +70,13 @@
   url: joker-gaming/majapahit
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
-- title: Rome Legacy
+- title: Roma Legacy
   locale: id
   img: roma-legacy.webp
   url: joker-gaming/rome-legacy
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
-- title: Rome
+- title: Roma
   locale: id
   img: roma.webp
   url: joker-gaming/rome
@@ -98,5 +98,23 @@
   locale: id
   img: sparta.webp
   url: joker-gaming/sparta
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Bounty Hunter
+  locale: id
+  img: bounty-hunter.webp
+  url: joker-gaming/bounty-hunter
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Chinese Boss
+  locale: id
+  img: chinese-boss.webp
+  url: joker-gaming/chinese-boss
+  permalink: https://as-saadah/games/coming-soon/
+  provider: JOKER GAMING
+- title: Mythical Sand
+  locale: id
+  img: mythical-sand.webp
+  url: joker-gaming/mythical-sand
   permalink: https://as-saadah/games/coming-soon/
   provider: JOKER GAMING
