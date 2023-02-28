@@ -45,7 +45,7 @@ columbus:
   locale: id
   img: columbus.webp
   url: joker-gaming/columbus
-  permalink: https://as-saadah/games/coming-soon/
+  permalink: https://as-saadah.github.io/games/coming-soon/
   provider: JOKER GAMING
 cursed-deluxe:
   title: Cursed Deluxe
@@ -66,7 +66,7 @@ kraken-hunter:
   locale: id
   img: kraken-hunter.webp
   url: joker-gaming/kraken-hunter
-  permalink: https://as-saadah/games/coming-soon/
+  permalink: https://as-saadah.github.io/games/coming-soon/
   provider: JOKER GAMING
 lady-hawk:
   title: Lady Hawk
@@ -94,7 +94,7 @@ roma:
   locale: id
   img: roma.webp
   url: joker-gaming/roma
-  permalink: https://as-saadah/games/coming-soon/
+  permalink: https://as-saadah.github.io/games/coming-soon/
   provider: JOKER GAMING
 three-kingdoms2:
   title: Three Kingdoms 2
@@ -108,14 +108,14 @@ winter-sweets:
   locale: id
   img: winter-sweets.webp
   url: joker-gaming/winter-sweets
-  permalink: https://as-saadah/games/coming-soon/
+  permalink: https://as-saadah.github.io/games/coming-soon/
   provider: JOKER GAMING
 sparta:
   title: Sparta
   locale: id
   img: sparta.webp
   url: joker-gaming/sparta
-  permalink: https://as-saadah/games/coming-soon/
+  permalink: https://as-saadah.github.io/games/coming-soon/
   provider: JOKER GAMING
 bounty-hunter:
   title: Bounty Hunter
