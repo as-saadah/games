@@ -138,3 +138,88 @@ mythical-sand:
   url: joker-gaming/mythical-sand
   permalink: https://www.gwph6868.net/rgs/views/gw/embed.html?sid=Sa3ac0f3b6577&locale=id&redirectUrl=https://www.gamingworld.net/games.html
   provider: JOKER GAMING
+
+four-dragons:
+  title: Four Dragons
+  locale: id
+  img: four-dragons.webp
+  url: joker-gaming/four-dragons
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+lucky-ladys-charm-deluxe:
+  title: Lucky Lady's Charm Deluxe
+  locale: id
+  img: roma.webp
+  url: joker-gaming/lucky-ladys-charm-deluxe
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+robinhood:
+  title: Robin Hood
+  locale: id
+  img: robinhood.webp
+  url: joker-gaming/robin-hood
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+great-blue:
+  title: Great Blue
+  locale: id
+  img: great-blue.webp
+  url: joker-gaming/great-blue
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+thai-paradise:
+  title: Thai Paradise
+  locale: id
+  img: roma.webp
+  url: joker-gaming/thai-paradise
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+miamk:
+  title: Miami
+  locale: id
+  img: miami.webp
+  url: joker-gaming/miami
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+football-rules:
+  title: Football Rules
+  locale: id
+  img: football-rules.webp
+  url: joker-gaming/football-rules
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+qatar2022:
+  title: Qatar 2022
+  locale: id
+  img: qatar2022.webp
+  url: joker-gaming/qatar2022
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+thug-life:
+  title: Thug Life
+  locale: id
+  img: thug-life.webp
+  url: joker-gaming/thug-life
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+beanstalk:
+  title: Beanstalk
+  locale: id
+  img: beanstalk.webp
+  url: joker-gaming/beanstalk
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+big-game-safari:
+  title: Big Game Safari
+  locale: id
+  img: big-game-safari.webp
+  url: joker-gaming/big-game-safari
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
+white-snake:
+  title: The Legend of White Snake
+  locale: id
+  img: white-snake.webp
+  url: joker-gaming/white-snake
+  permalink: https://as-saadah.github.io/games/coming-soon/
+  provider: JOKER GAMING
