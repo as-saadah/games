@@ -1,0 +1,72 @@
+slotmania-olympus:
+  title: Slot Mania Olympus
+  symbol: vs20olympmania
+  img: slotmania-olympus.webp
+  url: slotmania/others/slotmania-olympus
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania
+  provider: Pragmatic Play
+slotmania-princess:
+  title: Slot Mania Princess
+  symbol: vs20smprincess
+  img: slotmania-princess.webp
+  url: slotmania/others/slotmania-princess
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smprincess
+  provider: Pragmatic Play
+slotmania-wwg:
+  title: Wild West Slot Mania
+  symbol: vs40smwildwest
+  img: slotmania-wwg.webp
+  url: slotmania/others/slotmania-wwg
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40smwildwest
+  provider: Pragmatic Play
+slotmania-sweet:
+  title: Sweet Slot Mania
+  symbol: vs20fruitmania
+  img: slotmania-sweet.webp
+  url: slotmania/others/slotmania-sweet
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitmania
+  provider: Pragmatic Play
+slotmania-bonanza-gold:
+  title: Slot Mania Bonanza Gold
+  symbol: vs20goldmania
+  img: slotmania-bonanzagold.webp
+  url: slotmania/others/slotmania-bonanza-gold
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20goldmania
+  provider: Pragmatic Play
+slotmania-sugar:
+  title: Sugar Slot Mania
+  symbol: vs20slotsugar
+  img: slotmania-sugar.webp
+  url: slotmania/others/slotmania-sugar
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotsugar
+  provider: Pragmatic Play
+nexus-olympus:
+  title: Nexus Gates of Olympus
+  symbol: vs20nexusgates
+  img: nexus-olympus.webp
+  url: pragmatic-play/others/nexus-olympus
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexusgates
+  provider: Pragmatic Play
+nexus-sweet-bonanza:
+  title: Nexus Sweet Bonanza
+  symbol: vs20fruitsnexus
+  img: nexus-sweet-bonanza.webp
+  url: pragmatic-play/others/nexus-sweet-bonanza
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitsnexus
+  provider: Pragmatic Play
