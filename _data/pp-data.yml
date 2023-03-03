@@ -1250,3 +1250,58 @@ wild-depths:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wanderw
   provider: Pragmatic Play 
+
+hot-safari:
+  title: Hot Safari
+  symbol: vs25safari
+  img: hot-safari.webp
+  url: pragmatic-play/hot-safari
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25safari
+  provider: Pragmatic Play 
+safari-king:
+  title: Safari King
+  symbol: vs50safariking
+  img: safari-king.webp
+  url: pragmatic-play/safari-king
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50safariking
+  provider: Pragmatic Play 
+bronco-spirit:
+  title: Bronco Spirit
+  symbol: vs75bronco
+  img: bronco-spirit.webp
+  url: pragmatic-play/bronco-spirit
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs75bronco
+  provider: Pragmatic Play 
+jungle-gorilla:
+  title: Jungle Gorilla
+  symbol: vs20gorilla
+  img: jungle-gorilla.webp
+  url: pragmatic-play/jungle-gorilla
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gorilla
+  provider: Pragmatic Play 
+wolf-gold:
+  title: Wolf Gold
+  symbol: vs25wolfgold
+  img: wolf-gold.webp
+  url: pragmatic-play/wolf-gold
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25wolfgold
+  provider: Pragmatic Play 
+vampires-vs-wolves:
+  title: Vampires VS Wolves
+  symbol: vs10vampwolf
+  img: vampires-vs-wolves.webp
+  url: pragmatic-play/vampires-vs-wolves
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10vampwolf
+  provider: Pragmatic Play 
