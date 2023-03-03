@@ -1023,3 +1023,36 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20emptyban
   provider: Pragmatic Play
+
+- title: Day of Dead
+  symbol: vs20daydead
+  img: day-of-dead.webp
+  url: pragmatic-play/day-of-dead
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20daydead
+  provider: Pragmatic Play
+- title: Disco Lady
+  symbol: vs243discolady
+  img: disco-lady.webp
+  url: pragmatic-play/disco-lady
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243discolady
+  provider: Pragmatic Play
+- title: Smugglers Cove
+  symbol: vs20smugcove
+  img: smugglers-cove.webp
+  url: pragmatic-play/smugglers-cove
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smugcove
+  provider: Pragmatic Play
+- title: Wild Depths
+  symbol: vs40wanderw
+  img: wild-depths.webp
+  url: pragmatic-play/wild-depths
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wanderw
+  provider: Pragmatic Play  
