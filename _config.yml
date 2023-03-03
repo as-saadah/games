@@ -5,6 +5,7 @@ url:            "https://as-saadah.github.io/games/"
 markdown: kramdown
 future: true
 timezone: Asia/Jakarta
+encoding: UTF-8
 permalink: pretty
 collections:
   pages:
