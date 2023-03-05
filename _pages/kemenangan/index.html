@@ -5,6 +5,7 @@ permalink: /kemenangan/
 ---
 
   <div class="row">
+  <p>Kemenangan dibawah 100K tidak ditampilkan</p><hr/>
   {% for kemenangan in site.data.kemenangan %}
     <div class="col s12 12">
       <div class="card black darken-1">
@@ -12,7 +13,7 @@ permalink: /kemenangan/
           <span class="card-title" style="font-weight:600; text-transform:uppercase;">{{ kemenangan.title }}</span>
           <p>{{ kemenangan.desc }} <br/>BET : <b>{{ kemenangan.bet }}</b> TGL : <b>{{ kemenangan.tgl }}</p>
         </div>
-        <div class="card-action center-align">
+        <div class="card-action center-align grey darken-4">
           <a target="_blank" href="{{ kemenangan.permalink }}" class="waves-effect waves-light btn grey lighten-3 black-text">Putar Ulang <i class="material-icons right">open_in_new</i></a>
         </div>
       </div>
