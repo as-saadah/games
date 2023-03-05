@@ -5,17 +5,17 @@ permalink: /kemenangan/
 ---
 
 <div style="margin: 10px;">
-
 {% for kemenangan in site.data.kemenangan %}
 <div class="section"> 
- <h5>{{ kemenangan.title }}</h5> 
+ <h5> {{ kemenangan.title }}</h5> 
  <p>
-  {{ kemenangan.desc }}
+  <b>{{ kemenangan.tgl }}</b> {{ kemenangan.desc }}
   <a href="{{ kemenangan.url }}" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
  </p> 
 </div> 
+<div class="divider"></div>
  {% else %}
   <p>Tidak ada data.</p>
 {% endfor %}
-
+<p>Profit dibawah 100K tidak ditampilkan.</p>
 </div>
