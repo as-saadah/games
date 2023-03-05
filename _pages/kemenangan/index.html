@@ -9,11 +9,11 @@ permalink: /kemenangan/
     <div class="col s12 12">
       <div class="card black darken-1">
         <div class="card-content white-text">
-          <span class="card-title">{{ kemenangan.title }}</span>
-          <p><b>{{ kemenangan.tgl }}</b> {{ kemenangan.desc }} Bet<b>{{ kemenangan.bet }}</b></p>
+          <span class="card-title" style="font-weight:600; text-transform:uppercase;"><{{ kemenangan.title }}</span>
+          <p><b>{{ kemenangan.tgl }}</b> {{ kemenangan.desc }}. BET : <b>{{ kemenangan.bet }}</b></p>
         </div>
         <div class="card-action center-align">
-          <a href="{{ kemenangan.url }}" class="waves-effect waves-light btn grey">Putar Ulang</a>
+          <a target="_blank" href="{{ kemenangan.permalink }}" class="waves-effect waves-light btn grey black-text">Putar Ulang</a>
         </div>
       </div>
     </div>
