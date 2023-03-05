@@ -13,7 +13,7 @@ permalink: /kemenangan/
           <p><b>{{ kemenangan.tgl }}</b> {{ kemenangan.desc }} Bet<b>{{ kemenangan.bet }}</b></p>
         </div>
         <div class="card-action center-align">
-          <a href="{{ kemenangan.url }}" class="waves-effect waves-light btn black">Main Ulang</a>
+          <a href="{{ kemenangan.url }}" class="waves-effect waves-light btn grey">Putar Ulang</a>
         </div>
       </div>
     </div>
@@ -21,19 +21,3 @@ permalink: /kemenangan/
     <p>Tidak ada data.</p>
 {% endfor %}    
   </div>
-  
-<div style="margin: 10px;">
-{% for kemenangan in site.data.kemenangan %}
-<div class="section"> 
- <h5> {{ kemenangan.title }}</h5> 
- <p>
-  <b>{{ kemenangan.tgl }}</b> {{ kemenangan.desc }}
-  <a href="{{ kemenangan.url }}" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
- </p> 
-</div> 
-<div class="divider"></div>
- {% else %}
-  <p>Tidak ada data.</p>
-{% endfor %}
-<p>Profit dibawah 100K tidak ditampilkan.</p>
-</div>
