@@ -6,39 +6,16 @@ permalink: /kemenangan/
 
 <div style="margin: 10px;">
 
+{% for kemenangan in site.data.kemenangan %}
 <div class="section"> 
- <h5>MAXWIN 1JT BET200</h5> 
- <p>Gates of Olympuss (Tgl 16/12/2022)
-  <br/> <a href="https://dafatoto88.xyz/m/link.php?member=alsaadah" target="_blank">DafaToto</a>
-  <a href="https://as-saadah.github.io/games/kemenangan/maxwin1jt-olympuss/" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
+ <h5>{{ kemenangan.title }}</h5> 
+ <p>
+  {{ kemenangan.desc }}
+  <a href="{{ kemenangan.url }}" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
  </p> 
 </div> 
-
-<div class="divider"></div> 
-<div class="section"> 
- <h5>MAXWIN 1JT BET200</h5> 
- <p>Starlight Princess (Tgl 09/12/2022)
-  <br/> <a href="https://cong168.me/m/link.php?member=lilissaadah" target="_blank">CongTogel</a>
-  <a href="https://as-saadah.github.io/games/kemenangan/maxwin1jt-princess/" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
- </p> 
-</div> 
-
-<div class="divider"></div> 
-<div class="section"> 
- <h5>JIMEK PROFIT 1,6JT BET400</h5> 
- <p>Gates of Olympuss (Tgl 16/11/2022)
- <br/> <a href="https://dafatoto88.xyz/m/link.php?member=alsaadah" target="_blank">DafaToto</a>
-  <a href="https://as-saadah.github.io/games/kemenangan/profit-jimek-olympuss/" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
- </p> 
-</div> 
-
-<div class="divider"></div>
-<div class="section"> 
- <h5>PROFIT 209K BET200</h5> 
- <p>Gates of Gatotkaca (Tgl 05/Mar/2023)
- <br/> <a href="https://cong168.me/m/link.php?member=lilissaadah" target="_blank">CongTogel</a>
-  <a href="https://as-saadah.github.io/games/kemenangan/profit-gatotkaca-209k/" class="secondary-content waves-effect waves-light btn black">Main Ulang</a>
- </p> 
-</div> 
+ {% else %}
+  <p>Tidak ada data.</p>
+{% endfor %}
 
 </div>
