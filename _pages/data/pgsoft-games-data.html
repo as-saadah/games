@@ -1,0 +1,27 @@
+---
+layout: page
+title: PGSoft Games
+permalink: /pgsoft-games-data/
+---
+
+      <table class="striped table-data">
+        <thead>
+          <tr>
+              <th>Nama Permainan</th>
+              <th>Game ID</th>
+              <th>Provider</th>
+          </tr>
+        </thead>
+        <tbody>
+           {% for game in site.data.pg_soft %}
+          <tr>
+            <td>
+            <b>{{ game.title }}</b>
+            </td>
+            <td>
+            {{ game.id }}
+            </td>
+        </tr>
+           {% endfor %}
+        </tbody>
+      </table>
