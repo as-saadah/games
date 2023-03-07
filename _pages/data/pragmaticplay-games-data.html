@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Pragmatic Play Games
-permalink: /pragmaticplay-games-data/
+permalink: /data/pragmatic-play/
 ---
 
+<div class="container">
       <table class="striped table-data">
         <thead>
           <tr>
               <th>Nama Permainan</th>
-              <th>Game ID</th>
-              <th>Provider</th>
+              <th>GameID</th>         
           </tr>
         </thead>
         <tbody>
@@ -21,10 +21,8 @@ permalink: /pragmaticplay-games-data/
             <td>
             {{ game.symbol }}
             </td>
-            <td>
-            {{ game.provider }}
-            </td>
         </tr>
            {% endfor %}
         </tbody>
       </table>
+</div>
