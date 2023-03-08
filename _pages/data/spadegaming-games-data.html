@@ -1,0 +1,28 @@
+---
+layout: single-page-yggdrasil
+title: Spadegaming
+permalink: /data/spadegaming/
+---
+
+<div class="container white" style="margin-bottom:40px; width:98%; padding: 5px;">
+      <table class="striped table-data">
+        <thead>
+          <tr>
+              <th>Nama Permainan</th>
+              <th>GameID</th>         
+          </tr>
+        </thead>
+        <tbody>
+           {% for game in site.data.sg-lists %}
+          <tr>
+            <td>
+            <b>{{ game.title }}</b>
+            </td>
+            <td>
+            {{ game.id }}
+            </td>
+        </tr>
+           {% endfor %}
+        </tbody>
+      </table>
+</div>
