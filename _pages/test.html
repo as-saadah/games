@@ -4,20 +4,13 @@ title: Test
 permalink: /test/
 ---
 
-
-<div class="nav-wrapper transparent">
- <button style="margin-right: 2px;" class="waves-effect waves-yellow black white-text btn-flat btn-small left" onclick="gridView()"><i class="material-icons left">view_module</i>Grid</button>
- <button style="margin-right: 3px;" class="waves-effect waves-yellow black white-text btn-flat btn-small left" onclick="listView()"><i class="material-icons left">view_list</i>List</button>
- <button style="margin-right: 3px;" class="waves-effect waves-yellow black white-text btn-flat btn-small left my-cart-icon"><i class="material-icons left">favorite_border</i><span class="badge red white-text my-cart-badge badge-notify">0</span></button>
-</div>
-
 <div class="row">
- {% for game in site.data.pragmatic_play %}
+ {% for game in site.data.pg_soft %}
  <div class="col column-content s6 m6 center-align">
   <div class="card sticky-action">
     <div class="card-image waves-effect waves-block waves-light">
      <a href="#!">
-      <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/pragmatic-play/{{ game.img }}" alt="{{ game.title }}">
+      <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/pgsoft/{{ game.img }}" alt="{{ game.title }}">
      </a>
     </div>
     <div class="card-action">
