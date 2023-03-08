@@ -1,1 +1,0 @@
-Pragmatic Play Thumbnails Images
