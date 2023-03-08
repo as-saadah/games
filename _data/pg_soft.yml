@@ -309,14 +309,17 @@
   url: pgsoft/thai-river-wonders
   provider: Pocket Games Soft
 - title: Muay Thai Champion
+  id: 64
   img: muay-thai-champion.webp
   url: pgsoft/muay-thai-champion
   provider: Pocket Games Soft
 - title: Farm Invaders
+  id: 116
   img: farm-invaders.webp
   url: pgsoft/farm-invaders
   provider: Pocket Games Soft
 - title: Emoji Riches
+  id: 114
   img: emoji-riches.webp
   url: pgsoft/emoji-riches
   provider: Pocket Games Soft
