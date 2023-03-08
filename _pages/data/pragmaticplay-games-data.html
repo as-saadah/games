@@ -23,6 +23,16 @@ permalink: /data/pragmatic-play/
             </td>
         </tr>
            {% endfor %}
+           {% for game in site.data.others-lists %}
+          <tr>
+            <td>
+            <b>{{ game.title }}</b>
+            </td>
+            <td>
+            {{ game.symbol }}
+            </td>
+        </tr>
+           {% endfor %}
         </tbody>
       </table>
 </div>
