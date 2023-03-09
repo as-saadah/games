@@ -4,25 +4,14 @@ title: Test
 permalink: /test/
 ---
 
-<div class="row">
- {% for game in site.data.sg-lists %}
- <div class="col column-content s6 m6 center-align">
-  <div class="card sticky-action">
-    <div class="card-image waves-effect waves-block waves-light">
-     <a href="#!">
-      <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/spadegaming/{{ game.img }}" alt="{{ game.title }}">
-     </a>
-    </div>
-    <div class="card-action">
-     <small class="truncate">{{ game.title }}</small>
-     <a class="my-cart-btn" data-id="1" data-name="product 1" data-summary="summary 1" data-price="10" data-quantity="1" data-image="images/img_1.png"><i class="material-icons left">favorite_border</i></a>
-    </div>
-  </div>
+ <div class="card-panel teal">
+  <span class="white-text">
+   <div class="chip">
+    <img src="{{ "./assets/vendor/pgsoft.svg" | relative_url }}">
+    PGSoft
+   </div>
+  </span>
  </div>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
-</div>
 
   <script type="text/javascript">
   $(function () {
