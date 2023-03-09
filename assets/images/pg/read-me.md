@@ -1,1 +1,0 @@
-PG Soft Thumbnails Images
