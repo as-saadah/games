@@ -27,80 +27,78 @@
   img: ancient-rome-deluxe.webp
   url: eagaming/ancient-rome-deluxe
   permalink: 
-  provider: 
+  provider: EURASIAN GAMING
 - title: Buccaneer Deluxe
   locale: id
   img: buccaneer-deluxe.webp
   url: eagaming/buccaneer-deluxe
   permalink: 
-  provider: 
+  provider: EURASIAN GAMING
 - title: Cursed Deluxe
   locale: id
   img: cursed-deluxe.webp
   url: eagaming/cursed-deluxe
   permalink: 
-  provider: 
+  provider: EURASIAN GAMING
 - title: Enchanted Forest
   locale: id
   img: enchanted-forest.webp
   url: eagaming/enchanted-forest
   permalink:
-  provider: 
+  provider: EURASIAN GAMING
 - title: Lady Hawk
   locale: id
   img: lady-hawk.webp
   url: eagaming/lady-hawk
   permalink:
-  provider: 
+  provider: EURASIAN GAMING
 - title: Majapahit
   locale: id
   img: majapahit.webp
   url: eagaming/majapahit
   permalink:
-  provider: 
+  provider: EURASIAN GAMING
 - title: Three Kingdoms 2
   locale: id
   img: three-kingdoms2.webp
   url: eagaming/three-kingdoms2
   permalink:
-  provider: 
+  provider: EURASIAN GAMING
 - title: Qatar 2022
   locale: id
   img: qatar2022.webp
   url: eagaming/qatar2022
   permalink:
-  provider:
+  provider: EURASIAN GAMING
 - title: The Legend of White Snake
   locale: id
   img: white-snake.webp
   url: eagaming/white-snake
   permalink:
-  provider: 
-- title: Bali
+  provider: EURASIAN GAMING
+- title: Mythical Sand
   locale: id
-  img: bali.webp
-  url: eagaming/bali
+  img: mythical-sand.webp
+  url: eagaming/mythical-sand 
   permalink:
-  provider:
+  provider: EURASIAN GAMING
 - title: Immortals
   locale: id
   img: immortals.webp
   url: eagaming/immortals
   permalink:
-  provider:
+  provider: EURASIAN GAMING
 - title: Bali
   locale: id
   img: bali.webp
   url: eagaming/bali
   permalink:
-  provider:
+  provider: EURASIAN GAMING
 - title: Roma Legacy
   locale: id
   img: roma-legacy.webp
   url: eagaming/rome-legacy
   permalink:
-  provider: 
-
-
+  provider: EURASIAN GAMING
 
 
