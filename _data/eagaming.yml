@@ -2,5 +2,23 @@
   locale: id
   img: queen2.webp
   url: eagaming/queen2
-  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S68afc086b2&brandName=eagaming&locale=id&redirectUrl=http%3A//www.eagaming.com/en/games.html%3Flocale%3Did
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S68afc086b2&brandName=eagaming&locale=id
+  provider: EURASIAN GAMING
+- title: Yggdrasil
+  locale: id
+  img: yggdrasil.webp
+  url: eagaming/yggdrasil
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S68afc086b2&brandName=eagaming&locale=id
+  provider: EURASIAN GAMING
+- title: Thug Life
+  locale: id
+  img: thug-life.webp
+  url: eagaming/thug-life
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S698e761ac5&brandName=eagaming&locale=en
+  provider: EURASIAN GAMING
+- title: Chinese Boss
+  locale: id
+  img: chinese-boss.webp
+  url: eagaming/chinese-boss
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S68afc086b2&brandName=eagaming&locale=id
   provider: EURASIAN GAMING
