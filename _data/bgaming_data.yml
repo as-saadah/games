@@ -5,3 +5,38 @@ lucky-farm-bonanza:
   url: bgaming/lucky-farm-bonanza
   permalink: https://bgaming-network.com/play/LuckyFarmBonanza/FUN?server=demo
   provider: Bgaming
+hit-the-route:
+  title: Hit The Route
+  img: hit-the-route.webp
+  lang: En
+  url: bgaming/hit-the-route
+  permalink: https://bgaming-network.com/play/HitTheRoute/FUN?server=demo
+  provider: Bgaming
+avalon:
+  title: Avalon The Lost Kingdom
+  img: avalon.webp
+  lang: En
+  url: bgaming/avalon
+  permalink: https://bgaming-network.com/play/Avalon/FUN?server=demo
+  provider: Bgaming
+desert-treasure:
+  title: Desert Treasure
+  img: desert-treasure.webp
+  lang: En
+  url: bgaming/desert-treasure
+  permalink: https://bgaming-network.com/play/DesertTreasure/FUN?server=demo
+  provider: Bgaming
+lucky-sweets:
+  title: Lucky Sweets
+  img: lucky-sweets.webp
+  lang: En
+  url: bgaming/lucky-sweets
+  permalink: https://bgaming-network.com/play/LuckySweets/FUN?server=demo
+  provider: Bgaming
+road-2-riches:
+  title: Road 2 Riches
+  img: road-2-riches.webp
+  lang: En
+  url: bgaming/road-2-riches
+  permalink: https://bgaming-network.com/play/Road2Riches/FUN?server=demo
+  provider: Bgaming
