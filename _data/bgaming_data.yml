@@ -19,24 +19,38 @@ avalon:
   url: bgaming/avalon
   permalink: https://bgaming-network.com/play/Avalon/FUN?server=demo
   provider: Bgaming
-desert-treasure:
-  title: Desert Treasure
-  img: desert-treasure.webp
-  lang: En
-  url: bgaming/desert-treasure
-  permalink: https://bgaming-network.com/play/DesertTreasure/FUN?server=demo
-  provider: Bgaming
-lucky-sweets:
-  title: Lucky Sweets
-  img: lucky-sweets.webp
-  lang: En
-  url: bgaming/lucky-sweets
-  permalink: https://bgaming-network.com/play/LuckySweets/FUN?server=demo
-  provider: Bgaming
 road-2-riches:
   title: Road 2 Riches
   img: road-2-riches.webp
   lang: En
   url: bgaming/road-2-riches
   permalink: https://bgaming-network.com/play/Road2Riches/FUN?server=demo
+  provider: Bgaming
+bonanza-billion:
+  title: Bonanza Billion
+  img: bonanza-billion.webp
+  lang: En
+  url: bgaming/bonanza-billion
+  permalink: https://bgaming-network.com/play/BonanzaBillion/FUN?server=demo
+  provider: Bgaming
+lucky-dama-muerta:
+  title: Lucky Dama Muerta
+  img: lucky-dama-muerta.webp
+  lang: En
+  url: bgaming/lucky-dama-muerta
+  permalink: https://bgaming-network.com/play/LuckyDamaMuerta/FUN?server=demo
+  provider: Bgaming
+lady-wolf-moon:
+  title: Lady Wolf Moon
+  img: lucky-wolf-moon.webp
+  lang: En
+  url: bgaming/lady-wolf-moon
+  permalink: https://bgaming-network.com/play/LuckyLadyMoon/FUN?server=demo
+  provider: Bgaming 
+aztec-magic-megaways:
+  title: Aztec Magic Megaways
+  img: aztec-magic-megaways.webp
+  lang: En
+  url: bgaming/aztec-magic-megaways
+  permalink: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
   provider: Bgaming
