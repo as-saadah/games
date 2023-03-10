@@ -1,120 +1,101 @@
 - title: Queen 2
-  locale: id
   img: queen2.webp
   url: eagaming/queen2
   permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S68afc086b2&brandName=eagaming&locale=id
   provider: EURASIAN GAMING
 - title: Yggdrasil
-  locale: id
   img: yggdrasil.webp
   url: eagaming/yggdrasil
   permalink: https://www.eagames-eu.com/rgs/views/gw/embed.html?sid=S69af649fefe9&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Thug Life
-  locale: id
   img: thug-life.webp
   url: eagaming/thug-life
   permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S698e761ac5&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Chinese Boss
-  locale: id
   img: chinese-boss.webp
   url: eagaming/chinese-boss
   permalink: https://www.eagames-eu.com/rgs/views/gw/embed.html?sid=S69ebe&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Ancient Rome Deluxe
-  locale: id
   img: ancient-rome-deluxe.webp
   url: eagaming/ancient-rome-deluxe
   permalink: 
   provider: EURASIAN GAMING
 - title: Buccaneer Deluxe
-  locale: id
   img: buccaneer-deluxe.webp
   url: eagaming/buccaneer-deluxe
   permalink: 
   provider: EURASIAN GAMING
 - title: Cursed Deluxe
-  locale: id
   img: cursed-deluxe.webp
   url: eagaming/cursed-deluxe
   permalink: 
   provider: EURASIAN GAMING
 - title: Enchanted Forest
-  locale: id
   img: enchanted-forest.webp
   url: eagaming/enchanted-forest
-  permalink:
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S6c2f6&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Lady Hawk
-  locale: id
   img: lady-hawk.webp
   url: eagaming/lady-hawk
-  permalink:
+  permalink: https://www.eagames-eu.com/rgs/views/gw/embed.html?sid=S6c6b764fc&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Majapahit
-  locale: id
   img: majapahit.webp
   url: eagaming/majapahit
   permalink:
   provider: EURASIAN GAMING
 - title: Three Kingdoms 2
-  locale: id
   img: three-kingdoms2.webp
   url: eagaming/three-kingdoms2
   permalink:
   provider: EURASIAN GAMING
 - title: Qatar 2022
-  locale: id
   img: qatar2022.webp
   url: eagaming/qatar2022
   permalink:
   provider: EURASIAN GAMING
 - title: The Legend of White Snake
-  locale: id
   img: white-snake.webp
   url: eagaming/white-snake
   permalink:
   provider: EURASIAN GAMING
 - title: Mythical Sand
-  locale: id
   img: mythical-sand.webp
   url: eagaming/mythical-sand 
-  permalink:
+  permalink: https://www.eagames-eu.com/rgs/views/gw/embed.html?sid=S6c61e&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Immortals
-  locale: id
   img: immortals.webp
   url: eagaming/immortals
   permalink:
   provider: EURASIAN GAMING
 - title: Bali
-  locale: id
   img: bali.webp
   url: eagaming/bali
   permalink:
   provider: EURASIAN GAMING
 - title: Roma Legacy
-  locale: id
   img: roma-legacy.webp
   url: eagaming/rome-legacy
   permalink:
   provider: EURASIAN GAMING
 - title: Dia De Los Muertos
-  locale: id
   img: diadelosmuertos.webp
   url: eagaming/dia-de-los-muertos
-  permalink:
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S6c50fe00f9&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Haunted House
-  locale: id
   img: haunted-house.webp
   url: eagaming/haunted-house
-  permalink:
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S6c45136&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
 - title: Oasis
-  locale: id
   img: oasis.webp
   url: eagaming/oasis
-  permalink:
+  permalink: https://www.eagames-eu.com/rgs/views/eanew/embed.html?sid=S6c206&brandName=eagaming&locale=id
   provider: EURASIAN GAMING
+
