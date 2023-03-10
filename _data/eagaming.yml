@@ -22,3 +22,60 @@
   url: eagaming/chinese-boss
   permalink: https://www.eagames-eu.com/rgs/views/gw/embed.html?sid=S69ebe&brandName=eagaming&locale=en
   provider: EURASIAN GAMING
+- title: Ancient Rome Deluxe
+  locale: id
+  img: ancient-rome-deluxe.webp
+  url: eagaming/ancient-rome-deluxe
+  permalink: 
+  provider: 
+- title: Buccaneer Deluxe
+  locale: id
+  img: buccaneer-deluxe.webp
+  url: eagaming/buccaneer-deluxe
+  permalink: 
+  provider: 
+- title: Cursed Deluxe
+  locale: id
+  img: cursed-deluxe.webp
+  url: eagaming/cursed-deluxe
+  permalink: 
+  provider: 
+- title: Enchanted Forest
+  locale: id
+  img: enchanted-forest.webp
+  url: eagaming/enchanted-forest
+  permalink:
+  provider: 
+- title: Lady Hawk
+  locale: id
+  img: lady-hawk.webp
+  url: eagaming/lady-hawk
+  permalink:
+  provider: 
+- title: Majapahit
+  locale: id
+  img: majapahit.webp
+  url: eagaming/majapahit
+  permalink:
+  provider: 
+- title: Three Kingdoms 2
+  locale: id
+  img: three-kingdoms2.webp
+  url: eagaming/three-kingdoms2
+  permalink:
+  provider: 
+- title: Qatar 2022
+  locale: id
+  img: qatar2022.webp
+  url: eagaming/qatar2022
+  permalink:
+  provider:
+- title: The Legend of White Snake
+  locale: id
+  img: white-snake.webp
+  url: eagaming/white-snake
+  permalink:
+  provider: 
+
+
+
