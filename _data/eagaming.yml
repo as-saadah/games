@@ -76,6 +76,31 @@
   url: eagaming/white-snake
   permalink:
   provider: 
+- title: Bali
+  locale: id
+  img: bali.webp
+  url: eagaming/bali
+  permalink:
+  provider:
+- title: Immortals
+  locale: id
+  img: immortals.webp
+  url: eagaming/immortals
+  permalink:
+  provider:
+- title: Bali
+  locale: id
+  img: bali.webp
+  url: eagaming/bali
+  permalink:
+  provider:
+- title: Roma Legacy
+  locale: id
+  img: roma-legacy.webp
+  url: eagaming/rome-legacy
+  permalink:
+  provider: 
+
 
 
 
