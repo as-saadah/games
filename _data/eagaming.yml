@@ -100,5 +100,21 @@
   url: eagaming/rome-legacy
   permalink:
   provider: EURASIAN GAMING
-
-
+- title: Dia De Los Muertos
+  locale: id
+  img: diadelosmuertos.webp
+  url: eagaming/dia-de-los-muertos
+  permalink:
+  provider: EURASIAN GAMING
+- title: Haunted House
+  locale: id
+  img: haunted-house.webp
+  url: eagaming/haunted-house
+  permalink:
+  provider: EURASIAN GAMING
+- title: Oasis
+  locale: id
+  img: oasis.webp
+  url: eagaming/oasis
+  permalink:
+  provider: EURASIAN GAMING
