@@ -1,0 +1,25 @@
+---
+layout: default
+title: Eurasian Gaming
+permalink: /eagaming/
+active: eagaming
+---
+
+<div class="row">
+ {% for game in site.data.eagaming %}
+ <div class="col column-content s6 m6 center-align">
+  <div class="card sticky-action">
+    <div class="card-image waves-effect waves-block waves-light">
+      <a href="../{{ game.url }}">
+       <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/eagaming/{{ game.img }}" alt="{{ game.title }}">
+      </a>
+    </div>
+    <div class="card-action">
+     <small class="truncate">{{ game.title }}</small>
+    </div>
+  </div>
+ </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
