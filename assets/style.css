@@ -364,3 +364,10 @@ nav .brand-logo {
   background: #212121 !important;
 }
 
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+}
