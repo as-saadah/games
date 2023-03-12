@@ -58,3 +58,28 @@
   url: nolimit-city/buffalo-hunter
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=BuffaloHunter&fullscreen=True
   vendor: Nolimit City
+- title: Kitchen Drama Sushi Mania
+  img: sushi-mania.webp
+  lang: en
+  url: nolimit-city/kitchen-drama-sushi-mania
+  permalink: 
+  vendor: Nolimit City
+- title: Kitchen Drama BBQ Frenzy
+  img: bbq-frenzy.webp
+  lang: en
+  url: nolimit-city/kitchen-drama-bbq-frenzy
+  permalink: 
+  vendor: Nolimit City
+- title: Poisom Eve
+  img: poison-eve.webp
+  lang: en
+  url: nolimit-city/poison-eve
+  permalink: 
+  vendor: Nolimit City
+- title: Legion XXX
+  img: legion-xxx.webp
+  lang: en
+  url: nolimit-city/legion-xxx
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=RockBottom&fullscreen=True
+  vendor: Nolimit City
+
