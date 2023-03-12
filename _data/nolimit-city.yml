@@ -76,10 +76,33 @@
   url: nolimit-city/poison-eve
   permalink: 
   vendor: Nolimit City
-- title: Legion XXX
+- title: Legion X
   img: legion-xxx.webp
   lang: en
   url: nolimit-city/legion-xxx
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=RockBottom&fullscreen=True
   vendor: Nolimit City
-
+- title: Elpaso Gunfight xNudge
+  img: elpaso.webp
+  lang: en
+  url: nolimit-city/elpaso-gunfight
+  permalink: 
+  vendor: Nolimit City
+- title: Barbarian Fury
+  img: barbarian-fury.webp
+  lang: en
+  url: nolimit-city/barbarian-fury
+  permalink: 
+  vendor: Nolimit City
+- title: The Border
+  img: the-border.webp
+  lang: en
+  url: nolimit-city/the-border
+  permalink: 
+  vendor: Nolimit City
+- title: Punk Toilet
+  img: punk-toilet.webp
+  lang: en
+  url: nolimit-city/punk-toilet
+  permalink: 
+  vendor: Nolimit City
