@@ -1,24 +1,24 @@
 - title: Deadwood xNudge
   img: deadwood.webp
-  lang: EN
-  url: nolimit-city/deadwood
+  lang: en
+  url: nolimit-city/deadwood-xnudge
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=Deadwood&fullscreen=True
   vendor: Nolimit City
 - title: Thor Hammer Time
   img: thor-hammer-time.webp
-  lang: EN
+  lang: en
   url: nolimit-city/thor-hammer-time
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=Thor&fullscreen=True
   vendor: Nolimit City
 - title: Rock Bottom
   img: rock-bottom.webp
-  lang: EN
+  lang: en
   url: nolimit-city/rock-bottom
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=RockBottom&fullscreen=True
   vendor: Nolimit City
 - title: Walk of Shame
   img: walk-of-shame.webp
-  lang: EN
+  lang: en
   url: nolimit-city/walk-of-shame
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=WalkOfShame&fullscreen=True
   vendor: Nolimit City
