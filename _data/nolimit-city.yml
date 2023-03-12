@@ -172,6 +172,12 @@
   url: nolimit-city/book-of-shadows
   permalink: 
   vendor: Nolimit City
+- title: Pearl Harbor
+  img: pearl-harbor.webp
+  lang: en
+  url: nolimit-city/pearl-harbor
+  permalink: 
+  vendor: Nolimit City
 - title: Punk Rocker
   img: punk-rocker.webp
   lang: en
