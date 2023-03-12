@@ -166,3 +166,60 @@ tombstone-rip:
   url: nolimit-city/tombstone-rip
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombstoneRip&fullscreen=True
   vendor: Nolimit City
+
+tomb-stone:
+  title: Tomb stone
+  img: tomb-stone.webp
+  lang: en
+  url: nolimit-city/tomb-stone
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=Tombstone&fullscreen=True
+  vendor: Nolimit City
+evil-goblins:
+  title: Evil Goblins
+  img: evil-goblins.webp
+  lang: en
+  url: nolimit-city/evil-goblins
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=EvilGoblins&fullscreen=True
+  vendor: Nolimit City
+tesla-jolt:
+  title: Tesla Jolt
+  img: tesla-jolt.webp
+  lang: en
+  url: nolimit-city/tesla-jolt
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TeslaJolt&fullscreen=True
+  vendor: Nolimit City
+ice-ice-yeti:
+  title: Ice Ice Yeti
+  img: ice-ice-yeti.webp
+  lang: en
+  url: nolimit-city/ice-ice-yeti
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=IceIceYeti&fullscreen=True
+  vendor: Nolimit City
+book-of-shadows:
+  title: Book of Shadows
+  img: book-of-shadows.webp
+  lang: en
+  url: nolimit-city/book-of-shadows
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=BookOfShadows&fullscreen=True
+  vendor: Nolimit City
+pearl-harbor:
+  title: Pearl Harbor
+  img: pearl-harbor.webp
+  lang: en
+  url: nolimit-city/pearl-harbor
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=PearlHarbor&fullscreen=True
+  vendor: Nolimit City
+punk-rocker:
+  title: Punk Rocker
+  img: punk-rocker.webp
+  lang: en
+  url: nolimit-city/punk-rocker
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=PunkRocker&fullscreen=True
+  vendor: Nolimit City
+tomb-of-nefertiti:
+  title: Tomb of Nefertiti
+  img: tomb-of-nefertiti.webp
+  lang: en
+  url: nolimit-city/tomb-of-nefertiti
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombOfNefertiti&fullscreen=True
+  vendor: Nolimit City
