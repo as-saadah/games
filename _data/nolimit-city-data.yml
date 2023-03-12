@@ -68,3 +68,73 @@ buffalo-hunter:
   url: nolimit-city/buffalo-hunter
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=BuffaloHunter&fullscreen=True
   vendor: Nolimit City
+sushi-mania:
+  title: Kitchen Drama Sushi Mania
+  img: sushi-mania.webp
+  lang: en
+  url: nolimit-city/kitchen-drama-sushi-mania
+  permalink: 
+  vendor: Nolimit City
+bbq-frenzy:
+  title: Kitchen Drama BBQ Frenzy
+  img: bbq-frenzy.webp
+  lang: en
+  url: nolimit-city/kitchen-drama-bbq-frenzy
+  permalink: 
+  vendor: Nolimit City
+poison-eve:
+  title: Poison Eve
+  img: poison-eve.webp
+  lang: en
+  url: nolimit-city/poison-eve
+  permalink: 
+  vendor: Nolimit City
+legionx:
+  title: Legion X
+  img: legion-xxx.webp
+  lang: en
+  url: nolimit-city/legion-xxx
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=RockBottom&fullscreen=True
+  vendor: Nolimit City
+elpaso:
+  title: Elpaso Gunfight xNudge
+  img: elpaso.webp
+  lang: en
+  url: nolimit-city/elpaso-gunfight
+  permalink: 
+  vendor: Nolimit City
+barbarian-fury:
+  title: Barbarian Fury
+  img: barbarian-fury.webp
+  lang: en
+  url: nolimit-city/barbarian-fury
+  permalink: 
+  vendor: Nolimit City
+the-border:
+  title: The Border
+  img: the-border.webp
+  lang: en
+  url: nolimit-city/the-border
+  permalink: 
+  vendor: Nolimit City
+punk-toilet:
+  title: Punk Toilet
+  img: punk-toilet.webp
+  lang: en
+  url: nolimit-city/punk-toilet
+  permalink: 
+  vendor: Nolimit City
+remember-gulag:
+  title: Remember Gulag
+  img: remember-gulag.webp
+  lang: en
+  url: nolimit-city/remember-gulag
+  permalink: 
+  vendor: Nolimit City
+little-bighorn:
+  title: Little Bighorn
+  img: little-bighorn.webp
+  lang: en
+  url: nolimit-city/little-bighorn
+  permalink: 
+  vendor: Nolimit City
