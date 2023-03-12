@@ -26,3 +26,45 @@ walk-of-shame:
   url: nolimit-city/walk-of-shame
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=WalkOfShame&fullscreen=True
   vendor: Nolimit City
+serial:
+  title: Serial
+  img: serial.webp
+  lang: en
+  url: nolimit-city/serial
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=Serial&fullscreen=True
+  vendor: Nolimit City
+true-grit-redemption:
+  title: True Grit Redemption
+  img: true-grit-redemption.webp
+  lang: en
+  url: nolimit-city/true-grit-redemption
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TrueGrit&fullscreen=True
+  vendor: Nolimit City
+tomb-of-akhenaten:
+  title: Tomb of Akhenaten
+  img: tomb-of-akhenaten.webp
+  lang: en
+  url: nolimit-city/tomb-of-akhenaten
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombOfAkhenaten&fullscreen=True
+  vendor: Nolimit City
+mental:
+  title: Mental
+  img: mental.webp
+  lang: en
+  url: nolimit-city/mental
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=Mental&fullscreen=True
+  vendor: Nolimit City
+folsom-prison:
+  title: Folsom Prison
+  img: folsom-prison.webp
+  lang: en
+  url: nolimit-city/folsom-prison
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=FolsomPrison&fullscreen=True
+  vendor: Nolimit City
+buffalo-hunter:
+  title: Buffalo Hunter
+  img: buffalo-hunter.webp
+  lang: en
+  url: nolimit-city/buffalo-hunter
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=BuffaloHunter&fullscreen=True
+  vendor: Nolimit City
