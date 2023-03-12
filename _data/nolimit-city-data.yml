@@ -138,3 +138,31 @@ little-bighorn:
   url: nolimit-city/little-bighorn
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=LittleBighorn&fullscreen=True
   vendor: Nolimit City
+misery-mining:
+  title: Misery Mining
+  img: misery-mining.webp
+  lang: en
+  url: nolimit-city/misery-mining
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=MiseryMining&fullscreen=True
+  vendor: Nolimit City
+san-quentin:
+  title: San Quentin xWays
+  img: san-quentin.webp
+  lang: en
+  url: nolimit-city/san-quentin
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=SanQuentin&fullscreen=True
+  vendor: Nolimit City
+dead-canary:
+  title: Dead Canary
+  img: dead-canary.webp
+  lang: en
+  url: nolimit-city/dead-canary
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=DeadCanary&fullscreen=True
+  vendor: Nolimit City
+tombstone-rip:
+  title: Tombstone RIP
+  img: tombstone-rip.webp
+  lang: en
+  url: nolimit-city/tombstone-rip
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombstoneRip&fullscreen=True
+  vendor: Nolimit City
