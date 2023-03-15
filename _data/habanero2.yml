@@ -59,9 +59,9 @@ fortune-ways:
   url: fortune-ways
   provider: Habanero
 totem-towers:
-  title: Totem Tower
-  img: totem-wonders.webp
-  url: habanero/totem-wonders
+  title: Totem Towers
+  img: totem-towers.webp
+  url: habanero/totem-towers
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e231663c-6033-4441-a8f7-da3489ba3a46&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 cake-valley:
