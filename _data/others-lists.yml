@@ -52,6 +52,24 @@
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotsugar
   provider: Pragmatic Play
 
+- title: Slot Mania Pyramid
+  symbol: vs20smbonanza
+  img: slotmania-pyramid.webp
+  url: pragmatic-play/others/slotmania-pyramid
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smbonanza
+  provider: Pragmatic Play
+
+- title: Slot Mania Gems
+  symbol: vs5slotgems
+  img: slotmania-gems.webp
+  url: pragmatic-play/others/slotmania-gems
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems
+  provider: Pragmatic Play
+
 - title: Nexus Gates of Olympus
   symbol: vs20nexusgates
   img: nexus-olympus.webp
