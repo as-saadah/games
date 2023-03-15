@@ -1250,7 +1250,6 @@ wild-depths:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wanderw
   provider: Pragmatic Play 
-
 hot-safari:
   title: Hot Safari
   symbol: vs25safari
@@ -1304,4 +1303,22 @@ vampires-vs-wolves:
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10vampwolf
+  provider: Pragmatic Play 
+rabbit-garden:
+  title: Rabbit Garden
+  symbol: vs20goldclust
+  img: rabbit-garden.webp
+  url: pragmatic-play/rabbit-garden
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20goldclust
+  provider: Pragmatic Play 
+supermania:
+  title: Supermania
+  symbol: vs20supermania
+  img: supermania.webp
+  url: pragmatic-play/supermania
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20supermania
   provider: Pragmatic Play 
