@@ -57,3 +57,51 @@
   img: ways-of-fortune.webp
   url: habanero/fortune-ways
   provider: Habanero
+
+- title: Totem Tower
+  img: totem-wonders.webp
+  url: habanero/totem-wonders
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e231663c-6033-4441-a8f7-da3489ba3a46&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
+  provider: Habanero
+  
+- title: Cake Valley
+  img: cake-valley.webp
+  url: habanero/cake-valley
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=4c0fcbcd-d41f-4adf-967b-c4a64a5b42be&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
+  provider: Habanero
+  
+- title: Before Time Runs Out
+  img: before-time-runs-out.webp
+  url: habanero/before-time-runs-out
+  permalink: https://app-e.insvr.com/go.ashx?brandid=0545ad86-7e98-e711-a94a-000d3a24d7e6&keyname=SGBeforeTimeRunsOut&mode=fun&locale=id&ifrm=1
+  provider: Habanero
+  
+- title: Before Time Runs Out
+  img: return-to-the-feature.webp
+  url: habanero/return-to-the-feature
+  permalink: https://app-e.insvr.com/go.ashx?brandid=0545ad86-7e98-e711-a94a-000d3a24d7e6&keyname=SGReturnToTheFeature&mode=fun&locale=id&ifrm=1
+  provider: Habanero
+  
+- title: Tuk Tuk Thailand
+  img: tuk-tuk-thailand.webp
+  url: habanero/tuk-tuk-thailand
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=27c3554a-c65f-4d79-98c9-0d939fbc5898&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
+  provider: Habanero
+  
+- title: Four Divine Beasts
+  img: four-divine-beasts.webp
+  url: habanero/four-divine-beasts
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=c759172e-b886-4fae-9414-c4ca2326b79f&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
+  provider: Habanero
+  
+- title: Wild Trucks
+  img: wild-trucks.webp
+  url: habanero/wild-trucks
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=89d47514-abaf-4056-a5e4-69ec1e67693f&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
+  provider: Habanero
+  
+- title: Frost
+  img: frost.webp
+  url: habanero/frost
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=23763e80-4b80-4564-b108-458359a9e9b7&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
+  provider: Habanero
