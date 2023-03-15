@@ -58,9 +58,9 @@
   url: habanero/fortune-ways
   provider: Habanero
 
-- title: Totem Tower
-  img: totem-wonders.webp
-  url: habanero/totem-wonders
+- title: Totem Towers
+  img: totem-towers.webp
+  url: habanero/totem-towers
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e231663c-6033-4441-a8f7-da3489ba3a46&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
   
@@ -100,8 +100,8 @@
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=89d47514-abaf-4056-a5e4-69ec1e67693f&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
   
-- title: Frost
-  img: frost.webp
-  url: habanero/frost
+- title: Prost
+  img: prost.webp
+  url: habanero/prost
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=23763e80-4b80-4564-b108-458359a9e9b7&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
