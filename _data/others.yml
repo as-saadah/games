@@ -88,3 +88,21 @@ nexus-sweet-bonanza:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitsnexus
   provider: Pragmatic Play
+infini88-princess:
+  title: Infini88 Starlight Princess
+  symbol: vs20slpinf88
+  img: infini88-princess.webp
+  url: pragmatic-play/others/infini88-starlight-princess
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slpinf88
+  provider: Pragmatic Play
+infini88-olympus:
+  title: Infini88 Gates of Olympus
+  symbol: vs20olginf88
+  img: infini88-olympus.webp
+  url: pragmatic-play/others/infini88-gates-of-olympus
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88
+  provider: Pragmatic Play
