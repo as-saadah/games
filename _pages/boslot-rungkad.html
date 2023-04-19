@@ -4,31 +4,18 @@ title: Bo Slot Rungkad
 permalink: /boslot-rungkad/
 ---
 
+<p>
+Berikut dibawah ini adalah situs bo slot yang tidak direkomendasikan untuk bermain.         
+</p>
 <table>
-        <thead>
-          <tr>
-              <th>Name</th>
-              <th>Item Name</th>
-              <th>Item Price</th>
-          </tr>
-        </thead>
-
         <tbody>
+{% for slot in site.data.boslot %}                
           <tr>
-            <td>Alvin</td>
-            <td>Eclair</td>
-            <td>$0.87</td>
+            <td><img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}" alt="{{ slot.title }}"/>
+</td>
+            <td>{{ slot.title }}</td>
           </tr>
-          <tr>
-            <td>Alan</td>
-            <td>Jellybean</td>
-            <td>$3.76</td>
-          </tr>
-          <tr>
-            <td>Jonathan</td>
-            <td>Lollipop</td>
-            <td>$7.00</td>
-          </tr>
+ {% endfor %}               
         </tbody>
       </table>
       
