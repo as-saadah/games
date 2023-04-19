@@ -1,0 +1,24 @@
+---
+layout: default
+title: Bo Slot Rungkad
+permalink: /bloslot-rungkad/
+---
+
+<div class="row">
+ {% for slot in site.data.boslot %}
+ <div class="col column-content s6 m6 center-align">
+  <div class="card sticky-action">
+    <div class="card-image waves-effect waves-block waves-light">
+      <a href="../{{ slot.url }}">
+       <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}" alt="{{ slot.title }}">
+      </a>
+    </div>
+    <div class="card-action">
+     <small class="truncate">{{ slot.title }}</small>
+    </div>
+  </div>
+ </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
