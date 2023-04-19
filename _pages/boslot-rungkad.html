@@ -7,33 +7,15 @@ permalink: /boslot-rungkad/
 <p>
 Berikut dibawah ini adalah situs bo slot yang tidak direkomendasikan untuk bermain.         
 </p>
+
 <table>
-        <tbody>
-{% for slot in site.data.boslot %}                
-          <tr>
-            <td><img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}" alt="{{ slot.title }}"/>
-</td>
-            <td>{{ slot.title }}</td>
-          </tr>
- {% endfor %}               
-        </tbody>
-      </table>
-      
-<div class="row">
- {% for slot in site.data.boslot %}
- <div class="col column-content s6 m6 center-align">
-  <div class="card sticky-action">
-    <div class="card-image waves-effect waves-block waves-light">
-      <a href="../{{ slot.url }}">
-       <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}" alt="{{ slot.title }}">
-      </a>
-    </div>
-    <div class="card-action">
-     <small class="truncate">{{ slot.title }}</small>
-    </div>
-  </div>
- </div>
- {% else %}
-  <p>Tidak ada data.</p>
- {% endfor %}
-</div>
+ <tbody>
+  {% for slot in site.data.boslot %}                
+   <tr>
+    <td><img class="responsive-img" src="../assets/img/boslot/{{ slot.img }}" alt="{{ slot.title }}"/></td>
+    <td>{{ slot.title }}</td>
+    <td>Server {{ slot.server }}</td>  
+   </tr>
+  {% endfor %}               
+ </tbody>
+</table>
