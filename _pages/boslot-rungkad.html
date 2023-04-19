@@ -4,7 +4,7 @@ title: Bo Slot Rungkad
 permalink: /boslot-rungkad/
 ---
 
-<div style="margin: 15px;margin-top: 15px;">
+<div style="margin: 15px; padding-top: 15px;">
  <p>Berikut dibawah ini adalah situs bo slot yang sangat tidak direkomendasikan untuk bermain.</p> 
 </div>
 <table>
@@ -18,7 +18,7 @@ permalink: /boslot-rungkad/
 <tbody>
 {% for slot in site.data.boslot %} 
 <tr>
-<td><img class="responsive-img" width="120" src="../assets/img/boslot/{{ slot.img }}"/></td>
+<td><img class="lazy responsive-img" width="120" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/></td>
 <td>{{ slot.title }}</td>
 <td>{{ slot.server }}</td> 
 </tr>
