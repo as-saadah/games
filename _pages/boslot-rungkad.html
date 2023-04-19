@@ -13,14 +13,16 @@ permalink: /boslot-rungkad/
 <th></th>
 <th>Nama Situs</th>
 <th>Server</th>
+<th>Pernah JP?</th>
 </tr>
 </thead>
 <tbody>
 {% for slot in site.data.boslot %} 
 <tr>
-<td><img class="lazy responsive-img" width="120" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/></td>
+<td><img class="lazy responsive-img" width="100" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/></td>
 <td>{{ slot.title }}</td>
-<td>{{ slot.server }}</td> 
+<td>{{ slot.server }}</td>
+<td>{{ slot.jp }}</td>
 </tr>
 {% endfor %} 
 </tbody>
