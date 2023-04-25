@@ -13,10 +13,12 @@ permalink: /rtp-live/
   </tr>
   </thead>
  <tbody>
+  {% for slot in site.data.rtp %} 
   <tr>
-   <td>Alvin</td>
-   <td>Eclair</td>
-   <td>$0.87</td>
+   <td><img class="lazy responsive-img" width="100" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/></td>
+   <td>{{ slot.title }}</td>
+   <td>{{ slot.server }}</td>
   </tr>
+  {% endfor %}
  </tbody>
 </table>
