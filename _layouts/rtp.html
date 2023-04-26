@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="id">
+ <head>
+  {% include head.html %}
+ <style>
+   html,body        {height:100%;}
+.wrapper         {width:80%;height:100%;margin:0 auto;background:#CCC}
+.h_iframe        {position:relative;}
+.h_iframe .ratio {display:block;width:100%;height:auto;}
+.h_iframe iframe {position:absolute;top:0;left:0;width:100%; height:100%;}
+ </style>
+ </head>
+<body class="white">
+<div class="navbar-fixed">
+  <nav class="nav-extended fixed-nav">
+    <div class="nav-wrapper black">
+        <a href="{{ site.url | absolute_url }}" class="sidenav-trigger left">
+       <i class="material-icons">home</i>
+      </a>
+      <a href="#" class="brand-logo center">
+       <span class="truncate">{{ page.title }}</span>
+      </a>
+    </div>
+  </nav>
+</div>
+<div class="container" style="width: 98% !important;">
+ {{ content }}
+</div>
+ {% include scripts.html %}
+ </body>
+</html>
