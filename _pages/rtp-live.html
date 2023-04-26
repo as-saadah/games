@@ -8,7 +8,6 @@ permalink: /rtp-live/
  <thead>
   <tr>
    <th></th>
-   <th>BO Slot</th>
    <th>Server</th>
    <th></th>
   </tr>
@@ -16,10 +15,12 @@ permalink: /rtp-live/
  <tbody>
   {% for slot in site.data.rtp %} 
   <tr>
-   <td><img class="lazy responsive-img" width="100" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/></td>
-   <td>{{ slot.title }}</td>
+   <td>
+    <img class="lazy responsive-img" width="50" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/>
+    <br/> <b>{{ slot.title }}</b>
+   </td>
    <td>{{ slot.server }}</td>
-   <td><a class="black waves-effect waves-light btn btn-small">Lihat RTP</a></td>
+   <td><a href="{{ slot.url }}" class="black waves-effect waves-light btn btn-small">Lihat RTP</a></td>
   </tr>
   {% endfor %}
  </tbody>
