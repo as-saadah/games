@@ -15,12 +15,12 @@ permalink: /rtp-live/
  <tbody>
   {% for slot in site.data.rtp %} 
   <tr>
-   <td class="center-align">
+   <td>
     <img class="lazy responsive-img" width="60" src="../assets/loader.gif" data-src="../assets/img/boslot/{{ slot.img }}"/>
     <br/>
     <b>{{ slot.title }}</b>
    </td>
-   <td><b>{{ slot.server }}</b></td>
+   <td><b class="red-text">{{ slot.server }}</b></td>
    <td><a href="{{ slot.url }}" class="black waves-effect waves-light btn btn-small">Cek RTP</a></td>
   </tr>
   {% endfor %}
