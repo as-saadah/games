@@ -1322,3 +1322,39 @@ supermania:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20supermania
   provider: Pragmatic Play 
+african-elephant:
+  title: African Elephant
+  symbol: vs20hotzone
+  img: african-elephant.webp
+  url: pragmatic-play/african-elephant
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hotzone
+  provider: Pragmatic Play 
+amazon-fruits:
+  title: Fruits of the Amazon
+  symbol: vs20framazon
+  img: fruits-of-the-amazon.webp
+  url: pragmatic-play/fruits-of-the-amazon
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20framazon
+  provider: Pragmatic Play 
+red-queen:
+  title: The Red Queen
+  symbol: vswaysredqueen
+  img: the-red-queen.webp
+  url: pragmatic-play/the-red-queen
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysredqueen
+  provider: Pragmatic Play 
+moonshot:
+  title: Moonshot
+  symbol: vs1024moonsh
+  img: moonshot.webp
+  url: pragmatic-play/moonshot
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024moonsh
+  provider: Pragmatic Play 
