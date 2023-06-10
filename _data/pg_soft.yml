@@ -2,28 +2,28 @@
   img: mahjong-ways.webp
   url: pgsoft/mahjong-ways
   id: 65
-  key: mahjong
+  key: mahjong, way, ways
   provider: Pocket Games Soft
   
 - title: Mahjong Ways 2
   img: mahjong-ways2.webp
   url: pgsoft/mahjong-ways2
   id: 74
-  key: mahjong
+  key: mahjong, way, ways
   provider: Pocket Games Soft
   
 - title: Lucky Neko
   img: lucky-neko.webp
   url: pgsoft/lucky-neko
   id: 89
-  key: lucky
+  key: lucky, neko
   provider: Pocket Games Soft
   
 - title: Wild Bandito
   img: wild-bandito.webp
   url: pgsoft/wild-bandito
   id: 104
-  key: wild
+  key: wild, bandito
   provider: Pocket Games Soft
   
 - title: Medusa
@@ -37,28 +37,28 @@
   img: medusa2.webp
   url: pgsoft/medusa2
   id: 6
-  key: medusa
+  key: medusa, medusa2
   provider: Pocket Games Soft
   
 - title: Dragon Hatch
   img: dragon-hatch.webp
   url: pgsoft/dragon-hatch
   id: 57
-  key: dragon
+  key: dragon, hatch
   provider: Pocket Games Soft
   
 - title: Ways of The Qilin
   img: qilin-ways.webp
   url: pgsoft/qilin-ways
   id: 106
-  key: ways
+  key: ways, qilin
   provider: Pocket Games Soft
   
 - title: Phoenix Rises
   img: phoenix-rises.webp
   url: pgsoft/phoenix-rises
   id: 82
-  key: phoenix
+  key: phoenix, rises
   provider: Pocket Games Soft
   
 - title: Jurassic Kingdom
