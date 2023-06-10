@@ -371,3 +371,7 @@ div.scrollmenu {
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
 }
+
+::-webkit-input-placeholder { 
+
+/* Chrome/Opera/Safari */ color: black; } ::-moz-placeholder { /* Firefox 19+ */ color: black; } :-ms-input-placeholder { /* IE 10+ */ color: black; } :-moz-placeholder { /* Firefox 18- */ color: black; }
