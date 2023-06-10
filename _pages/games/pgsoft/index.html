@@ -6,7 +6,20 @@ active: pgsoft
 ---
 
 <div class="row">
-<div class="col s12 transparent" style="margin-bottom:0px;">
+ <div class="search-box s12">
+  <nav class="white">        
+    <div class="nav-wrapper">
+      <form>
+        <div class="input-field">
+          <input style="white-text" type="search" placeholder="Cari game di PGSOFT">
+          <label class="label-icon black-text" for="search"><i class="material-icons" style="color: black !important;">search</i></label>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
+    </div>
+  </nav>         
+ </div> 
+<div class="col s12 transparent hide" style="margin-bottom:0px;">
  {% if page.active == "pgsoft" %}
  <div class="search-box">
   <input type="text" style="border: black solid 2px;" placeholder="Cari game di PGSOFT"/>
