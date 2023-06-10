@@ -12,18 +12,11 @@ active: pgsoft
         <div class="input-field">
           <input style="white-text" type="search" placeholder="Cari game di PGSOFT">
           <label class="label-icon black-text" for="search"><i class="material-icons" style="color: black !important;">search</i></label>
-          <i class="material-icons">close</i>
+          <i class="material-icons hide">close</i>
         </div>
     </div>
   </nav>         
  </div> 
-<div class="col s12 transparent hide" style="margin-bottom:0px;">
- {% if page.active == "pgsoft" %}
- <div class="search-box">
-  <input type="text" style="border: black solid 2px;" placeholder="Cari game di PGSOFT"/>
- </div>
- {% endif %}
-</div>
  {% for game in site.data.pg_soft %}
  <div class="col column-content s6 m6 center-align image-box" data-name="{{ game.key }}">
   <div class="card sticky-action">
