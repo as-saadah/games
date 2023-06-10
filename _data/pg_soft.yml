@@ -2,77 +2,107 @@
   img: mahjong-ways.webp
   url: pgsoft/mahjong-ways
   id: 65
+  key: mahjong
   provider: Pocket Games Soft
+  
 - title: Mahjong Ways 2
   img: mahjong-ways2.webp
   url: pgsoft/mahjong-ways2
   id: 74
+  key: mahjong
   provider: Pocket Games Soft
+  
 - title: Lucky Neko
   img: lucky-neko.webp
   url: pgsoft/lucky-neko
   id: 89
+  key: lucky
   provider: Pocket Games Soft
+  
 - title: Wild Bandito
   img: wild-bandito.webp
   url: pgsoft/wild-bandito
   id: 104
+  key: wild
   provider: Pocket Games Soft
+  
 - title: Medusa
   img: medusa.webp
   url: pgsoft/medusa
   id: 7
+  key: medusa
   provider: Pocket Games Soft
+  
 - title: Medusa II
   img: medusa2.webp
   url: pgsoft/medusa2
   id: 6
+  key: medusa
   provider: Pocket Games Soft
+  
 - title: Dragon Hatch
   img: dragon-hatch.webp
   url: pgsoft/dragon-hatch
   id: 57
+  key: dragon
   provider: Pocket Games Soft
+  
 - title: Ways of The Qilin
   img: qilin-ways.webp
   url: pgsoft/qilin-ways
   id: 106
+  key: ways
   provider: Pocket Games Soft
+  
 - title: Phoenix Rises
   img: phoenix-rises.webp
   url: pgsoft/phoenix-rises
   id: 82
+  key: phoenix
   provider: Pocket Games Soft
+  
 - title: Jurassic Kingdom
   img: jurassic-kingdom.webp
   url: pgsoft/jurassic-kingdom
   id: 110
+  key: jurassic
   provider: Pocket Games Soft
+  
 - title: Candy Bonanza
   img: candy-bonanza.webp
   url: pgsoft/candy-bonanza
   id: 100
+  key: candy
   provider: Pocket Games Soft
+  
 - title: Candy Burst
   img: candy-burst.webp
   url: pgsoft/candy-burst
   id: 70
+  key: candy
   provider: Pocket Games Soft
+  
 - title: Mermaid Riches
   img: mermaid-riches.webp
   url: pgsoft/mermaid-riches
   id: 102
+  key: mermaid
   provider: Pocket Games Soft
+  
 - title: Treasures of Aztec
   img: aztec-treasures.webp
   url: pgsoft/aztec-treasures
   id: 87
+  key: treasures
   provider: Pocket Games Soft
+  
 - title: Garuda Gems
   img: garuda-gems.webp
   url: pgsoft/garuda-gems
   id: 122
+  key: garuda
   provider: Pocket Games Soft
+  
 - title: Bali Vacation
   img: bali-vacation.webp
   url: pgsoft/bali-vacation
