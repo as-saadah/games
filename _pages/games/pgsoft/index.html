@@ -7,11 +7,11 @@ active: pgsoft
 
 <div class="row">
  <div class="search-box">
- <input type="text" placeholder="Cari sebuah permainan"/>
+ <input type="text" placeholder="Cari game"/>
  </div>
  
  {% for game in site.data.pg_soft %}
- <div class="col column-content s6 m6 center-align image-box" data-name="{{ game.key }}">
+ <div class="col column-content s6 m6 center-align image-box" data-name="{{ game.title }}">
   <div class="card sticky-action">
     <div class="card-image waves-effect waves-block waves-light">
       <a href="../{{ game.url }}">
