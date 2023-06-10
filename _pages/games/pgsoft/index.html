@@ -5,15 +5,14 @@ permalink: /pgsoft/
 active: pgsoft
 ---
 
-<div class="nav-wrapper transparent" style="margin-bottom: 18px; display: block; margin-left: 0px;">
+<div class="row">
+<div class="col s12 transparent" style="margin-bottom: 20px;">
  {% if page.active == "pgsoft" %}
- <div class="search-box" style="margin-left: 5px;">
+ <div class="search-box">
   <input type="text" style="border: black solid 2px;" placeholder="Cari game, contoh: Mahjong/mahjong"/>
  </div>
  {% endif %}
 </div>
-
-<div class="row">
  {% for game in site.data.pg_soft %}
  <div class="col column-content s6 m6 center-align image-box" data-name="{{ game.key }}">
   <div class="card sticky-action">
