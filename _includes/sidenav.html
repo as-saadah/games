@@ -41,7 +41,7 @@
      </li>
      {% for slot in site.data.nav-menu %}
      <li>
-      <a class="active waves-effect waves-yellow" href="../{{ slot.url }}">{{ slot.name }}</a>    
+      <a class="active waves-effect waves-yellow" href="{{ slot.url | relative_url }}">{{ slot.name }}</a>    
      </li>
      {% endfor %}
     
