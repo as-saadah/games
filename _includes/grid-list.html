@@ -5,4 +5,19 @@
   <button onclick='window.location.href = "https://as-saadah.github.io/games/pragmatic-play/others/"' style="margin-left: 2px;" class="waves-effect waves-yellow black white-text btn-flat btn-small">Exclusive</button>
   <button onclick='window.location.href = "https://as-saadah.github.io/games/megaways/"' style="margin-left: 2px;" class="waves-effect waves-yellow black white-text btn-flat btn-small">Megaways</button>
  {% endif %}
+
+{% if page.active == "habanero" %}
+ <div class="search-box s12" style="margin-left: 10px; margin-right: 10px !important; margin-bottom: 5px;">
+  <nav class="white">        
+    <div class="nav-wrapper">
+        <div class="input-field">
+          <input id="myfilter" style="white-text" type="search" placeholder="Cari di Habanero">
+          <label class="label-icon black-text" for="search"><i class="material-icons" style="color: black !important;">search</i></label>
+          <i class="material-icons hide">close</i>
+        </div>
+    </div>
+  </nav>         
+ </div> 
+{% endif %}
+ 
 </div>
