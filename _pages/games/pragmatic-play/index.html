@@ -8,12 +8,12 @@ active: pragmatic-play
 <div class="row">
 <form class="frm-filter">
     <div class="frm-group">
-        <input class="frm-control" type="text" id="myfilter" name="filter" placeholder="Cari di Pragmatic" />
+        <input class="frm-control" type="text" id="myfilter" name="filter" placeholder="Cari di Pragmatic Play" />
     </div>
 </form>
  {% for game in site.data.pragmatic_play %}
- <div class="col column-content s6 m6 center-align tags">
-  <div class="card sticky-action">
+ <div class="col column-content s6 m6 center-align">
+  <div class="card sticky-action tags">
     <div class="card-image waves-effect waves-block waves-light">
       <a href="../{{ game.url }}">
        <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/pragmatic-play/{{ game.img }}" alt="{{ game.title }}">
