@@ -399,7 +399,7 @@ div.scrollmenu {
 }
 
 .btn-group>.btn-inactive {
-  background-color: #000000;
+  background-color: #000000 !important;
 }
 
 .btn-group>.btn {
@@ -408,7 +408,7 @@ div.scrollmenu {
 }
 
 .btn-group>.btn-inactive:hover {
-  background-color: #111111;
+  background-color: #111111 !important;
 }
 
 .btn-group>.btn:hover {
