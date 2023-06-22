@@ -1,14 +1,14 @@
 <div class="row" style="margin-top: 25px; margin-bottom:5px; padding-bottom: 0px;">
  <div class="col s12" style="margin:0px;">
   <div class="row white" style="margin-bottom: 5px; padding-bottom: 0px;">
-   <div class="input-field col s2" style="margin: 0px; margin-top:5px;">
-    <button class="btn black waves-effect waves-yellow black" onclick="gridView()"><i class="material-icons">view_module</i></button>
+    <div class="input-field col s3" style="margin: 0px; margin-top:5px;">
+     <div class="btn-group" role="group">
+      <a class="btn btn-inactive" onclick="gridView()"><i class="material-icons">view_module</i></a>
+      <a class="btn grey" onclick="listView()"><i class="material-icons">view_list</i></a>
+     </div>
     </div>
-    <div class="input-field col s2" style="margin: 0px; margin-top:5px;">
-     <button class="btn black waves-effect waves-yellow black" onclick="listView()"><i class="material-icons">view_list</i></button>        
-    </div>
-    <div class="input-field col s8" style="margin: 0px;">
-      <i class="material-icons prefix">search</i>
+    <div class="input-field col s7" style="margin: 0px;">
+      <i class="material-icons prefix" style="margin-top: 8px; font-size: 24px;">search</i>
       {% if page.active == "pgsoft" %}
       <input type="search" id="myfilter" placeholder="Cari di PGSoft">
       {% endif %}
