@@ -6,6 +6,12 @@ active: pragmatic-play
 ---
 
 <div class="row">
+<form class="frm-filter">
+    <div class="frm-group">
+        <a class="reset hidden" href="#">Reset</a>
+        <input class="frm-control" type="text" id="myfilter" name="filter" placeholder="tag filter" />
+    </div>
+</form>
  {% for game in site.data.pragmatic_play %}
  <div class="col column-content s6 m6 center-align">
   <div class="card sticky-action">
@@ -15,7 +21,7 @@ active: pragmatic-play
       </a>
     </div>
     <div class="card-action">
-     <small class="truncate">{{ game.title }}</small>
+     <small class="truncate tags">{{ game.title }}</small>
     </div>
   </div>
  </div>
