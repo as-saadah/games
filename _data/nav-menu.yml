@@ -1,6 +1,9 @@
 - name: Pragmatic Play
   url: /pragmatic-play
 
+- name: Exclusive Pragmatic
+  url: /pragmatic-play/others
+
 - name: PG Soft
   url: /pgsoft
 
@@ -42,7 +45,3 @@
 
 - name: BGaming
   url: /bgaming
-
-- name: Exclusive Pragmatic
-  url: /pragmatic-play/others
-
