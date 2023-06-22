@@ -6,17 +6,6 @@ active: pgsoft
 ---
 
 <div class="row">
- <div class="search-box s12" style="margin-left: 10px; margin-right: 10px !important; margin-bottom: 5px;">
-  <nav class="white">        
-    <div class="nav-wrapper">
-        <div class="input-field">
-          <input id="myfilter" style="white-text" type="search" placeholder="Cari di PGSoft">
-          <label class="label-icon black-text" for="search"><i class="material-icons" style="color: black !important;">search</i></label>
-          <i class="material-icons hide">close</i>
-        </div>
-    </div>
-  </nav>         
- </div> 
  {% for game in site.data.pg_soft %}
  <div class="col column-content s6 m6 center-align image-box" data-name="{{ game.key }}">
   <div class="card sticky-action tags">
