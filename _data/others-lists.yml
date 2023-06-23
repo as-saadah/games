@@ -70,6 +70,33 @@
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems
   provider: Pragmatic Play
 
+- title: Slot Mania Gatotkaca
+  symbol: vs20smgatot
+  img: slotmania-gatotkaca.webp
+  url: pragmatic-play/others/slotmania-gems
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smgatot
+  provider: Pragmatic Play
+
+- title: Slot Mania Ares
+  symbol: vs20slotmanar
+  img: slotmania-ares.webp
+  url: pragmatic-play/others/slotmania-gems
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotmanar
+  provider: Pragmatic Play
+
+- title: Slot Mania Big Bass
+  symbol: vs10smbigbass
+  img: slotmania-bigbass.webp
+  url: pragmatic-play/others/slotmania-gems
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10smbigbass
+  provider: Pragmatic Play
+
 - title: Nexus Gates of Olympus
   symbol: vs20nexusgates
   img: nexus-olympus.webp
