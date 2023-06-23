@@ -142,6 +142,12 @@ infini88-olympus:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88
   provider: Pragmatic Play
-
-
-
+infini88-sweet-bonanza:
+  title: Infini88 Sweet Bonanza
+  symbol: vs20swbinf88
+  img: infini88-sweet-bonanza.webp
+  url: pragmatic-play/others/infini88-sweet-bonanza
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbinf88
+  provider: Pragmatic Play
