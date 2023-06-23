@@ -211,5 +211,19 @@
     </a>
    </li>
  {% endif %}
-  
+ 
+ {% if page.active == "nolimit-city" %}
+   <li class="tab active">
+    <a class="active waves-effect waves-light" href="#!">
+     {{ site.data.menu-provider.pp-exclusive.title }}
+    </a>
+   </li>
+  {% else %}
+   <li class="tab grey-darken-4">
+    <a target="_self" class="waves-effect waves-light" href="{{ "pragmatic-play-exclusive" | relative_url }}">
+     {{ site.data.menu-provider.pp-exclusive.title }}
+    </a>
+   </li>
+ {% endif %}
+ 
 </ul>
