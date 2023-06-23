@@ -37,7 +37,7 @@
      </li>
     
      {% for slot in site.data.nav-menu %}
-     <li>
+     <li {% if page.url == '{{ slot.url | relative_url }}' %}class="active grey darken-4"{% endif %}>
       <a class="active waves-effect waves-yellow" href="{{ slot.url | relative_url }}">{{ slot.name }}</a>    
      </li>
      {% endfor %}
