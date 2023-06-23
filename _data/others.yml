@@ -97,6 +97,16 @@ slotmania-bigbass:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10smbigbass
   provider: Pragmatic Play
+5000xmania:
+  title: 5000X Mania
+  symbol: vs20xmania
+  img: 5000xmania.webp
+  url: pragmatic-play/exclusive/5000x-mania
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmania
+  provider: Pragmatic Play
+  
 nexus-olympus:
   title: Nexus Gates of Olympus
   symbol: vs20nexusgates
