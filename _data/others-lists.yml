@@ -105,6 +105,15 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexusgates
   provider: Pragmatic Play
+  
+- title: Nexus Starlight Princess
+  symbol: vs20nexussp
+  img: nexus-starlight-princess.webp
+  url: pragmatic-play/others/nexus-starlight-princess
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexussp
+  provider: Pragmatic Play 
 
 - title: Nexus Sweet Bonanza
   symbol: vs20fruitsnexus
