@@ -188,3 +188,10 @@ odin:
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
   by: YGGDRASIL
+aztec-magic-megaways:
+  title: Aztec Magic Megaways
+  img: aztec-magic-megaways.webp
+  lang: En
+  url: megaways/aztec-magic-megaways
+  permalink: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
+  provider: Bgaming
