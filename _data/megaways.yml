@@ -282,3 +282,12 @@
   provider: Megaways
   by: YGGDRASIL
   url_provider: yggdrasil
+  
+- title: Aztec Magic Megaways
+  img: aztec-magic-megaways.webp
+  lang: En
+  url: megaways/aztec-magic-megaways
+  permalink: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
+  provider: Megaways
+  by: BGaming
+  url_provider: bgaming
