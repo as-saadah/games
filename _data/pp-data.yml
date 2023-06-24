@@ -1358,3 +1358,76 @@ moonshot:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024moonsh
   provider: Pragmatic Play 
+
+jewel-rush:
+  title: Jewel Rush
+  symbol: vs20jewelparty
+  img: jewel-rush.webp
+  url: pragmatic-play/jewel-rush
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20jewelparty
+  provider: Pragmatic Play 
+wisdom-of-athena:
+  title: Wisdom of Athena
+  symbol: vs20procount
+  img: wisdom-of-athena.webp
+  url: pragmatic-play/wisdom-of-athena
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20procount
+  provider: Pragmatic Play 
+ pirates-pub:
+  title: Pirates Pub
+  symbol: vs9outlaw
+  img: pirate-pub.webp
+  url: pragmatic-play/pirates-pub
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9outlaw
+  provider: Pragmatic Play 
+knight-hot-spotz:
+  title: Knight Hot Spotz
+  symbol: vs25spotz
+  img: knight-hot-spotz.webp
+  url: pragmatic-play/knight-hot-spotz
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25spotz
+  provider: Pragmatic Play 
+kingdom-of-the-dead:
+  title: Kingdom of the Dead
+  symbol: vs10kingofdth
+  img: kingdom-of-the-dead.webp
+  url: pragmatic-play/kingdom-of-the-dead
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10kingofdth
+  provider: Pragmatic Play 
+frogs-and-bugs:
+  title: Frogs & Bugs
+  symbol: vswaysfrbugs
+  img: frogs-and-bugs.webp
+  url: pragmatic-play/frogs-and-bugs
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfrbugs
+  provider: Pragmatic Play 
+robber-strike:
+  title: Robber Strike
+  symbol: vs4096robber
+  img: robber-strike.webp
+  url: pragmatic-play/robber-strike
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs4096robber
+  provider: Pragmatic Play 
+sticky-bees:
+  title: Sticky Bees
+  symbol: vs20clustwild
+  img: sticky-bees.webp
+  url: pragmatic-play/sticky-bees
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20clustwild
+  provider: Pragmatic Play
