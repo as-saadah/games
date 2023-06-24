@@ -10,7 +10,11 @@ permalink: /test/
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
-     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="{{ "assets/img/exclusive-pragmatic" | game.img | relative_url }}" alt="{{ game.title }}"> 
+     <img 
+      class="img lazy" 
+      src="{{ "assets/loader.gif" | relative_url }}" 
+      data-src="{{ "assets/img/exclusive-pragmatic/{{game.img}}" | relative_url }}" 
+      alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
@@ -26,4 +30,4 @@ permalink: /test/
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-<p>Hellow</p>
+<p>Hello Meow</p>
