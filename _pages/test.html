@@ -80,7 +80,8 @@ permalink: /test/
 </div>
 
 <div class="row">
- {% for game in site.data.pragmatic-exclusive %}
+ {% assign games = site.data.pragmatic-play | sort_by: 'line' | reverse %}
+ {% for game in games %}
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
