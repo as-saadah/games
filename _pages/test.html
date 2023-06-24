@@ -37,6 +37,7 @@ permalink: /test/
 }
 .blog-card .blog-table {
     padding: 15px 15px;
+    height: 80px;
 }
 .blog-table {
     margin-bottom: 0px;
@@ -74,10 +75,10 @@ permalink: /test/
    <div class="ripple-cont"></div>
    </div>
    <div class="blog-table">
-     <h6 class="blog-category blog-text-success"><i class="fas fa-game"></i> PGSoft</h6>
+     <h6 class="blog-category blog-text-success"><i class="fas fa-game"></i> {{ game.provider }}</h6>
      <h4 class="blog-card-caption">
       <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
-      </h4>
+     </h4>
    </div>
  </div>
  </div>
