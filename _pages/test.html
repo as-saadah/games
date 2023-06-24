@@ -4,74 +4,13 @@ title: Test
 permalink: /test/
 ---
 
-<style>
-.blog-card-blog {
-    margin-top: 30px;
-}
-.blog-card {
-    display: inline-block;
-    position: relative;
-    width: 100%;
-    margin-bottom: 30px;
-    border-radius: 6px;
-    color: rgba(0, 0, 0, 0.87);
-    background: #fff;
-    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
-    height: auto;
-}
-.blog-card .blog-card-image {
-    height: 100%;
-    position: relative;
-    overflow: hidden;
-    margin-left: 6px;
-    margin-right: 6px;
-    margin-top: -30px;
-    border-radius: 6px;
-    box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
-}
-.blog-card .blog-card-image img {
-    width: 100%;
-    height: 100%;
-    border-radius: 6px;
-    pointer-events: none;
-}
-.blog-card .blog-table {
-    padding: 15px 15px;
-    height: 80px;
-}
-.blog-table {
-    margin-bottom: 0px;
-}
-.blog-category {
-    position: relative;
-    line-height: 0;
-    margin: 8px 0;
-    font-size: 100%;
-}
-.blog-text-success {
-    color: #28a745!important;
-}
-.blog-card-blog .blog-card-caption {
-    margin-top: 5px;
-}
-.blog-card-caption {
-    font-weight: 700;
-    font-family: "Roboto Slab", "Times New Roman", serif;
-    font-size: 100%;
-}
-.blog-card-caption, .blog-card-caption a {
-    color: #333;
-    text-decoration: none;
-} 
-</style>
-
 <div class="row">
- {% for game in site.data.pragmatic_play %}
+ {% for game in site.data.habanero %}
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
-     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/pragmatic-play/{{ game.img }}" alt="{{ game.title }}"> 
+     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/habanero/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
