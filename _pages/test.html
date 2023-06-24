@@ -13,7 +13,7 @@ permalink: /test/
      <img 
       class="img lazy" 
       src="{{ "assets/loader.gif" | relative_url }}" 
-      data-src="{{ "assets/img/exclusive-pragmatic/{{game.img}}" | relative_url }}" 
+      data-src="{% capture url %}{{ "assets/img/exclusive-pragmatic/{{game.img}}" | relative_url }}{% endcapture %}" 
       alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
