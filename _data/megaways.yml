@@ -258,7 +258,7 @@
   lang: id
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
-  by: YGGDRASIL
+  by: YGGDrasil
   url_provider: yggdrasil
 
 - title: Atlantis Megaways
@@ -269,7 +269,7 @@
   lang: id
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
-  by: YGGDRASIL
+  by: YGGDrasil
   url_provider: yggdrasil
 
 - title: Odin Infinity Reels Megaways
@@ -280,7 +280,7 @@
   lang: id
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: Megaways
-  by: YGGDRASIL
+  by: YGGDrasil
   url_provider: yggdrasil
   
 - title: Aztec Magic Megaways
