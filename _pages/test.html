@@ -4,160 +4,84 @@ title: Test
 permalink: /test/
 ---
 
- <div class="card-panel teal">
-  <span class="card-title black-text">
-   Available Vendors
-  </span><hr/>
-  <span class="white-text">
-   <div class="chip">
-    <img src="{{ "./assets/vendor/pgsoft.svg" | relative_url }}">
-    PGSoft <i class="close material-icons green-text">check</i>
+<style>
+.blog-card-blog {
+    margin-top: 30px;
+}
+.blog-card {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.87);
+    background: #fff;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    height: auto;
+}
+.blog-card .blog-card-image {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-top: -30px;
+    border-radius: 6px;
+    box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+.blog-card .blog-card-image img {
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    pointer-events: none;
+}
+.blog-card .blog-table {
+    padding: 15px 15px;
+}
+.blog-table {
+    margin-bottom: 0px;
+}
+.blog-category {
+    position: relative;
+    line-height: 0;
+    margin: 5px 0;
+    font-size: 100%;
+}
+.blog-text-success {
+    color: #28a745!important;
+}
+.blog-card-blog .blog-card-caption {
+    margin-top: 0px;
+}
+.blog-card-caption {
+    font-weight: 700;
+    font-family: "Roboto Slab", "Times New Roman", serif;
+    font-size: 100%;
+}
+.blog-card-caption, .blog-card-caption a {
+    color: #333;
+    text-decoration: none;
+} 
+</style>
+<div class="row">
+ {% for game in site.data.pg_soft %}
+ <div class="col column-content s6 m6">
+ <div class="blog-card blog-card-blog">
+   <div class="blog-card-image">
+    <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
+     <img class="img" src="../assets/img/pgsoft/{{ game.img }}"> 
+    </a>
+   <div class="ripple-cont"></div>
    </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/pragmaticplay.svg" | relative_url }}">
-    Pragmatic Play <i class="close material-icons green-text">check</i>
+   <div class="blog-table">
+     <h6 class="blog-category blog-text-success"><i class="fas fa-game"></i> PGSoft</h6>
+     <h4 class="blog-card-caption">
+      <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
+      </h4>
    </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/habanero.svg" | relative_url }}">
-    Habanero <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/microgaming.svg" | relative_url }}">
-    Microgaming <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/yggdrasil.svg" | relative_url }}">
-    Yggdrasil <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/evolution-netent.svg" | relative_url }}">
-    Netent <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/slot-mania.svg" | relative_url }}">
-    Slot Mania <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/evolution-btg.svg" | relative_url }}">
-    Big Time Gaming <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/idnslot.svg" | relative_url }}">
-    IDN Slot <i class="close material-icons red-text">close</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/evolution-redtiger.svg" | relative_url }}">
-    Red Tiger <i class="close material-icons red-text">close</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/bgaming.svg" | relative_url }}">
-    Bgaming <i class="close material-icons red-text">close</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/isoftbet.png" | relative_url }}">
-    iSoftBet <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/megaways.png" | relative_url }}">
-    Megaways <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/reelkingdom.png" | relative_url }}">
-    Reel Kingdom <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/spadegaming.png" | relative_url }}">
-    Spadegaming <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/wsg.png" | relative_url }}">
-    Wild Streak Gaming <i class="close material-icons green-text">check</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/spinomenal.svg" | relative_url }}">
-    Spinomenal <i class="close material-icons red-text">close</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/gmw.svg" | relative_url }}">
-    GMW <i class="close material-icons red-text">close</i>
-   </div>
-   <div class="chip">
-    <img src="{{ "./assets/vendor/evolution-nlc.svg" | relative_url }}">
-    Nolimit City <i class="close material-icons red-text">close</i>
-   </div>
-  </span>
  </div>
-
-<div class="card">
-
-    <div class="card-content">
-
-      <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
-
-    </div>
-
-    <div class="card-tabs">
-
-      <ul class="tabs tabs-fixed-width">
-
-        <li class="tab"><a href="#test4">Test 1</a></li>
-
-        <li class="tab"><a class="active" href="#test5">Test 2</a></li>
-
-        <li class="tab"><a href="#test6">Test 3</a></li>
-
-      </ul>
-
-    </div>
-
-    <div class="card-content grey lighten-4">
-
-      <div id="test4">Test 1</div>
-
-      <div id="test5">Test 2</div>
-
-      <div id="test6">Test 3</div>
-
-    </div>
-
-  </div>
-
-  <script type="text/javascript">
-  $(function () {
-
-    var goToCartIcon = function($addTocartBtn){
-      var $cartIcon = $(".my-cart-icon");
-      var $image = $('<img width="30px" height="30px" src="' + $addTocartBtn.data("image") + '"/>').css({"position": "fixed", "z-index": "999"});
-      $addTocartBtn.prepend($image);
-      var position = $cartIcon.position();
-      $image.animate({
-        top: position.top,
-        left: position.left
-      }, 500 , "linear", function() {
-        $image.remove();
-      });
-    }
-
-    $('.my-cart-btn').myCart({
-      classCartIcon: 'my-cart-icon',
-      classCartBadge: 'my-cart-badge',
-      affixCartIcon: true,
-      checkoutCart: function(products) {
-        $.each(products, function(){
-          console.log(this);
-        });
-      },
-      clickOnAddToCart: function($addTocart){
-        goToCartIcon($addTocart);
-      },
-      getDiscountPrice: function(products) {
-        var total = 0;
-        $.each(products, function(){
-          total += this.quantity * this.price;
-        });
-        return total * 0.5;
-      }
-    });
-
-  });
-  </script>
+ </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+ </div>
