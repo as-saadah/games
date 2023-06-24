@@ -4,6 +4,7 @@
   url: pragmatic-play/olympus-gates
   currency: idr
   lang: id
+  line: Megaways
   provider: Pragmatic Play
 - title: Starlight Princess
   symbol: vs20starlight
@@ -11,6 +12,7 @@
   url: pragmatic-play/starlight-princess
   currency: idr
   lang: id
+  line: Megaways
   provider: Pragmatic Play
 - title: Starlight Christmas
   symbol: vs20schristmas
