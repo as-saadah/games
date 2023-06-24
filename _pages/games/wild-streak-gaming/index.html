@@ -7,20 +7,23 @@ active: wsg
 
 <div class="row">
  {% for game in site.data.wsg-lists %}
- <div class="col column-content s6 m6 center-align">
-  <div class="card sticky-action">
-    <div class="card-image waves-effect waves-block waves-light">
-      <a href="../{{ game.url }}">
-       <img class="lazy responsive-img" src="../assets/loader.gif" data-src="../assets/img/wild-streak-gaming/{{ game.img }}" alt="{{ game.title }}">
-      </a>
-    </div>
-    <div class="card-action">
-     <small class="truncate">{{ game.title }}</small>
-    </div>
-  </div>
+ <div class="col column-content s6 m6">
+ <div class="blog-card blog-card-blog sticky-action">
+   <div class="blog-card-image">
+    <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
+     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/wild-streak-gaming/{{ game.img }}" alt="{{ game.title }}"> 
+    </a>
+   <div class="ripple-cont"></div>
+   </div>
+   <div class="blog-table">
+     <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
+     <h4 class="blog-card-caption">
+      <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
+     </h4>
+   </div>
+ </div>
  </div>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-
