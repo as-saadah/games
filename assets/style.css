@@ -425,7 +425,7 @@ div.scrollmenu {
     display: inline-block;
     position: relative;
     width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
     border-radius: 6px;
     color: rgba(0, 0, 0, 0.87);
     background: #fff;
@@ -448,7 +448,6 @@ div.scrollmenu {
     border-radius: 6px;
     pointer-events: none;
 }
-{% endif %}
 .blog-card .blog-table {
     padding: 15px 15px;
     height: 85px;
