@@ -448,6 +448,12 @@ div.scrollmenu {
     border-radius: 6px;
     pointer-events: none;
 }
+{% if page.active == "pragmatic-play" %}
+.blog-card .blog-table {
+    padding: 15px 15px;
+    height: 100px;
+}
+{% endif %}
 .blog-card .blog-table {
     padding: 15px 15px;
     height: 80px;
