@@ -1356,3 +1356,12 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25walker
   provider: Pragmatic Play
+- title: Medusa Strike
+  symbol: vs243medusa
+  img: medusa-strike.webp
+  url: pragmatic-play/medusa-strike
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243medusa
+  provider: Pragmatic Play
+
