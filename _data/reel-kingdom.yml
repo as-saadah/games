@@ -173,3 +173,12 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
+
+- title: Lobster Bobs Crazy Crab Shack
+  symbol: vs20lobcrab
+  img: lobster.webp
+  url: reel-kingdom/lobster-bobs-crazy-crab-shack
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+ 
