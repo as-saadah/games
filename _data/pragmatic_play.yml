@@ -1357,3 +1357,11 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hstgldngt
   provider: Pragmatic Play
+- title: Legend of Garuda
+  symbol: vs20garuda
+  img: legend-of-garuda.webp
+  url: pragmatic-play/legend-of-garuda
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20garuda
+  provider: Pragmatic Play
