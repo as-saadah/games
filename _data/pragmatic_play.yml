@@ -1348,4 +1348,19 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hstgldngt
   provider: Pragmatic Play
-
+- title: Country Farming
+  symbol: vs20mysteryst
+  img: country-farming.webp
+  url: pragmatic-play/country-farming
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mysteryst
+  provider: Pragmatic Play
+- title: Wild Walker
+  symbol: vs25walker
+  img: wild-walker.webp
+  url: pragmatic-play/wild-walker
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25walker
+  provider: Pragmatic Play
