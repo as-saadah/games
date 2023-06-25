@@ -57,3 +57,13 @@ tic-tac-take:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10tictac
   provider: Reel Kingdom
+
+lobster:
+  title: Lobster Bobs Crazy Crab Shack
+  symbol: vs20lobcrab
+  img: lobster.webp
+  url: reel-kingdom/lobster-bobs-crazy-crab-shack
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lobcrab
+  provider: Reel Kingdom
