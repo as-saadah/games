@@ -161,3 +161,21 @@ infini88-sweet-bonanza:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbinf88
   provider: Pragmatic Play
+supermania:
+  title: Supermania Slot Mania
+  symbol: vs20supermania
+  img: supermania.webp
+  url: pragmatic-play/exclusive/supermania
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20supermania
+  provider: Pragmatic Play 
+gemstone:
+  title: Gemstone Slot Mania
+  symbol: vs5gemstone
+  img: gemstone.webp
+  url: pragmatic-play/exclusive/gemstone
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5gemstone
+  provider: Pragmatic Play
