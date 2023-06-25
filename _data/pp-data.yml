@@ -1431,3 +1431,167 @@ sticky-bees:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20clustwild
   provider: Pragmatic Play
+
+gates-of-hades:
+  title: Gates of Hades
+  symbol: vs20ghades
+  img: gates-of-hades.webp
+  url: pragmatic-play/gates-of-hades
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ghades
+  provider: Pragmatic Play
+zeus-vs-hades:
+  title: Zeus Vs Hades
+  symbol: vs15godsofwar
+  img: zeus-vs-hades.webp
+  url: pragmatic-play/zeus-vs-hades
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15godsofwar
+  provider: Pragmatic Play
+lamp-of-infinity:
+  title: Lamp of Infinity
+  symbol: vs20lampinf
+  img: lamp-of-infinity.webp
+  url: pragmatic-play/lamp-of-infinity
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lampinf
+  provider: Pragmatic Play
+jane-hunter:
+  title: Jane Hunter & The Mask of Montezuma
+  symbol: vs10jnmntzma
+  img: jane-hunter.webp
+  url: pragmatic-play/jane-hunter-montezuma
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10jnmntzma
+  provider: Pragmatic Play
+secret-city-gold:
+  title: Secret City Gold
+  symbol: vs25spgldways
+  img: secret-city-gold.webp
+  url: pragmatic-play/secret-city-gold
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25spgldways
+  provider: Pragmatic Play
+queen-of-gods:
+  title: Queen of Gods
+  symbol: vs10egrich
+  img: queen-of-gods.webp
+  url: pragmatic-play/queen-of-gods
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10egrich
+  provider: Pragmatic Play
+krakens-sky-bounty:
+  title: Krakens Sky Bounty
+  symbol: vs50jucier
+  img: sky-bounty.webp
+  url: pragmatic-play/krakens-sky-bounty
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50jucier
+  provider: Pragmatic Play
+3buzzing-wilds:
+  title: 3 Buzzing Wilds
+  symbol: vs20wildparty
+  img: 3buzzing-wilds.webp
+  url: pragmatic-play/3buzzing-wilds
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20wildparty
+  provider: Pragmatic Play
+the-catfather:
+  title: The Catfather
+  symbol: vs9catz
+  img: the-catfather.webp
+  url: pragmatic-play/the-catfather
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9catz
+  provider: Pragmatic Play
+guarana:
+  title: Guarana Eyes of The Amazon
+  symbol: vs20guarush
+  img: guarana-eyes-of-the-amazon.webp
+  url: pragmatic-play/guarana-eyes-of-the-amazon
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20guarush
+  provider: Pragmatic Play
+sugar-twist:
+  title: Sugar Twist
+  symbol: vs20sugarrushh
+  img: sugar-twist.webp
+  url: pragmatic-play/sugar-twist
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sugarrushh
+  provider: Pragmatic Play
+hockey-bonanza:
+  title: Hockey Bonanza
+  symbol: vs20hbonanza
+  img: hockey-bonanza.webp
+  url: pragmatic-play/hockey-bonanza
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hbonanza
+  provider: Pragmatic Play
+hockey-attack:
+  title: Hockey Attack
+  symbol: vs88hockattack
+  img: hockey-attack.webp
+  url: pragmatic-play/hockey-attack
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs88hockattack
+  provider: Pragmatic Play
+the-great-stick-up:
+  title: The Great Stick-Up
+  symbol: vs20stickysymbol
+  img: the-great-stick-up.webp
+  url: pragmatic-play/the-great-stick-up
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20stickysymbol
+  provider: Pragmatic Play
+peaky-blinders:
+  title: Peaky Blinders
+  symbol: vs20pblinders
+  img: peaky-blinders.webp
+  url: pragmatic-play/peaky-blinders
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pblinders
+  provider: Pragmatic Play
+heist-golden-nuggets:
+  title: Heist For The Golden Nuggets
+  symbol: vs20hstgldngt
+  img: heist-for-the-golden-nuggets.webp
+  url: pragmatic-play/heist-for-the-golden-nuggets
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hstgldngt
+  provider: Pragmatic Play
+country-farming:
+  title: Country Farming
+  symbol: vs20mysteryst
+  img: country-farming.webp
+  url: pragmatic-play/country-farming
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mysteryst
+  provider: Pragmatic Play
+wild-walker:
+  title: Wild Walker
+  symbol: vs25walker
+  img: wild-walker.webp
+  url: pragmatic-play/wild-walker
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25walker
+  provider: Pragmatic Play
+
