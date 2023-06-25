@@ -67,3 +67,13 @@ lobster:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lobcrab
   provider: Reel Kingdom
+lamp-of-infinity:
+  title: Lamp of Infinity
+  symbol: vs20lampinf
+  img: lamp-of-infinity.webp
+  url: reel-kingdom/lamp-of-infinity
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lampinf
+  provider: Reel Kingdom
+ 
