@@ -451,7 +451,7 @@ div.scrollmenu {
 {% if page.active == "pragmatic-play" %}
 .blog-card .blog-table {
     padding: 15px 15px;
-    height: 100px;
+    height: 100px !important;
 }
 {% endif %}
 .blog-card .blog-table {
