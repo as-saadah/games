@@ -5,33 +5,47 @@
 <ul class="tabs tabs-transparent tabs-fixed-width z-depth-1 tabs-costum"> 
 
 {% if page.active == "pragmatic-play" %}
- <li class="tab active">
-  <a class="active" href="https://as-saadah.github.io/games/pragmatic-play/">
+ <li class="tab active grey">
+  <a class="active" href="{{ site.data.menu-provider.pragmatic-play.url | relative_url }}">
    {{ site.data.menu-provider.pragmatic-play.title }}
   </a>
  </li>
 {% else %}
  <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pragmatic-play/" target="_self">
+  <a class="waves-effect waves-light" href="{{ site.data.menu-provider.pragmatic-play.url | relative_url }}" target="_self">
    {{ site.data.menu-provider.pragmatic-play.title }}
   </a>
  </li>
 {% endif %}
 
 {% if page.active == "pgsoft" %}
- <li class="tab active">
+ <li class="tab active grey disabled">
   <a class="active" href="#!">
    {{ site.data.menu-provider.pgsoft.title }}
   </a>
  </li>
 {% else %}
  <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/pgsoft/" target="_self">
+  <a class="waves-effect waves-light" href="{{ site.data.menu-provider.pgsoft.url | relative_url }}" target="_self">
    {{ site.data.menu-provider.pgsoft.title }}
   </a>
  </li>
 {% endif %}
 
+ {% if page.active == "megaways" %}
+ <li class="tab active grey">
+  <a class="active" href="#!" target="_self">
+   {{ site.data.menu-provider.megaways.title }}
+  </a>
+ </li>
+{% else %}
+ <li class="tab">
+  <a class="waves-effect waves-light" href="{{ site.data.menu-provider.megaways.url | relative_url }}" target="_self">
+   {{ site.data.menu-provider.megaways.title }}
+  </a>
+ </li>
+{% endif %}
+ 
 {% if page.active == "habanero" %}
  <li class="tab active">
   <a class="active" href="#!" target="_self">
@@ -112,20 +126,6 @@
  <li class="tab">
   <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/netent/" target="_self">
    {{ site.data.menu-provider.netent.title }}
-  </a>
- </li>
-{% endif %}
-
-{% if page.active == "megaways" %}
- <li class="tab active">
-  <a class="active" href="#!" target="_self">
-   {{ site.data.menu-provider.megaways.title }}
-  </a>
- </li>
-{% else %}
- <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/megaways/" target="_self">
-   {{ site.data.menu-provider.megaways.title }}
   </a>
  </li>
 {% endif %}
