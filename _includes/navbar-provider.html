@@ -89,137 +89,138 @@
 {% endif %}
 
 {% if page.active == "microgaming" %}
- <li class="tab active">
-  <a class="active" href="#!" target="_self">
+ <li class="tab active grey lighten-2">
+  <a href="#!" target="_self">
    {{ site.data.menu-provider.microgaming.title }}
   </a>
  </li>
 {% else %}
  <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/microgaming/" target="_self">
+  <a class="waves-effect waves-light" href="{{ site.data.menu-provider.microgaming.url | relative_url }}" target="_self">
    {{ site.data.menu-provider.microgaming.title }}
   </a>
  </li>
 {% endif %}
 
 {% if page.active == "isoftbet" %}
- <li class="tab active">
-  <a class="active" href="#!" target="_self">
+ <li class="tab active grey lighten-2">
+  <a href="#!" target="_self">
    {{ site.data.menu-provider.isoftbet.title }}
   </a>
  </li>
 {% else %}
  <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/isoftbet/" target="_self">
+  <a class="waves-effect waves-light" href="{{ site.data.menu-provider.isoftbet.url | relative_url }}" target="_self">
    {{ site.data.menu-provider.isoftbet.title }}
   </a>
  </li>
 {% endif %}
 
 {% if page.active == "netent" %}
- <li class="tab active">
-  <a class="active" href="#!" target="_self">
+ <li class="tab active grey lighten-2">
+  <a href="#!" target="_self">
    {{ site.data.menu-provider.netent.title }}
   </a>
  </li>
 {% else %}
  <li class="tab">
-  <a class="waves-effect waves-light" href="https://as-saadah.github.io/games/netent/" target="_self">
+  <a class="waves-effect waves-light" href="{{ site.data.menu-provider.netent.url | relative_url }}" target="_self">
    {{ site.data.menu-provider.netent.title }}
   </a>
  </li>
 {% endif %}
 
       {% if page.active == "wsg" %}
-        <li class="tab active">
-         <a class="active waves-effect waves-light" href="#!">
+        <li class="tab active grey lighten-2">
+         <a href="#!">
           {{ site.data.menu-provider.wsg.title }}
          </a>
         </li>
       {% else %}
         <li class="tab">
-         <a target="_self" class="waves-effect waves-light" href="https://as-saadah.github.io/games/wild-streak-gaming/">
+         <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.wsg.url | relative_url }}">
           {{ site.data.menu-provider.wsg.title }}
          </a>
       {% endif %}
 
       {% if page.active == "reel-kingdom" %}
-        <li class="tab active">
-         <a class="active waves-effect waves-light" href="#!">
+        <li class="tab active grey lighten-2">
+         <a href="#!">
           {{ site.data.menu-provider.reel-kingdom.title }}
          </a>
         </li>
       {% else %}
        <li class="tab">
-         <a target="_self" class="waves-effect waves-light" href="https://as-saadah.github.io/games/reel-kingdom/">
+         <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.reel-kingdom.url | relative_url }}">
           {{ site.data.menu-provider.reel-kingdom.title }}
          </a>
         </li>
       {% endif %}
 
       {% if page.active == "eagaming" %}
-        <li class="tab active">
-         <a class="active waves-effect waves-light" href="#!">
+        <li class="tab active grey lighten-2">
+         <a href="#!">
           {{ site.data.menu-provider.eagaming.title }}
          </a>
         </li>
       {% else %}
        <li class="tab">
-         <a target="_self" class="waves-effect waves-light" href="https://as-saadah.github.io/games/eagaming/">
+         <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.eagaming.url | relative_url }}">
           {{ site.data.menu-provider.eagaming.title }}
          </a>
         </li>
       {% endif %}
       
       {% if page.active == "big-time-gaming" %}
-        <li class="tab active">
-         <a class="active waves-effect waves-light" href="#!">
+        <li class="tab active grey lighten-2">
+         <a href="#!">
           {{ site.data.menu-provider.btg.title }}
          </a>
         </li>
       {% else %}
        <li class="tab">
-         <a target="_self" class="waves-effect waves-light" href="https://as-saadah.github.io/games/big-time-gaming/">
+         <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.btg.url | relative_url }}">
           {{ site.data.menu-provider.btg.title }}
          </a>
         </li>
       {% endif %}
+ 
  {% if page.active == "bgaming" %}
-   <li class="tab active">
-    <a class="active waves-effect waves-light" href="#!">
+   <li class="tab active grey lighten-2">
+    <a href="#!">
      {{ site.data.menu-provider.bgaming.title }}
     </a>
    </li>
   {% else %}
    <li class="tab">
-    <a target="_self" class="waves-effect waves-light" href="{{ "./bgaming" | relative_url }}">
+    <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.bgaming.url | relative_url }}">
      {{ site.data.menu-provider.bgaming.title }}
     </a>
    </li>
   {% endif %}
  
  {% if page.active == "nolimit-city" %}
-   <li class="tab active">
-    <a class="active waves-effect waves-light" href="#!">
+   <li class="tab active grey lighten-2">
+    <a href="#!">
      {{ site.data.menu-provider.nolimit-city.title }}
     </a>
    </li>
   {% else %}
    <li class="tab">
-    <a target="_self" class="waves-effect waves-light" href="{{ "./nolimit-city" | relative_url }}">
+    <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.no-limit.url | relative_url }}">
      {{ site.data.menu-provider.nolimit-city.title }}
     </a>
    </li>
  {% endif %}
  
  {% if page.active == "pp-exclusive" %}
-   <li class="tab active">
-    <a class="active waves-effect waves-light" href="#!">
+   <li class="tab active grey lighten-2">
+    <a href="#!">
      {{ site.data.menu-provider.pp-exclusive.title }}
     </a>
    </li>
   {% else %}
-   <li class="tab grey-darken-4">
+   <li class="tab">
     <a target="_self" class="waves-effect waves-light" href="{{ "pragmatic-play/exclusive" | relative_url }}">
      {{ site.data.menu-provider.pp-exclusive.title }}
     </a>
