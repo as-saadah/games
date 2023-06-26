@@ -27,14 +27,14 @@
   key: wild
   provider: PG Soft
   
-- title: Medusa
+- title: Medusa : The Curse of Athena
   img: medusa.webp
   url: pgsoft/medusa
   id: 7
   key: medusa
   provider: PG Soft
   
-- title: Medusa II
+- title: Medusa II: The Quest of Perseus
   img: medusa2.webp
   url: pgsoft/medusa2
   id: 6
