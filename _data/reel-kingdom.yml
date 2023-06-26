@@ -189,3 +189,11 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
+
+- title: Big Bass Amazon Xtreme
+  symbol: vs10bbextreme
+  img: big-bass-amazon-xtreme.webp
+  url: reel-kingdom/big-bass-amazon-xtreme
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
