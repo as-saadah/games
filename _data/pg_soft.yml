@@ -27,14 +27,14 @@
   key: wild
   provider: PG Soft
   
-- title: Medusa : The Curse of Athena
+- title: Medusa - The Curse of Athena
   img: medusa.webp
   url: pgsoft/medusa
   id: 7
   key: medusa
   provider: PG Soft
   
-- title: Medusa II: The Quest of Perseus
+- title: Medusa II - The Quest of Perseus
   img: medusa2.webp
   url: pgsoft/medusa2
   id: 6
@@ -104,7 +104,7 @@
   key: garuda
   provider: PG Soft
   
-- title: Bali Vacation
+- title: Bali Vacation - Infinity Reels
   img: bali-vacation.webp
   url: pgsoft/bali-vacation
   id: 94
@@ -500,7 +500,7 @@
   permalink: https://m.PG Soft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
   provider: PG Soft
   
-- title: Hood VS Wolf
+- title: Hood VS Wolf - The Wild Hunt
   id: 18
   img: hood-vs-wolf.webp
   url: pgsoft/hood-vs-wolf
@@ -531,7 +531,7 @@
   permalink: https://m.PG Soft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
   provider: PG Soft
   
-- title: Buffalo Win
+- title: Buffalo Win - Infinity Reels
   id: 108
   url: pgsoft/buffalo-win
   img: buffalo-win.webp
