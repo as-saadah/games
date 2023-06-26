@@ -22,7 +22,7 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Ultra Hold & Spin
+- title: Ultra — Hold & Spin
   symbol: vs5ultra
   img: ultra-hold-spin.webp
   url: reel-kingdom/ultra-hold-spin
@@ -30,7 +30,7 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Dragon Hot Hold & Spin
+- title: Dragon — Hot Hold & Spin
   symbol: vs5drhs
   img: dragon-hot-hold-spin.webp
   url: reel-kingdom/dragon-hot-hold-spin
@@ -62,7 +62,7 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Lucky, Grace and Charm
+- title: Lucky, Grace And Charm
   symbol: vs10luckcharm
   img: lucky-grace-charm.webp
   url: reel-kingdom/lucky-grace-charm
@@ -70,7 +70,7 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Floating Dragon Hold & Spin
+- title: Floating Dragon — Hold & Spin
   symbol: vs10floatdrg
   img: floating-dragon.webp
   url: reel-kingdom/floating-dragon
@@ -102,7 +102,7 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Big Bass Bonanza Keeping It Reel
+- title: Big Bass Bonanza — Keeping It Reel
   symbol: vs10bbkir
   img: big-bass-keeping-it-reel.webp
   url: reel-kingdom/big-bass-keeping-it-reel
@@ -142,7 +142,7 @@
   lang: id
   provider: Reel Kingdom
 
-- title: Big Bass Bonanza Hold & Spinner
+- title: Big Bass Bonanza — Hold & Spinner
   symbol: vs10bbhas
   img: big-bass-bonanza-hold-spinner.webp
   url: reel-kingdom/big-bass-bonanza-hold-spinner
@@ -219,7 +219,7 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
-- title: Hot To Burn Hold & Spin
+- title: Hot To Burn — Hold & Spin
   symbol: vs20hburnhs
   img: hot-to-burn-hold-spin.webp
   url: reel-kingdom/hot-to-burn-hold-and-spin
@@ -247,7 +247,7 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
-- title: Little Gem hot & Spin
+- title: Little Gem — Hot & Spin
   symbol: vs5littlegem
   img: little-gem.webp
   url: reel-kingdom/little-gem
@@ -268,4 +268,3 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
-
