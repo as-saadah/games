@@ -85,3 +85,94 @@ big-bass-amazon-xtreme:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbextreme
   provider: Reel Kingdom
+
+book-of-kingdoms:
+  title: Book of Kingdoms
+  symbol: vs25bkofkngdm
+  img: book-of-kingdoms.webp
+  url: reel-kingdom/book-of-kingdoms
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25bkofkngdm
+  provider: Reel Kingdom
+return-of-the-dead:
+  title: Return of The Dead
+  symbol: vs10returndead
+  img: return-of-the-dead.webp
+  url: reel-kingdom/return-of-the-dead
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10returndead
+  provider: Reel Kingdom
+hot-to-burn:
+  title: Hot To Burn
+  symbol: vs5hotburn
+  img: hot-to-burn.webp
+  url: reel-kingdom/hot-to-burn
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5hotburn
+  provider: Reel Kingdom
+hot-to-burn-hold-spin:
+  title: Hot To Burn — Hold & Spin
+  symbol: vs20hburnhs
+  img: hot-to-burn-hold-spin.webp
+  url: reel-kingdom/hot-to-burn-hold-and-spin
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hburnhs
+  provider: Reel Kingdom
+hot-to-burn-extreme:
+  title: Hot To Burn Extreme
+  symbol: vs40hotburnx
+  img: hot-to-burn-extreme.webp
+  url: reel-kingdom/hot-to-burn-extreme
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40hotburnx
+  provider: Reel Kingdom
+ultra-burn:
+  title: Ultra Burn
+  symbol: vs5ultrab
+  img: ultra-burn.webp
+  url: reel-kingdom/ultra-burn
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5ultrab
+  provider: Reel Kingdom
+cash-elevator:
+  title: Cash Elevator
+  symbol: vs20terrorv
+  img: cash-elevator.webp
+  url: reel-kingdom/cash-elevator
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20terrorv
+  provider: Reel Kingdom
+little-gem:
+  title: Little Gem — Hot & Spin
+  symbol: vs5littlegem
+  img: little-gem.webp
+  url: reel-kingdom/little-gem
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5littlegem
+  provider: Reel Kingdom
+magic-money-maze:
+  title: Magic Money Maze
+  symbol: vs10mmm
+  img: magic-money-maze.webp
+  url: reel-kingdom/magic-money-maze
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10mmm
+  provider: Reel Kingdom
+floating-dragon-boat-festival:
+  title: Floating Dragon – Dragon Boat Festival
+  symbol: vs10fdrasbf
+  img: floating-dragon-boat-festival.webp
+  url: reel-kingdom/floating-dragon-boat-festival
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10fdrasbf
+  provider: Reel Kingdom
