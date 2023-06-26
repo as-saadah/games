@@ -76,4 +76,12 @@ lamp-of-infinity:
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lampinf
   provider: Reel Kingdom
- 
+big-bass-amazon-xtreme:
+  title: Big Bass Amazon Xtreme
+  symbol: vs10bbextreme
+  img: big-bass-amazon-xtreme.webp
+  url: reel-kingdom/big-bass-amazon-xtreme
+  currency: idr
+  lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbextreme
+  provider: Reel Kingdom
