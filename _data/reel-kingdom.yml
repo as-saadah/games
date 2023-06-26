@@ -197,3 +197,75 @@
   currency: idr
   lang: id
   provider: Reel Kingdom
+
+- title: Book of Kingdoms
+  symbol: vs25bkofkngdm
+  img: book-of-kingdoms.webp
+  url: reel-kingdom/book-of-kingdoms
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Return of The Dead
+  symbol: vs10returndead
+  img: return-of-the-dead.webp
+  url: reel-kingdom/return-of-the-dead
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Hot To Burn
+  symbol: vs5hotburn
+  img: hot-to-burn.webp
+  url: reel-kingdom/hot-to-burn
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Hot To Burn Hold & Spin
+  symbol: vs20hburnhs
+  img: hot-to-burn-hold-spin.webp
+  url: reel-kingdom/hot-to-burn-hold-and-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Hot To Burn Extreme
+  symbol: vs40hotburnx
+  img: hot-to-burn-extreme.webp
+  url: reel-kingdom/hot-to-burn-extreme
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Ultra Burn
+  symbol: vs5ultrab
+  img: ultra-burn.webp
+  url: reel-kingdom/ultra-burn
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Cash Elevator
+  symbol: vs20terrorv
+  img: cash-elevator.webp
+  url: reel-kingdom/cash-elevator
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Little Gem hot & Spin
+  symbol: vs5littlegem
+  img: little-gem.webp
+  url: reel-kingdom/little-gem
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Magic Money Maze
+  symbol: vs10mmm
+  img: magic-money-maze.webp
+  url: reel-kingdom/magic-money-maze
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Floating Dragon – Dragon Boat Festival
+  symbol: vs10fdrasbf
+  img: floating-dragon-boat-festival.webp
+  url: reel-kingdom/floating-dragon-boat-festival
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+
