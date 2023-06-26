@@ -355,3 +355,22 @@
   provider: Megaways
   by: Pragmatic Play
   url_provider: pragmatic-play
+- title: A Christmas Carol Megaways 
+  symbol: vs20xmascarol
+  img: christmas-carol-megaways.webp
+  lang: ID
+  url: megaways/christmas-carol-megaways
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmascarol
+  provider: Megaways
+  by: Pragmatic Play
+  url_provider: pragmatic-play
+- title: Muertos Multiplier Megaways 
+  symbol: vs20muertos
+  img: muertos-multiplier-megaways.webp
+  lang: ID
+  url: megaways/muertos-multiplier-megaways
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20muertos
+  provider: Megaways
+  by: Pragmatic Play
+  url_provider: pragmatic-play
+ 
