@@ -54,7 +54,7 @@
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/DynamiteRichesMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
 
-- title: Pirates' Plenty Battle For gold
+- title: Pirates' Plenty Battle For Gold
   id: PiratesPlentyBattleForGold
   img: pirates-plenty-battle-for-gold.webp
   url: redtiger/pirates-plenty-battle-for-gold
@@ -70,7 +70,7 @@
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/LegendaryExcalibur?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
 
-- title: Zeus lightning Power Reels
+- title: Zeus Lightning Power Reels
   id: ZeusLightningPowerReels
   img: zeus-lightning-power-reels.webp
   url: redtiger/zeus-lightning-power-reels
@@ -92,4 +92,36 @@
   url: redtiger/golden-leprechaun-megaways
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/GoldenLeprechaunMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Wanted wilz
+  id: WantedWildz
+  img: wanted-wildz.webp
+  url: redtiger/wanted-wildz
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/WantedWildz?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Transylvanka Night Of Blood
+  id: TransylvaniaNightOfBlood
+  img: transylvania-night-of-blood.webp
+  url: redtiger/transylvania-night-of-blood
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/TransylvaniaNightOfBlood?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: 24 Hour Grand Prix
+  id: 24HourGrandPrix
+  img: 24hour-grand-prix.webp
+  url: redtiger/24hour-grand-prix
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/24HourGrandPrix?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Egypt Megaways
+  id: EgyptMegaways
+  img: egypt-megaways.webp
+  url: redtiger/egypt-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/EgyptMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
