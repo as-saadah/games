@@ -1,0 +1,29 @@
+---
+layout: default
+title: Red Tiger
+permalink: /redtiger/
+active: redtiger
+---
+
+<div class="row">
+ {% for game in site.data.redtiger %}
+ <div class="col column-content s6 m6">
+ <div class="blog-card blog-card-blog sticky-action">
+   <div class="blog-card-image">
+    <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
+     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/redtiger/{{ game.img }}" alt="{{ game.title }}"> 
+    </a>
+   <div class="ripple-cont"></div>
+   </div>
+   <div class="blog-table">
+     <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
+     <h4 class="blog-card-caption">
+      <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
+     </h4>
+   </div>
+ </div>
+ </div>
+ {% else %}
+  <p>Tidak ada data.</p>
+ {% endfor %}
+</div>
