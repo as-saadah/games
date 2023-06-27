@@ -13,3 +13,19 @@
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/WhatTheFoxMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
+
+- title: Agent Royale
+  id: AgentRoyale
+  img: agent-royale.webp
+  url: redtiger/agent-royale
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/AgentRoyale?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Pirates' Plenty Megaways
+  id: PiratesPlentyMegaways
+  img: pirates-plenty-megaways.webp
+  url: redtiger/pirates-plenty-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PiratesPlentyMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
