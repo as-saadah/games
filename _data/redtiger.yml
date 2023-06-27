@@ -45,3 +45,35 @@
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/DreamDestiny?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
+
+- title: Dynamite Riches Megaways
+  id: DynamiteRichesMegaways
+  img: dynamite-riches-megaways.webp
+  url: redtiger/dynamite-riches-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/DynamiteRichesMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Pirates' Plenty Battle For gold
+  id: PiratesPlentyBattleForGold
+  img: pirates-plenty-battle-for-gold.webp
+  url: redtiger/pirates-plenty-battle-for-gold
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PiratesPlentyBattleForGold?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Legendary Excalibur
+  id: LegendaryExcalibur
+  img: legendary-excalibur.webp
+  url: redtiger/legendary-excalibur
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/LegendaryExcalibur?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Zeus lightning Power Reels
+  id: ZeusLightningPowerReels
+  img: zeus-lightning-power-reels.webp
+  url: redtiger/zeus-lightning-power-reels
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/ZeusLightningPowerReels?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
