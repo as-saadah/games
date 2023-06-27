@@ -382,3 +382,46 @@
   provider: Megaways
   by: Pragmatic Play
   url_provider: pragmatic-play 
+
+- title: What The Fox Megaways 
+  img: what-the-fox-megaways.webp
+  lang: ID
+  url: redtiger/what-the-fox-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Pirates' Plenty Megaways 
+  img: pirates-plenty-megaways.webp
+  lang: ID
+  url: redtiger/pirates-plenty-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Dynamite Riches Megaways 
+  img: dynamite-riches-megaways.webp
+  lang: ID
+  url: redtiger/dynamite-riches-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Leprechaun's Magic Megaways 
+  img: leprechauns-magic-megaways.webp
+  lang: ID
+  url: redtiger/leprechauns-magic-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Golden Leprechaun Megaways 
+  img: golden-leprechaun-megaways.webp
+  lang: ID
+  url: redtiger/golden-leprechaun-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Egypt Megaways 
+  img: egypt-megaways.webp
+  lang: ID
+  url: redtiger/egypt-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
