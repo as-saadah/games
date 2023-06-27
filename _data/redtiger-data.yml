@@ -14,6 +14,14 @@ what-the-fox-megaways:
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/WhatTheFoxMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
+agent-royale:
+  title: Agent Royale
+  id: AgentRoyale
+  img: agent-royale.webp
+  url: redtiger/agent-royale
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/AgentRoyale?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
 pirates-plenty-megaways:
   title: Pirates' Plenty Megaways
   id: WhatTheFoxMegaways
@@ -21,4 +29,68 @@ pirates-plenty-megaways:
   url: redtiger/what-the-fox-megaways
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PiratesPlentyMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+eagle-riches:
+  title: Eagle Riches
+  id: EagleRiches
+  img: eagle-riches.webp
+  url: redtiger/eagle-riches
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/EagleRiches?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+dream-destiny:
+  title: Dream Destiny
+  id: DreamDestiny
+  img: dream-destiny.webp
+  url: redtiger/dream-destiny
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/DreamDestiny?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+dynamite-riches-megaways:
+  title: Dynamite Riches Megaways
+  id: DynamiteRichesMegaways
+  img: dynamite-riches-megaways.webp
+  url: redtiger/dynamite-riches-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/DynamiteRichesMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+pirates-plenty-battle-for-gold:
+  title: Pirates' Plenty Battle For gold
+  id: PiratesPlentyBattleForGold
+  img: pirates-plenty-battle-for-gold.webp
+  url: redtiger/pirates-plenty-battle-for-gold
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PiratesPlentyBattleForGold?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+legendary-excalibur:
+  title: Legendary Excalibur
+  id: LegendaryExcalibur
+  img: legendary-excalibur.webp
+  url: redtiger/legendary-excalibur
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/LegendaryExcalibur?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+zeus-lightning-power-reels:
+  title: Zeus Lightning Power Reels
+  id: ZeusLightningPowerReels
+  img: zeus-lightning-power-reels.webp
+  url: redtiger/zeus-lightning-power-reels
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/ZeusLightningPowerReels?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+leprechauns-magic-megaways:
+  title: Leprechaun's Magic Megaways
+  id: LeprechaunsMagicMegaways
+  img: leprechauns-magic-megaways.webp
+  url: redtiger/leprechauns-magic-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/LeprechaunsMagicMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+golden-leprechaun-megaways:
+  title: Golden Leprechaun Megaways
+  id: GoldenLeprechaunMegaways
+  img: golden-leprechaun-megaways.webp
+  url: redtiger/golden-leprechaun-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/GoldenLeprechaunMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
