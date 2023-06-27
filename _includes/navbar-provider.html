@@ -212,6 +212,20 @@
     </a>
    </li>
  {% endif %}
+
+ {% if page.active == "redtiger" %}
+   <li class="tab active grey lighten-2">
+    <a href="#!">
+     {{ site.data.menu-provider.redtiger.title }}
+    </a>
+   </li>
+  {% else %}
+   <li class="tab">
+    <a target="_self" class="waves-effect waves-light" href="{{ site.data.menu-provider.redtiger.url | relative_url }}">
+     {{ site.data.menu-provider.redtiger.title }}
+    </a>
+   </li>
+ {% endif %}
  
  {% if page.active == "pp-exclusive" %}
    <li class="tab active grey lighten-2">
