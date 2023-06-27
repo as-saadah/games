@@ -94,3 +94,35 @@ golden-leprechaun-megaways:
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/GoldenLeprechaunMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
+wanted-wildz:
+  title: Wanted Wilz
+  id: WantedWildz
+  img: wanted-wildz.webp
+  url: redtiger/wanted-wildz
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/WantedWildz?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+transylvania-night-of-blood:
+  title: Transylvanka Night Of Blood
+  id: TransylvaniaNightOfBlood
+  img: transylvania-night-of-blood.webp
+  url: redtiger/transylvania-night-of-blood
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/TransylvaniaNightOfBlood?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+24hour-grand-prix:
+  title: 24 Hour Grand Prix
+  id: 24HourGrandPrix
+  img: 24hour-grand-prix.webp
+  url: redtiger/24hour-grand-prix
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/24HourGrandPrix?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+egypt-megaways:
+  title: Egypt Megaways
+  id: EgyptMegaways
+  img: egypt-megaways.webp
+  url: redtiger/egypt-megaways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/EgyptMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
