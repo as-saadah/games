@@ -425,3 +425,24 @@
   provider: Megaways
   by: Red Tiger
   url_provider: redtiger 
+- title: Gonzo's Quest Megaways 
+  img: gonzos-quest-megaways.webp
+  lang: ID
+  url: redtiger/gonzos-quest-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Risque Megaways 
+  img: risque-megaways.webp
+  lang: ID
+  url: redtiger/risque-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
+- title: Blood Suckers Megaways 
+  img: blood-suckers-megaways.webp
+  lang: ID
+  url: redtiger/blood-suckers-megaways
+  provider: Megaways
+  by: Red Tiger
+  url_provider: redtiger 
