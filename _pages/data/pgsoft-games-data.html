@@ -19,7 +19,7 @@ permalink: /data/pgsoft/
             <b>{{ game.title }}</b>
             </td>
             <td>
-            <img src="{{ game.img | relative_url }}"/>
+            <img src="{{ absolute_url }}/assets/img/pgsoft/{{ game.img }}"/>
             </td>
         </tr>
            {% endfor %}
