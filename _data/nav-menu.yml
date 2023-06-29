@@ -45,3 +45,6 @@
 
 - name: BGaming
   url: /bgaming
+  
+- name: Red Tiger
+  url: /redtiger
