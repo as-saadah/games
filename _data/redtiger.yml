@@ -137,3 +137,33 @@
   lang: id
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/BloodSuckersMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
+
+- title: Peggy Sweets
+  img: peggy-sweets.webp
+  url: redtiger/peggy-sweets
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PeggySweets?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Vicky Ventura
+  img: vicky-vetura.webp
+  url: redtiger/vicky-ventura
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/VickyVentura?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Robin Hood's Wild Forest
+  img: robin-hoods-wild-forest.webp
+  url: redtiger/robin-hoods-wild-forest
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/RobinHoodsWildForest?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Atlantis
+  img: atlantis.webp
+  url: redtiger/atlantis
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/Atlantis?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+
