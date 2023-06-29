@@ -166,4 +166,30 @@
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/Atlantis?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   provider: Red Tiger
 
+- title: Ninja Ways
+  img: ninj-ways.webp
+  url: redtiger/ninja-ways
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/NinjaWays?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
 
+- title: Phoenix Fire Power Reels
+  img: phoenix-fire-power-reels.webp
+  url: redtiger/phoenix-fire-power-reels
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/PhoenixFirePowerReels?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Thor's Lightning
+  img: thors-lightning.webp
+  url: redtiger/thors-lightning
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/ThorsLightning?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
+
+- title: Mega Pyramid
+  img: mega-pyramid.webp
+  url: redtiger/mega-pyramid
+  lang: id
+  permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/MegaPyramid?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
+  provider: Red Tiger
