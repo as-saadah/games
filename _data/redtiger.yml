@@ -1,5 +1,4 @@
 - title: Legend of Athena
-  id: LegendOfAthena
   img: legend-of-athena.webp
   url: redtiger/legend-of-athena
   lang: id
@@ -7,7 +6,6 @@
   provider: Red Tiger
 
 - title: What The Fox Megaways
-  id: WhatTheFoxMegaways
   img: what-the-fox-megaways.webp
   url: redtiger/what-the-fox-megaways
   lang: id
@@ -15,7 +13,6 @@
   provider: Red Tiger
 
 - title: Agent Royale
-  id: AgentRoyale
   img: agent-royale.webp
   url: redtiger/agent-royale
   lang: id
@@ -23,7 +20,6 @@
   provider: Red Tiger
 
 - title: Pirates' Plenty Megaways
-  id: PiratesPlentyMegaways
   img: pirates-plenty-megaways.webp
   url: redtiger/pirates-plenty-megaways
   lang: id
@@ -31,7 +27,6 @@
   provider: Red Tiger
 
 - title: Eagle Riches
-  id: EagleRiches
   img: eagle-riches.webp
   url: redtiger/eagle-riches
   lang: id
@@ -39,7 +34,6 @@
   provider: Red Tiger
 
 - title: Dream Destiny
-  id: DreamDestiny
   img: dream-destiny.webp
   url: redtiger/dream-destiny
   lang: id
@@ -47,7 +41,6 @@
   provider: Red Tiger
 
 - title: Dynamite Riches Megaways
-  id: DynamiteRichesMegaways
   img: dynamite-riches-megaways.webp
   url: redtiger/dynamite-riches-megaways
   lang: id
@@ -55,7 +48,6 @@
   provider: Red Tiger
 
 - title: Pirates' Plenty Battle For Gold
-  id: PiratesPlentyBattleForGold
   img: pirates-plenty-battle-for-gold.webp
   url: redtiger/pirates-plenty-battle-for-gold
   lang: id
@@ -63,7 +55,6 @@
   provider: Red Tiger
 
 - title: Legendary Excalibur
-  id: LegendaryExcalibur
   img: legendary-excalibur.webp
   url: redtiger/legendary-excalibur
   lang: id
@@ -71,7 +62,6 @@
   provider: Red Tiger
 
 - title: Zeus Lightning Power Reels
-  id: ZeusLightningPowerReels
   img: zeus-lightning-power-reels.webp
   url: redtiger/zeus-lightning-power-reels
   lang: id
@@ -79,7 +69,6 @@
   provider: Red Tiger
 
 - title: Leprechaun's Magic Megaways
-  id: LeprechaunsMagicMegaways
   img: leprechauns-magic-megaways.webp
   url: redtiger/leprechauns-magic-megaways
   lang: id
@@ -87,7 +76,6 @@
   provider: Red Tiger
 
 - title: Golden Leprechaun Megaways
-  id: GoldenLeprechaunMegaways
   img: golden-leprechaun-megaways.webp
   url: redtiger/golden-leprechaun-megaways
   lang: id
@@ -95,7 +83,6 @@
   provider: Red Tiger
 
 - title: Wanted Wildz
-  id: WantedWildz
   img: wanted-wildz.webp
   url: redtiger/wanted-wildz
   lang: id
@@ -103,7 +90,6 @@
   provider: Red Tiger
 
 - title: Transylvanka Night Of Blood
-  id: TransylvaniaNightOfBlood
   img: transylvania-night-of-blood.webp
   url: redtiger/transylvania-night-of-blood
   lang: id
@@ -111,7 +97,6 @@
   provider: Red Tiger
 
 - title: 24 Hour Grand Prix
-  id: 24HourGrandPrix
   img: 24hour-grand-prix.webp
   url: redtiger/24hour-grand-prix
   lang: id
