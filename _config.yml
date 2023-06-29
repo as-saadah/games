@@ -6,7 +6,6 @@ markdown: kramdown
 future: true
 encoding: UTF-8
 permalink: pretty
-timezone: Aisa/Jakarta
 collections:
   pages:
     output: true
