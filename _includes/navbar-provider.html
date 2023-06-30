@@ -3,6 +3,12 @@
  {% if page.active == "pgsoft" %}
  <a class='dropdown-trigger right' href='#' data-target="dropdown1"><i class="material-icons white-text">g_translate</i></a>
  {% endif %}
+ {% if page.active == "redtiger" %}
+ <ul id='dropdown2' class='dropdown-content'>
+    <li id="fr_click" class="current_lang lang">English</li>
+    <li id="en_click" class="lang">Indonesia</li>
+  </ul>
+ {% endif %}
 </ul>
 
 <ul class="tabs tabs-transparent tabs-fixed-width z-depth-1 tabs-costum"> 
