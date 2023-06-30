@@ -352,7 +352,7 @@
   img: wild-fireworks.webp
   url: pgsoft/wild-fireworks
   id: 83
-  lang: Kembang Api Wild
+  lang: Kembang Api
   provider: PG Soft
   
 - title: Spirited Wonders 
@@ -471,7 +471,7 @@
   id: 127
   url: pgsoft/speed-winner
   img: speed-winner.webp
-  lang: Pemenang Tercepat
+  lang: Pemenang Adu Cepat
   provider: PG Soft
   
 - title: Baccarat Deluxe
