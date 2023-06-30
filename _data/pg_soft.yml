@@ -2,36 +2,42 @@
   img: mahjong-ways.webp
   url: pgsoft/mahjong-ways
   id: 65
+  lang: Cara Mahyong
   provider: PG Soft
   
 - title: Mahjong Ways 2
   img: mahjong-ways2.webp
   url: pgsoft/mahjong-ways2
   id: 74
+  lang: Cara Mahyong 2
   provider: PG Soft
   
 - title: Lucky Neko
   img: lucky-neko.webp
   url: pgsoft/lucky-neko
   id: 89
+  lang: Neko Yang Beruntung
   provider: PG Soft
   
 - title: Wild Bandito
   img: wild-bandito.webp
   url: pgsoft/wild-bandito
   id: 104
+  lang: Bandit Yang Liar
   provider: PG Soft
   
 - title: Medusa - The Curse of Athena
   img: medusa.webp
   url: pgsoft/medusa
   id: 7
+  lang: Medusa - Kutukan Athena
   provider: PG Soft
   
 - title: Medusa II - The Quest of Perseus
   img: medusa2.webp
   url: pgsoft/medusa2
   id: 6
+  lang: Medusa II - Petualangan Perseus
   provider: PG Soft
   
 - title: Dragon Hatch
