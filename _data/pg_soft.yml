@@ -436,7 +436,7 @@
   id: 64
   img: muay-thai-champion.webp
   url: pgsoft/muay-thai-champion
-  lang: Juara Muaytai
+  lang: Juara Muaythai
   provider: PG Soft
   
 - title: Farm Invaders
@@ -534,7 +534,7 @@
   id: 132
   url: pgsoft/wild-coaster
   img: wild-coaster.webp
-  lang: Wild Coaster
+  lang: Kereta Luncur
   provider: PG Soft
   
 - title: Hip Hop Panda
