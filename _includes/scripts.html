@@ -7,6 +7,10 @@ $(document).ready(function(){ $('.sidenav').sidenav(); });
 </script>
 <script>
 $(".dropdown-trigger").dropdown();
+var dropdowns = document.querySelectorAll('.dropdown-trigger')
+for (var i = 0; i < dropdowns.length; i++){
+    M.Dropdown.init(dropdowns[i]);
+}
 </script>
 <script>
     $(function() {
