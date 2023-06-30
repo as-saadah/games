@@ -5,6 +5,11 @@ permalink: /redtiger/
 active: redtiger
 ---
 
+<ul id='dropdown2' class='dropdown-content'>
+    <li id="fr_click" class="current_lang lang">English</li>
+    <li id="en_click" class="lang">Indonesia</li>
+</ul>
+
 <div class="row">
  {% for game in site.data.redtiger %}
  <div class="col column-content s6 m6">
@@ -18,7 +23,8 @@ active: redtiger
    <div class="blog-table">
      <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
      <h4 class="blog-card-caption">
-      <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
+      <a id="fr" href="{{ game.url | relative_url }}">{{ game.title }}</a>
+      <a id="en" href="{{ game.url | relative_url }}">{{ game.lang }}</a>
      </h4>
    </div>
  </div>
