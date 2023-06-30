@@ -36,10 +36,24 @@
      <div class="divider"></div>
      </li>
     
-     {% for slot in site.data.nav-menu %}
-     <li {% if page.url == '{{ slot.url | relative_url }}' %}class="active grey darken-4"{% endif %}>
+     
+         <li>
+          <ul class="collapsible collapsible-accordion">
+              <li>
+                <a class="collapsible-header white-text waves-effect">Vendors 
+                <i class="material-icons right white-text" style="margin-right:0;">arrow_drop_down</i></a>
+                <div class="collapsible-body z-depth-3 grey darken-4">
+                  <ul>
+                    {% for slot in site.data.nav-menu %}
+                    <li {% if page.url == '{{ slot.url | relative_url }}' %}class="active grey darken-4"{% endif %}>
       <a class="active waves-effect waves-yellow" href="{{ slot.url | relative_url }}">{{ slot.name }}</a>    
-     </li>
-     {% endfor %}
+                    </li>
+                    {% endfor %}
+                    <li><div class="divider"></div></li>
+                  </ul>
+                </div>
+              </li>
+          </ul>
+        </li>
     
   </ul>
