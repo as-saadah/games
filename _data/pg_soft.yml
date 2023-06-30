@@ -114,36 +114,42 @@
   img: opera-dynasty.webp
   url: pgsoft/opera-dynasty
   id: 93
+  lang: Opera Dinasti
   provider: PG Soft
   
 - title: The Queen's Banquet
   img: queens-banquet.webp
   url: pgsoft/queens-banquet
   id: 120
+  lang: Perjamuan Ratu
   provider: PG Soft
   
 - title: Honey Trap of Diao Chan
   img: honey-trap.webp
   url: pgsoft/honey-trap
   id: 1
+  lang: Jebakan Madu Diao Chan
   provider: PG Soft
   
 - title: Dreams of Macau
   img: dreams-macau.webp
   url: pgsoft/dreams-macau
   id: 79
+  lang: Mimpi Macau
   provider: PG Soft
   
 - title: Queen Bounty
   img: queen-bounty.webp
   url: pgsoft/queen-bounty
   id: 84
+  lang: Ratu Hadiah
   provider: PG Soft
   
 - title: Rise of Apollo
   img: apollo-rise.webp
   url: pgsoft/apollo-rise
   id: 101
+  lang: Kebangkitan Apollo
   provider: PG Soft
   
 - title: Supermarket Spree
@@ -157,306 +163,350 @@
   img: cocktail-nights.webp
   url: pgsoft/cocktail-nights
   id: 117
+  lang: Malam Koktail
   provider: PG Soft
   
 - title: Leprechaun Riches
   img: leprechaun-riches.webp
   url: pgsoft/leprechaun-riches
   id: 60
+  lang: Kekayaan Kurcaci
   provider: PG Soft
   
 - title: Secrets of Cleopatra - Infinity reels
   img: secrets-cleopatra.webp
   url: pgsoft/secrets-cleopatra
   id: 90
+  lang: Rahasia Cleopatra
   provider: PG Soft
   
 - title: Circus Delight
   img: circus-delight.webp
   url: pgsoft/circus-delight
   id: 80
+  lang: Kegembiraan Sirkus
   provider: PG Soft
   
 - title: Vampire's Charm
   img: vampires-charm.webp
   url: pgsoft/vampires-charm
   id: 58
+  lang: Pesona Vampir
   provider: PG Soft
   
 - title: Crypto Gold
   img: crypto-gold.webp
   url: pgsoft/crypto-gold
   id: 103
+  lang: Emas Mata Uang Virtual
   provider: PG Soft
   
 - title: Wild Bounty Showdown
   img: wild-bounty-showdown.webp
   url: pgsoft/wild-bounty-showdown
   id: 135
+  lang: Perebutan Hadiah Wild
   provider: PG Soft
   
 - title: Bikini Paradise
   img: bikini-paradise.webp
   url: pgsoft/bikini-paradise
   id: 69
+  lang: Surga Bikini
   provider: PG Soft
   
 - title: Butterfly Blossom
   img: butterfly-blossom.webp
   url: pgsoft/butterfly-blossom
   id: 125
+  lang: Kupu-Kupu Mekar
   provider: PG Soft
   
 - title: Emperor's Favour
   img: emperors-favour.webp
   url: pgsoft/emperors-favour
   id: 44
+  lang: Kebaikan Kaisar
   provider: PG Soft
   
 - title: Egypt's Book of Mystery
   img: egypt-book-mystery.webp
   url: pgsoft/egypt-book-mystery
   id: 73
+  lang: Buku Misteri Mesir
   provider: PG Soft
   
 - title: Legend of Perseus
   img: legend-of-perseus.webp
   url: pgsoft/legend-of-perseus
   id: 128
+  lang: Legenda Perseus
   provider: PG Soft
   
 - title: Groundhog Harvest
   img: groundhog-harvest.webp
   url: pgsoft/groundhog-harvest
   id: 111
+  lang: Groundhog Harvest
   provider: PG Soft
   
 - title: Dragon Legend - Mythical Treasure Jackpot
   img: dragon-legend.webp
   url: pgsoft/dragon-legend
   id: 29
+  lang: Legenda Naga
   provider: PG Soft
   
 - title: Jack Frost's Winter - Infinity Reels
   img: jack-frosts-winter.webp
   url: pgsoft/jack-frosts-winter
   id: 97
+  lang: Salju Jack Frost
   provider: PG Soft
   
 - title: Raider Jane's Crypt Of Fortune
   img: raider-janes-crypt-of-fortune.webp
   url: pgsoft/raider-jane
   id: 113
+  lang: Harta Ruang Bawah Tanah Raider Jane
   provider: PG Soft
   
 - title: Rooster Rumble
   img: rooster-rumble.webp
   url: pgsoft/rooster-rumble
   id: 123
+  lang: Pertarungan Ayam
   provider: PG Soft
   
 - title: Reel Love 
   img: reel-love.webp
   url: pgsoft/reel-love
   id: 20
+  lang: Rol Cinta
   provider: PG Soft
   
 - title: Totem Wonders
   img: totem-wonders.webp
   url: pgsoft/totem-wonders
   id: 57
+  lang: Keajaiban Totem
   provider: PG Soft
   
 - title: Plushie Frenzy
   img: plushie-frenzy.webp
   url: pgsoft/plushie-frenzy
   id: 25
+  lang: Kegirangan Boneka
   provider: PG Soft
   
 - title: Symbols of Egypt 
   img: symbols-of-egypt.webp
   url: pgsoft/symbols-of-egypt
   id: 41
+  lang: Simbol-Simbol Mesir
   provider: PG Soft
   
 - title: Win Win Won
   img: win-win-won.webp
   url: pgsoft/win-win-won
   id: 24
+  lang: Menang Menang Menang
   provider: PG Soft
   
 - title: Fortune Rabbit 
   img: fortune-rabbit.webp
   url: pgsoft/fortune-rabbit
   id: 1543462
+  lang: Kelinci Keberuntungan
   provider: PG Soft
   
 - title: Lucky Piggy 
   img: lucky-piggy.webp
   url: pgsoft/lucky-piggy
   id: 130
+  lang: Babi Beruntung
   provider: PG Soft
   
 - title: Jungle Delight 
   img: jungle-delight.webp
   url: pgsoft/jungle-delight
   id: 40
+  lang: Hutan Yang Menyenangkan
   provider: PG Soft
   
 - title: Captain's Bounty 
   img: captains-bounty.webp
   url: pgsoft/captains-bounty
   id: 54
+  lang: Hadiah Kapten
   provider: PG Soft
   
 - title: Battleground Royale 
   img: battleground-royale.webp
   url: pgsoft/battleground-royale
   id: 124
+  lang: Medan Tempur Mewah
   provider: PG Soft
   
 - title: Wild Fireworks 
   img: wild-fireworks.webp
   url: pgsoft/wild-fireworks
   id: 83
+  lang: Kembang Api Wild
   provider: PG Soft
   
 - title: Spirited Wonders 
   img: spirited-wonders.webp
   url: pgsoft/spirited-wonders
   id: 119
+  lang: Keajaiban Membara
   provider: PG Soft
   
 - title: 3 Monkeys
   img: 3monkeys.webp
   url: pgsoft/3monkeys
   id: 43
+  lang: Tiga Monyet
   provider: PG Soft
   
 - title: Midas Fortune
   img: midas-fortune.webp
   url: pgsoft/midas-fortune
   id: 1402846
+  lang: Keberuntungan Midas
   provider: PG Soft
   
 - title: Dragon Tiger Luck
   img: dragon-tiger-luck.webp
   url: pgsoft/dragon-tiger-luck
   id: 63
+  lang: Keberuntungan Harimau Naga
   provider: PG Soft
   
 - title: The Great Icescape
   id: 53
   img: great-icescape.webp
   url: pgsoft/great-icescape
+  lang: Pelarian Es Yang Hebat
   provider: PG Soft
   
 - title: Heist Stakes
   id: 105
   img: heist-stakes.webp
   url: pgsoft/heist-stakes
+  lang: Taruhan Perampokan
   provider: PG Soft
   
 - title: Genie's 3 Wishes
   id: 85
   img: genies-3-wishes.webp
   url: pgsoft/genies-3-wishes
+  lang: Jin 3 Keinginan
   provider: PG Soft
   
 - title: Piggy Gold
   id: 39
   img: piggy-gold.webp
   url: pgsoft/piggy-gold
+  lang: Babi Emas
   provider: PG Soft
   
 - title: Sushi Oishi
   id: 109
   img: sushi-oishi.webp
   url: pgsoft/sushi-oishi
+  lang: Sushi Oishi
   provider: PG Soft
   
 - title: Galactic Gems
   id: 86
   img: galactic-gems.webp
   url: pgsoft/galactic-gems
+  lang: Permata Galaksi
   provider: PG Soft
   
 - title: Thai River Wonders
   id: 92
   img: thai-river-wonders.webp
   url: pgsoft/thai-river-wonders
+  lang: Keajaiban Sungai Thailand
   provider: PG Soft
   
 - title: Muay Thai Champion
   id: 64
   img: muay-thai-champion.webp
   url: pgsoft/muay-thai-champion
+  lang: Juara Muaytai
   provider: PG Soft
   
 - title: Farm Invaders
   id: 116
   img: farm-invaders.webp
   url: pgsoft/farm-invaders
+  lang: Penjajah Ladang
   provider: PG Soft
   
 - title: Emoji Riches
   id: 114
   img: emoji-riches.webp
   url: pgsoft/emoji-riches
+  lang: Kekayaan Emoji
   provider: PG Soft
   
 - title: Hot Pot Chili Jackpot
   id: 28
   url: pgsoft/hot-pot
   img: hot-pot.webp
+  lang: Hot Pot Cabai
   provider: PG Soft
   
 - title: Mask Carnival
   id: 118
   url: pgsoft/mask-carnival
   img: mask-carnival.webp
+  lang: Pesta Topeng
   provider: PG Soft
   
 - title: Speed Winner
   id: 127
   url: pgsoft/speed-winner
   img: speed-winner.webp
-  permalink: https://m.PG Soft-games.com/127/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: Pemenang Tercepat
   provider: PG Soft
   
 - title: Baccarat Deluxe
   id: 31
   url: pgsoft/baccarat-deluxe
   img: baccarat-deluxe.webp
-  permalink: https://m.PG Soft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: 
   provider: PG Soft
   
 - title: Fortune Tiger
   id: 126
   img: fortune-tiger.webp
   url: pgsoft/fortune-tiger
-  permalink: https://m.PG Soft-games.com/126/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: Keberuntungan Harimau
   provider: PG Soft
   
-- title: Ninja VS Samurai
+- title: Ninja Vs Samurai
   id: 59
   img: samurai-vs-ninja.webp
   url: pgsoft/samurai-vs-ninja
-  permalink: https://m.PG Soft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: Ninja Vs Samurai
   provider: PG Soft
   
 - title: Hood VS Wolf - The Wild Hunt
   id: 18
   img: hood-vs-wolf.webp
   url: pgsoft/hood-vs-wolf
-  permalink: https://m.PG Soft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: 
   provider: PG Soft
   
 - title: Gem Saviour
   img: gem-saviour.webp
   url: pgsoft/gem-saviour
   id: 2
-  permalink: https://m.PG Soft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: 
   provider: PG Soft
   
 - title: Gem Saviour Sword
@@ -469,7 +519,7 @@
   id: 62
   img: gem-saviour-conquest.webp
   url: pgsoft/gem-saviour-conquest
-  permalink: https://m.PG Soft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.PG Soft-games.com
+  lang: 
   provider: PG Soft
   
 - title: Buffalo Win - Infinity Reels
