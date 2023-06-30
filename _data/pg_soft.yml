@@ -86,25 +86,28 @@
   img: mermaid-riches.webp
   url: pgsoft/mermaid-riches
   id: 102
-  lang: Putri Duyung Yang Kaya
+  lang: Kekayaan Putri Duyung
   provider: PG Soft
   
 - title: Treasures of Aztec
   img: aztec-treasures.webp
   url: pgsoft/aztec-treasures
   id: 87
+  lang: Harta Karun Aztek
   provider: PG Soft
   
 - title: Garuda Gems
   img: garuda-gems.webp
   url: pgsoft/garuda-gems
   id: 122
+  lang: Permata Garuda
   provider: PG Soft
   
 - title: Bali Vacation - Infinity Reels
   img: bali-vacation.webp
   url: pgsoft/bali-vacation
   id: 94
+  lang: Liburan Di Bali
   provider: PG Soft
   
 - title: Opera Dynasty
@@ -147,6 +150,7 @@
   img: supermarket-spree.webp
   url: pgsoft/supermarket-spree
   id: 115
+  lang: Kesenangan Supermarket
   provider: PG Soft
   
 - title: Cocktail Nights
