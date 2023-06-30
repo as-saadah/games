@@ -43,6 +43,7 @@
 - title: Dragon Hatch
   img: dragon-hatch.webp
   url: pgsoft/dragon-hatch
+  lang: Naga Menetas
   id: 57
   provider: PG Soft
   
@@ -50,36 +51,42 @@
   img: qilin-ways.webp
   url: pgsoft/qilin-ways
   id: 106
+  lang: Jalan Qilin
   provider: PG Soft
   
 - title: Phoenix Rises
   img: phoenix-rises.webp
   url: pgsoft/phoenix-rises
   id: 82
+  lang: Phoenix Bangkit
   provider: PG Soft
   
 - title: Jurassic Kingdom
   img: jurassic-kingdom.webp
   url: pgsoft/jurassic-kingdom
   id: 110
+  lang: Kerajaan Jurassic
   provider: PG Soft
   
 - title: Candy Bonanza
   img: candy-bonanza.webp
   url: pgsoft/candy-bonanza
   id: 100
+  lang: Bonanza Permen
   provider: PG Soft
   
 - title: Candy Burst
   img: candy-burst.webp
   url: pgsoft/candy-burst
   id: 70
+  lang: Semburan Permen
   provider: PG Soft
   
 - title: Mermaid Riches
   img: mermaid-riches.webp
   url: pgsoft/mermaid-riches
   id: 102
+  lang: Putri Duyung Yang Kaya
   provider: PG Soft
   
 - title: Treasures of Aztec
