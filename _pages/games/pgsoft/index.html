@@ -18,7 +18,8 @@ active: pgsoft
    <div class="blog-table">
      <h6 class="blog-category blog-text-success"><i class="fas fa-game"></i> {{ game.provider }}</h6>
      <h4 class="blog-card-caption">
-      <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
+      <a id="fr" href="{{ game.url | relative_url }}">{{ game.title }}</a>
+      <a href="{{ game.url | relative_url }}" id="en">{{ game.lang }}</a>
      </h4>
    </div>
  </div>
