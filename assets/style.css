@@ -476,3 +476,8 @@ div.scrollmenu {
     color: #333;
     text-decoration: none;
 } 
+
+ .dropdown-content {
+        width: max-content !important;
+        height: auto !important;
+ }
