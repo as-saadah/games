@@ -20,11 +20,11 @@
   permalink: https://fun.pypc.net/web/fun/launch?game=10031&lang=id-ID&platform=fun&currency=IDR
   provider: Advant Play
 - title: Racing For Luck
-  id: 
+  id: 10006
   img: racing-for-luck.webp
   lang: Id_ID
   url: advant-play/racing-for-luck
-  permalink: https://fun.pypc.net/web/fun/launch?game=0&lang=id-ID&platform=fun&currency=IDR
+  permalink: https://fun.pypc.net/web/fun/launch?game=10006&lang=id-ID&platform=fun&currency=IDR
   provider: Advant Play
 - title: Candy Rush
   id: 10025
