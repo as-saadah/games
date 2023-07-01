@@ -1,0 +1,40 @@
+road-to-euro:
+  title: Road To Euro
+  id: 10014
+  img: road-to-euro.webp
+  lang: Id-ID
+  url: advant-play/road-to-euro
+  permalink: https://fun.pypc.net/web/fun/launch?game=10014&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+road-to-uefa:
+  title: Road To UEFA
+  id: 10018
+  img: road-to-uefa.webp
+  lang: Id-ID
+  url: advant-play/road-to-uefa
+  permalink: https://fun.pypc.net/web/fun/launch?game=10018&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+world-cup-final:
+  title: World Cup Final
+  id: 10031
+  img: world-cup-final.webp
+  lang: Id-ID
+  url: advant-play/world-cup-final
+  permalink: https://fun.pypc.net/web/fun/launch?game=10031&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+racing-for-luck:
+  title: Racing For Luck
+  id: 10006
+  img: racing-for-luck.webp
+  lang: Id-ID
+  url: advant-play/racing-for-luck
+  permalink: https://fun.pypc.net/web/fun/launch?game=10006&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+candy-rush:
+  title: Candy Rush
+  id: 10025
+  img: candy-rush.webp
+  lang: Id-ID
+  url: advant-play/candy-rush
+  permalink: https://fun.pypc.net/web/fun/launch?game=10025&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
