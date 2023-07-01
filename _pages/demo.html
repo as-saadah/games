@@ -11,7 +11,7 @@ permalink: /demo/
 <iframe 
  id="show"
  width="100%" 
- height="650px" 
+ height="350px" 
  src="{{ site.data.pp-data.zeus-vs-hades.permalink }}" 
  frameborder="0" 
  allow="autoplay; encrypted-media" 
@@ -20,7 +20,7 @@ permalink: /demo/
 </iframe>
 <script>
 $('select').change(function() {
-  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&jurisdiction=99&gameSymbol=vs20ghadescur=' + $('select').val() + '?autoplay=1';
+  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&jurisdiction=99&gameSymbol=vs20ghades&cur=' + $('select').val() + '';
   $('#show').attr('src', option);
 });
 </script>
