@@ -1,9 +1,3 @@
-- name: Pragmatic Play
-  url: /pragmatic-play
-
-- name: Exclusive Pragmatic
-  url: /pragmatic-play/exclusive
-
 - name: PG Soft
   url: /pgsoft
 
