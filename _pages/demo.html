@@ -1,0 +1,26 @@
+---
+layout: page
+title: Zeus Vs Hades 
+permalink: /demo/
+---
+
+     <select>
+        <option value="IDR">IDR</option>
+        <option value="USD">US Dollar</option>
+      </select>
+<iframe 
+ id="show"
+ width="100%" 
+ height="650px" 
+ src="{{ site.data.pp-data.zeus-vs-hades.permalink }}" 
+ frameborder="0" 
+ allow="autoplay; encrypted-media" 
+ donotallowfullscreen>
+ <p>Your browser does not support iframes.</p>
+</iframe>
+<script>
+$('select').change(function() {
+  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&jurisdiction=99&gameSymbol=vs20ghadescur=' + $('select').val() + '?autoplay=1';
+  $('#show').attr('src', option);
+});
+</script>
