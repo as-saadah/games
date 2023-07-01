@@ -4,10 +4,7 @@ title: Zeus Vs Hades
 permalink: /demo/
 ---
 
-     <select>
-        <option value="IDR">IDR</option>
-        <option value="USD">US Dollar</option>
-      </select>
+
 <iframe 
  id="show"
  width="100%" 
@@ -18,6 +15,16 @@ permalink: /demo/
  donotallowfullscreen>
  <p>Your browser does not support iframes.</p>
 </iframe>
+
+<div class="input-field col s12">
+    <select>
+      <option value="" disabled selected>Mata Uang</option>
+      <option value="IDR">IDR</option>
+      <option value="USD">US Dollar</option>
+      <option value="EUR">Euro</option>
+    </select>
+</div>
+
 <script>
 $('select').change(function() {
   var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&jurisdiction=99&gameSymbol=vs20ghades&cur=' + $('select').val() + '';
