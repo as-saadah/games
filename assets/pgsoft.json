@@ -1,0 +1,13 @@
+{
+  "games": [{
+      "id": "1",
+      "gametitle": "Mahjong Ways",
+      "url": "link mahjong ways"
+    },
+    {
+      "id": "2",
+      "gametitle": "Mahjong Ways 2",
+      "url": "link mahjong ways 2"
+    }
+  ]
+}
