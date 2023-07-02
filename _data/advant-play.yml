@@ -33,3 +33,10 @@
   url: advant-play/candy-rush
   permalink: https://fun.pypc.net/web/fun/launch?game=10025&lang=id-ID&platform=fun&currency=IDR
   provider: Advant Play
+- title: Scale Of Heaven Anubis
+  id: 10035
+  img: anubis.webp
+  lang: Id_ID
+  url: advant-play/anubis
+  permalink: https://fun.pypc.net/web/fun/launch?game=10035&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
