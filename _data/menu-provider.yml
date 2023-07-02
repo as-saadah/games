@@ -38,11 +38,17 @@ bgaming:
   title: BGAMING
   url: bgaming
 redtiger:
-  title: Red Tiger
+  title: RED TIGER
   url: redtiger
 pp-exclusive:
   title: EXCLUSIVE PRAGMATIC
   url: pragmatic-play/exclusive
 advant-play:
-  title: Advant play
+  title: ADVANT PLAY
   url: advant-play
+reel-kingdom:
+  title: REEL KINGDOM
+  url: reel-kingdom
+wsg:
+  title: WILD STREAK GAMING
+  url: wild-streak-gaming
