@@ -3,7 +3,17 @@ layout: default
 title: Test
 permalink: /test/
 ---
-
+<style>
+.modal .modal-header {
+  border-radius: 0 0 2px 2px;
+  background-color: #fafafa;
+  padding: 0px 6px;
+  height: 30px;
+  width: 100%;
+  text-align: right;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+</style>
 <div class="row">
  {% for game in site.data.advant-play %}
  <div class="col column-content s6 m6">
@@ -33,8 +43,11 @@ permalink: /test/
 {% for game in site.data.advant-play %}
   <!-- Modal Structure -->
   <div id="{{ game.id }}" class="modal modal-fixed-footer">
+   <div class="modal-header black">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat white-text">Tutup</a>
+   </div>
     <div class="modal-content">
-      <h4>Modal Header</h4>
+     
       <iframe 
  src="{{ game.permalink }}" 
  width="100%" 
