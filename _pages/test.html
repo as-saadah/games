@@ -3,7 +3,33 @@ layout: default
 title: Test
 permalink: /test/
 ---
+
 <style>
+.modal {
+  display: none;
+  position: fixed;
+  top: 0 !important;
+  bottom: 0 !important;
+  left: 0;
+  right: 0;
+  background-color: #fafafa;
+  padding: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  max-height: 100% !important;
+  width: 100% !important;
+  margin: auto;
+  overflow-y: none !important;
+  border-radius: 0px;
+  will-change: top, opacity;
+}
+
+@media only screen and (max-width: 992px) {
+  .modal {
+    width: 100% !important;
+  }
+}
+
 .modal .modal-header {
   border-radius: 0 0 2px 2px;
   background-color: #fafafa;
@@ -37,17 +63,13 @@ permalink: /test/
  {% endfor %}
 </div>
 
-  <!-- Modal Trigger -->
-  <a class="hide waves-effect waves-light btn modal-trigger" href="#{{ game.id }}">Modal</a>
-
 {% for game in site.data.advant-play %}
   <!-- Modal Structure -->
   <div id="{{ game.id }}" class="modal modal-fixed-footer">
    <div class="modal-header black">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat white-text">Tutup</a>
    </div>
-    <div class="modal-content">
-     
+    <div class="modal-content">     
       <iframe 
  src="{{ game.permalink }}" 
  width="100%" 
@@ -57,9 +79,6 @@ permalink: /test/
  donotallowfullscreen>
  <p>Your browser does not support iframes.</p>
       </iframe>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">Tutup</a>
     </div>
   </div>
 {% endfor %}
