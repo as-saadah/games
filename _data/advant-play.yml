@@ -40,3 +40,32 @@
   url: advant-play/anubis
   permalink: https://fun.pypc.net/web/fun/launch?game=10035&lang=id-ID&platform=fun&currency=IDR
   provider: Advant Play
+- title: Infinity Ocean
+  id: 10034
+  img: infinity-ocena.webp
+  lang: Id_ID
+  url: advant-play/infinity-ocean
+  permalink: https://fun.pypc.net/web/fun/launch?game=10035&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+- title: Treasure Of Drake
+  id: 10017
+  img: treasure-of-drake.webp
+  lang: Id_ID
+  url: advant-play/treasure-of-drake
+  permalink: https://fun.pypc.net/web/fun/launch?game=10017&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+- title: Genie Mystery
+  id: 10030
+  img: genie-mystery.webp
+  lang: Id_ID
+  url: advant-play/genie-mystert
+  permalink: https://fun.pypc.net/web/fun/launch?game=10030&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+- title: Boom Of Prosperity
+  id: 10032
+  img: boom-of-prosperity.webp
+  lang: Id_ID
+  url: advant-play/boom-of-prosperity
+  permalink: https://fun.pypc.net/web/fun/launch?game=10032&lang=id-ID&platform=fun&currency=IDR
+  provider: Advant Play
+
