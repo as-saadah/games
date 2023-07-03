@@ -10,7 +10,7 @@ active: advant-play
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
-    <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
+    <a target="modal_iframe" onClick="showModal()" href="#!" class="waves-effect waves-block waves-light"> 
      <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
@@ -18,7 +18,7 @@ active: advant-play
    <div class="blog-table">
      <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
      <h4 class="blog-card-caption">
-      <a href="{{ game.url | relative_url }}">{{ game.title }}</a>
+      <a target="modal_iframe" onClick="showModal()" href="#!">{{ game.title }}</a>
      </h4>
    </div>
  </div>
@@ -27,3 +27,21 @@ active: advant-play
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
+
+  <div id="modal" class="modal black">
+    <div class="modal-header grey darken-2">
+      <a href="#!" onClick="hideModal()" class="modal-close waves-effect waves-green btn-flat white-text right">Tutup</a>
+    </div>
+    <div class="modal-content" style="padding: 0;">
+     <iframe 
+      name="modal_iframe" 
+      src="" 
+      width="100%" 
+      height="670px" 
+      frameborder="0" 
+      allow="autoplay; encrypted-media" 
+      donotallowfullscreen>
+      <p>Your browser does not support iframes.</p>
+     </iframe>
+    </div>
+  </div>                                                                                                
