@@ -489,3 +489,42 @@ div.scrollmenu {
   -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
   transform: rotate(180deg);
  }
+
+
+                                                                           .modal {
+  display: none;
+  position: fixed;
+  top: 0 !important;
+  bottom: 0 !important;
+  left: 0;
+  right: 0;
+  background-color: #fafafa;
+  padding: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  max-height: 100% !important;
+  width: 100% !important;
+  margin: auto;
+  overflow-y: none !important;
+  border-radius: 0px;
+  will-change: top, opacity;
+}
+
+@media only screen and (max-width: 992px) {
+  .modal {
+    width: 100% !important;
+  }
+}
+
+.modal .modal-header {
+  border-radius: 0 0 2px 2px;
+  background-color: #fafafa;
+  padding: 0px 6px;
+  height: 30px;
+  width: 100%;
+  text-align: right;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+#modal {
+ z-index: 1000;
+}
