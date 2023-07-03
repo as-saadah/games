@@ -11,14 +11,14 @@ active: advant-play
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()" class="waves-effect waves-block waves-light modal-trigger"> 
-     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
+    <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
    <div class="blog-table">
      <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
      <h4 class="blog-card-caption">
-      <a>{{ game.title }}</a>
+      <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a>
      </h4>
    </div>
  </div>
@@ -28,9 +28,9 @@ active: advant-play
  {% endfor %}
 </div>
 
-  <div id="modal" class="modal black">
-    <div class="modal-header grey darken-2">
-      <a href="#!" onClick="hideModal()" class="modal-close waves-effect waves-green btn-flat white-text right">Tutup</a>
+  <div id="modalAdvantPlay" class="modal black">
+    <div class="modal-header white" style="height: 35px;">
+      <a onClick="hideModal()" class="modal-close waves-effect waves-light btn-flat left btn-small" style="margin-top: 3px;"><i class="material-icons left">arrow_back</i> Kembali</a>
     </div>
     <div class="modal-content" style="padding: 0;">
      <iframe 
@@ -45,3 +45,13 @@ active: advant-play
      </iframe>
     </div>
   </div>                                                                                                
+<script>
+function showModal()
+{
+  $('#modalAdvantPlay').show();
+}
+function hideModal()
+{
+  $('#modalAdvantPlay').hide();
+}
+      </script>
