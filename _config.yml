@@ -13,4 +13,4 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /games/:title
+      permalink: /news/:title
