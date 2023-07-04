@@ -7,8 +7,11 @@ future: true
 encoding: UTF-8
 include:
   - _pages
-
+  - _posts
 defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
   - scope:
       path: "_pages"
       type: "pages"
