@@ -11,7 +11,7 @@ active: pragmatic-play/exclusive
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()" class="waves-effect waves-block waves-light modal-trigger"> 
-    <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/exclusive-pragmatic/{{ game.img }}" alt="{{ game.title }}"> 
+    <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="https://as-saadah.github.io/games/assets/img/exclusive-pragmatic/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
@@ -27,3 +27,8 @@ active: pragmatic-play/exclusive
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>                                                                                                
+<div class="col s12" style="margin-bottom: 15px;">
+  <a href="{{ "pragmatic-play" | relative_url }}" class="btn waves-effect waves-light black" style="width:100%">
+   Lihat lainnya dari Pragmatic Play
+  </a>
+</div>
