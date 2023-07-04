@@ -5,5 +5,3 @@ url:            "https://as-saadah.github.io/games/"
 markdown: kramdown
 future: true
 encoding: UTF-8
-permalink: pretty
-paginate: 20
