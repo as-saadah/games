@@ -232,6 +232,7 @@
   url: isoftbet/gold-digger
   currency: idr
   lang: id
+  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200514?mode=0&turboMode=1&background=1&cur=IDR&lang=en&enableConsole=false
   provider: Megaways
   by: iSoftBet
   url_provider: isoftbet
@@ -239,6 +240,7 @@
 - title: Tales of Silver Megaways
   img: tales-of-silver.webp
   url: isoftbet/tales-of-silver
+  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200771?identifier=pulse_tales_of_silver_mw&lang=EN&cur=IDR&background=1&mode=0&
   currency: IDR
   provider: Megaways
   by: iSoftBet
@@ -247,6 +249,7 @@
 - title: Tyrant King Megaways
   img: tyrant-king.webp
   url: isoftbet/tyrant-king
+  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200521?identifier=pulse_tyrant_king_megaways&lang=EN&cur=IDR&background=1&mode=0&
   currency: IDR
   provider: Megaways
   by: iSoftBet
@@ -255,6 +258,7 @@
 - title: Sahara Riches Megaways
   img: sahara-riches.webp
   url: playtech/sahara-riches
+  permalink: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?game=gpas_mgccsahara_pop&casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id
   currency: IDR
   lang: id
   provider: Megaways
@@ -264,6 +268,7 @@
 - title: Buffalo Blitz Megaways
   img: buffalo-blitz.webp
   url: playtech/buffalo-blitz
+  permalink: https://gamelauncher-uu-pop-stg.playtechone.com/launcher?casino=playtechhorizon&clientplatform=web&clienttype=casino&real=0&currency=IDR&language=id&game=gpas_bbmways_pop
   currency: IDR
   lang: id
   provider: Megaways
