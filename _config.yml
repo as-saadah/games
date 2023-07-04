@@ -1,4 +1,4 @@
-title:          Play For Fun
+title:          Saadah Gaming
 description:    "Stop bermain judi slot. Mainkan saja games slot demo gratis tanpa deposit disitus kami."
 baseurl:        "/games/"
 url:            "https://as-saadah.github.io/games/"
@@ -12,6 +12,9 @@ defaults:
   - scope:
       path: "_posts"
       type: "posts"
+    values:
+      layout: post
+      permalink: /news/:title
   - scope:
       path: "_pages"
       type: "pages"
