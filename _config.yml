@@ -6,13 +6,11 @@ markdown: kramdown
 future: true
 encoding: UTF-8
 permalink: pretty
-collections:
-  pages:
-    output: true
-    permalink: /:title/
-  id:
-    output: true
-    permalink: /id/
-  en:
-    output: true
-    permalink: /en/
+paginate: 20
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      permalink: /games/:title
