@@ -9,7 +9,7 @@ permalink: /demo/
     <option value="IDR,id">Rupiah</option>
     <option value="USD,en">USD</option>
     <option value="EUR,en">Euro</option>
-    <option value="RUB,rub">Russian Ruble</option>
+    <option value="RUB,ru">Russian Ruble</option>
 </select>
 
 <iframe 
@@ -25,7 +25,7 @@ permalink: /demo/
 
 <script>
 $('select').change(function() {
-  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?jurisdiction=99&gameSymbol=vs20ghades&cur=' + $('select').val() + 'lang=';
+  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?jurisdiction=99&gameSymbol=vs20ghades&cur=' + $('select').val() + '&lang=';
   $('#show').attr('src', option);
 });
 </script>
