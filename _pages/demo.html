@@ -25,7 +25,7 @@ permalink: /demo/
 
 <script>
 $('select').change(function() {
-  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?jurisdiction=99&gameSymbol=vs20ghades&cur=' + $('select').val() + '&lang=';
+  var option = 'https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?jurisdiction=99&gameSymbol=vs20ghades&cur=' + '&lang=' + $('select').val() + '';
   $('#show').attr('src', option);
 });
 </script>
