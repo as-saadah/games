@@ -1,4 +1,5 @@
 <script> feather.replace() </script>
+<script src="https://as-saadah.github.io/games/assets/js/modal.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.4/jquery.lazy.min.js"></script>
 <script>
     $(function() {
@@ -135,4 +136,20 @@ function hideModal()
 {
   $('#modal').hide();
 }
+</script>
+
+
+<script>
+// Instansiate Model
+var modal = new ModalDialog({
+    // Take care changing modal name it affects almost everything:
+    // all class names, except SVGs, and all data attribute names
+    modalName : "modal",
+    openClass : "-open",            // is default ("-" + modaName automatically prepended)
+    lightboxClass : "lightbox",     // is default (modaName + "_" automatically prepended)
+    svgCloseId : "icon-cross",      // default
+    svgCloseClass : "svg-close",    // default
+    svgLoadingId : "icon-loading",  // default
+    svgLoadingClass : "svg-loading" // default
+  }, window, document, debounce);
 </script>
