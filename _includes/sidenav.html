@@ -44,11 +44,12 @@
         </ul>        
        </div>
        </li>
-                    {% for slot in site.data.nav-menu %}
-                    <li {% if page.url == '{{ slot.url | relative_url }}' %}class="active grey darken-4"{% endif %}>
-      <a class="active waves-effect waves-yellow" href="{{ slot.url | relative_url }}">{{ slot.name }}</a>    
-                    </li>
-                    {% endfor %}
+                    
+  {% for slot in site.data.nav-menu %}
+    <li {% if page.url contains nav-menu.url %}class="active" aria-current="page"{% endif %}>
+     <a href="{{ slot.url | relative_url }}">{{ slot.title }}</a>
+    </li>
+  {% endfor %}
                     <li><div class="divider"></div></li>
                   </ul>
                 </div>
