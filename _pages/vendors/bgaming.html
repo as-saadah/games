@@ -16,7 +16,7 @@ active: bgaming
      data-modalTitle="{{ game.title }}"
      data-modal="{{ game.permalink }}" 
      class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
-     <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/bgaming/{{ game.img }}" alt="{{ game.title }}"> 
+     <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/bgaming/{{ game.img }}" alt="{{ game.title }}" style="border: 0px;"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
@@ -32,20 +32,3 @@ active: bgaming
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-
-
-<script src="https://as-saadah.github.io/games/assets/js/modal.js"></script>
-<script>
-// Instansiate Model
-var modal = new ModalDialog({
-    // Take care changing modal name it affects almost everything:
-    // all class names, except SVGs, and all data attribute names
-    modalName : "modal",
-    openClass : "-open",            // is default ("-" + modaName automatically prepended)
-    lightboxClass : "lightbox",     // is default (modaName + "_" automatically prepended)
-    svgCloseId : "icon-cross",      // default
-    svgCloseClass : "svg-close",    // default
-    svgLoadingId : "icon-loading",  // default
-    svgLoadingClass : "svg-loading" // default
-  }, window, document, debounce);
-</script>
