@@ -13,7 +13,13 @@
 </ul>
 
 <ul class="tabs tabs-transparent tabs-fixed-width z-depth-1 tabs-costum"> 
+{% for vendor in site.data.vendors %}
+ <li class="tab">
+  <a class="waves-effect waves-light" href="{{ vendor.url | relative_url }}" target="_self">{{ vendor.title }}</a>    
+ </li>
+{% endfor %} 
  
+<div class="hide"> 
 {% if page.active == "pragmatic-play" %}
  <li class="tab active grey lighten-2">
   <a href="#!">
@@ -251,5 +257,6 @@
     </a>
    </li>
  {% endif %}
+</div>
  
 </ul>
