@@ -23,7 +23,7 @@ active: bgaming
    <div class="blog-table">
      <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
      <h4 class="blog-card-caption">
-      <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a>
+      <a class="lnk_modal-open" href="{{ game.permalink }}">{{ game.title }}</a>
      </h4>
    </div>
  </div>
@@ -35,7 +35,6 @@ active: bgaming
 
 
 <script src="https://as-saadah.github.io/games/assets/js/modal.js"></script>
-
 <script>
 // Instansiate Model
 var modal = new ModalDialog({
