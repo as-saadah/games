@@ -5,25 +5,20 @@ permalink: /bgaming/
 active: bgaming
 ---
 
-<link rel=stylesheet href="https://as-saadah.github.io/games/assets/css/modal.css">
-
 <div class="row">
  {% for game in site.data.bgaming %}
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
-    <a 
-     data-modalTitle="{{ game.title }}"
-     data-modal="{{ game.permalink }}" 
-     class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
-     <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/bgaming/{{ game.img }}" alt="{{ game.title }}" style="border: 0px;"> 
+    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()" class="waves-effect waves-block waves-light"> 
+     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/bgaming/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
    <div class="blog-table">
-     <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
+     <h6 class="blog-category blog-text-success">{{ game.by }}</h6>
      <h4 class="blog-card-caption">
-      <a class="lnk_modal-open" href="{{ game.permalink }}">{{ game.title }}</a>
+      <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a>
      </h4>
    </div>
  </div>
@@ -31,4 +26,4 @@ active: bgaming
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
-</div>
+ </div>
