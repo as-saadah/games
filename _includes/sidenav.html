@@ -31,26 +31,12 @@
                 <i class="material-icons white-text">videogame_asset</i> Vendors 
                 <i class="material-icons right white-text" style="margin-right:0;">arrow_drop_down</i></a>
                 <div class="collapsible-body z-depth-3 grey darken-4">
-                  <ul>
+                  <ul>                                      
+                   {% for vendor in site.data.vendors %}
                     <li>
-      <ul class="collapsible collapsible-accordion">
-       <li><a class="collapsible-header white-text waves-effect">Pragmatic Play <i class="material-icons right white-text" style="margin-right:0;">keyboard_arrow_right</i></a>
-       <div class="collapsible-body z-depth-3 grey darken-2">
-        <ul>                                
-         <li><a class="waves-effect" href="{{ "pragmatic-play" | relative_url }}">Pragmatic Play</a></li>
-          <li><a class="waves-effect" href="{{ "reel-kingdom" | relative_url }}">Reel Kingdom</a></li>
-          <li><a class="waves-effect" href="{{ "wild-streak-gaming" | relative_url }}">Wild Streak Gaming</a></li>
-         <li><a class="waves-effect" href="{{ "pragmatic-play/exclusive" | relative_url }}">Exclusive Pragmatic</a></li>        
-        </ul>        
-       </div>
-       </li>
-                    
-{% for slot in site.data.nav-menu %}
-                    <li {% if page.url == '{{ slot.url | relative_url }}' %}class="active grey darken-4"{% endif %}>
-      <a class="active waves-effect waves-yellow" href="{{ slot.url | relative_url }}">{{ slot.name }}</a>    
+                     <a class="waves-effect waves-yellow" href="{{ vendor.url | relative_url }}">{{ vendor.title }}</a>    
                     </li>
-                    {% endfor %}
-        
+                    {% endfor %}        
                     <li><div class="divider"></div></li>
                   </ul>
                 </div>
