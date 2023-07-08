@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mainjs
 title: Advant Play
 permalink: /advant-play/
 active: advant-play
@@ -10,15 +10,19 @@ active: advant-play
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
-    <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()" class="waves-effect waves-block waves-light modal-trigger"> 
-    <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
+    <a 
+     data-modal="{{ game.permalink }}" 
+     href="{{ game.permalink }}" 
+     data-modalTitle="{{ game.title }}"
+     class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
+     <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
    <div class="blog-table">
      <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
      <h4 class="blog-card-caption">
-      <a href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()">{{ game.title }}</a>
+      {{ game.title }}
      </h4>
    </div>
  </div>
