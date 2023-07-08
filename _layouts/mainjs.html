@@ -329,7 +329,42 @@ body.-modal-open {
     </symbol>
   </defs>
 </svg> 
- {% include global-navbar-provider.html %}
+<div class="navbar-fixed">
+ <nav class="nav-extended">
+    <div class="nav-wrapper black">
+      <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">short_text</i></a>
+      <a href="#!" class="brand-logo center">
+       {{ page.title }}
+      </a>
+      <a href="{{ absolute_url }}" class="sidenav-right-icon show-on-med-and-down right waves-effect waves-light">
+       <i class="material-icons">refresh</i>
+      </a>
+    </div>
+    <div class="nav-content nav-content-costum" style="z-index:998;">
+<ul class="tabs tabs-transparent home">
+ <li class="tab left"><a href="https://as-saadah.github.io/games/" class="waves-effect"><i class="material-icons white-text">home</i></a></li>
+ {% if page.active == "pgsoft" %}
+ <a class='dropdown-trigger right' href='#' data-target="bahasa"><i class="material-icons white-text">g_translate</i></a>
+ {% endif %}
+ {% if page.active == "redtiger" %}
+ <a class='dropdown-trigger right' href='#' data-target="bahasa"><i class="material-icons white-text">g_translate</i></a>
+ {% endif %}
+ <ul id='bahasa' class='dropdown-content'>
+    <li id="fr_click" class="current_lang lang">English</li>
+    <li id="en_click" class="lang">Indonesia</li>
+ </ul>
+</ul>
+<ul class="tabs tabs-transparent tabs-fixed-width z-depth-1 tabs-costum"> 
+{% for vendor in site.data.vendors %}
+ <li class="tab">
+  <a class="waves-effect waves-light" href="{{ vendor.url | relative_url }}" target="_self">{{ vendor.title }}</a>    
+ </li>
+{% endfor %} 
+</ul>    
+    </div>
+ </nav>
+</div>
+ {% include sidenav.html %}
  {% include grid-list.html %}
 <div class="container" style="width: 97% !important;">
  {{ content }}
