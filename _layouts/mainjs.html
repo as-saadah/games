@@ -3,25 +3,7 @@
  <head>
   {% include head.html %}
 <style>
-.modal {
-  display: block !important;
-  position: fixed;
-  top: 0 !important;
-  bottom: 0 !important;
-  left: 0;
-  right: 0;
-  background-color: #fafafa;
-  padding: 0;
-  width: 100vw !important;
-  height: 100vh !important;
-  max-height: 100% !important;
-  width: 100% !important;
-  margin: auto;
-  overflow-y: none !important;
-  border-radius: 0px;
-  will-change: top, opacity;
-}
- 
+
 /* Modal opening object (link, button, or pretend button) */
 
 button,
@@ -273,6 +255,25 @@ body.-modal-open {
 .-modal.-modal-open {
   -webkit-filter: blur(4px);
   filter: blur(4px);
+ }
+
+ .modal {
+  display: block !important;
+  position: fixed;
+  top: 0 !important;
+  bottom: 0 !important;
+  left: 0;
+  right: 0;
+  background-color: #fafafa;
+  padding: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  max-height: 100% !important;
+  width: 100% !important;
+  margin: auto;
+  overflow-y: none !important;
+  border-radius: 0px;
+  will-change: top, opacity;
  }
  
  .modal {
