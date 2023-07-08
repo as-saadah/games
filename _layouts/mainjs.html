@@ -3,7 +3,9 @@
  <head>
   {% include head.html %}
 <style>
-
+ .modal {
+  display: block !important;
+ }
 /* Modal opening object (link, button, or pretend button) */
 
 button,
@@ -53,22 +55,22 @@ button[data-modal][aria-controls]:focus,
 .img_modal-open {
   display: block;
   width: 100%;
-  border: 0 solid;
+  border: 0;
 }
 
 
 /* The modal section is added via JS */
 .modal {
-  max-width: 80vw;
-  max-height: 90vh;
+  max-width: 100vw !important;
+  max-height: 100vh !important;
   background-color: #ccc;
-  position: fixed;
-  left: 10%;
-  right: 10%;
-  top: 5%;
-  bottom: 5%;
-  z-index: 999;
-  border: 1px solid #000;
+  position: absolute;
+  left: 0 !important;
+  right: 0 !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  z-index: 990 !important;
+  border: 0px solid #000 ;
   box-shadow: 0 .25em .5em #000;
   transition: opacity .5s ease-out, visibility 0s ease-out 1s, transform .5s ease-out .5s;
   backface-visibility: hidden;
@@ -257,10 +259,6 @@ body.-modal-open {
   filter: blur(4px);
  }
 
- .modal {
-  display: block !important;
- }
- 
 .modal {
   max-width: 100vw !important;
   max-height: 100vh !important;
