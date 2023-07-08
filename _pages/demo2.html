@@ -9,13 +9,13 @@ permalink: /demo2/
   display: block !important;
  }
 </style>
-<div class="row lazy">
+<div class="row">
  {% for game in site.data.advant-play %}
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
-    <a data-modal="{{ game.permalink }}" href="{{ game.permalink }}" target="modal_iframe" onClick="showModal()" class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
-    <img class="img img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
+    <a data-modal="{{ game.permalink }}" href="{{ game.permalink }}" class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
+    <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
