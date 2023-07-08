@@ -93,3 +93,21 @@ init();
         $('select').formSelect();
       });
 </script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const inputEl = document.getElementById('myfilter');
+    const tags = Array.from(document.querySelectorAll('.sticky-action'));
+
+    inputEl.addEventListener('keyup', () => {
+        const value = inputEl.value;
+
+        tags.forEach(tag => {
+            if (tag.textContent.includes(value)) {
+                tag.parentNode.style.display = 'block'
+            } else {
+                tag.parentNode.style.display = 'none'
+            }
+        })
+    })
+})    
+</script>
