@@ -276,16 +276,17 @@ body.-modal-open {
   will-change: top, opacity;
  }
  
- .modal {
+ .modal, #modal {
   position: fixed;
   max-width: 98vw !important;
-  max-height: 90vh !important;
+  max-height: 80vh !important;
   background-color: #ccc;
   position: absolute;
   left: 0 !important;
   right: 0 !important;
   top: 0 !important;
   bottom: 0 !important;
+  z-index: 996;
 }
 .modal_lnk-close {
   cursor: pointer;
