@@ -76,8 +76,25 @@ button[data-modal][aria-controls]:focus,
 
 
 /* The modal section is added via JS */
-
-
+.modal {
+  max-width: 80vw;
+  max-height: 90vh;
+  background-color: #ccc;
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  top: 5%;
+  bottom: 5%;
+  z-index: -1;
+  border: 1px solid #000;
+  box-shadow: 0 .25em .5em #000;
+  transition: opacity .5s ease-out, visibility 0s ease-out 1s, transform .5s ease-out .5s;
+  backface-visibility: hidden;
+  opacity: 0;
+  visibility: hidden;
+  transform: scale(.8) translate3d(0,0,0);
+  pointer-events: none;
+}
 .modal[aria-hidden="false"] {
   position: fixed;
   z-index: 10;
