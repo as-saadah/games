@@ -6,7 +6,7 @@
 <body>
  {% include global-navbar-provider.html %}
  {% if page.layout == 'home' %}
- {% include feature.html %}
+  {% if page.id == 'index' %}<style>.grid-list {display: none !important;}</style>{% endif %}
  {% else %}
  {% include grid-list.html %}
   <div class="container" style="width: 97% !important;">
