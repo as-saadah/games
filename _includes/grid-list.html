@@ -10,66 +10,104 @@
      </div>
     </div>
     <div class="input-field col s8" style="margin: 0px;">
+     <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
+     <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ vendor.title }}">
+     
+     <div class="hide">
+      {% if page.active == "pgsoft" %}
       <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ vendor.title }}">
-      <div class="hide">
-      {% if page.active == "pgsoft" %}
-      <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ vendor.title }}">
       {% endif %}
+     
       {% if page.active == "pragmatic-play" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Pragmatic play">
       {% endif %}
+     
       {% if page.active == "habanero" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Habanero">
       {% endif %}
+     
       {% if page.active == "yggdrasil" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di YGGDrasil">
       {% endif %}
+     
       {% if page.active == "spadegaming" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Spadegaming">
       {% endif %}
+     
       {% if page.active == "microgaming" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Microgaming">
       {% endif %}
+     
       {% if page.active == "isoftbet" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di iSoftBet">
       {% endif %}
+     
       {% if page.active == "netent" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di NetEnt">
       {% endif %}
+     
       {% if page.active == "megaways" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Megaways">
       {% endif %}
+     
       {% if page.active == "wsg" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Wild Streak Gaming">
       {% endif %}
+     
       {% if page.active == "reel-kingdom" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Reel Kingdom">
       {% endif %}
+     
       {% if page.active == "big-time-gaming" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Big Time Gaming">
       {% endif %}
+      
       {% if page.active == "eagaming" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Eurasian Gaming">
       {% endif %}
+     
       {% if page.active == "bgaming" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di BGaming">
       {% endif %}
+      
       {% if page.active == "nolimit-city" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Nolimit City">
       {% endif %}
+      
       {% if page.active == "exclusive" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Exclusive Pragmatic Play">
       {% endif %}
+     
       {% if page.active == "redtiger" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Red Tiger">
       {% endif %}
+     
       {% if page.active == "advant-play" %}
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Advant Play">
       {% endif %}
       </div>
+     
     </div>
    </div>
   </div>
  </div>
+{% endif %}
 {% endfor %}
