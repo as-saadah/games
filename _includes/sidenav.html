@@ -1,4 +1,4 @@
-  <ul id="slide-out" class="sidenav hide">
+  <ul id="slide-out" class="sidenav">
 
     <li>
     <div class="user-view">
@@ -72,46 +72,3 @@
     </li>
   </ul>
 
-
-<ul id="slide-outs" class="sidenav">
-    <li class="sidenav-title">{{ site.title }}</li>
-    <li><div class="divider"></div></li>
-    <li><a class="subheader">Menu</a></li>
-    <li><a class="waves-effect sidenav-close" href="https://as-saadah.github.io/games/">Beranda</a></li>
-         <li>
-          <ul class="collapsible collapsible-accordion">
-              <li>
-                <a class="collapsible-header waves-effect">
-                Vendors
-                <i class="material-icons right" style="margin-right:0;">arrow_drop_down</i></a>
-                <div class="z-depth-0 collapsible-body">
-                  <ul>   
-		    {% for vendor in site.data.vendors %}	  
-                    <li><a class="waves-effect" href="{{ vendor.url | relative_url }}">{{ vendor.title }}</a></li>
-		    {% endfor %}  
-                    <li><a class="waves-effect" href="{{ "about" | relative_url}}">Penafian (Disclaimer)/a></li>
-                    <li><div class="divider"></div></li>
-                  </ul>
-                </div>
-              </li>
-          </ul>    
-    </li>
-    <li><a class="waves-effect sidenav-close" href="#!">Link Menu</a></li>
-    <li><div class="divider"></div></li>
-    <li><a class="subheader">Theme Setting</a></li>
-    <li class="theme-changer">
-  <!-- Switch -->
-  <div class="switch">
-    <label>
-      Light
-      <button 
-    	class="light-mode-button" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
-	<span></span>
-	<span></span>
-      </button> 
-      Dark
-    </label>
-  </div>      
-    </li>
-  </ul>
-  
