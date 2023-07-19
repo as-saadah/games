@@ -8,31 +8,9 @@
 <div class="navbar-fixed">
   <nav class="nav-extended fixed-nav">
     <div class="nav-wrapper black">
-     {% if page.active == "pragmatic-play" %}
        <a href="{{ "pragmatic-play" | relative_url }}" class="sidenav-trigger left">
         <i class="material-icons">arrow_back</i>
-       </a>
-      {% endif %}
-     {% if page.active == "exclusive" %}
-       <a href="{{ "pragmatic-play/exclusive" | relative_url }}" class="sidenav-trigger left">
-        <i class="material-icons">arrow_back</i>
-       </a>
-      {% endif %}     
-     {% if page.active == "pgsoft" %}
-       <a href="{{ "pgsoft" | relative_url }}" class="sidenav-trigger left">
-        <i class="material-icons">arrow_back</i>
-       </a>
-      {% endif %}     
-      {% if page.active == "megaways" %}
-       <a href="{{ "megaways" | relative_url }}" class="sidenav-trigger left">
-        <i class="material-icons">arrow_back</i>
-       </a>
-      {% endif %}   
-      {% if page.active == "habanero" %}
-       <a href="{{ "habanero" | relative_url }}" class="sidenav-trigger left">
-        <i class="material-icons">arrow_back</i>
-       </a>
-      {% endif %}     
+       </a>     
       <a href="#" class="brand-logo center">
        <span class="truncate truncate-custom">{{ page.title }}</span>
       </a>
