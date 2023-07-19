@@ -769,3 +769,10 @@
   url: pgsoft/majestic-treasures
   lang: Harta Karun Megah
   provider: PG Soft
+
+- title: Fruity Candy
+  id: 1397455
+  img: fruity-candy.webp
+  url: pgsoft/fruity-candy
+  lang: Permen Buah
+  provider: PG Soft 
