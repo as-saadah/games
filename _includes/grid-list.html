@@ -1,5 +1,4 @@
-{% for vendor in site.data.vendors %}  
-{% if page.active == "{{ vendor.active }}" %}
+
 <div class="row grid-list" style="margin-top: 25px; margin-bottom:10px; padding-bottom: 0px;">
  <div class="col s12" style="margin:0px;">
   <div class="row white" style="margin-bottom: 5px; padding-bottom: 0px;">
@@ -10,13 +9,10 @@
      </div>
     </div>
     <div class="input-field col s8" style="margin: 0px;">
-     <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
-     <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ vendor.title }}">
      
-     <div class="hide">
       {% if page.active == "pgsoft" %}
       <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
-      <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ vendor.title }}">
+      <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ page.title }}">
       {% endif %}
      
       {% if page.active == "pragmatic-play" %}
@@ -103,11 +99,8 @@
       <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
       <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Advant Play">
       {% endif %}
-      </div>
      
     </div>
    </div>
   </div>
  </div>
-{% endif %}
-{% endfor %}
