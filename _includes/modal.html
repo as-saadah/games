@@ -22,6 +22,7 @@
     <div class="modal-content" style="padding: 0;">
      <iframe 
       name="modal_iframe" 
+      id="game-slot"
       src="" 
       width="100%" 
       height="670px" 
@@ -32,3 +33,8 @@
      </iframe>
     </div>
   </div>
+<script>
+  const iframe = document.getElementById('game-slot');
+  iframe.srcdoc = '<!DOCTYPE html><p style="color: grey;">Loading...</p>';
+  iframe.addEventListener('load', () => iframe.removeAttribute('srcdoc'));
+</script>      
