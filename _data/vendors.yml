@@ -1,34 +1,67 @@
 - title: Pragmatic Play
   url: pragmatic-play
+  active: pragmatic-play
+  
 - title: PG Soft
   url: pgsoft
+  active: pgsoft
+  
 - title: Megaways
   url: megaways
+  active: megaways
+  
 - title: Habanero
   url: habanero
+  active: habanero
+  
 - title: YGGDrasil
   url: yggdrasil
+  active: yggdrasil
+  
 - title: Spadegaming
   url: spadegaming
+  active: spadegaming
+  
 - title: Microgaming
   url: microgaming
+  active: microgaming
+  
 - title: iSoftBet
   url: isoftbet
+  active: isoftbet
+  
 - title: NetEnt
   url: netent
+  active: netent
+  
 - title: Wild Streak Gaming
   url: wild-streak-gaming
+  active: wild-streak-gaming
+  
 - title: Reel Kingdom
   url: reel-kingdom
+  active: reel-kingdom
+  
 - title: Eurasian Gaming
   url: eagaming
+  active: eagaming
+  
 - title: Nolimit City
   url: nolimit-city
+  active: nolimit-city
+  
 - title: BGaming
   url: bgaming
+  active: bgaming
+  
 - title: Advant Play
   url: advant-play
+  active: advant-play
+  
 - title: Red Tiger
   url: redtiger
+  active: redtiger
+  
 - title: Exclusive Pragmatic
   url: pragmatic-play/exclusive
+  active: exclusive
