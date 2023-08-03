@@ -339,3 +339,22 @@
  </div>
 </div>
 {% endif %}
+
+{% if page.active == "naga-games" %}
+<div class="row grid-list" style="margin-top: 25px; margin-bottom:10px; padding-bottom: 0px;">
+ <div class="col s12" style="margin:0px;">
+  <div class="row white" style="margin-bottom: 5px; padding-bottom: 0px;">
+    <div class="input-field col s4" style="margin: 0px; margin-top:5px;">
+     <div class="btn-group" role="group">
+      <a class="btn btn-inactive" onclick="gridView()"><i class="material-icons">view_module</i></a>
+      <a class="btn grey" onclick="listView()"><i class="material-icons">view_list</i></a>
+     </div>
+    </div>
+    <div class="input-field col s8" style="margin: 0px;">
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
+      <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Naga Games">
+   </div>
+  </div>
+ </div>
+</div>
+{% endif %}
