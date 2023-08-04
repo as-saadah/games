@@ -5,16 +5,15 @@ permalink: /demo2/
 ---
 
 <div class="row">
- {% for game in site.data.advant-play %}
+ {% for game in site.data.naga-games %}
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a 
-     data-modal="{{ game.permalink }}" 
-     href="{{ game.permalink }}" 
+     data-target="{{ game.id }}"
      data-modalTitle="{{ game.title }}"
-     class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
-     <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
+     class="waves-effect waves-block waves-light"> 
+     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/advant-play/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
@@ -28,5 +27,13 @@ permalink: /demo2/
  </div>
  {% else %}
   <p>Tidak ada data.</p>
+ <div id="{{ game.id }}" class="modal modal-fixed-footer">
+  <div class="modal-content">
+   {{ game.title }}
+  </div>
+  <div class="modal-footer">
+   <a href="#!" class="modal-close close waves-effect waves-green btn-flat">Tutup</a>
+  </div>
+ </div>
  {% endfor %}
 </div>      
