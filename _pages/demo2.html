@@ -10,7 +10,7 @@ permalink: /demo2/
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a 
-     href="#{{ game.id }}" 
+     data-target="{{ game.id }}"
      class="modal-trigger"     
      class="waves-effect waves-block waves-light"> 
      <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/naga-games/{{ game.img }}" alt="{{ game.title }}"> 
@@ -33,8 +33,6 @@ permalink: /demo2/
    <a href="#!" class="modal-close close waves-effect waves-green btn-flat">Tutup</a>
   </div>
   </div>
- {% else %}
-  <p>Tidak ada data.</p>
  {% endfor %}
 </div>      
 
