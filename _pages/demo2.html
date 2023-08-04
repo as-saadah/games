@@ -10,7 +10,7 @@ permalink: /demo2/
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a 
-     href="#" 
+     href="#{{ game.id }}" 
      data-target="{{ game.id }}"
      class="modal-trigger"     
      class="waves-effect waves-block waves-light"> 
@@ -38,3 +38,9 @@ permalink: /demo2/
  </div>
  {% endfor %}
 </div>      
+
+<script>
+   $(document).ready(function(){
+    $('.modal').modal();
+  });
+</script>
