@@ -107,7 +107,7 @@
  color: #000000 !important;
  font-weight: 500 !important;
  border-radius: 50px !important;
- margin-right:15px;
+ margin-right:15px !important;
  margin-left: 15px !important;
  width: auto;
 }
