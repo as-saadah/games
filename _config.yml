@@ -5,8 +5,6 @@ url:            "https://as-saadah.github.io/games/"
 markdown: kramdown
 future: true
 encoding: UTF-8
-paginate: 6
-paginate_path: "news/page:num/"
 include:
   - _pages
   - _posts
@@ -20,3 +18,6 @@ defaults:
   - scope:
       path: "_pages"
       type: "pages"
+
+plugins:
+  - jekyll-redirect-from
