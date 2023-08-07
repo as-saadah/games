@@ -20,4 +20,8 @@ defaults:
       type: "pages"
 
 plugins:
-  - jekyll-redirect-from_
+  - jekyll-redirect-from
+redirect_from:
+  json: false
+whitelist:
+  - jekyll-redirect-from  
