@@ -1,18 +1,27 @@
 ---
-layout: single-page-pgsoft
+layout: default
 title: Demo
 permalink: /demo2/
 ---
 
-<div class="row">
- {% for game in site.data.naga-games %}
+  <div class="row">
+   
+    <div class="col s12">     
+      <ul class="tabs">
+        <li class="tab col s3"><a class="active" href="{{ "pragmatic-play" | relative_url }}">Pragmatic Play</a></li>
+        <li class="tab col s3"><a href="{{ "reel-kingdom" | relative_url }}">Reel Kingdom</a></li>
+        <li class="tab col s3"><a href="{{ "wild-streak-gaming" | relative_url }}">Wild Streak Gaming</a></li>
+      </ul>
+    </div>
+   
+ {% for game in site.data.pragmatic-play %}
  <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a 
      href="javascript:openInIFrame('{{ game.permalink }}'"
      class="waves-effect waves-block waves-light"> 
-     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/naga-games/{{ game.img }}" alt="{{ game.title }}"> 
+     <img class="img lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/pragmatic-play/{{ game.img }}" alt="{{ game.title }}"> 
     </a>
    <div class="ripple-cont"></div>
    </div>
@@ -24,32 +33,5 @@ permalink: /demo2/
    </div>
  </div>
  </div>
-
  {% endfor %}
-</div>      
-
-  <div id="{{ game.id }}" class="modal modal-fixed-footer">
-  <div class="modal-content">
-   <iframe 
- width="100%" 
- height="670px" 
- src="" 
- frameborder="0" 
- scrolling="no" 
- name="iframe_a"   
- allow="autoplay; encrypted-media" 
- donotallowfullscreen>
- <p>Your browser does not support iframes.</p>
-   </iframe>
-  </div>
-  <div class="modal-footer">
-   <a href="#!" class="modal-close close waves-effect waves-green btn-flat">Tutup</a>
-  </div>
-  </div>
-
-<script>
-   document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.modal');
-    var instances = M.Modal.init(elems, options);
-  });
-</script>
+ </div>
