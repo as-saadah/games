@@ -20,4 +20,4 @@ defaults:
       type: "pages"
 
 plugins:
-  - jekyll-redirect-from
+  - jekyll-redirect-from_
