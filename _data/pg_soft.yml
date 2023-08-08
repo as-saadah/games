@@ -776,3 +776,10 @@
   url: pgsoft/fruity-candy
   lang: Permen Buah
   provider: PG Soft 
+
+- title: Cruise Royale
+  id: 1473388
+  img: cruise-royale.webp
+  url: pgsoft/cruise-royale
+  lang: Cruise Royale
+  provider: PG Soft 
