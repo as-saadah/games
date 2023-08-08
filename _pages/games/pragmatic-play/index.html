@@ -28,3 +28,19 @@ active: pragmatic-play
  {% endfor %}
  </div>
  {% include settings.html %}
+
+<script>
+document.getElementById('vendors').addEventListener('change', function() {
+  val = $( "#SelectOption" ).val();    
+  console.log(val)
+  if(val === 'Megaways') {
+    window.open('../megaways','_self');
+    }
+  if(val === 'ReelKingdom') {
+    window.open('../reel-kingdom', '_self');
+  }
+  if (val === 'WildStreakGaming') {
+    window.open('../wild-streak-gaming', '_self');
+  }
+}); 
+</script>
