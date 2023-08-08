@@ -1,0 +1,59 @@
+<!--settings-->
+ <ul id="settings" class="sidenav">
+  <div class="desc">   
+  <li>Pengaturan</li>
+  <li class="grey lighten-2 black-text">Lines
+   <form action="#">
+    <p>
+      <label> 
+      <input class="js-check" type="checkbox" data-href="{{ "megaways" | relative_url }}"/> 
+      <span>Megaways</span> 
+      </label> 
+    </p>
+    <p>
+      <label>
+        <input class="js-check" type="checkbox" data-href="{{ "reel-kingdom" | relative_url }}"/>
+        <span>Reel Kingdom</span>
+      </label>
+    </p>
+    <p>
+      <label>
+        <input class="js-check" type="checkbox" data-href="{{ "wild-streak-gaming" | relative_url }}"/>
+        <span>Wild Streak Gaming</span>
+      </label>
+    </p>
+    <p>
+      <label>
+        <input class="js-check" type="checkbox" disabled/>
+        <span>Classic</span>
+      </label>
+    </p>
+   </form>
+  </li> 
+  <li> Tampilan
+   <p><a id="grid" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_module</i> Grid</a>
+<button id="list" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_list</i> List</button></p>
+  <div class="switch">
+    <label>
+      Gelap
+      <button 
+    		class="light-mode-button" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
+	    	<span></span>
+	    	<span></span>
+	    </button> 
+      Terang
+    </label>
+  </div>      
+  </li>
+  <li class="grey lighten-2 black-text"> Bahasa
+   <form>
+    <p> 
+     <label> 
+      <input class="js-check" type="checkbox" checked="checked" disabled="disabled"/> <span>Bahasa Indonesia</span> 
+      </label> 
+      </p>     
+    <p> <label> <input type="checkbox" disabled="disabled"/> <span>English</span> </label> </p> </form>   
+  </li>  
+  </div>
+ </ul>
+<!--/settings-->
