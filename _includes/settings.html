@@ -3,42 +3,16 @@
   <div class="desc">   
   <li>Pengaturan</li>
   <li class="grey lighten-2 black-text">Lines
-   <form onchange="location = this.value;">
-    <p>
-      <label> 
-      <input name="group1" class="with-gap" type="radio" value="https://as-saadah.github.io/games/megaways"/> 
-       <span>Megaways</span> 
-      </label> 
-    </p>
-    <p>
-      <label>
-        <input name="group2" class="with-gap" type="radio" value="https://as-saadah.github.io/games/reel-kingdom"/>
-        <span>Reel Kingdom</span>
-      </label>
-    </p>
-    <p>
-      <label>
-        <input name="group3" class="with-gap" type="radio" value="https://as-saadah.github.io/games/wild-streak-gaming"/>
-        <span>Wild Streak Gaming</span>
-      </label>
-    </p>
-    <p>
-      <label>
-        <input name="group4" class="with-gap" type="radio" disabled/>
-        <span>Classic</span>
-      </label>
-    </p>
-    <p>
-      <label>
-        <input name="group4" class="with-gap" type="radio" disabled/>
-        <span>Casino</span>
-      </label>
-    </p>
-   </form>
+  <select id="vendprs" class="browser-default">
+    <option value="" disabled selected>Lines</option>
+    <option value="Megaways">Megaways</option>
+    <option value="ReelKingdom">Reel Kingdom</option>
+    <option value="WildStreakGamibg">Wild Streak Gaming</option>
+  </select>	     
   </li> 
   <li> Tampilan
-   <p><a id="grid" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_module</i> Grid</a>
-<button id="list" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_list</i> List</button></p>
+  <p><a id="grid" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_module</i> Grid</a>
+  <button id="list" class="waves-effect waves-light btn btn-small grey darken-3"><i class="material-icons">view_list</i> List</button></p>
   <div class="switch">
     <label>
       Gelap
