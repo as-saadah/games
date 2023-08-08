@@ -18,9 +18,14 @@
         <i class="material-icons">arrow_back</i>
        </a>     
      {% endif %}
-      <a href="{{ relative_url }}" class="brand-logo center">
+     <a href="{{ relative_url }}" class="brand-logo center">
        <span class="truncate truncate-custom">{{ page.title }}</span>
-      </a>
+     </a>
+     {% if page.active == "pgsoft" %}
+     <a data-target="modalpg" class="sidenav-trigger modal-trigger right">
+       <i class="material-icons">error_outline</i>
+     </a>
+     {% endif %}
     </div>
   </nav>
 </div>
