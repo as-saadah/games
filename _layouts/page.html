@@ -8,15 +8,12 @@
 <div class="navbar-fixed">
   <nav class="nav-extended fixed-nav">
     <div class="nav-wrapper black">
-       <a href="{{ "pragmatic-play" | relative_url }}" class="sidenav-trigger left">
-        <i class="material-icons">arrow_back</i>
-       </a>     
      {% if page.active == "pragmatic-play" %}
       <a href="{{ "pragmatic-play" | relative_url }}" class="sidenav-trigger left">
         <i class="material-icons">arrow_back</i>
        </a>     
       {% endif %}
-      <a href="#" class="brand-logo center">
+      <a href="{{ relative_url }}" class="brand-logo center">
        <span class="truncate truncate-custom">{{ page.title }}</span>
       </a>
     </div>
