@@ -3,11 +3,11 @@
   <div class="desc">   
   <li>Pengaturan</li>
   <li class="grey lighten-2 black-text">Lines
-   <form action="#">
+   <form onchange="location = this.value;">
     <p>
       <label> 
-      <input class="js-check" type="checkbox" data-href="{{ "megaways" | relative_url }}"/> 
-      <span>Megaways</span> 
+      <input type="checkbox" value="{{ "megaways" | relative_url }}"/> 
+       <span>Megaways</span> 
       </label> 
     </p>
     <p>
