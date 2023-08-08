@@ -163,3 +163,30 @@ function hideModal()
 			}
 		}, false);
     </script>
+
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+  $('#grid').click(function(event) {
+    event.preventDefault()
+    $('.column-content').addClass('grid')
+    $('.column-content').removeClass('list')
+    localStorage.setItem('.column-content', 'grid');
+  });
+  $('#list').click(function(event){
+    event.preventDefault();
+    $('.column-content').addClass('list')
+    $('.column-content').removeClass('grid')
+    localStorage.setItem('.column-content', 'list')
+  })
+  let itemClass = localStorage.getItem('.column-content')
+  $('.column-content').addClass(itemClass)
+});
+
+
+$(".js-check").on("change", function() {
+     if ($(this).prop("checked"))
+     {
+       $("a").attr("href", $(this).data("href"))
+     }
+    })
+</script>    
