@@ -595,3 +595,12 @@ div.scrollmenu {
 		    background-color: grey;
 		}
 
+.column-content.grid {
+  width: 50% !important;
+  display: inline-block;
+}
+.column-content.list {
+  width: 100% !important;	
+  display: block;
+  padding-bottom: 10px;
+}	    
