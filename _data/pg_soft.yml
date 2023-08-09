@@ -476,23 +476,21 @@
   
 - title: Baccarat Deluxe
   id: 31
-  url: pgsoft/baccarat-deluxe
+  url: pgsoft/table-games/baccarat-deluxe
   img: baccarat-deluxe.webp
   lang: Bakarat Mewah
   type: Table Games
   provider: PG Soft
 
 - title: American Blackjack
-  id: null 
-  url: pgsoft/american-blackjack
+  url: pgsoft/table-games/american-blackjack
   img: american-blackjack.webp
   lang: American Blackjack
   type: Table Games
   provider: PG Soft
 
 - title: European Blackjack
-  id: null
-  url: pgsoft/european-blackjack
+  url: pgsoft/table-games/european-blackjack
   img: european-blackjack.webp
   lang: European Blackjack
   type: Table Games
