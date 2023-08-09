@@ -33,6 +33,11 @@
         <i class="material-icons">arrow_back</i>
        </a>     
      {% endif %}
+     {% if page.active == "bgaming" %}
+      <a href="{{ "bgaming" | relative_url }}" class="sidenav-trigger left">
+        <i class="material-icons">arrow_back</i>
+       </a>     
+     {% endif %}
      
      <a href="{{ relative_url }}" class="brand-logo center">
        <span class="truncate truncate-custom">{{ page.title }}</span>
