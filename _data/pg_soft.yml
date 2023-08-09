@@ -481,6 +481,22 @@
   lang: Bakarat Mewah
   type: Table Games
   provider: PG Soft
+
+- title: American Blackjack
+  id: null 
+  url: pgsoft/american-blackjack
+  img: american-blackjack.webp
+  lang: American Blackjack
+  type: Table Games
+  provider: PG Soft
+
+- title: European Blackjack
+  id: null
+  url: pgsoft/european-blackjack
+  img: european-blackjack.webp
+  lang: European Blackjack
+  type: Table Games
+  provider: PG Soft  
   
 - title: Fortune Tiger
   id: 126
