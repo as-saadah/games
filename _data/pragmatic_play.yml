@@ -1641,3 +1641,249 @@
   currency: idr
   lang: id
   provider: Wild Streak Gaming
+  
+- title: Spirit of Adventure
+  symbol: vs10spiritadv
+  img: spirit-of-adventure.webp
+  url: pragmatic-play/reel-kingdom/spirit-adventure
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Emerald King
+  symbol: vs20eking
+  img: emerald-king.webp
+  url: pragmatic-play/reel-kingdom/emerald-king
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Emerald King — Rainbow Road
+  symbol: vs20ekingrr
+  img: emerald-king-rainbow-road.webp
+  url: pragmatic-play/reel-kingdom/emerald-king-rainbow-road
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Ultra — Hold & Spin
+  symbol: vs5ultra
+  img: ultra-hold-spin.webp
+  url: pragmatic-play/reel-kingdom/ultra-hold-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Dragon — Hot Hold & Spin
+  symbol: vs5drhs
+  img: dragon-hot-hold-spin.webp
+  url: pragmatic-play/reel-kingdom/dragon-hot-hold-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Pizza! Pizza? Pizza!
+  symbol: vswayspizza
+  img: pizza.webp
+  url: pragmatic-play/reel-kingdom/pizza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Eye Storm
+  symbol: vs10eyestorm
+  img: eye-storm.webp
+  url: pragmatic-play/reel-kingdom/eye-storm
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Rock Vegas
+  symbol: vs20rockvegas
+  img: rock-vegas.webp
+  url: pragmatic-play/reel-kingdom/rock-vegas
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Lucky, Grace & Charm — Mega Hold & spin
+  symbol: vs10luckcharm
+  img: lucky-grace-charm.webp
+  url: pragmatic-play/reel-kingdom/lucky-grace-charm
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Floating Dragon — Hold & Spin
+  symbol: vs10floatdrg
+  img: floating-dragon.webp
+  url: pragmatic-play/reel-kingdom/floating-dragon
+  currency: idr
+  lang: id
+  provider: Reel Kingdom 
+- title: Snakes & Ladders
+  symbol: vs10snakeeyes
+  img: snakes-ladders.webp
+  url: pragmatic-play/reel-kingdom/snakes-ladders
+  currency: idr
+  lang: id
+  provider: Reel Kingdom   
+- title: Bigger Bass Bonanza
+  symbol: vs12bbb
+  img: bigger-bass-bonanza.webp
+  url: pragmatic-play/reel-kingdom/bigger-bass-bonanza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Splash
+  symbol: vs10txbigbass
+  img: big-bass-splash.webp
+  url: pragmatic-play/reel-kingdom/big-bass-splash
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Bonanza — Keeping It Reel
+  symbol: vs10bbkir
+  img: big-bass-keeping-it-reel.webp
+  url: pragmatic-play/reel-kingdom/big-bass-keeping-it-reel
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Christmas Big Bass Bonanza
+  symbol: vs10bxmasbnza
+  img: christmas-big-bass-bonanza.webp
+  url: pragmatic-play/reel-kingdom/christmas-big-bass-bonanza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Bigger Bass — Blizzard Christmas Catch
+  symbol: vs12bbbxmas
+  img: bigger-bass-blizzard.webp
+  url: pragmatic-play/reel-kingdom/bigger-bass-blizzard
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Club Tropicana
+  symbol: vs12tropicana
+  img: club-tropicana.webp
+  url: pragmatic-play/reel-kingdom/club-tropicana
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Bonanza
+  symbol: vs10bbbonanza
+  img: big-bass-bonanza.webp
+  url: pragmatic-play/reel-kingdom/big-bass-bonanza
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Bonanza — Hold & Spinner
+  symbol: vs10bbhas
+  img: big-bass-bonanza-hold-spinner.webp
+  url: pragmatic-play/reel-kingdom/big-bass-bonanza-hold-spinner
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Star Pirates Code
+  symbol: vs10starpirate
+  img: star-pirates-code.webp
+  url: pragmatic-play/reel-kingdom/star-pirates-code
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Fish Eye
+  symbol: vs10fisheye
+  img: fish-eye.webp
+  url: pragmatic-play/reel-kingdom/fish-eye
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Tic Tac Take
+  symbol: vs10tictac
+  img: tic-tac-take.webp
+  url: pragmatic-play/reel-kingdom/tic-tac-take
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Lobster Bobs Crazy Crab Shack
+  symbol: vs20lobcrab
+  img: lobster.webp
+  url: pragmatic-play/reel-kingdom/lobster-bobs-crazy-crab-shack
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Lamp of Infinity
+  symbol: vs20lampinf
+  img: lamp-of-infinity.webp
+  url: pragmatic-play/reel-kingdom/lamp-of-infinity
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Big Bass Amazon Xtreme
+  symbol: vs10bbextreme
+  img: big-bass-amazon-xtreme.webp
+  url: pragmatic-play/reel-kingdom/big-bass-amazon-xtreme
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Book of Kingdoms
+  symbol: vs25bkofkngdm
+  img: book-of-kingdoms.webp
+  url: pragmatic-play/reel-kingdom/book-of-kingdoms
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Return of The Dead
+  symbol: vs10returndead
+  img: return-of-the-dead.webp
+  url: pragmatic-play/reel-kingdom/return-of-the-dead
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Hot To Burn
+  symbol: vs5hotburn
+  img: hot-to-burn.webp
+  url: pragmatic-play/reel-kingdom/hot-to-burn
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Hot To Burn — Hold & Spin
+  symbol: vs20hburnhs
+  img: hot-to-burn-hold-spin.webp
+  url: pragmatic-play/reel-kingdom/hot-to-burn-hold-and-spin
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Hot To Burn Extreme
+  symbol: vs40hotburnx
+  img: hot-to-burn-extreme.webp
+  url: pragmatic-play/reel-kingdom/hot-to-burn-extreme
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Ultra Burn
+  symbol: vs5ultrab
+  img: ultra-burn.webp
+  url: pragmatic-play/reel-kingdom/ultra-burn
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Cash Elevator
+  symbol: vs20terrorv
+  img: cash-elevator.webp
+  url: pragmatic-play/reel-kingdom/cash-elevator
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Little Gem — Hot & Spin
+  symbol: vs5littlegem
+  img: little-gem.webp
+  url: pragmatic-play/reel-kingdom/little-gem
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Magic Money Maze
+  symbol: vs10mmm
+  img: magic-money-maze.webp
+  url: pragmatic-play/reel-kingdom/magic-money-maze
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
+- title: Floating Dragon – Dragon Boat Festival
+  symbol: vs10fdrasbf
+  img: floating-dragon-boat-festival.webp
+  url: pragmatic-play/reel-kingdom/floating-dragon-boat-festival
+  currency: idr
+  lang: id
+  provider: Reel Kingdom
