@@ -23,9 +23,16 @@
         <i class="material-icons">arrow_back</i>
        </a>     
      {% endif %}
+     {% if page.active == "habanero" %}
+      <a href="{{ "habanero" | relative_url }}" class="sidenav-trigger left">
+        <i class="material-icons">arrow_back</i>
+       </a>     
+     {% endif %}
+     
      <a href="{{ relative_url }}" class="brand-logo center">
        <span class="truncate truncate-custom">{{ page.title }}</span>
      </a>
+     
      {% if page.active == "pgsoft" %}
      <a data-target="modalpg" class="sidenav-trigger modal-trigger right">
        <i class="material-icons">error_outline</i>
