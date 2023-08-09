@@ -1385,7 +1385,7 @@
 - title: Slot Mania Olympus
   symbol: vs20olympmania
   img: slotmania-olympus.webp
-  url: pragmatic-play/others/slotmania-olympus
+  url: pragmatic-play/slotmania-olympus
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania
@@ -1394,7 +1394,7 @@
 - title: Slot Mania Princess
   symbol: vs20smprincess
   img: slotmania-princess.webp
-  url: pragmatic-play/others/slotmania-princess
+  url: pragmatic-play/slotmania-princess
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smprincess
@@ -1403,7 +1403,7 @@
 - title: Wild West Slot Mania
   symbol: vs40smwildwest
   img: slotmania-wwg.webp
-  url: pragmatic-play/others/wild-west-slotmania
+  url: pragmatic-play/wild-west-slotmania
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40smwildwest
@@ -1412,7 +1412,7 @@
 - title: Sweet Slot Mania
   symbol: vs20fruitmania
   img: slotmania-sweet.webp
-  url: pragmatic-play/others/slotmania-sweet
+  url: pragmatic-play/slotmania-sweet
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitmania
@@ -1421,7 +1421,7 @@
 - title: Slot Mania Bonanza Gold
   symbol: vs20goldmania
   img: slotmania-bonanzagold.webp
-  url: pragmatic-play/others/slotmania-bonanza-gold
+  url: pragmatic-play/slotmania-bonanza-gold
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20goldmania
@@ -1430,7 +1430,7 @@
 - title: Sugar Slot Mania
   symbol: vs20slotsugar
   img: slotmania-sugar.webp
-  url: pragmatic-play/others/slotmania-sugar
+  url: pragmatic-play/slotmania-sugar
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotsugar
@@ -1439,7 +1439,7 @@
 - title: Slot Mania Pyramid
   symbol: vs20smbonanza
   img: slotmania-pyramid.webp
-  url: pragmatic-play/others/slotmania-pyramid
+  url: pragmatic-play/slotmania-pyramid
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smbonanza
@@ -1448,7 +1448,7 @@
 - title: Slot Mania Gems
   symbol: vs5slotgems
   img: slotmania-gems.webp
-  url: pragmatic-play/others/slotmania-gems
+  url: pragmatic-play/slotmania-gems
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems
@@ -1457,7 +1457,7 @@
 - title: Slot Mania Gatotkaca
   symbol: vs20smgatot
   img: slotmania-gatotkaca.webp
-  url: pragmatic-play/others/slotmania-gatotkaca
+  url: pragmatic-play/slotmania-gatotkaca
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smgatot
@@ -1466,7 +1466,7 @@
 - title: Slot Mania Ares
   symbol: vs20slotmanar
   img: slotmania-ares.webp
-  url: pragmatic-play/others/slotmania-ares
+  url: pragmatic-play/slotmania-ares
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotmanar
@@ -1475,7 +1475,7 @@
 - title: Slot Mania Big Bass
   symbol: vs10smbigbass
   img: slotmania-bigbass.webp
-  url: pragmatic-play/others/slotmania-big-bass
+  url: pragmatic-play/slotmania-big-bass
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10smbigbass
@@ -1484,7 +1484,7 @@
 - title: 5000X Mania
   symbol: vs20xmania
   img: 5000xmania.webp
-  url: pragmatic-play/exclusive/5000x-mania
+  url: pragmatic-play/5000x-mania
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmania
@@ -1493,7 +1493,7 @@
 - title: Supermania Slot Mania
   symbol: vs20supermania
   img: supermania.webp
-  url: pragmatic-play/exclusive/supermania
+  url: pragmatic-play/supermania
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20supermania
@@ -1502,7 +1502,7 @@
 - title: Gemstone Slot Mania
   symbol: vs5gemstone
   img: gemstone.webp
-  url: pragmatic-play/exclusive/gemstone
+  url: pragmatic-play/gemstone
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5gemstone
@@ -1511,7 +1511,7 @@
 - title: Nexus Gates of Olympus
   symbol: vs20nexusgates
   img: nexus-olympus.webp
-  url: pragmatic-play/others/nexus-olympus
+  url: pragmatic-play/nexus-olympus
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexusgates
@@ -1520,7 +1520,7 @@
 - title: Nexus Starlight Princess
   symbol: vs20nexussp
   img: nexus-starlight-princess.webp
-  url: pragmatic-play/others/nexus-starlight-princess
+  url: pragmatic-play/nexus-starlight-princess
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexussp
@@ -1529,7 +1529,7 @@
 - title: Nexus Sweet Bonanza
   symbol: vs20fruitsnexus
   img: nexus-sweet-bonanza.webp
-  url: pragmatic-play/others/nexus-sweet-bonanza
+  url: pragmatic-play/nexus-sweet-bonanza
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitsnexus
@@ -1538,7 +1538,7 @@
 - title: Infini88 Starlight Princess
   symbol: vs20slpinf88
   img: infini88-princess.webp
-  url: pragmatic-play/others/infini88-starlight-princess
+  url: pragmatic-play/infini88-starlight-princess
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slpinf88
@@ -1547,7 +1547,7 @@
 - title: Infini88 Gates of Olympus
   symbol: vs20olginf88
   img: infini88-olympuss.webp
-  url: pragmatic-play/others/infini88-gates-of-olympus
+  url: pragmatic-play/infini88-gates-of-olympus
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88
@@ -1556,7 +1556,7 @@
 - title: Infini88 Sweet Bonanza
   symbol: vs20swbinf88
   img: infini88-sweet-bonanza.webp
-  url: pragmatic-play/others/infini88-sweet-bonanza
+  url: pragmatic-play/infini88-sweet-bonanza
   currency: idr
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbinf88
