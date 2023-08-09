@@ -1570,3 +1570,74 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlightx
   provider: Pragmatic Play
+
+- title: The Amazing Money Machine
+  symbol: vs10amm
+  img: amazing-money-machine.webp
+  url: wild-streak-gaming/amazing-money-machine
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Lucky Lightning
+  symbol: vswayslight
+  img: lucky.webp
+  url: wild-streak-gaming/lucky-lightning
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Firebird Spirit 
+  symbol: vswaysconcoll
+  img: firebird-spirit.webp
+  url: wild-streak-gaming/firebird-spirit
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Gold Party
+  symbol: vs25goldparty
+  img: gold-party.webp
+  url: wild-streak-gaming/gold-party
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Queenie
+  symbol: vs243queenie
+  img: queenie.webp
+  url: wild-streak-gaming/queenie
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Congo Cash
+  symbol: vs432congocash
+  img: congo-cash.webp
+  url: wild-streak-gaming/congo-cash
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Big Juan
+  symbol: vs40bigjuan
+  img: big-juan.webp
+  url: wild-streak-gaming/big-juan
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Temujin Treasures
+  symbol: vs1024temuj
+  img: temujin-treasures.webp
+  url: wild-streak-gaming/temujin-treasures
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Cosmic Cash
+  symbol: vs40cosmiccash
+  img: cosmic-cash.webp
+  url: wild-streak-gaming/cosmic-cash
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
+- title: Mystery of The Orient
+  symbol: vswaysmorient
+  img: orient-mystery.webp
+  url: wild-streak-gaming/orient-mystery
+  currency: idr
+  lang: id
+  provider: Wild Streak Gaming
