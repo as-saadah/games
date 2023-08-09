@@ -18,11 +18,21 @@
 {% endif %}
      
 {% if page.active == "pragmatic-play" %}
-<div class="row white" style="margin-top: 25px; margin-bottom:10px; padding-bottom: 0px;">
- <div class="input-field col s12" style="margin: 0px;">
-  <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
-  <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Pragmatic Play">
- </div> 
+<div class="row grid-list" style="margin-top: 25px; margin-bottom:10px; padding-bottom: 0px;">
+ <div class="col s12" style="margin:0px;">
+  <div class="row white" style="margin-bottom: 5px; padding-bottom: 0px;">
+    <div class="input-field col s4" style="margin: 0px; margin-top:5px;">
+     <div class="btn-group" role="group">
+      <a class="btn btn-inactive" id="grid"><i class="material-icons">view_module</i></a>
+      <a class="btn grey" id="list"><i class="material-icons">view_list</i></a>
+     </div>
+    </div>
+    <div class="input-field col s8" style="margin: 0px;">
+      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
+      <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di Pragmatic play">
+   </div>
+  </div>
+ </div>
 </div>
 {% endif %}
      
