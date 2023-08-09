@@ -541,7 +541,7 @@ speed-winner:
 baccarat-deluxe:
   title: Baccarat Deluxe
   id: 31
-  url: pgsoft/baccarat-deluxe
+  url: pgsoft/table-games/baccarat-deluxe
   permalink: https://m.pgsoft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: Pocket Soft Games
 
@@ -858,19 +858,19 @@ cruise-royale:
   lang: Cruise Royale
   permalink: https://m.pgsoft-games.com/1473388/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft 
+  
 american-blackjack:
   title: American Blackjack
-  id: null 
-  url: pgsoft/american-blackjack
+  url: pgsoft/table-games/american-blackjack
   img: american-blackjack.webp
   lang: American Blackjack
   type: Table Games
   permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
+  
 european-blackjack:
   title: European Blackjack
-  id: null
-  url: pgsoft/european-blackjack
+  url: pgsoft/table-games/european-blackjack
   img: european-blackjack.webp
   lang: European Blackjack
   type: Table Games
