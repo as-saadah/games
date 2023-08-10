@@ -350,3 +350,67 @@
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=ariana
   provider: Microgaming
 
+- title: Basketball Star On Fire
+  gameid: basketballStarOnFireV94
+  img: basketball-star-on-fire.webp
+  url: microgaming/basketball-star-on-fire
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=basketballStarOnFireV94
+  provider: Microgaming
+
+- title: Football Star
+  gameid: footballStar
+  img: football-star.webp
+  url: microgaming/football-star
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=footballStar
+  provider: Microgaming
+
+- title: Football Star Deluxe
+  gameid: footballStarDeluxe
+  img: football-star-deluxe.webp
+  url: microgaming/football-star-deluxe
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=footballStarDeluxe
+  provider: Stormcraft Studios
+
+- title: All Win FC
+  gameid: allWimFc
+  img: all-win-fc.webp
+  url: microgaming/all-win-fc
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=allWinFc
+  provider: All41 Studios
+
+- title: 11 Champions
+  gameid: 11Champions
+  img: 11champions.webp
+  url: microgaming/11champions
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=11Champions
+  provider: Gameburger Studios
+
+- title: Break Away Deluxe
+  gameid: breakAwayDeluxe
+  img: break-away-deluxe.webp
+  url: microgaming/break-away-deluxe
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=breakAwayDeluxe
+  provider: Stormcraft Studios
+
+- title: Break Away Lucky Wilds
+  gameid: breakAwayLuckyWilds
+  img: break-away-lucky-wilds.webp
+  url: microgaming/break-away-lucky-wilds
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=breakAwayLuckyWilds
+  provider: Stormcraft Studios
+
+- title: Cricket Star
+  gameid: cricketStar
+  img: cricket-star.webp
+  url: microgaming/cricket-star
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=cricketStar
+  provider: Microgaming
+
