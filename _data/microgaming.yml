@@ -40,32 +40,31 @@
   lang: id
   permalink: /tidak-tersedia
   provider: Microgaming
-
-
 - title: Amazing Link Zeus 
+  gameid: amazingLinkZeus
   img: amazing-link-zeus.webp
   url: microgaming/amazing-link-zeus
   lang: id
+  permalink: 
   provider: Microgaming
-
 - title: Atlantis Rising
-  id: atlantisRisingDesktop
+  gameid: antlantisRising
   img: atlantis-rising.webp
   url: microgaming/atlantis-rising
   lang: id
+  permalink: 
   provider: Microgaming
-
 - title: Queen of Alexandria
-  id: queenOfAlexandriaDesktop
-  img: alexandria-queen.webp
-  url: microgaming/alexandria-queen
+  gameid: queenOfAlexandria
+  img: queen-of-alexandria.webp
+  url: microgaming/queen-of-alexandria
   lang: id
+  permalink: 
   provider: Microgaming
-
 - title: Queen of Alexandria Wowpot
-  id: queenOfAlexandriaWowpotDesktop
-  img: alexandria-queen-wowpot.webp
-  url: microgaming/alexandria-queen-wowpot
+  gameid: queenOfAlexandriaWowpot
+  img: queen-of-alexandria-wowpot.webp
+  url: microgaming/queen-of-alexandria-wowpot
   lang: id
   provider: Microgaming
 
