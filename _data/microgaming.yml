@@ -1,10 +1,45 @@
-
+- title: Magic of Sahara 
+  img: magic-of-sahara.webp
+  url: microgaming/magic-of-sahara
+  lang: id
+  permalink: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&serverid=22619&ul=id&playmode=demo&gameid=magicOfSahara
+  provider: Microgaming
+- title: Break Da Bank Again  
+  img: break-da-bank-again.webp
+  url: microgaming/break-da-bank-again
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgain
+  provider: Microgaming
+- title: Break Da Bank Again Megaways  
+  img: break-da-bank-again-megaways.webp
+  url: microgaming/break-da-bank-again-megaways
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgainMEGAWAYS
+  provider: Microgaming
+- title: Sherlock of London  
+  img: sherlock-of-london.webp
+  url: microgaming/sherlock-of-london
+  lang: id
+  permalink: /tidak-tersedia
+  provider: Microgaming
 - title: Book of King Arthur
-  id: bookOfKingArthurDesktop
-  img: king-arthur-book.webp
-  url: microgaming/king-arthur-book
+  img: book-of-king-arthur.webp
+  url: microgaming/book-of-king-arthur
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&cur=IDR&gameid=bookOfKingArthur
+  provider: Microgaming
+- title: Zeus Ancient Fortunes 
+  img: zeus-ancient-fortunes.webp
+  url: microgaming/zeus-ancient-fortunes
+  lang: id
+  permalink: /tidak-tersedia
+  provider: Microgaming
+
+
+- title: Amazing Link Zeus 
+  img: amazing-link-zeus.webp
+  url: microgaming/amazing-link-zeus
+  lang: id
   provider: Microgaming
 
 - title: Atlantis Rising
@@ -25,20 +60,6 @@
   id: queenOfAlexandriaWowpotDesktop
   img: alexandria-queen-wowpot.webp
   url: microgaming/alexandria-queen-wowpot
-  lang: id
-  provider: Microgaming
-
-- title: Amazing Link Zeus 
-  id: amazingLinkZeusDesktop
-  img: amazing-link-zeus.webp
-  url: microgaming/amazing-link-zeus
-  lang: id
-  provider: Microgaming
-
-- title: Zeus Ancient Fortunes 
-  id: ancientFortunesZeusDesktop
-  img: zeus-ancient-fortunes.webp
-  url: microgaming/zeus-ancient-fortunes
   lang: id
   provider: Microgaming
 
@@ -75,30 +96,5 @@
   img: emerald-gold.webp
   url: microgaming/emerald-gold
   lang: id
-  provider: Microgaming
-
-- title: Magic of Sahara 
-  img: magic-of-sahara.webp
-  url: microgaming/magic-of-sahara
-  lang: id
-  permalink: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&serverid=22619&ul=id&playmode=demo&gameid=magicOfSahara
-  provider: Microgaming
-- title: Break Da Bank Again  
-  img: break-da-bank-again.webp
-  url: microgaming/break-da-bank-again
-  lang: id
-  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgain
-  provider: Microgaming
-- title: Break Da Bank Again Megaways  
-  img: break-da-bank-again-megaways.webp
-  url: microgaming/break-da-bank-again-megaways
-  lang: id
-  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgainMEGAWAYS
-  provider: Microgaming
-- title: Sherlock of London  
-  img: sherlock-of-london.webp
-  url: microgaming/sherlock-of-london
-  lang: id
-  permalink: /tidak-tersedia
   provider: Microgaming
 
