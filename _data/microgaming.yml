@@ -39,12 +39,12 @@
   provider: Just For The Win
   
 - title: Zeus Ancient Fortunes 
-  gameid: zeusAncientFortunes
+  gameid: ancientFortunesZeus
   img: zeus-ancient-fortunes.webp
   url: microgaming/zeus-ancient-fortunes
   lang: id
-  permalink: https://as-saadah.github.io/games/tidak-tersedia
-  provider: Microgaming
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=ancientFortunesZeus
+  provider: Triple Edge Studios
   
 - title: Amazing Link Zeus 
   gameid: amazingLinkZeus
