@@ -67,37 +67,32 @@
   url: microgaming/queen-of-alexandria-wowpot
   lang: id
   provider: Microgaming
-
 - title: Neptune's Riches Ocean of Wilds 
-  id: neptunesRichesOceanOfWildsDesktop
+  gameid: neptunesRichesOceanOfWilds
   img: neptunes-riches.webp
-  url: microgaming/neptunes-riches
+  url: microgaming/neptunes-riches-ocean-of-wilds
   lang: id
   provider: Microgaming
-
 - title: Goldaur Guardians 
-  id: goldaurGuardiansDesktop
+  gameid: goldaurGuardians
   img: goldaur-guardians.webp
   url: microgaming/goldaur-guardians
   lang: id
   provider: Microgaming
-
 - title: Divine Diamonds 
-  id: divineDiamondsDesktop
+  gameid: divineDiamonds
   img: divine-diamonds.webp
   url: microgaming/divine-diamonds
   lang: id
   provider: Microgaming
-
-- title: Blazing Diamonds 
-  id: 9BlazingDiamondsDesktop
-  img: blazing-diamonds.webp
+- title: 9 Blazing Diamonds 
+  gameid: 9BlazingDiamonds
+  img: 9blazing-diamonds.webp
   url: microgaming/blazing-diamonds
   lang: id
   provider: Microgaming
-
 - title: Emerald Gold  
-  id: emeraldGoldDesktop
+  gameid: emeraldGold
   img: emerald-gold.webp
   url: microgaming/emerald-gold
   lang: id
