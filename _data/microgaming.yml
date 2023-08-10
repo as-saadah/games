@@ -117,3 +117,68 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=emeraldGold
   provider: Just For The Win
+  
+- title: Relic Seekers  
+  gameid: relicSeekers
+  img: relic-seekers.webp
+  url: microgaming/relic-seekers
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=relicSeekers
+  provider: Pulse 8 Studios
+
+- title: Agent Jane Blonde Returns  
+  gameid: agentJaneBlondeReturns
+  img: agent-jane.webp
+  url: microgaming/agent-jane-blonde-returns
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=agentJaneBlondeReturns
+  provider: Storm Craft Studios
+  
+- title: Robin of Sherwood  
+  gameid: robinOfSherwoodOnlineSlot
+  img: robin-sherwood.webp
+  url: microgaming/robin-of-sherwood
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=robinOfSherwoodOnlineSlot
+  provider: Rab Cat Gambling
+
+- title: Exotic Cats  
+  gameid: exoticCats
+  img: exotic-cats.webp
+  url: microgaming/exotic-cats
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=exoticCats
+  provider: Microgaming
+
+- title: Rising Royals  
+  gameid: risingRoyals
+  img: rising-royals.webp
+  url: microgaming/rising-royals
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=risingRoyals
+  provider: Just For The Win
+
+- title: A Dark Matter  
+  gameid: aDarkMatter
+  img: a-dark-matter.webp
+  url: microgaming/a-dark-matter
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=aDarkMatter
+  provider: Microgaming
+
+- title: Immortal Romance
+  gameid: immortalRomance
+  img: immortal-romance.webp
+  url: microgaming/immortal-romance
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=immortalRomance
+  provider: Microgaming
+
+- title: Starlight Kiss
+  gameid: starlightKiss
+  img: starlight-kiss.webp
+  url: microgaming/starlight-kiss
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=starlightKiss
+  provider: Microgaming
+
