@@ -1,34 +1,40 @@
 - title: Magic of Sahara 
+  gameid: magicOfSahara
   img: magic-of-sahara.webp
   url: microgaming/magic-of-sahara
   lang: id
   permalink: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&serverid=22619&ul=id&playmode=demo&gameid=magicOfSahara
   provider: Microgaming
 - title: Break Da Bank Again  
+  gameid: BreakDaBankAgain
   img: break-da-bank-again.webp
   url: microgaming/break-da-bank-again
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgain
   provider: Microgaming
 - title: Break Da Bank Again Megaways  
+  gameid: BreakDaBankAgainMEGAWAYS
   img: break-da-bank-again-megaways.webp
   url: microgaming/break-da-bank-again-megaways
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgainMEGAWAYS
   provider: Microgaming
 - title: Sherlock of London  
+  ganeid: sherlockOfLondon
   img: sherlock-of-london.webp
   url: microgaming/sherlock-of-london
   lang: id
   permalink: /tidak-tersedia
   provider: Microgaming
 - title: Book of King Arthur
+  gameid: bookOfKingArthur
   img: book-of-king-arthur.webp
   url: microgaming/book-of-king-arthur
   lang: id
-  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&cur=IDR&gameid=bookOfKingArthur
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=bookOfKingArthur
   provider: Microgaming
 - title: Zeus Ancient Fortunes 
+  gameid: zeusAncientFortunes
   img: zeus-ancient-fortunes.webp
   url: microgaming/zeus-ancient-fortunes
   lang: id
