@@ -182,3 +182,83 @@
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=starlightKiss
   provider: Microgaming
 
+- title: Wanted Outlaws
+  gameid: wantedOutlaws
+  img: wanted-outlaws.webp
+  url: microgaming/wanted-outlaws
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=wantedOutlaws
+  provider: All41 Studios
+
+- title: Boom Pirates
+  gameid: boomPirates
+  img: boom-pirates.webp
+  url: microgaming/boom-pirates
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=boomPirates
+  provider: Foxium
+
+- title: Ruby Casino Queen
+  gameid: rubyCasinoQueen
+  img: ruby-casino-queen.webp
+  url: microgaming/ruby-casino-queen
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=rubyCasinoQueen
+  provider: Just For The Win
+
+- title: Our Days
+  gameid: ourDays
+  img: our-days.webp
+  url: microgaming/our-days
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=ourDays
+  provider: Microgaming
+
+- title: Le Kaffee Bar
+  gameid: leKaffeeBar
+  img: le-kaffee-bar.webp
+  url: microgaming/le-kaffee-bar
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=leKaffeeBar
+  provider: All41 Studios
+
+- title: Bust The Bank
+  gameid: bustTheBank
+  img: bust-the-bank.webp
+  url: microgaming/bust-the-bank
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=bustTheBank
+  provider: Microgaming
+
+- title: Wicked Tales Dark Red
+  gameid: wickedTalesDarkRed
+  img: wicked-tales-dark-red.webp
+  url: microgaming/wicked-tales-dark-red
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=wickedTalesDarkRed
+  provider: Triple Edge Studios
+
+- title: Dragon Shard
+  gameid: dragonShard
+  img: dragon-shard.webp
+  url: microgaming/dragon-shard
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=dragonShard
+  provider: Stormcraft Studios
+
+- title: Jungle Jim And The Lost Sphinx
+  gameid: jungleJimAndTheLostSphinx
+  img: jungle-jim.webp
+  url: microgaming/jungle-jim-and-the-lost-sphinx
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=jungleJimAndTheLostSphinx
+  provider: Stormcraft Studios
+
+- title: African Quest
+  gameid: africanQuest
+  img: african-quest.webp
+  url: microgaming/african-quest
+  lang: id
+  permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=africanQuest
+  provider: Triple Edge Studios
+
