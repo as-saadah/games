@@ -2108,3 +2108,60 @@
   url: pragmatic-play/megaways/fury-of-odin-megaways
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfuryodin
   provider: Megaways
+
+- title: Rocket Blast Megaways 
+  symbol: vswaysrockblst
+  img: rocket-blast-megaways.webp
+  lang: ID
+  url: pragmatic-play/megaways/rocket-blast-megaways
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrockblst
+  provider: Megaways
+
+- title: Slot Mania Candy 
+  symbol: vs20slmancan
+  img: slotmania-candy-village.webp
+  lang: ID
+  url: pragmatic-play/slotmania-candy-village
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slmancan
+  provider: Pragmatic Play
+
+- title: Slot Mania Rabbit 
+  symbol: vs20smrabbit
+  img: slotmania-rabbit.webp
+  lang: ID
+  url: pragmatic-play/slotmania-rabbit
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smrabbit
+  provider: Pragmatic Play
+
+- title: Diamond Cascade 
+  symbol: vs50dmdcascade
+  img: diamond-cascade.webp
+  lang: ID
+  url: pragmatic-play/diamond-cascade
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50dmdcascade
+  provider: Pragmatic Play
+
+- title: Saiyan Mania
+  symbol: vs20saiman
+  img: saiyan-mania.webp
+  lang: ID
+  url: pragmatic-play/saiyan-mania
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20saiman
+  provider: Pragmatic Play
+
+- title: Hellvis Wild
+  symbol: vs243nudge4gold
+  img: hellvis-wild.webp
+  lang: ID
+  url: pragmatic-play/hellvis-wild
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243nudge4gold
+  provider: Pragmatic Play
+
+- title: Joker Race
+  symbol: vs25jokrace
+  img: joker-race.webp
+  lang: ID
+  url: pragmatic-play/joker-race
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokrace
+  provider: Pragmatic Play
+
