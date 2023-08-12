@@ -23,26 +23,12 @@
       <i class="material-icons white-text">home</i> Beranda
      </a>
      </li>
-
-         <li style="padding-left: 15px;">
-          <ul class="collapsible collapsible-accordion">
-              <li>
-                <a class="collapsible-header white-text waves-effect">
-                <i class="material-icons white-text">videogame_asset</i> Vendors 
-                <i class="material-icons right white-text" style="margin-right:0;">arrow_drop_down</i></a>
-                <div class="collapsible-body z-depth-3 grey darken-4">
-                  <ul>                                      
-                   {% for vendor in site.data.vendors %}
-                    <li>
-                     <a class="waves-effect waves-yellow" href="{{ vendor.url | relative_url }}">{{ vendor.title }}</a>    
-                    </li>
-                    {% endfor %}        
-                    <li><div class="divider"></div></li>
-                  </ul>
-                </div>
-              </li>
-          </ul>
-        </li>
+	  
+       <li>
+     <a class="waves-effect waves-yellow" href="{{ "providers" | relative_url }}">
+      <i class="material-icons white-text">dice</i> Providers
+     </a>
+     </li>
 
     <li>
      <a class="waves-effect waves-yellow" href="https://as-saadah.github.io/games/about/">
