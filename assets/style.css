@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
 .navbar-brand, .brand-logo, .card-title { 
  font-size: 100% !important; 
  }   
+.navbar-brand, .brand-logo{
+font-family: 'Bad Script', cursive;
+font-weight: 500;
+}
 .nav-wrapper {
  height: 30px !important;
 }
