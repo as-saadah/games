@@ -13,9 +13,9 @@
 - title: Rabcat
   img: rabcat.webp
   url: null
-- title: NetEnt
-  img: netent.webp
-  url: netent
+- title: Red Tiger
+  img: redtiger.webp
+  url: redtiger
 - title: YGGDrasil
   img: yggdrasil.webp
   url: yggdrasil
@@ -46,6 +46,9 @@
 - title: Triple Edge Studios
   img: triple-egde-studios.webp
   url: null
-- title: Neon Valley Studios
-  img: neon-valley-studios.webp
+- title: Gameburger Studios
+  img: gameburger-studios.webp
+  url: null
+- title: Relax Gaming
+  img: relax-gaming.webp
   url: null
