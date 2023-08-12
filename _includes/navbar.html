@@ -3,10 +3,16 @@
  <nav class="nav-extended">
    
 <!--top navbar-->   
-  <div class="nav-wrapper black">
-   <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">short_text</i></a>
-   <a href="{{ relative_url }}" class="brand-logo center">
-    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+ <div class="nav-wrapper black">
+  <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">short_text</i></a>
+  <a href="{{ relative_url }}" class="brand-logo center">
+   <span class="branded">
+    {% if page.title %}
+     {{ page.title }}
+     {% else %}
+     {{ site.title }}
+    {% endif %}
+    </span>
    </a>
    <a href="{{ absolute_url }}" class="sidenav-right-icon show-on-med-and-down right waves-effect waves-light">
     <i class="material-icons">refresh</i>
