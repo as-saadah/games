@@ -8,26 +8,13 @@ active: providers
 <div class="row">
  {% for game in site.data.providers %}
  <div class="col column-content s6 m6">
- <div class="blog-card blog-card-blog sticky-action">
-   <div class="blog-card-image">
-    <a 
-     data-modal="{{ game.permalink }}" 
-     href="{{ game.permalink }}" 
-     data-modalTitle="{{ game.title }}"
-     class="waves-effect waves-block waves-light lnk_modal-open lnk_modal-img"> 
-     <img class="img lazy img_modal-open" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/providers/{{ game.img }}" alt="{{ game.title }}"> 
-    </a>
-   <div class="ripple-cont"></div>
-   </div>
-   <div class="blog-table">
-     <h6 class="blog-category blog-text-success">{{ game.provider }}</h6>
-     <h4 class="blog-card-caption">
-      {{ game.title }}
-     </h4>
-   </div>
- </div>
+      <div class="card">
+        <div class="card-image">
+          <img class="lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/providers/{{ game.img }}" alt="{{ game.title }}">
+        </div>
+      </div>
  </div>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
-</div>                                                                                                
+</div>
